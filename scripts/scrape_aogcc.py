@@ -6,6 +6,11 @@ import zipfile
 import csv
 from io import BytesIO, StringIO
 from datetime import datetime
+try:
+    import openpyxl
+except ImportError:
+    openpyxl = None
+from datetime import datetime
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | AOGCC-ENGINE | %(levelname)s | %(message)s")
 logger = logging.getLogger(__name__)
@@ -50,9 +55,9 @@ def ensure_output_dir():
         os.makedirs(OUTPUT_DIR)
 
 
-def download_and_extract_csv(zip_url, max_rows=200):
+def download_and_extract_data(zip_url, max_rows=200):
     """
-    Downloads a ZIP file from the AOGCC CDN, extracts the CSV inside,
+    Downloads a ZIP file from the AOGCC CDN, extracts CSV or XLSX inside,
     and returns the first N rows as a list of dicts.
     """
     logger.info(f"Downloading ZIP payload from: {zip_url}")
@@ -61,30 +66,68 @@ def download_and_extract_csv(zip_url, max_rows=200):
         res.raise_for_status()
 
         with zipfile.ZipFile(BytesIO(res.content)) as zf:
-            csv_files = [f for f in zf.namelist() if f.lower().endswith('.csv')]
-            if not csv_files:
-                # Try txt files (some AOGCC exports use .txt with CSV formatting)
-                csv_files = [f for f in zf.namelist() if f.lower().endswith('.txt')]
+            all_files = zf.namelist()
             
-            if not csv_files:
-                logger.warning(f"No CSV/TXT files found in {zip_url}. Contents: {zf.namelist()}")
+            # Try CSV first
+            csv_files = [f for f in all_files if f.lower().endswith('.csv')]
+            if csv_files:
+                target_file = csv_files[0]
+                logger.info(f"Extracting CSV: {target_file}")
+                with zf.open(target_file) as f:
+                    raw_text = f.read().decode('utf-8', errors='replace')
+                    reader = csv.DictReader(StringIO(raw_text))
+                    rows = []
+                    for i, row in enumerate(reader):
+                        if i >= max_rows:
+                            break
+                        rows.append(dict(row))
+                    logger.info(f"Extracted {len(rows)} rows from {target_file}")
+                    return rows
+
+            # Try XLSX
+            xlsx_files = [f for f in all_files if f.lower().endswith('.xlsx')]
+            if xlsx_files and openpyxl:
+                target_file = xlsx_files[0]
+                logger.info(f"Extracting XLSX: {target_file}")
+                with zf.open(target_file) as f:
+                    wb = openpyxl.load_workbook(BytesIO(f.read()), read_only=True, data_only=True)
+                    ws = wb.active
+                    rows_iter = ws.iter_rows(values_only=True)
+                    headers = [str(h or f"col_{i}") for i, h in enumerate(next(rows_iter))]
+                    rows = []
+                    for i, row_vals in enumerate(rows_iter):
+                        if i >= max_rows:
+                            break
+                        row_dict = {}
+                        for j, val in enumerate(row_vals):
+                            key = headers[j] if j < len(headers) else f"col_{j}"
+                            row_dict[key] = str(val) if val is not None else ""
+                        rows.append(row_dict)
+                    wb.close()
+                    logger.info(f"Extracted {len(rows)} rows from {target_file}")
+                    return rows
+            elif xlsx_files and not openpyxl:
+                logger.warning("XLSX files found but openpyxl not installed. Install with: pip install openpyxl")
                 return []
 
-            target_file = csv_files[0]
-            logger.info(f"Extracting: {target_file}")
+            # Try TXT
+            txt_files = [f for f in all_files if f.lower().endswith('.txt')]
+            if txt_files:
+                target_file = txt_files[0]
+                logger.info(f"Extracting TXT: {target_file}")
+                with zf.open(target_file) as f:
+                    raw_text = f.read().decode('utf-8', errors='replace')
+                    reader = csv.DictReader(StringIO(raw_text))
+                    rows = []
+                    for i, row in enumerate(reader):
+                        if i >= max_rows:
+                            break
+                        rows.append(dict(row))
+                    logger.info(f"Extracted {len(rows)} rows from {target_file}")
+                    return rows
 
-            with zf.open(target_file) as f:
-                # Read as text, handle encoding issues gracefully
-                raw_text = f.read().decode('utf-8', errors='replace')
-                reader = csv.DictReader(StringIO(raw_text))
-                rows = []
-                for i, row in enumerate(reader):
-                    if i >= max_rows:
-                        break
-                    rows.append(dict(row))
-                
-                logger.info(f"Extracted {len(rows)} rows from {target_file}")
-                return rows
+            logger.warning(f"No parseable files found in {zip_url}. Contents: {all_files}")
+            return []
 
     except Exception as e:
         logger.error(f"Failed to download/extract {zip_url}: {e}")
@@ -97,19 +140,19 @@ def execute_aogcc_scrape():
 
     # ── Vector 1: Wells Database ──
     logger.info("─── VECTOR 1: WELLS DATABASE ───")
-    wells = download_and_extract_csv(WELLS_ZIP_URL, max_rows=500)
+    wells = download_and_extract_data(WELLS_ZIP_URL, max_rows=500)
 
     # ── Vector 2: Well History ──
     logger.info("─── VECTOR 2: WELL HISTORY ───")
-    history = download_and_extract_csv(WELL_HISTORY_ZIP_URL, max_rows=300)
+    history = download_and_extract_data(WELL_HISTORY_ZIP_URL, max_rows=300)
 
     # ── Vector 3: Facilities ──
     logger.info("─── VECTOR 3: FACILITIES ───")
-    facilities = download_and_extract_csv(FACILITIES_ZIP_URL, max_rows=200)
+    facilities = download_and_extract_data(FACILITIES_ZIP_URL, max_rows=200)
 
     # ── Vector 4: Hydraulically Fractured Wells ──
     logger.info("─── VECTOR 4: FRACTURED WELLS ───")
-    fractured = download_and_extract_csv(FRACTURED_WELLS_ZIP, max_rows=100)
+    fractured = download_and_extract_data(FRACTURED_WELLS_ZIP, max_rows=100)
 
     # ── Assemble Intelligence Payload ──
     intel_payload = {

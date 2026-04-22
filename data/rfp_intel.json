@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "last_synced": "2026-04-22T20:35:54.721749",
+    "target": "Alaska DOT&PF Procurement & Contracting",
+    "source_urls": {
+      "bid_calendar": "https://dot.alaska.gov/procurement/awp/bids.html",
+      "contract_awards": "https://dot.alaska.gov/procurement/awp/cas.html",
+      "advertising_schedule": "https://dot.alaska.gov/procurement/awp/tas.html",
+      "bid_results_bidx": "https://www.bidx.com/ak/lettings/",
+      "state_public_notices": "https://aws.state.ak.us/OnlinePublicNotices/Default.aspx (WAF-blocked, Phase 2)"
+    },
+    "status": "Operational",
+    "notes": "DOT&PF pages are plain HTML tables. aws.state.ak.us requires Playwright (Phase 2)."
+  },
+  "upcoming_bids": [],
+  "awarded_contracts": [],
+  "advertising_schedule": [],
+  "summary": {
+    "total_upcoming_bids": 0,
+    "total_awarded_contracts": 0,
+    "total_scheduled_projects": 0
+  }
+}
