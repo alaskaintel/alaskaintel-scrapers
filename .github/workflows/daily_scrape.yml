@@ -1,0 +1,47 @@
+name: Automated Intelligence Pipeline (Hydra Matrix)
+
+on:
+  schedule:
+    # Wake up the ghost ship every day at 11:00 UTC (3:00 AM AST)
+    - cron: '0 11 * * *'
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions UI
+
+permissions:
+  contents: write # CRITICAL: Allows the Action to push the JSON back to the repo
+
+jobs:
+  scrape-and-enrich:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python 3.12 Environment
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+          
+      - name: Install Intelligence Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install playwright
+          
+      - name: Install Chromium for Playwright (APOC WAF Bypass)
+        run: playwright install chromium
+          
+      - name: Execute Extraction Matrix (Hydra Pipeline)
+        run: |
+          python scripts/scrape_dnr_pdfs.py
+          python scripts/scrape_aogcc.py
+          python scripts/scrape_rfp.py
+          python scripts/scrape_apoc.py
+          
+      - name: Commit Intelligence to Repository (Git-Scraping Database)
+        run: |
+          git config --global user.name "AlaskaIntel Bot"
+          git config --global user.email "bot@alaskaintel.com"
+          git add data/*.json
+          # Only commit if any dataset actually changed
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(intel): automated daily multi-vector payload sync [skip ci]" && git push)
