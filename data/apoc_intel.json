@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-04-24T12:30:21.811305",
+    "last_synced": "2026-04-25T12:11:32.263044",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -61267,9 +61267,9 @@
       "Chair Name": "Joan Corr",
       "Chair Email": "corrjoan@hotmail.com",
       "Additional Emails": "Kathytomsalaska@gmail.com;corrjoan@hotmail.com;blaze99712@yahoo.com",
-      "Submitted": "1/12/2026",
+      "Submitted": "4/24/2026",
       "Status": "Filed",
-      "Amending": ""
+      "Amending": " Amendment"
     },
     {
       "Result": "119",
