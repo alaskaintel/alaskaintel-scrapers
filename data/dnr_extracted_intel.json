@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "case_id": "ADL 224966",
+    "name": "DEPARTMENT OF TRANSPORTATION AND PUBLIC FACILITIES",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/224966/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.989798"
+  },
+  {
+    "case_id": "ADL 233387",
+    "name": "DNR SCRO MATERIAL SALES",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/233387/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.989893"
+  },
+  {
+    "case_id": "ADL 234751",
+    "name": "DNR SCRO MATERIAL SALES",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/234751/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.989937"
+  },
+  {
+    "case_id": "ADL 422612",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422612/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.989971"
+  },
+  {
+    "case_id": "ADL 422615",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422615/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990001"
+  },
+  {
+    "case_id": "ADL 422616",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422616/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990029"
+  },
+  {
+    "case_id": "ADL 422617",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422617/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990077"
+  },
+  {
+    "case_id": "ADL 422618",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422618/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990105"
+  },
+  {
+    "case_id": "ADL 422675",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422675/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990131"
+  },
+  {
+    "case_id": "ADL 422614",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422614/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990157"
+  },
+  {
+    "case_id": "ADL 422620",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422620/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990186"
+  },
+  {
+    "case_id": "ADL 422619",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422619/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990212"
+  },
+  {
+    "case_id": "ADL 422621",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422621/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990247"
+  },
+  {
+    "case_id": "ADL 422631",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422631/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990272"
+  },
+  {
+    "case_id": "ADL 422632",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422632/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990302"
+  },
+  {
+    "case_id": "ADL 422630",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422630/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990328"
+  },
+  {
+    "case_id": "ADL 422624",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422624/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990351"
+  },
+  {
+    "case_id": "ADL 422625",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422625/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990375"
+  },
+  {
+    "case_id": "ADL 422626",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422626/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990400"
+  },
+  {
+    "case_id": "ADL 422623",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422623/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990423"
+  },
+  {
+    "case_id": "ADL 422622",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422622/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990446"
+  },
+  {
+    "case_id": "ADL 422628",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422628/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990469"
+  },
+  {
+    "case_id": "ADL 422629",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422629/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990492"
+  },
+  {
+    "case_id": "ADL 422611",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422611/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990514"
+  },
+  {
+    "case_id": "ADL 422633",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422633/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990538"
+  },
+  {
+    "case_id": "ADL 422634",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422634/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990563"
+  },
+  {
+    "case_id": "ADL 422635",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422635/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990592"
+  },
+  {
+    "case_id": "ADL 422636",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422636/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990617"
+  },
+  {
+    "case_id": "ADL 422637",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422637/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990648"
+  },
+  {
+    "case_id": "ADL 422639",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422639/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990677"
+  },
+  {
+    "case_id": "ADL 422640",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422640/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990705"
+  },
+  {
+    "case_id": "ADL 422638",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422638/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990735"
+  },
+  {
+    "case_id": "ADL 422641",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422641/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990759"
+  },
+  {
+    "case_id": "ADL 422642",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422642/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990785"
+  },
+  {
+    "case_id": "ADL 422643",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422643/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990809"
+  },
+  {
+    "case_id": "ADL 422644",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422644/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990834"
+  },
+  {
+    "case_id": "ADL 422627",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422627/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990859"
+  },
+  {
+    "case_id": "ADL 422610",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422610/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990885"
+  },
+  {
+    "case_id": "ADL 422613",
+    "name": "DNR DMLW NRO",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422613/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990912"
+  },
+  {
+    "case_id": "ADL 225713",
+    "name": "DEPARTMENT OF TRANSPORTATION AND PUBLIC FACILITIES",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/225713/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990934"
+  },
+  {
+    "case_id": "ADL 422839",
+    "name": "DEPARTMENT OF TRANSPORTATION AND PUBLIC FACILITIES",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422839/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990957"
+  },
+  {
+    "case_id": "ADL 422841",
+    "name": "USDOD USAF EIELSON",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422841/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.990980"
+  },
+  {
+    "case_id": "ADL 233388",
+    "name": "DNR SCRO MATERIAL SALES",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/233388/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.991002"
+  },
+  {
+    "case_id": "ADL 231512",
+    "name": "DNR SCRO MATERIAL SALES",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/231512/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.991025"
+  },
+  {
+    "case_id": "ADL 223719",
+    "name": "DEPARTMENT OF TRANSPORTATION AND PUBLIC FACILITIES",
+    "status": "ACTIVE ADJUDICATION (14)",
+    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/223719/landflag/y/searchtype/casefile/reporttype/abstract",
+    "intelligence": null,
+    "last_scraped_at": "2026-04-26T11:32:05.991102"
+  }
+]
