@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-04-30T12:38:05.963411",
+    "last_synced": "2026-05-01T12:24:35.577311",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -14151,7 +14151,7 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "3/13/2026",
+      "Submitted": "4/30/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
@@ -60254,10 +60254,10 @@
       "Treasurer Email": "hello@forthefuturepac.com",
       "Chair Name": "Greg Howard Jr",
       "Chair Email": "hello@forthefuturepac.com",
-      "Additional Emails": "",
-      "Submitted": "1/14/2026",
+      "Additional Emails": "hello@forthefuturepac.com",
+      "Submitted": "4/30/2026",
       "Status": "Filed",
-      "Amending": ""
+      "Amending": " Amendment"
     },
     {
       "Result": "73",
