@@ -37,6 +37,7 @@ jobs:
           python scripts/scrape_aogcc.py
           python scripts/scrape_rfp.py
           python scripts/scrape_apoc.py
+          python scripts/scrape_health.py
           
       - name: Commit Intelligence to Repository (Git-Scraping Database)
         run: |
