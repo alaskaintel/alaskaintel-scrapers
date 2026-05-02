@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-01T12:24:35.577311",
+    "last_synced": "2026-05-02T12:08:23.757141",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -11783,7 +11783,7 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "12/8/2025",
+      "Submitted": "5/2/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
@@ -61084,14 +61084,14 @@
       "Zip": "99521",
       "Country": "USA",
       "Plan": "",
-      "Type": "Initiative Proposal",
-      "Subtype": "",
+      "Type": "Ballot Proposition",
+      "Subtype": "Single Issue Ballot",
       "Treasurer Name": "Paula DeLaiarro",
       "Treasurer Email": "p.delaiarro@shipcreekgroup.com",
       "Chair Name": "Bronson Frye",
       "Chair Email": "bronsonfrye907@gmail.com",
       "Additional Emails": "p.delaiarro@shipcreekgroup.com",
-      "Submitted": "4/8/2026",
+      "Submitted": "5/1/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
