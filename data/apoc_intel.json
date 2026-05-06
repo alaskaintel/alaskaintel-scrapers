@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-04T12:45:56.647703",
+    "last_synced": "2026-05-06T12:53:24.897829",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -11783,7 +11783,7 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "5/2/2026",
+      "Submitted": "5/4/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
@@ -60607,9 +60607,9 @@
       "Chair Name": "Lake Williams",
       "Chair Email": "lwilliams@iuoe302.org",
       "Additional Emails": "cknight@iuoe302.org;jalward@iuoe302.org",
-      "Submitted": "12/30/2025",
+      "Submitted": "5/4/2026",
       "Status": "Filed",
-      "Amending": ""
+      "Amending": " Amendment"
     },
     {
       "Result": "89",

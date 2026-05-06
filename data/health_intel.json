@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-04T12:46:01.325984",
+    "last_synced": "2026-05-06T12:53:31.190751",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,24 +14,9 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 18
+    "total_alerts": 17
   },
   "alerts": [
-    {
-      "id": "https://alaskabeacon.com/?post_type=briefs&p=25542",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Alaska House advances bills aimed at regulating standards, conditions for caregivers",
-      "description": "The Alaska House of Representatives advanced two bills relating to certified nurse aide training and home health care workers this week in an effort to support Alaska\u2019s growing senior population. The bills aim to regulate Alaska\u2019s health care by setting training standards for CNAs and regulating wages and conditions for caregivers. HB 244, sponsored by [&#8230;]",
-      "link": "https://alaskabeacon.com/briefs/alaska-house-advances-two-health-care-related-bills-this-week/",
-      "published": "Fri, 01 May 2026 13:30:30 +0000",
-      "region": "statewide",
-      "severity": "low",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "assess legislative impact"
-    },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
       "type": "health_alert",
