@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-06T12:53:31.190751",
+    "last_synced": "2026-05-07T12:55:45.165979",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,9 +14,24 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 17
+    "total_alerts": 18
   },
   "alerts": [
+    {
+      "id": "https://alaskabeacon.com/?post_type=republished&p=25725",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Healthcare costs top of mind for voters as midterms approach, survey finds",
+      "description": "WASHINGTON \u2014 Voters, including those within the Make America Healthy Again movement, say the rising cost of healthcare is a significant concern that will have an impact on whom they support in November\u2019s midterm elections, according to a poll released Wednesday by KFF.\u00a0 Sixty-one percent of respondents to the\u00a0survey, which asked how important several health-related [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/05/06/repub/healthcare-costs-top-of-mind-for-voters-as-midterms-approach-survey-finds/",
+      "published": "Wed, 06 May 2026 20:18:33 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "policy",
+      "impact": "statewide",
+      "action": "assess legislative impact"
+    },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
       "type": "health_alert",
@@ -183,12 +198,27 @@
       "action": "assess legislative impact"
     },
     {
+      "id": "24281 at https://www.nomenugget.net",
+      "type": "health_alert",
+      "source": "Nome Nugget",
+      "tier": 3,
+      "title": "Nomeites march to commemorate Missing and Murdered Indigenous Persons",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_MMIP_2...",
+      "link": "https://www.nomenugget.net/news/nomeites-march-commemorate-missing-and-murdered-indigenous-persons",
+      "published": "Thu, 07 May 2026 07:06:35 +0000",
+      "region": "rural / tribal communities",
+      "severity": "high",
+      "category": "policy",
+      "impact": "rural / tribal communities",
+      "action": "immediate review required"
+    },
+    {
       "id": "24272 at https://www.nomenugget.net",
       "type": "health_alert",
       "source": "Nome Nugget",
       "tier": 3,
       "title": "IHS awards $65 million for water & sewer  system in Teller",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-1\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/5c_Teller.jpg?itok=8Nlu...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/5c_Teller.jpg?itok=8Nlu...",
       "link": "https://www.nomenugget.net/news/ihs-awards-65-million-water-sewer-system-teller",
       "published": "Thu, 30 Apr 2026 07:59:08 +0000",
       "region": "rural / tribal communities",
@@ -203,7 +233,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Missing Shaktoolik teen found dead in Anchorage",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Chris Aadland, ADN</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cbillrothADN_memo...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Chris Aadland, ADN</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cbillrothADN_memo...",
       "link": "https://www.nomenugget.net/news/missing-shaktoolik-teen-found-dead-anchorage",
       "published": "Thu, 30 Apr 2026 07:51:59 +0000",
       "region": "regional hubs",
@@ -213,29 +243,14 @@
       "action": "immediate review required"
     },
     {
-      "id": "24258 at https://www.nomenugget.net",
+      "id": "24285 at https://www.nomenugget.net",
       "type": "health_alert",
       "source": "Nome Nugget",
       "tier": 3,
-      "title": "City budgets $3 million  for Nome Public Schools",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O&#039;Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_c...",
-      "link": "https://www.nomenugget.net/news/city-budgets-3-million-nome-public-schools",
-      "published": "Thu, 16 Apr 2026 07:14:52 +0000",
-      "region": "statewide",
-      "severity": "high",
-      "category": "hospital",
-      "impact": "statewide",
-      "action": "immediate review required"
-    },
-    {
-      "id": "24264 at https://www.nomenugget.net",
-      "type": "health_alert",
-      "source": "Nome Nugget",
-      "tier": 3,
-      "title": "Students express frustration about post-graduation prep",
-      "description": "<div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/NBHS%20campus.jpg?itok=tVzNxR55\"><span><img alt=\"High school seniors voiced frustration about the lack of support for post-graduation opportunities at last week&#039;s school board meeting.\"...",
-      "link": "https://www.nomenugget.net/education/students-express-frustration-about-post-graduation-prep",
-      "published": "Fri, 24 Apr 2026 00:07:19 +0000",
+      "title": "\u201cThe Table Is Ours\u201d: Alaska Inuit push back on Arctic governance",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">A new strategy from the Inuit Circumpolar Council Alaska challenges state-led control in a rapidly changing Arctic</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-1\">\n  <a href=\"https://...",
+      "link": "https://www.nomenugget.net/news/%E2%80%9C-table-ours%E2%80%9D-alaska-inuit-push-back-arctic-governance",
+      "published": "Thu, 07 May 2026 07:57:17 +0000",
       "region": "rural / tribal communities",
       "severity": "medium",
       "category": "hospital",
@@ -263,7 +278,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome gets very dusty. These organizations try to do something about it",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/di_longdustcloud.jpg?it...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/di_longdustcloud.jpg?it...",
       "link": "https://www.nomenugget.net/news/nome-gets-very-dusty-these-organizations-try-do-something-about-it",
       "published": "Fri, 24 Apr 2026 00:13:58 +0000",
       "region": "rural / tribal communities",
