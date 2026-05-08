@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-07T12:55:45.165979",
+    "last_synced": "2026-05-08T12:37:01.689829",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 18
+    "total_alerts": 19
   },
   "alerts": [
     {
@@ -258,21 +258,6 @@
       "action": "monitor"
     },
     {
-      "id": "https://www.homernews.com/2026/04/23/life-changing-moments-in-the-hawley-sterling-story-part-4/",
-      "type": "health_alert",
-      "source": "Homer News",
-      "tier": 3,
-      "title": "Life-changing moments in the Hawley Sterling story \u2014 Part 4",
-      "description": "<p><em>AUTHOR&#8217;S NOTE: On Oct. 4, 1918, a young mother named Margaret Sterling left her Nenana home to ride a launch up the Tanana and Chena rivers to Fairbanks to be with her ailing and hospitalized father. The boat never arrived. An accident on the Tanana claimed the lives of everyone aboard. Margaret&#8217;s husband was left to care for their young son and reassemble the pieces of his shattered life. Hawley W. Sterling, namesake of the Sterling Highway and the community of Sterling, woul...",
-      "link": "https://www.homernews.com/2026/04/23/life-changing-moments-in-the-hawley-sterling-story-part-4/",
-      "published": "Thu, 23 Apr 2026 21:30:00 +0000",
-      "region": "regional hubs",
-      "severity": "medium",
-      "category": "hospital",
-      "impact": "regional hubs",
-      "action": "monitor"
-    },
-    {
       "id": "24265 at https://www.nomenugget.net",
       "type": "health_alert",
       "source": "Nome Nugget",
@@ -286,6 +271,36 @@
       "category": "hospital",
       "impact": "rural / tribal communities",
       "action": "monitor"
+    },
+    {
+      "id": "https://www.homernews.com/2026/05/07/pet-of-the-week-wynn-2/",
+      "type": "health_alert",
+      "source": "Homer News",
+      "tier": 3,
+      "title": "Pet of the Week: Wynn",
+      "description": "<p>She&#8217;s a special girl who deserves a warm bed and care. </p>",
+      "link": "https://www.homernews.com/2026/05/07/pet-of-the-week-wynn-2/",
+      "published": "Thu, 07 May 2026 10:30:00 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "hospital",
+      "impact": "statewide",
+      "action": "monitor"
+    },
+    {
+      "id": "https://www.homernews.com/2026/05/07/a-few-simple-ingredients-for-a-lovely-dish/",
+      "type": "health_alert",
+      "source": "Homer News",
+      "tier": 3,
+      "title": "A few simple ingredients for a lovely dish",
+      "description": "<p>The beauty of this zucchini spiral quiche comes from your care and attention to its creation. </p>",
+      "link": "https://www.homernews.com/2026/05/07/a-few-simple-ingredients-for-a-lovely-dish/",
+      "published": "Thu, 07 May 2026 09:30:00 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "policy",
+      "impact": "statewide",
+      "action": "assess legislative impact"
     }
   ]
 }
