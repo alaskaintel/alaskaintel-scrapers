@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-08T12:37:01.689829",
+    "last_synced": "2026-05-09T12:15:55.585749",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -18,19 +18,19 @@
   },
   "alerts": [
     {
-      "id": "https://alaskabeacon.com/?post_type=republished&p=25725",
+      "id": "https://alaskabeacon.com/?p=25822",
       "type": "health_alert",
       "source": "Alaska Beacon",
       "tier": 1,
-      "title": "Healthcare costs top of mind for voters as midterms approach, survey finds",
-      "description": "WASHINGTON \u2014 Voters, including those within the Make America Healthy Again movement, say the rising cost of healthcare is a significant concern that will have an impact on whom they support in November\u2019s midterm elections, according to a poll released Wednesday by KFF.\u00a0 Sixty-one percent of respondents to the\u00a0survey, which asked how important several health-related [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/05/06/repub/healthcare-costs-top-of-mind-for-voters-as-midterms-approach-survey-finds/",
-      "published": "Wed, 06 May 2026 20:18:33 +0000",
-      "region": "statewide",
+      "title": "Lawmakers take aim at Alaska\u2019s chronic problems with abandoned and loose dogs",
+      "description": "Rural Alaska has long struggled with an abundance of stray and loose dogs and high rates of dog bites, with young children as the most frequent victims. Pending state and federal legislation aims to chip away at that problem by improving access to veterinary care, currently difficult to obtain in wide swathes of Alaska. At [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/05/08/lawmakers-take-aim-at-alaskas-chronic-problems-with-abandoned-and-loose-dogs/",
+      "published": "Fri, 08 May 2026 23:28:15 +0000",
+      "region": "rural / tribal communities",
       "severity": "low",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "assess legislative impact"
+      "category": "hospital",
+      "impact": "rural / tribal communities",
+      "action": "monitor"
     },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
