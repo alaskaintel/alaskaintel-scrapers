@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-16T12:21:11.956292",
+    "last_synced": "2026-05-18T14:58:12.176286",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 21
+    "total_alerts": 22
   },
   "alerts": [
     {
@@ -286,6 +286,21 @@
       "category": "hospital",
       "impact": "rural / tribal communities",
       "action": "monitor"
+    },
+    {
+      "id": "https://www.juneauempire.com/?p=132662",
+      "type": "health_alert",
+      "source": "Juneau Empire",
+      "tier": 3,
+      "title": "I Went to the Woods: Finding time for the best days of our lives",
+      "description": "<p>For the second day in a row, a student shared a steelhead photo with me between classes. These aren&#8217;t the sons of guides or the next generation of angling influencers. They are honest kids who went to road system rivers by themselves because they felt like it.</p>",
+      "link": "https://www.juneauempire.com/2026/05/16/i-went-to-the-woods-finding-time-for-the-best-days-of-our-lives/",
+      "published": "Sat, 16 May 2026 12:30:00 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "outbreak",
+      "impact": "statewide",
+      "action": "review transmission risk"
     },
     {
       "id": "https://www.homernews.com/?p=81947",
