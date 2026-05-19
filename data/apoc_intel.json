@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-18T14:58:06.812493",
+    "last_synced": "2026-05-19T14:25:32.246515",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -13004,7 +13004,7 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "4/15/2026",
+      "Submitted": "5/18/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-18T14:58:12.176286",
+    "last_synced": "2026-05-19T14:25:36.833134",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,50 +14,20 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 22
+    "total_alerts": 19
   },
   "alerts": [
     {
-      "id": "https://alaskabeacon.com/?post_type=republished&p=26033",
+      "id": "https://alaskabeacon.com/?post_type=briefs&p=26089",
       "type": "health_alert",
       "source": "Alaska Beacon",
       "tier": 1,
-      "title": "Shifting attitudes on menopause drive lawmakers to push for new protections",
-      "description": "When Jacqueline Perez started experiencing symptoms of menopause in her early 50s, the brain fog was so severe, she thought she had early-onset dementia. Perez, who founded a website dedicated to normalizing aging for women, said she gained more than 30 pounds and struggled with depression for months before she found a health provider who [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/05/15/repub/shifting-attitudes-on-menopause-drive-lawmakers-to-push-for-new-protections/",
-      "published": "Fri, 15 May 2026 17:24:01 +0000",
+      "title": "Alaska Legislature votes to ban certain synthetic food dyes in school meals",
+      "description": "The Alaska Legislature has approved the ban of seven synthetic food dyes from school meals to help protect student health. The synthetic dyes include several versions of red, yellow, green and blue and are used as color additives that provide no nutritional value, but give food and drinks a bright color. They are commonly used [&#8230;]",
+      "link": "https://alaskabeacon.com/briefs/alaska-legislature-votes-to-ban-certain-synthetic-food-dyes-in-school-meals/",
+      "published": "Tue, 19 May 2026 13:45:01 +0000",
       "region": "statewide",
-      "severity": "high",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "immediate review required"
-    },
-    {
-      "id": "https://alaskabeacon.com/?p=26028",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Supreme Court rules abortion pills can continue to be mailed",
-      "description": "This article was\u00a0originally published by The 19th, a nonprofit newsroom covering gender, politics, and policy. After briefly letting a national ban take effect, the Supreme Court blocked a lower court\u2019s ruling that would have prevented mailing a key abortion drug. The decision, issued Thursday, allows telehealth dispensation of mifepristone, one of two drugs used in [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/05/14/supreme-court-rules-abortion-pills-can-continue-to-be-mailed/",
-      "published": "Thu, 14 May 2026 22:36:22 +0000",
-      "region": "statewide",
-      "severity": "medium",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "assess legislative impact"
-    },
-    {
-      "id": "https://alaskabeacon.com/?p=25977",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Trump\u2019s \u201cAmerica First Global Health Strategy\u201d is nothing more than global gangsterism",
-      "description": "The Trump administration\u2019s so-called \u201cAmerica First Global Health Strategy\u201d turns one of the most effective and humane tools of U.S. foreign policy into an instrument of coercion. We now condition lifesaving health aid on concessions from vulnerable countries and replace partnership with exploitation, thus undermining both American values and long-term national interests. Throughout the 20th [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/05/14/trumps-america-first-global-health-strategy-is-nothing-more-than-global-gangsterism/",
-      "published": "Thu, 14 May 2026 19:00:11 +0000",
-      "region": "statewide",
-      "severity": "medium",
+      "severity": "low",
       "category": "policy",
       "impact": "statewide",
       "action": "assess legislative impact"
@@ -71,21 +41,6 @@
       "description": "The Alaska Legislature passed a bill requiring the state to develop guidelines for mental health instruction in Alaska school districts. The aim is to place mental health education for K-12 students on par with physical education.\u00a0 House lawmakers passed Senate Bill 41 by a 27 to 13 vote late Thursday night, and the bill now [&#8230;]",
       "link": "https://alaskabeacon.com/2026/05/15/alaska-legislature-approves-plan-for-mental-health-education-in-schools/",
       "published": "Fri, 15 May 2026 21:08:15 +0000",
-      "region": "statewide",
-      "severity": "low",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "assess legislative impact"
-    },
-    {
-      "id": "https://alaskabeacon.com/?post_type=briefs&p=26039",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Alaska Senate advances bill to expand early interventions for children with developmental delays",
-      "description": "The Alaska Senate approved a bill that would expand eligibility and services provided by early intervention programs for children experiencing developmental delays or disabilities. The Senate Health and Social Services committee sponsored the legislation, saying the state\u2019s eligibility requirements for services are restrictive compared to the rest of the nation. \u201cUnder Alaska\u2019s current restrictive eligibility [&#8230;]",
-      "link": "https://alaskabeacon.com/briefs/alaska-senate-advances-bill-to-expand-early-interventions-for-children-with-developmental-delays/",
-      "published": "Fri, 15 May 2026 13:30:20 +0000",
       "region": "statewide",
       "severity": "low",
       "category": "policy",
