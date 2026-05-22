@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-21T14:30:39.844390",
+    "last_synced": "2026-05-22T13:56:29.144551",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -17,6 +17,21 @@
     "total_alerts": 18
   },
   "alerts": [
+    {
+      "id": "https://alaskabeacon.com/?post_type=briefs&p=26157",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Alaska Legislature approves the use of \u2018baby boxes\u2019 to accept surrendered infants",
+      "description": "Hospitals, fire stations and clinics in Alaska may soon have \u2018baby boxes\u2019 able to safely and anonymously accept infants surrendered by parents who may be unable to care for them.\u00a0 In a 35-5 vote Monday, the Alaska House of Representatives approved Senate Bill 9, amending the state\u2019s safe-surrender law for infants to permit the construction [&#8230;]",
+      "link": "https://alaskabeacon.com/briefs/alaska-legislature-approves-the-use-of-baby-boxes-to-accept-surrendered-infants/",
+      "published": "Wed, 20 May 2026 18:00:45 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "hospital",
+      "impact": "statewide",
+      "action": "monitor"
+    },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
       "type": "health_alert",
@@ -188,7 +203,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome Common Council tours Nome\u2019s aging facilities",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_Tour_2...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_Tour_2...",
       "link": "https://www.nomenugget.net/news/nome-common-council-tours-nome%E2%80%99s-aging-facilities",
       "published": "Thu, 21 May 2026 02:46:31 +0000",
       "region": "statewide",
@@ -203,7 +218,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Timely energy summit highlights energy infrastructure in Nome and region",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O&#039;Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_e...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O&#039;Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_e...",
       "link": "https://www.nomenugget.net/news/timely-energy-summit-highlights-energy-infrastructure-nome-and-region",
       "published": "Thu, 21 May 2026 03:08:47 +0000",
       "region": "rural / tribal communities",
@@ -218,7 +233,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome Rider Network aims to alleviate Nome\u2019s lack of taxis",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/di_frontstreet.jpg?itok...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-6\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/di_frontstreet.jpg?itok...",
       "link": "https://www.nomenugget.net/news/nome-rider-network-aims-alleviate-nome%E2%80%99s-lack-taxis",
       "published": "Thu, 21 May 2026 03:02:09 +0000",
       "region": "rural / tribal communities",
@@ -256,21 +271,6 @@
       "category": "hospital",
       "impact": "statewide",
       "action": "monitor"
-    },
-    {
-      "id": "24291 at https://www.nomenugget.net",
-      "type": "health_alert",
-      "source": "Nome Nugget",
-      "tier": 3,
-      "title": "Northwest Campus celebrates 50th commencement",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O&#039;Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_G...",
-      "link": "https://www.nomenugget.net/education/northwest-campus-celebrates-50th-commencement",
-      "published": "Thu, 14 May 2026 03:55:11 +0000",
-      "region": "rural / tribal communities",
-      "severity": "low",
-      "category": "policy",
-      "impact": "rural / tribal communities",
-      "action": "assess legislative impact"
     },
     {
       "id": "https://www.juneauempire.com/?p=132674",
