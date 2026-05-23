@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-22T13:56:29.144551",
+    "last_synced": "2026-05-23T12:40:54.664241",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,24 +14,9 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 18
+    "total_alerts": 17
   },
   "alerts": [
-    {
-      "id": "https://alaskabeacon.com/?post_type=briefs&p=26157",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Alaska Legislature approves the use of \u2018baby boxes\u2019 to accept surrendered infants",
-      "description": "Hospitals, fire stations and clinics in Alaska may soon have \u2018baby boxes\u2019 able to safely and anonymously accept infants surrendered by parents who may be unable to care for them.\u00a0 In a 35-5 vote Monday, the Alaska House of Representatives approved Senate Bill 9, amending the state\u2019s safe-surrender law for infants to permit the construction [&#8230;]",
-      "link": "https://alaskabeacon.com/briefs/alaska-legislature-approves-the-use-of-baby-boxes-to-accept-surrendered-infants/",
-      "published": "Wed, 20 May 2026 18:00:45 +0000",
-      "region": "statewide",
-      "severity": "medium",
-      "category": "hospital",
-      "impact": "statewide",
-      "action": "monitor"
-    },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
       "type": "health_alert",
