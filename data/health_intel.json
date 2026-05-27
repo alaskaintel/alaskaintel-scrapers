@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-25T14:29:51.821237",
+    "last_synced": "2026-05-27T14:46:09.827224",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,9 +14,24 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 17
+    "total_alerts": 16
   },
   "alerts": [
+    {
+      "id": "https://alaskabeacon.com/?p=26277",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Alaska\u2019s burnout problem is bigger than stress",
+      "description": "Alaskans pride themselves on resilience. We work long hours, adapt to difficult conditions, raise families through dark winters and carry a culture that values toughness and independence. But resilience without recovery eventually becomes exhaustion. Across healthcare, more providers are seeing the same troubling pattern: people who are chronically fatigued, mentally overloaded, emotionally strained and physically [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/05/25/alaskas-burnout-problem-is-bigger-than-stress/",
+      "published": "Mon, 25 May 2026 16:00:49 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "hospital",
+      "impact": "statewide",
+      "action": "monitor"
+    },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
       "type": "health_alert",
@@ -228,49 +243,19 @@
       "action": "monitor"
     },
     {
-      "id": "https://www.juneauempire.com/?p=132662",
+      "id": "https://www.juneauempire.com/2026/05/25/82-year-old-arrested-following-stabbing-in-downtown-juneau/",
       "type": "health_alert",
       "source": "Juneau Empire",
       "tier": 3,
-      "title": "I Went to the Woods: Finding time for the best days of our lives",
-      "description": "<p>For the second day in a row, a student shared a steelhead photo with me between classes. These aren&#8217;t the sons of guides or the next generation of angling influencers. They are honest kids who went to road system rivers by themselves because they felt like it.</p>",
-      "link": "https://www.juneauempire.com/2026/05/16/i-went-to-the-woods-finding-time-for-the-best-days-of-our-lives/",
-      "published": "Sat, 16 May 2026 12:30:00 +0000",
-      "region": "statewide",
-      "severity": "medium",
-      "category": "outbreak",
-      "impact": "statewide",
-      "action": "review transmission risk"
-    },
-    {
-      "id": "https://www.homernews.com/2026/05/20/urgent-care-clinic-opens-june-1/",
-      "type": "health_alert",
-      "source": "Homer News",
-      "tier": 3,
-      "title": "Urgent care clinic opens June 1",
-      "description": "<p>South Peninsula Hospital&#8217;s upcoming walk-in urgent care clinic will be the first in Homer. </p>",
-      "link": "https://www.homernews.com/2026/05/20/urgent-care-clinic-opens-june-1/",
-      "published": "Wed, 20 May 2026 09:30:00 +0000",
-      "region": "statewide",
+      "title": "82-year-old arrested following stabbing in downtown Juneau",
+      "description": "<p>78-year-old male taken to hospital with multiple knife wounds to his arms and head </p>",
+      "link": "https://www.juneauempire.com/2026/05/25/82-year-old-arrested-following-stabbing-in-downtown-juneau/",
+      "published": "Mon, 25 May 2026 18:45:00 +0000",
+      "region": "regional hubs",
       "severity": "medium",
       "category": "hospital",
-      "impact": "statewide",
+      "impact": "regional hubs",
       "action": "monitor"
-    },
-    {
-      "id": "https://www.juneauempire.com/?p=132674",
-      "type": "health_alert",
-      "source": "Juneau Empire",
-      "tier": 3,
-      "title": "Alaska Legislature votes to ban certain synthetic food dyes in school meals",
-      "description": "<p>Lawmakers raised concerns that synthetic food dyes are linked to negative health effects in children </p>",
-      "link": "https://www.juneauempire.com/2026/05/19/alaska-legislature-votes-to-ban-certain-synthetic-food-dyes-in-school-meals/",
-      "published": "Tue, 19 May 2026 15:30:00 +0000",
-      "region": "statewide",
-      "severity": "low",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "assess legislative impact"
     }
   ]
 }
