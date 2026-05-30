@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-29T14:22:49.906830",
+    "last_synced": "2026-05-30T12:50:22.070132",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,23 +14,23 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 16
+    "total_alerts": 17
   },
   "alerts": [
     {
-      "id": "https://alaskabeacon.com/?p=26300",
+      "id": "https://alaskabeacon.com/?p=26368",
       "type": "health_alert",
       "source": "Alaska Beacon",
       "tier": 1,
-      "title": "Medicaid is a lifeline for families \u2014 not a line item",
-      "description": "Let\u2019s take a moment to recognize something that quietly makes a major difference in the lives of Alaska\u2019s children and families \u2014 Medicaid. For thousands of Alaska families, Medicaid isn&#8217;t just a program. It is a cornerstone that ensures access to the care, support and resources needed to thrive. It means that when a baby [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/05/27/medicaid-is-a-lifeline-for-families-not-a-line-item/",
-      "published": "Wed, 27 May 2026 22:30:21 +0000",
-      "region": "statewide",
-      "severity": "low",
+      "title": "Alaska Legislature votes to improve preparedness and response for stroke, heart attack emergencies",
+      "description": "The Alaska Legislature approved a package of legislation aimed at improving the state\u2019s coordination and emergency medical services response for strokes and heart attacks, including prompting school districts to offer CPR training for all Alaska students.\u00a0 Noting Alaska\u2019s unique challenges with geography, transportation and emergency services resources, the bill\u2019s sponsor Rep. Genevieve Mina, D-Anchorage, said [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/05/29/alaska-legislature-votes-to-improve-preparedness-and-response-for-stroke-heart-attack-emergencies/",
+      "published": "Fri, 29 May 2026 18:00:50 +0000",
+      "region": "regional hubs",
+      "severity": "high",
       "category": "policy",
-      "impact": "statewide",
-      "action": "assess legislative impact"
+      "impact": "regional hubs",
+      "action": "immediate review required"
     },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
@@ -225,6 +225,21 @@
       "severity": "high",
       "category": "outbreak",
       "impact": "rural / tribal communities",
+      "action": "immediate review required"
+    },
+    {
+      "id": "https://www.juneauempire.com/?p=132772",
+      "type": "health_alert",
+      "source": "Juneau Empire",
+      "tier": 3,
+      "title": "New SEARHC urgent care clinic to open on Juneau\u2019s Front Street",
+      "description": "<p>The new space will provide treatment for a range of non-emergency conditions </p>",
+      "link": "https://www.juneauempire.com/2026/05/30/new-searhc-urgent-care-clinic-to-open-on-juneaus-front-street/",
+      "published": "Sat, 30 May 2026 11:30:00 +0000",
+      "region": "regional hubs",
+      "severity": "high",
+      "category": "hospital",
+      "impact": "regional hubs",
       "action": "immediate review required"
     },
     {
