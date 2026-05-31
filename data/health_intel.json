@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-30T12:50:22.070132",
+    "last_synced": "2026-05-31T12:39:49.632559",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 17
+    "total_alerts": 16
   },
   "alerts": [
     {
@@ -255,21 +255,6 @@
       "severity": "medium",
       "category": "hospital",
       "impact": "statewide",
-      "action": "monitor"
-    },
-    {
-      "id": "https://www.juneauempire.com/2026/05/25/82-year-old-arrested-following-stabbing-in-downtown-juneau/",
-      "type": "health_alert",
-      "source": "Juneau Empire",
-      "tier": 3,
-      "title": "82-year-old arrested following stabbing in downtown Juneau",
-      "description": "<p>78-year-old male taken to hospital with multiple knife wounds to his arms and head </p>",
-      "link": "https://www.juneauempire.com/2026/05/25/82-year-old-arrested-following-stabbing-in-downtown-juneau/",
-      "published": "Mon, 25 May 2026 18:45:00 +0000",
-      "region": "regional hubs",
-      "severity": "medium",
-      "category": "hospital",
-      "impact": "regional hubs",
       "action": "monitor"
     }
   ]
