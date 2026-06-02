@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-31T12:39:45.275294",
+    "last_synced": "2026-06-02T15:16:33.868733",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -11043,7 +11043,7 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "4/2/2026",
+      "Submitted": "6/1/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
@@ -11235,6 +11235,43 @@
     {
       "Result": "7",
       "Report Year": "2026",
+      "Display Name": "Andrea \"Andi\" Story",
+      "Last Name": "Story",
+      "First Name": "Andrea",
+      "Committee": "Andi Story for House",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "12069 Cross Street",
+      "City": "Juneau",
+      "State": "Alaska",
+      "Zip": "99801",
+      "Country": "USA",
+      "Phone": "9077234198",
+      "Fax": "",
+      "Email": "andimike@ak.net",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Kim Garrett",
+      "Treasurer Email": "kbgarrett@alaska.net",
+      "Treasurer Phone": "(907) 321 - 2499",
+      "Chair Name": "Co - Chairs Gayle Trivette and Geri McLeod",
+      "Chair Email": "gayle.trivette.ak@gmail.com;gerimcleod1@gmail.com",
+      "Chair Phone": "(907) 209 - 9721 & (907) 321 - 3594",
+      "Bank Name": "None",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "5/31/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "8",
+      "Report Year": "2026",
       "Display Name": "Andrew T. Gray",
       "Last Name": "Gray",
       "First Name": "Andrew",
@@ -11270,7 +11307,7 @@
       "Amending": ""
     },
     {
-      "Result": "8",
+      "Result": "9",
       "Report Year": "2026",
       "Display Name": "Anna B. Brawley",
       "Last Name": "Brawley",
@@ -11307,7 +11344,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "9",
+      "Result": "10",
       "Report Year": "2026",
       "Display Name": "Ashley E Carrick",
       "Last Name": "Carrick",
@@ -11344,7 +11381,7 @@
       "Amending": ""
     },
     {
-      "Result": "10",
+      "Result": "11",
       "Report Year": "2026",
       "Display Name": "Barbara Haney",
       "Last Name": "Haney",
@@ -11381,7 +11418,7 @@
       "Amending": ""
     },
     {
-      "Result": "11",
+      "Result": "12",
       "Report Year": "2026",
       "Display Name": "Benjamin Williams Jr.",
       "Last Name": "Williams Jr.",
@@ -11418,7 +11455,7 @@
       "Amending": ""
     },
     {
-      "Result": "12",
+      "Result": "13",
       "Report Year": "2026",
       "Display Name": "Bert K. Stedman",
       "Last Name": "Stedman",
@@ -11455,7 +11492,44 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "13",
+      "Result": "14",
+      "Report Year": "2026",
+      "Display Name": "Bill Elam",
+      "Last Name": "Elam",
+      "First Name": "William",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "47320 Jefferson Ave",
+      "City": "Soldotna",
+      "State": "Alaska",
+      "Zip": "99669",
+      "Country": "USA",
+      "Phone": "9076904339",
+      "Fax": "",
+      "Email": "bill.elam@me.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "William Elam",
+      "Treasurer Email": "bill.elam@me.com",
+      "Treasurer Phone": "9076904339",
+      "Chair Name": "William Elam",
+      "Chair Email": "bill.elam@me.com",
+      "Chair Phone": "9076904339",
+      "Bank Name": "Wells Fargo",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "5/31/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "15",
       "Report Year": "2026",
       "Display Name": "Bill Wielechowski",
       "Last Name": "Wielechowski",
@@ -11492,7 +11566,7 @@
       "Amending": ""
     },
     {
-      "Result": "14",
+      "Result": "16",
       "Report Year": "2026",
       "Display Name": "Blake Gettys",
       "Last Name": "Gettys",
@@ -11529,7 +11603,7 @@
       "Amending": ""
     },
     {
-      "Result": "15",
+      "Result": "17",
       "Report Year": "2026",
       "Display Name": "Brent Gustave Johnson",
       "Last Name": "Johnson",
@@ -11566,7 +11640,7 @@
       "Amending": ""
     },
     {
-      "Result": "16",
+      "Result": "18",
       "Report Year": "2026",
       "Display Name": "Brent Johnson",
       "Last Name": "Johnson",
@@ -11603,7 +11677,7 @@
       "Amending": ""
     },
     {
-      "Result": "17",
+      "Result": "19",
       "Report Year": "2026",
       "Display Name": "Brian Flynn",
       "Last Name": "Flynn",
@@ -11640,7 +11714,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "18",
+      "Result": "20",
       "Report Year": "2026",
       "Display Name": "Bruce Vergason",
       "Last Name": "Vergason",
@@ -11677,7 +11751,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "19",
+      "Result": "21",
       "Report Year": "2026",
       "Display Name": "Bryce Edgmon",
       "Last Name": "Edgmon",
@@ -11714,7 +11788,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "20",
+      "Result": "22",
       "Report Year": "2026",
       "Display Name": "Calista Denise Watkins",
       "Last Name": "Watkins",
@@ -11751,7 +11825,44 @@
       "Amending": ""
     },
     {
-      "Result": "21",
+      "Result": "23",
+      "Report Year": "2026",
+      "Display Name": "Calvin Schrage",
+      "Last Name": "Schrage",
+      "First Name": "Calvin",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "3101 Rosalind Loop",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99507",
+      "Country": "USA",
+      "Phone": "9072408986",
+      "Fax": "",
+      "Email": "calvin@calvinforalaska.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Heather Schrage",
+      "Treasurer Email": "schragehr@gmail.com",
+      "Treasurer Phone": "907-229-1142",
+      "Chair Name": "Calvin Schrage",
+      "Chair Email": "calvin@calvinforalaska.com",
+      "Chair Phone": "907-240-8986",
+      "Bank Name": "Wells Fargo Bank",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "24",
       "Report Year": "2026",
       "Display Name": "Carolyn Hall",
       "Last Name": "Hall-Jensen",
@@ -11788,7 +11899,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "22",
+      "Result": "25",
       "Report Year": "2026",
       "Display Name": "CARRIE Lynn Harris",
       "Last Name": "Harris",
@@ -11825,7 +11936,7 @@
       "Amending": ""
     },
     {
-      "Result": "23",
+      "Result": "26",
       "Report Year": "2026",
       "Display Name": "Cathy Giessel",
       "Last Name": "Giessel",
@@ -11862,7 +11973,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "24",
+      "Result": "27",
       "Report Year": "2026",
       "Display Name": "Cathy L. Tilton",
       "Last Name": "Tilton",
@@ -11899,7 +12010,7 @@
       "Amending": ""
     },
     {
-      "Result": "25",
+      "Result": "28",
       "Report Year": "2026",
       "Display Name": "Cecilia Sanchez",
       "Last Name": "Sanchez",
@@ -11936,7 +12047,7 @@
       "Amending": ""
     },
     {
-      "Result": "26",
+      "Result": "29",
       "Report Year": "2026",
       "Display Name": "Christian Chiavetta",
       "Last Name": "Chiavetta",
@@ -11973,7 +12084,7 @@
       "Amending": ""
     },
     {
-      "Result": "27",
+      "Result": "30",
       "Report Year": "2026",
       "Display Name": "Chuck Kopp",
       "Last Name": "Kopp",
@@ -12010,7 +12121,44 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "28",
+      "Result": "31",
+      "Report Year": "2026",
+      "Display Name": "CJ McCormick",
+      "Last Name": "McCormick",
+      "First Name": "Conrad",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "PO Box 150",
+      "City": "Bethel",
+      "State": "Alaska",
+      "Zip": "99559",
+      "Country": "USA",
+      "Phone": "907-545-3865",
+      "Fax": "",
+      "Email": "cjmccormickalaska@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "CJ McCormick",
+      "Treasurer Email": "cjmccormickalaska@gmail.com",
+      "Treasurer Phone": "907-545-3865",
+      "Chair Name": "CJ McCormick",
+      "Chair Email": "cjmccormickalaska@gmail.com",
+      "Chair Phone": "907-545-3865",
+      "Bank Name": "First National Bank Alaska",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "5/31/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "32",
       "Report Year": "2026",
       "Display Name": "Click Bishop",
       "Last Name": "Bishop",
@@ -12047,7 +12195,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "29",
+      "Result": "33",
       "Report Year": "2026",
       "Display Name": "Click Bishop / Greta Schuerch",
       "Last Name": "Bishop / Schuerch",
@@ -12084,7 +12232,7 @@
       "Amending": ""
     },
     {
-      "Result": "30",
+      "Result": "34",
       "Report Year": "2026",
       "Display Name": "Cliff Groh",
       "Last Name": "Groh",
@@ -12121,7 +12269,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "31",
+      "Result": "35",
       "Report Year": "2026",
       "Display Name": "Cody Anderson",
       "Last Name": "Anderson",
@@ -12158,7 +12306,7 @@
       "Amending": ""
     },
     {
-      "Result": "32",
+      "Result": "36",
       "Report Year": "2026",
       "Display Name": "Cooper for Alaska",
       "Last Name": "Cooper",
@@ -12195,7 +12343,44 @@
       "Amending": ""
     },
     {
-      "Result": "33",
+      "Result": "37",
+      "Report Year": "2026",
+      "Display Name": "Crystal Jones",
+      "Last Name": "Jones",
+      "First Name": "Crystal",
+      "Committee": "Crystal Jones for House District 36",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "2300B Glenn Hwy",
+      "City": "Nelchina",
+      "State": "Alaska",
+      "Zip": "99588",
+      "Country": "USA",
+      "Phone": "9073200407",
+      "Fax": "",
+      "Email": "Jones.crys@outlook.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Donna Jones",
+      "Treasurer Email": "bellajonesak@yahoo.com",
+      "Treasurer Phone": "9072022048",
+      "Chair Name": "Donna Jones",
+      "Chair Email": "bellajonesak@yahoo.com",
+      "Chair Phone": "9072022048",
+      "Bank Name": "Matanuska Valley Federal Credit Union",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": " Amendment"
+    },
+    {
+      "Result": "38",
       "Report Year": "2026",
       "Display Name": "Dan Saddler",
       "Last Name": "Saddler",
@@ -12232,7 +12417,7 @@
       "Amending": ""
     },
     {
-      "Result": "34",
+      "Result": "39",
       "Report Year": "2026",
       "Display Name": "Dan Sager",
       "Last Name": "Sager",
@@ -12269,7 +12454,7 @@
       "Amending": ""
     },
     {
-      "Result": "35",
+      "Result": "40",
       "Report Year": "2026",
       "Display Name": "Dana Raffaniello",
       "Last Name": "Raffaniello",
@@ -12306,7 +12491,7 @@
       "Amending": ""
     },
     {
-      "Result": "36",
+      "Result": "41",
       "Report Year": "2026",
       "Display Name": "Daniel Lewis Rampke",
       "Last Name": "Rampke",
@@ -12343,7 +12528,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "37",
+      "Result": "42",
       "Report Year": "2026",
       "Display Name": "Darin A Colbry",
       "Last Name": "Colbry",
@@ -12380,7 +12565,7 @@
       "Amending": ""
     },
     {
-      "Result": "38",
+      "Result": "43",
       "Report Year": "2026",
       "Display Name": "Darin A Colbry",
       "Last Name": "Colbry",
@@ -12417,7 +12602,7 @@
       "Amending": ""
     },
     {
-      "Result": "39",
+      "Result": "44",
       "Report Year": "2026",
       "Display Name": "Darren Morgan Deacon ",
       "Last Name": "Deacon",
@@ -12454,7 +12639,7 @@
       "Amending": ""
     },
     {
-      "Result": "40",
+      "Result": "45",
       "Report Year": "2026",
       "Display Name": "Dave Bronson / Josh Church",
       "Last Name": "Bronson / Church",
@@ -12491,7 +12676,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "41",
+      "Result": "46",
       "Report Year": "2026",
       "Display Name": "Dave Donley",
       "Last Name": "Donley",
@@ -12528,7 +12713,44 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "42",
+      "Result": "47",
+      "Report Year": "2026",
+      "Display Name": "David Eastman",
+      "Last Name": "Eastman",
+      "First Name": "David",
+      "Committee": "Freedom-Loving Alaskans for David Eastman",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "1491 W Gold Bar Rd",
+      "City": "Wasilla",
+      "State": "Alaska",
+      "Zip": "99654",
+      "Country": "USA",
+      "Phone": "9073554759",
+      "Fax": "",
+      "Email": "david@davideastman.org",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "David Eastman",
+      "Treasurer Email": "david@davideastman.org",
+      "Treasurer Phone": "9073554759",
+      "Chair Name": "David Eastman",
+      "Chair Email": "david@davideastman.org",
+      "Chair Phone": "9073554759",
+      "Bank Name": "Matanuska Valley Federal Credit Union",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "48",
       "Report Year": "2026",
       "Display Name": "DeLena Johnson",
       "Last Name": "Goodwin Johnson",
@@ -12565,7 +12787,44 @@
       "Amending": ""
     },
     {
-      "Result": "43",
+      "Result": "49",
+      "Report Year": "2026",
+      "Display Name": "Dennis Myron Robinson",
+      "Last Name": "Robinson",
+      "First Name": "Dennis",
+      "Committee": "Campaign for Dennis Robinson",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "P.O. Box 504",
+      "City": "Unalaska",
+      "State": "Alaska",
+      "Zip": "99685",
+      "Country": "USA",
+      "Phone": "907-317-7763",
+      "Fax": "",
+      "Email": "drobinson59@msn.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Dennis Robinson",
+      "Treasurer Email": "drobinson59@msn.com",
+      "Treasurer Phone": "907-317-7763",
+      "Chair Name": "Dennis Robinson",
+      "Chair Email": "drobinson59@msn.com",
+      "Chair Phone": "907-317-7763",
+      "Bank Name": "Key Bank ",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "50",
       "Report Year": "2026",
       "Display Name": "Donald Handeland",
       "Last Name": "Handeland",
@@ -12602,7 +12861,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "44",
+      "Result": "51",
       "Report Year": "2026",
       "Display Name": "Donna Anthony",
       "Last Name": "Anthony",
@@ -12639,7 +12898,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "45",
+      "Result": "52",
       "Report Year": "2026",
       "Display Name": "Donna C Mears",
       "Last Name": "Mears",
@@ -12676,7 +12935,7 @@
       "Amending": ""
     },
     {
-      "Result": "46",
+      "Result": "53",
       "Report Year": "2026",
       "Display Name": "Doug Massie",
       "Last Name": "Massie",
@@ -12713,7 +12972,7 @@
       "Amending": ""
     },
     {
-      "Result": "47",
+      "Result": "54",
       "Report Year": "2026",
       "Display Name": "Dustin Thomas House Darden ",
       "Last Name": "Darden",
@@ -12750,7 +13009,7 @@
       "Amending": ""
     },
     {
-      "Result": "48",
+      "Result": "55",
       "Report Year": "2026",
       "Display Name": "Edna DeVries",
       "Last Name": "DeVries",
@@ -12787,7 +13046,7 @@
       "Amending": ""
     },
     {
-      "Result": "49",
+      "Result": "56",
       "Report Year": "2026",
       "Display Name": "Elexie Moore",
       "Last Name": "Moore",
@@ -12824,7 +13083,7 @@
       "Amending": ""
     },
     {
-      "Result": "50",
+      "Result": "57",
       "Report Year": "2026",
       "Display Name": "Elvi Gray-Jackson",
       "Last Name": "Gray-Jackson",
@@ -12861,7 +13120,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "51",
+      "Result": "58",
       "Report Year": "2026",
       "Display Name": "Evelynn Trefon",
       "Last Name": "Trefon",
@@ -12898,7 +13157,81 @@
       "Amending": ""
     },
     {
-      "Result": "52",
+      "Result": "59",
+      "Report Year": "2026",
+      "Display Name": "Felix Rivera",
+      "Last Name": "Rivera",
+      "First Name": "Felix",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "2396 E 47th Ct",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99507",
+      "Country": "USA",
+      "Phone": "9077640841",
+      "Fax": "",
+      "Email": "felix_rivera1776@yahoo.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "N/A",
+      "Treasurer Email": "N/A",
+      "Treasurer Phone": "N/A",
+      "Chair Name": "N/A",
+      "Chair Email": "N/A",
+      "Chair Phone": "N/A",
+      "Bank Name": "Global FCU",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "60",
+      "Report Year": "2026",
+      "Display Name": "Frank Tomaszewski",
+      "Last Name": "Tomaszewski",
+      "First Name": "Frank",
+      "Committee": "FrankforAlaska",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "135 Wilderness Drive",
+      "City": "Fairbanks",
+      "State": "Alaska",
+      "Zip": "99712",
+      "Country": "USA",
+      "Phone": "9073472968",
+      "Fax": "",
+      "Email": "frank4fairbanks@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "Senate",
+      "Treasurer Name": "Frank Tomaszewski",
+      "Treasurer Email": "frank4fairbanks@gmail.com",
+      "Treasurer Phone": "9073472968",
+      "Chair Name": "Frank Tomaszewski",
+      "Chair Email": "frank4fairbanks@gmail.com",
+      "Chair Phone": "9073472968",
+      "Bank Name": "Mt Mckinley",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": " Amendment"
+    },
+    {
+      "Result": "61",
       "Report Year": "2026",
       "Display Name": "G. Garret Nelson",
       "Last Name": "Nelson",
@@ -12935,7 +13268,44 @@
       "Amending": ""
     },
     {
-      "Result": "53",
+      "Result": "62",
+      "Report Year": "2026",
+      "Display Name": "Genevieve Mina",
+      "Last Name": "Mina",
+      "First Name": "Genevieve",
+      "Committee": "Alaskans for Genevieve",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "PO Box 211696",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99521",
+      "Country": "USA",
+      "Phone": "9072300411",
+      "Fax": "",
+      "Email": "genevieve@alaskansforgenevieve.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Anna Hutchinson",
+      "Treasurer Email": "anna@annahutchinson.co",
+      "Treasurer Phone": "9072506292",
+      "Chair Name": "Genevieve Mina",
+      "Chair Email": "genevieve@alaskansforgenevieve.com",
+      "Chair Phone": "9072300411",
+      "Bank Name": "Wells Fargo Bank",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "63",
       "Report Year": "2026",
       "Display Name": "George Martinez",
       "Last Name": "Martinez",
@@ -12972,7 +13342,7 @@
       "Amending": ""
     },
     {
-      "Result": "54",
+      "Result": "64",
       "Report Year": "2026",
       "Display Name": "Gina Wall",
       "Last Name": "Wall",
@@ -13009,7 +13379,44 @@
       "Amending": ""
     },
     {
-      "Result": "55",
+      "Result": "65",
+      "Report Year": "2026",
+      "Display Name": "Grant EchoHawk",
+      "Last Name": "EchoHawk",
+      "First Name": "Grant",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "501 Pittinger Ave",
+      "City": "Ketchikan",
+      "State": "Alaska",
+      "Zip": "99901",
+      "Country": "USA",
+      "Phone": "425.249.608",
+      "Fax": "",
+      "Email": "echohawk4ak@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Grant EchoHawk",
+      "Treasurer Email": "echohawk4ak@gmail.com",
+      "Treasurer Phone": "425.249.6085",
+      "Chair Name": "Britanni Robbins",
+      "Chair Email": "robbinsbj@gmail.com",
+      "Chair Phone": "9073050132",
+      "Bank Name": "Tongass Federal Credit Union",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "66",
       "Report Year": "2026",
       "Display Name": "Gregg B. Brelsford",
       "Last Name": "Brelsford",
@@ -13046,7 +13453,81 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "56",
+      "Result": "67",
+      "Report Year": "2026",
+      "Display Name": "Gretchen W Stoddard",
+      "Last Name": "Stoddard",
+      "First Name": "Gretchen",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "13720 Arboretum St",
+      "City": "ANCHORAGE",
+      "State": "Alaska",
+      "Zip": "99516-7602",
+      "Country": "USA",
+      "Phone": "9072501300",
+      "Fax": "",
+      "Email": "GstodAncD09@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "Senate",
+      "Treasurer Name": "Gretchen W Stoddard",
+      "Treasurer Email": "GSTODANCD09@GMAIL.COM",
+      "Treasurer Phone": "9072501300",
+      "Chair Name": "Gretchen W Stoddard",
+      "Chair Email": "GstodAncD09@gmail.com",
+      "Chair Phone": "9072501300",
+      "Bank Name": "First National Bank ",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "68",
+      "Report Year": "2026",
+      "Display Name": "Harmony Tomaszewski",
+      "Last Name": "Tomaszewski",
+      "First Name": "Harmony",
+      "Committee": "Harmony for Alaska",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "135 Wilderness Dr.",
+      "City": "Fairbanks",
+      "State": "Alaska",
+      "Zip": "99712",
+      "Country": "USA",
+      "Phone": "9073472967",
+      "Fax": "",
+      "Email": "HarmonyforAlaska@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Harmony Tomaszewski",
+      "Treasurer Email": "HarmonyforAlaska@gmail.com",
+      "Treasurer Phone": "9073472967",
+      "Chair Name": "Harmony Tomaszewski",
+      "Chair Email": "HarmonyforAlaska@gmail.com",
+      "Chair Phone": "907-347-2967",
+      "Bank Name": "Global Federal Credit Union",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "69",
       "Report Year": "2026",
       "Display Name": "Heath Smith",
       "Last Name": "Smith",
@@ -13083,7 +13564,44 @@
       "Amending": ""
     },
     {
-      "Result": "57",
+      "Result": "70",
+      "Report Year": "2026",
+      "Display Name": "Hunter Kuznicki",
+      "Last Name": "Kuznicki",
+      "First Name": "Hunter",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "1051 E Snohomish Ave",
+      "City": "Wasilla",
+      "State": "Alaska",
+      "Zip": "99654",
+      "Country": "USA",
+      "Phone": "907-521-1374",
+      "Fax": "",
+      "Email": "Deluxealaskaninteriors@gmail.com",
+      "Election": "State General",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Hunter Kuznicki",
+      "Treasurer Email": "Deluxealaskaninteriors@gmail.com",
+      "Treasurer Phone": "907-521-1374",
+      "Chair Name": "Hunter Kuznicki",
+      "Chair Email": "Deluxealaskaninteriors@gmail.com",
+      "Chair Phone": "907-521-1374",
+      "Bank Name": "Matanuska Valley Federal Credit Union",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": " Amendment"
+    },
+    {
+      "Result": "71",
       "Report Year": "2026",
       "Display Name": "Jace White",
       "Last Name": "White",
@@ -13120,7 +13638,7 @@
       "Amending": ""
     },
     {
-      "Result": "58",
+      "Result": "72",
       "Report Year": "2026",
       "Display Name": "Jaimee Coon",
       "Last Name": "Coon",
@@ -13157,7 +13675,7 @@
       "Amending": ""
     },
     {
-      "Result": "59",
+      "Result": "73",
       "Report Year": "2026",
       "Display Name": "James William Parkin IV (JP4)",
       "Last Name": "Parkin",
@@ -13194,7 +13712,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "60",
+      "Result": "74",
       "Report Year": "2026",
       "Display Name": "Janelle Marie Anausuk Sharp",
       "Last Name": "Sharp",
@@ -13231,7 +13749,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "61",
+      "Result": "75",
       "Report Year": "2026",
       "Display Name": "Janice Park",
       "Last Name": "Park",
@@ -13268,7 +13786,7 @@
       "Amending": ""
     },
     {
-      "Result": "62",
+      "Result": "76",
       "Report Year": "2026",
       "Display Name": "Jeffrey L. Rentzel",
       "Last Name": "Rentzel",
@@ -13305,7 +13823,7 @@
       "Amending": ""
     },
     {
-      "Result": "63",
+      "Result": "77",
       "Report Year": "2026",
       "Display Name": "Jeremy T. Bynum",
       "Last Name": "Bynum",
@@ -13342,7 +13860,44 @@
       "Amending": ""
     },
     {
-      "Result": "64",
+      "Result": "78",
+      "Report Year": "2026",
+      "Display Name": "Jesse M Sumner",
+      "Last Name": "Sumner",
+      "First Name": "Jesse",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "4321 E Gemini Ln",
+      "City": "Wasilla",
+      "State": "Alaska",
+      "Zip": "99654",
+      "Country": "USA",
+      "Phone": "(907) 715-7388",
+      "Fax": "",
+      "Email": "Jessesumnerdistrict6@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "Governor",
+      "Treasurer Name": "Jesse Sumner",
+      "Treasurer Email": "Jessesumnerdistrict6@gmail.com",
+      "Treasurer Phone": "(907) 715-7388",
+      "Chair Name": "Jesse Sumner",
+      "Chair Email": "Jessesumnerdistrict6@gmail.com",
+      "Chair Phone": "(907) 715-7388",
+      "Bank Name": "Northrim Bank",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "79",
       "Report Year": "2026",
       "Display Name": "Jessica Faircloth",
       "Last Name": "Faircloth",
@@ -13379,7 +13934,81 @@
       "Amending": ""
     },
     {
-      "Result": "65",
+      "Result": "80",
+      "Report Year": "2026",
+      "Display Name": "Jessica Kusner-Kalarchik ",
+      "Last Name": "Kusner-Kalarchik",
+      "First Name": "Jessica",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "13705 E. Jensen Avenue",
+      "City": "Palmer",
+      "State": "Alaska",
+      "Zip": "99645",
+      "Country": "USA",
+      "Phone": "9103981900",
+      "Fax": "",
+      "Email": "Jesskusnerk@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Jessica Kusner-Kalarchik",
+      "Treasurer Email": "Jesskusnerk@gmail.com",
+      "Treasurer Phone": "9103981900",
+      "Chair Name": "Jessica Kusner-Kalarchik",
+      "Chair Email": "Jesskusnerk@gmail.com",
+      "Chair Phone": "9103981900",
+      "Bank Name": "Wells Fargo",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "81",
+      "Report Year": "2026",
+      "Display Name": "Jim Arlington",
+      "Last Name": "Arlington",
+      "First Name": "James",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "9449 Wren Circle",
+      "City": "Eagle Riber",
+      "State": "Alaska",
+      "Zip": "99577",
+      "Country": "USA",
+      "Phone": "(907) 350-2746",
+      "Fax": "",
+      "Email": "jarlington@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Monica Southworth",
+      "Treasurer Email": "monicasouthworth@gmail.com",
+      "Treasurer Phone": "(907) 957-9797",
+      "Chair Name": "Kim Arlington",
+      "Chair Email": "wren4@gci.net",
+      "Chair Phone": "(907) 230-1889",
+      "Bank Name": "Global Credit Union ",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "5/31/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "82",
       "Report Year": "2026",
       "Display Name": "Jim Hart",
       "Last Name": "Hart",
@@ -13416,7 +14045,7 @@
       "Amending": ""
     },
     {
-      "Result": "66",
+      "Result": "83",
       "Report Year": "2026",
       "Display Name": "John Stiegele",
       "Last Name": "Stiegele",
@@ -13453,7 +14082,7 @@
       "Amending": ""
     },
     {
-      "Result": "67",
+      "Result": "84",
       "Report Year": "2026",
       "Display Name": "Jonathan Kreiss-Tomkins",
       "Last Name": "Kreiss-Tomkins",
@@ -13490,7 +14119,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "68",
+      "Result": "85",
       "Report Year": "2026",
       "Display Name": "Joseph Amik",
       "Last Name": "Amik",
@@ -13527,7 +14156,7 @@
       "Amending": ""
     },
     {
-      "Result": "69",
+      "Result": "86",
       "Report Year": "2026",
       "Display Name": "Josiah Aullaqsruaq Patkotak",
       "Last Name": "Paktotak",
@@ -13564,7 +14193,7 @@
       "Amending": ""
     },
     {
-      "Result": "70",
+      "Result": "87",
       "Report Year": "2026",
       "Display Name": "Joy Beth Cottle",
       "Last Name": "Cottle",
@@ -13601,7 +14230,7 @@
       "Amending": ""
     },
     {
-      "Result": "71",
+      "Result": "88",
       "Report Year": "2026",
       "Display Name": "Jubilee Underwood",
       "Last Name": "Underwood",
@@ -13638,7 +14267,7 @@
       "Amending": ""
     },
     {
-      "Result": "72",
+      "Result": "89",
       "Report Year": "2026",
       "Display Name": "JULIE COULOMBE",
       "Last Name": "Coulombe",
@@ -13675,7 +14304,7 @@
       "Amending": ""
     },
     {
-      "Result": "73",
+      "Result": "90",
       "Report Year": "2026",
       "Display Name": "Justin Milette",
       "Last Name": "Milette",
@@ -13712,7 +14341,44 @@
       "Amending": ""
     },
     {
-      "Result": "74",
+      "Result": "91",
+      "Report Year": "2026",
+      "Display Name": "Justin Ruffridge",
+      "Last Name": "Ruffridge",
+      "First Name": "Justin",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "PO Box 2755",
+      "City": "Soldotna",
+      "State": "Alaska",
+      "Zip": "99669",
+      "Country": "USA",
+      "Phone": "9079533727",
+      "Fax": "",
+      "Email": "ruffridgeak@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Megan Crowe",
+      "Treasurer Email": "ruffridgeak@gmail.com",
+      "Treasurer Phone": "9079531552",
+      "Chair Name": "Justin Ruffridge",
+      "Chair Email": "ruffridgeak@gmail.com",
+      "Chair Phone": "9079533727",
+      "Bank Name": "Northrim Bank",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "92",
       "Report Year": "2026",
       "Display Name": "Katherine Simpler",
       "Last Name": "Simpler",
@@ -13749,7 +14415,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "75",
+      "Result": "93",
       "Report Year": "2026",
       "Display Name": "Ken McCarty",
       "Last Name": "McCarty",
@@ -13786,7 +14452,44 @@
       "Amending": ""
     },
     {
-      "Result": "76",
+      "Result": "94",
+      "Report Year": "2026",
+      "Display Name": "Kit Kennedy",
+      "Last Name": "Kennedy",
+      "First Name": "Kathleen",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "PO Box 876185",
+      "City": "Wasilla",
+      "State": "Alaska",
+      "Zip": "99687",
+      "Country": "USA",
+      "Phone": "9074140124",
+      "Fax": "",
+      "Email": "travelinkit@duck.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Jade Tabony",
+      "Treasurer Email": "jat257@cornell.edu",
+      "Treasurer Phone": "5046157084",
+      "Chair Name": "James Mason",
+      "Chair Email": "jmasonsafe@gmail.com",
+      "Chair Phone": "6616215962",
+      "Bank Name": "Matanuska Valley Federal Credit Union",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": " Amendment"
+    },
+    {
+      "Result": "95",
       "Report Year": "2026",
       "Display Name": "Ky Holland",
       "Last Name": "Holland III",
@@ -13823,7 +14526,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "77",
+      "Result": "96",
       "Report Year": "2026",
       "Display Name": "Kyle Walker",
       "Last Name": "Walker",
@@ -13860,7 +14563,44 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "78",
+      "Result": "97",
+      "Report Year": "2026",
+      "Display Name": "Lee Eric Hammermeister",
+      "Last Name": "Hammermeister",
+      "First Name": "Lee",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "20815 river park drive",
+      "City": "Eagle River",
+      "State": "Alaska",
+      "Zip": "99577",
+      "Country": "USA",
+      "Phone": "9077441819",
+      "Fax": "",
+      "Email": "hammermeister.lee@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Lee Eric Hammermeister",
+      "Treasurer Email": "hammermeister.lee@gmail.com",
+      "Treasurer Phone": "9077441819",
+      "Chair Name": "Lee Eric Hammermeister",
+      "Chair Email": "hammermeister.lee@gmail.com",
+      "Chair Phone": "9077441819",
+      "Bank Name": "Global Credit Union",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "98",
       "Report Year": "2026",
       "Display Name": "Leo Brian Schafer",
       "Last Name": "Schafer",
@@ -13897,7 +14637,44 @@
       "Amending": ""
     },
     {
-      "Result": "79",
+      "Result": "99",
+      "Report Year": "2026",
+      "Display Name": "Lesil McGuire",
+      "Last Name": "McGuire",
+      "First Name": "Lesil",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "3051 Lakeside Drive",
+      "City": "Anchorage ",
+      "State": "Alaska",
+      "Zip": "99515",
+      "Country": "USA",
+      "Phone": "9073518060",
+      "Fax": "",
+      "Email": "Lesil@me.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "Governor",
+      "Treasurer Name": "Stephanie Syzmanski",
+      "Treasurer Email": "Stephanie@kaolinite.us",
+      "Treasurer Phone": "2024122659",
+      "Chair Name": "Michael Method",
+      "Chair Email": "Michael@method.us",
+      "Chair Phone": "9072503070",
+      "Bank Name": "Wells Fargo ",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "100",
       "Report Year": "2026",
       "Display Name": "Lisa Keller",
       "Last Name": "Keller",
@@ -13934,7 +14711,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "80",
+      "Result": "101",
       "Report Year": "2026",
       "Display Name": "Louise Stutes",
       "Last Name": "Stutes",
@@ -13971,7 +14748,44 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "81",
+      "Result": "102",
+      "Report Year": "2026",
+      "Display Name": "Matt Andrew Heilala",
+      "Last Name": "Heilala",
+      "First Name": "Matt",
+      "Committee": "Matt Heilala for Governor",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "3705 Arctic BLVD #487",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99503-5774",
+      "Country": "USA",
+      "Phone": "(907) 250-9823",
+      "Fax": "",
+      "Email": "mheilala@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "Governor",
+      "Treasurer Name": "Joseph Lurtsema",
+      "Treasurer Email": "joe@lurtsemacommunications.com",
+      "Treasurer Phone": "9073826863",
+      "Chair Name": "Matt Heilala",
+      "Chair Email": "mattheilala@gmail.com",
+      "Chair Phone": "9072509823",
+      "Bank Name": "First National Bank of Alaska",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "103",
       "Report Year": "2026",
       "Display Name": "Matt Claman",
       "Last Name": "Claman",
@@ -14008,7 +14822,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "82",
+      "Result": "104",
       "Report Year": "2026",
       "Display Name": "Matthew Harris Salisbury",
       "Last Name": "Salisbury",
@@ -14045,7 +14859,7 @@
       "Amending": ""
     },
     {
-      "Result": "83",
+      "Result": "105",
       "Report Year": "2026",
       "Display Name": "Max Powers",
       "Last Name": "Powers",
@@ -14082,7 +14896,7 @@
       "Amending": ""
     },
     {
-      "Result": "84",
+      "Result": "106",
       "Report Year": "2026",
       "Display Name": "Maxine Dibert",
       "Last Name": "Dibert",
@@ -14119,7 +14933,7 @@
       "Amending": ""
     },
     {
-      "Result": "85",
+      "Result": "107",
       "Report Year": "2026",
       "Display Name": "Meda DeWitt",
       "Last Name": "DeWitt",
@@ -14134,16 +14948,16 @@
       "Country": "USA",
       "Phone": "9077644490",
       "Fax": "",
-      "Email": "medadewitt@gmail.com",
+      "Email": "Meda@medaforalaska.com",
       "Election": "State Primary",
       "Election Type": "",
       "Municipality": "",
       "Office": "Governor",
       "Treasurer Name": "Christopher Steere",
-      "Treasurer Email": "chrissteere@gmail.com",
+      "Treasurer Email": "chris@medaforalaska.com",
       "Treasurer Phone": "907-764-4490",
       "Chair Name": "Elsie Boudreau",
-      "Chair Email": "elsieboudreau@gmail.com",
+      "Chair Email": "elsie@medaforalaska.com",
       "Chair Phone": "907-764-4490",
       "Bank Name": "Wells Fargo ",
       "Bank Address": "",
@@ -14151,12 +14965,12 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "3/27/2026",
+      "Submitted": "5/31/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
     {
-      "Result": "86",
+      "Result": "108",
       "Report Year": "2026",
       "Display Name": "Michael Bowles",
       "Last Name": "Bowles",
@@ -14193,7 +15007,7 @@
       "Amending": ""
     },
     {
-      "Result": "87",
+      "Result": "109",
       "Report Year": "2026",
       "Display Name": "Michelle Heun",
       "Last Name": "Heun",
@@ -14230,7 +15044,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "88",
+      "Result": "110",
       "Report Year": "2026",
       "Display Name": "Miguel Angel Ramirez",
       "Last Name": "Ramirez",
@@ -14267,7 +15081,7 @@
       "Amending": ""
     },
     {
-      "Result": "89",
+      "Result": "111",
       "Report Year": "2026",
       "Display Name": "Mike Prax for State House",
       "Last Name": "Prax",
@@ -14304,7 +15118,7 @@
       "Amending": ""
     },
     {
-      "Result": "90",
+      "Result": "112",
       "Report Year": "2026",
       "Display Name": "NANCY A DAHLSTROM",
       "Last Name": "Dahlstrom",
@@ -14341,7 +15155,7 @@
       "Amending": ""
     },
     {
-      "Result": "91",
+      "Result": "113",
       "Report Year": "2026",
       "Display Name": "Neal \"Quannaq\" Foster",
       "Last Name": "Foster",
@@ -14378,7 +15192,7 @@
       "Amending": ""
     },
     {
-      "Result": "92",
+      "Result": "114",
       "Report Year": "2026",
       "Display Name": "nicholas danger",
       "Last Name": "danger",
@@ -14415,7 +15229,7 @@
       "Amending": ""
     },
     {
-      "Result": "93",
+      "Result": "115",
       "Report Year": "2026",
       "Display Name": "Nicholas James Capozzi",
       "Last Name": "Capozzi",
@@ -14452,7 +15266,44 @@
       "Amending": ""
     },
     {
-      "Result": "94",
+      "Result": "116",
+      "Report Year": "2026",
+      "Display Name": "Nissa Savage",
+      "Last Name": "Savage",
+      "First Name": "Nissa",
+      "Committee": "Nissa for State House",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "36439 Edgington Rd",
+      "City": "Soldotna",
+      "State": "Alaska",
+      "Zip": "99669",
+      "Country": "USA",
+      "Phone": "907-252-5549",
+      "Fax": "",
+      "Email": "nissaforstatehouse@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Emma Key",
+      "Treasurer Email": "emmaphebe@gmail.com",
+      "Treasurer Phone": "9073120070",
+      "Chair Name": "Megan Weston",
+      "Chair Email": "mnweston@gmail.com",
+      "Chair Phone": "5016171538",
+      "Bank Name": "Northrim Bank",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": " Amendment"
+    },
+    {
+      "Result": "117",
       "Report Year": "2026",
       "Display Name": "Patricia R Chesbro",
       "Last Name": "Chesbro",
@@ -14489,7 +15340,7 @@
       "Amending": ""
     },
     {
-      "Result": "95",
+      "Result": "118",
       "Report Year": "2026",
       "Display Name": "Paul McDonogh",
       "Last Name": "McDonogh",
@@ -14526,7 +15377,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "96",
+      "Result": "119",
       "Report Year": "2026",
       "Display Name": "Paul Roy Kelly",
       "Last Name": "Kelly",
@@ -14563,7 +15414,7 @@
       "Amending": ""
     },
     {
-      "Result": "97",
+      "Result": "120",
       "Report Year": "2026",
       "Display Name": "Pepper McFarland",
       "Last Name": "McFarland",
@@ -14600,7 +15451,7 @@
       "Amending": ""
     },
     {
-      "Result": "98",
+      "Result": "121",
       "Report Year": "2026",
       "Display Name": "Peter Bauer",
       "Last Name": "Bauer",
@@ -14637,7 +15488,7 @@
       "Amending": ""
     },
     {
-      "Result": "99",
+      "Result": "122",
       "Report Year": "2026",
       "Display Name": "Phil Isley",
       "Last Name": "Isley",
@@ -14674,7 +15525,7 @@
       "Amending": ""
     },
     {
-      "Result": "100",
+      "Result": "123",
       "Report Year": "2026",
       "Display Name": "Rachel Blakeslee",
       "Last Name": "Blakeslee",
@@ -14711,7 +15562,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "101",
+      "Result": "124",
       "Report Year": "2026",
       "Display Name": "Rebecca A Schwanke",
       "Last Name": "Schwanke",
@@ -14748,7 +15599,7 @@
       "Amending": ""
     },
     {
-      "Result": "102",
+      "Result": "125",
       "Report Year": "2026",
       "Display Name": "Rebecca Himschoot",
       "Last Name": "Himschoot",
@@ -14785,7 +15636,7 @@
       "Amending": ""
     },
     {
-      "Result": "103",
+      "Result": "126",
       "Report Year": "2026",
       "Display Name": "Rebecca Himschoot",
       "Last Name": "Himschoot",
@@ -14822,7 +15673,7 @@
       "Amending": ""
     },
     {
-      "Result": "104",
+      "Result": "127",
       "Report Year": "2026",
       "Display Name": "Richard Robb ",
       "Last Name": "Robb",
@@ -14859,7 +15710,7 @@
       "Amending": ""
     },
     {
-      "Result": "105",
+      "Result": "128",
       "Report Year": "2026",
       "Display Name": "Robyn Niayuq Frier",
       "Last Name": "Frier",
@@ -14896,7 +15747,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "106",
+      "Result": "129",
       "Report Year": "2026",
       "Display Name": "Ronald Scott Williams",
       "Last Name": "williams",
@@ -14933,7 +15784,7 @@
       "Amending": ""
     },
     {
-      "Result": "107",
+      "Result": "130",
       "Report Year": "2026",
       "Display Name": "Ruby Jones",
       "Last Name": "Jones",
@@ -14970,7 +15821,7 @@
       "Amending": ""
     },
     {
-      "Result": "108",
+      "Result": "131",
       "Report Year": "2026",
       "Display Name": "Russell wyatt",
       "Last Name": "Wyatt",
@@ -15007,7 +15858,44 @@
       "Amending": ""
     },
     {
-      "Result": "109",
+      "Result": "132",
+      "Report Year": "2026",
+      "Display Name": "Ryan James Berry",
+      "Last Name": "Berry",
+      "First Name": "Ryan",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "PO Box 879562",
+      "City": "Wasilla",
+      "State": "Alaska",
+      "Zip": "99687",
+      "Country": "USA",
+      "Phone": "907-720-8885",
+      "Fax": "",
+      "Email": "ryan_berry@hotmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "Senate",
+      "Treasurer Name": "Ryan James Berry",
+      "Treasurer Email": "ryan_berry@hotmail.com",
+      "Treasurer Phone": "9077208885",
+      "Chair Name": "Ryan James Berry",
+      "Chair Email": "ryan_berry@hotmail.com",
+      "Chair Phone": "9077208885",
+      "Bank Name": "Northrim Bank",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": " Amendment"
+    },
+    {
+      "Result": "133",
       "Report Year": "2026",
       "Display Name": "Ryan William Sheldon",
       "Last Name": "Sheldon",
@@ -15044,7 +15932,7 @@
       "Amending": ""
     },
     {
-      "Result": "110",
+      "Result": "134",
       "Report Year": "2026",
       "Display Name": "Sandra Loomis",
       "Last Name": "Loomis",
@@ -15081,7 +15969,7 @@
       "Amending": ""
     },
     {
-      "Result": "111",
+      "Result": "135",
       "Report Year": "2026",
       "Display Name": "Sara Hannan",
       "Last Name": "Hannan",
@@ -15118,7 +16006,81 @@
       "Amending": ""
     },
     {
-      "Result": "112",
+      "Result": "136",
+      "Report Year": "2026",
+      "Display Name": "Seth Church",
+      "Last Name": "Church",
+      "First Name": "Seth",
+      "Committee": "Seth Church for State House",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "336 Slater Drive",
+      "City": "Fairbanks",
+      "State": "Alaska",
+      "Zip": "99701",
+      "Country": "USA",
+      "Phone": "7015007188",
+      "Fax": "",
+      "Email": "seth.church5@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Seth Church",
+      "Treasurer Email": "seth.church5@gmail.com",
+      "Treasurer Phone": "7015007188",
+      "Chair Name": "Seth Church",
+      "Chair Email": "seth.church5@gmail.com",
+      "Chair Phone": "7015007188",
+      "Bank Name": "Mt. McKinley Bank",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "137",
+      "Report Year": "2026",
+      "Display Name": "Sharon Denise Jackson",
+      "Last Name": "Portch",
+      "First Name": "Sharon",
+      "Committee": "Alaskans for Jackson",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "12131 Horseshoe Drive",
+      "City": "Eagle River",
+      "State": "Alaska",
+      "Zip": "99577",
+      "Country": "USA",
+      "Phone": "907 268-0602",
+      "Fax": "",
+      "Email": "alaskansforjackson@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Sharon D Portch",
+      "Treasurer Email": "sharon@imcc.us",
+      "Treasurer Phone": "907 854-1469",
+      "Chair Name": "James Portch",
+      "Chair Email": "jim907@yahoo.com",
+      "Chair Phone": "907 854-2461",
+      "Bank Name": "Northrim Bank",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "138",
       "Report Year": "2026",
       "Display Name": "Sheldon R.J. Prout",
       "Last Name": "Prout",
@@ -15155,7 +16117,7 @@
       "Amending": ""
     },
     {
-      "Result": "113",
+      "Result": "139",
       "Report Year": "2026",
       "Display Name": "Shelley Hughes",
       "Last Name": "Hughes",
@@ -15192,7 +16154,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "114",
+      "Result": "140",
       "Report Year": "2026",
       "Display Name": "Shelley Hughes \\ Blake Gettys",
       "Last Name": "Hughes \\ Gettys",
@@ -15229,7 +16191,44 @@
       "Amending": ""
     },
     {
-      "Result": "115",
+      "Result": "141",
+      "Report Year": "2026",
+      "Display Name": "Steve Menard",
+      "Last Name": "Menard",
+      "First Name": "Steven",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "1150 S. Colony Way, Suite #3-128",
+      "City": "Palmer",
+      "State": "Alaska",
+      "Zip": "99645",
+      "Country": "USA",
+      "Phone": "9072326097",
+      "Fax": "",
+      "Email": "alaskansforstevemenard@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Colleen Menard",
+      "Treasurer Email": "valleygirl68@gmail.com",
+      "Treasurer Phone": "9073541218",
+      "Chair Name": "Davin Koivunen",
+      "Chair Email": "Davin.Koivunen@asrcenergy.com",
+      "Chair Phone": "9073576118",
+      "Bank Name": "Wells Fargo",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "142",
       "Report Year": "2026",
       "Display Name": "Steve St.Clair",
       "Last Name": "St.Clair",
@@ -15266,7 +16265,7 @@
       "Amending": ""
     },
     {
-      "Result": "116",
+      "Result": "143",
       "Report Year": "2026",
       "Display Name": "Sydney Scout",
       "Last Name": "Scout",
@@ -15303,7 +16302,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "117",
+      "Result": "144",
       "Report Year": "2026",
       "Display Name": "Ted J. Eischeid",
       "Last Name": "Eischeid",
@@ -15340,7 +16339,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "118",
+      "Result": "145",
       "Report Year": "2026",
       "Display Name": "Tom Begich",
       "Last Name": "Begich",
@@ -15377,7 +16376,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "119",
+      "Result": "146",
       "Report Year": "2026",
       "Display Name": "Treg Taylor",
       "Last Name": "Taylor",
@@ -15414,7 +16413,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "120",
+      "Result": "147",
       "Report Year": "2026",
       "Display Name": "Tyler Ivanoff",
       "Last Name": "Ivanoff",
@@ -15451,7 +16450,7 @@
       "Amending": ""
     },
     {
-      "Result": "121",
+      "Result": "148",
       "Report Year": "2026",
       "Display Name": "Votekevinmccabe",
       "Last Name": "McCabe",
@@ -15488,7 +16487,7 @@
       "Amending": ""
     },
     {
-      "Result": "122",
+      "Result": "149",
       "Report Year": "2026",
       "Display Name": "Wassilie Paul Guy",
       "Last Name": "guy",
@@ -15525,7 +16524,7 @@
       "Amending": ""
     },
     {
-      "Result": "123",
+      "Result": "150",
       "Report Year": "2026",
       "Display Name": "Wayne A. Morgan",
       "Last Name": "Morgan",
@@ -15562,7 +16561,118 @@
       "Amending": ""
     },
     {
-      "Result": "124",
+      "Result": "151",
+      "Report Year": "2026",
+      "Display Name": "Will Stapp",
+      "Last Name": "Stapp",
+      "First Name": "William",
+      "Committee": "Will Stapp for Alaska",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "Po Box 71556",
+      "City": "Fairbanks",
+      "State": "Alaska",
+      "Zip": "99707",
+      "Country": "USA",
+      "Phone": "9077171929",
+      "Fax": "",
+      "Email": "will@willstappforalaska.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Sam Trotzke",
+      "Treasurer Email": "sam2@rjgcpa.com",
+      "Treasurer Phone": "907 452-4156",
+      "Chair Name": "Will Stapp",
+      "Chair Email": "will@willstappforalaska.com",
+      "Chair Phone": "9077171929",
+      "Bank Name": "Denali State Bank",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "152",
+      "Report Year": "2026",
+      "Display Name": "William Z \"Zack\" Fields",
+      "Last Name": "Fields",
+      "First Name": "William",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "1320 K St",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Phone": "9072012895",
+      "Fax": "",
+      "Email": "zackfields@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "",
+      "Treasurer Name": "Kristian Dahl",
+      "Treasurer Email": "kristiansbookeeping@gmail.com",
+      "Treasurer Phone": "9073016060",
+      "Chair Name": "Eleanor Andrews",
+      "Chair Email": "mzeleanor@gmail.com",
+      "Chair Phone": "9072305360",
+      "Bank Name": "Wells Fargo",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "153",
+      "Report Year": "2026",
+      "Display Name": "Wright, Stephen",
+      "Last Name": "Wright",
+      "First Name": "Stephen",
+      "Committee": "Stephen Wright for House District 28",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "3560 North Banner Way",
+      "City": "WASILLA",
+      "State": "Alaska",
+      "Zip": "99654",
+      "Country": "USA",
+      "Phone": "9072031559",
+      "Fax": "",
+      "Email": "stephenwrightalaska@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Stephen Wright",
+      "Treasurer Email": "stephenwrightalaska@gmail.com",
+      "Treasurer Phone": "9072031559",
+      "Chair Name": "Jessica Wright",
+      "Chair Email": "wright9028@hotmail.com",
+      "Chair Phone": "9072039009",
+      "Bank Name": "Wells Fargo",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/1/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "154",
       "Report Year": "2026",
       "Display Name": "Zachary H. Johnson",
       "Last Name": "Johnson",
@@ -15599,7 +16709,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "125",
+      "Result": "155",
       "Report Year": "2025",
       "Display Name": "Abby L. Bradberry",
       "Last Name": "Bradberry",
@@ -15636,7 +16746,7 @@
       "Amending": ""
     },
     {
-      "Result": "126",
+      "Result": "156",
       "Report Year": "2025",
       "Display Name": "Alexander Rosales",
       "Last Name": "Rosales",
@@ -15673,7 +16783,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "127",
+      "Result": "157",
       "Report Year": "2025",
       "Display Name": "Anthony Pitcher",
       "Last Name": "Pitcher",
@@ -15710,7 +16820,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "128",
+      "Result": "158",
       "Report Year": "2025",
       "Display Name": "Ash-Lee Waddell",
       "Last Name": "Waddell",
@@ -15747,7 +16857,7 @@
       "Amending": ""
     },
     {
-      "Result": "129",
+      "Result": "159",
       "Report Year": "2025",
       "Display Name": "Audra Hull",
       "Last Name": "Hull",
@@ -15784,7 +16894,7 @@
       "Amending": ""
     },
     {
-      "Result": "130",
+      "Result": "160",
       "Report Year": "2025",
       "Display Name": "Austin Otos",
       "Last Name": "Otos",
@@ -15821,7 +16931,7 @@
       "Amending": ""
     },
     {
-      "Result": "131",
+      "Result": "161",
       "Report Year": "2025",
       "Display Name": "Barbara Haney",
       "Last Name": "Haney",
@@ -15858,7 +16968,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "132",
+      "Result": "162",
       "Report Year": "2025",
       "Display Name": "Bradley Parsons",
       "Last Name": "Parsons",
@@ -15895,7 +17005,7 @@
       "Amending": ""
     },
     {
-      "Result": "133",
+      "Result": "163",
       "Report Year": "2025",
       "Display Name": "Brent Hibbert",
       "Last Name": "Hibbert",
@@ -15932,7 +17042,7 @@
       "Amending": ""
     },
     {
-      "Result": "134",
+      "Result": "164",
       "Report Year": "2025",
       "Display Name": "Brett Rotermund",
       "Last Name": "Rotermund",
@@ -15969,7 +17079,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "135",
+      "Result": "165",
       "Report Year": "2025",
       "Display Name": "Chemetria \"Sam\" Spencer",
       "Last Name": "Spencer",
@@ -16006,7 +17116,7 @@
       "Amending": ""
     },
     {
-      "Result": "136",
+      "Result": "166",
       "Report Year": "2025",
       "Display Name": "Crystal Tidwell",
       "Last Name": "Tidwell",
@@ -16043,7 +17153,7 @@
       "Amending": ""
     },
     {
-      "Result": "137",
+      "Result": "167",
       "Report Year": "2025",
       "Display Name": "Dana Raffaniello",
       "Last Name": "Raffaniello",
@@ -16080,7 +17190,7 @@
       "Amending": ""
     },
     {
-      "Result": "138",
+      "Result": "168",
       "Report Year": "2025",
       "Display Name": "Daniel George",
       "Last Name": "George",
@@ -16117,7 +17227,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "139",
+      "Result": "169",
       "Report Year": "2025",
       "Display Name": "Daniel Volland",
       "Last Name": "Volland",
@@ -16154,7 +17264,7 @@
       "Amending": ""
     },
     {
-      "Result": "140",
+      "Result": "170",
       "Report Year": "2025",
       "Display Name": "Darin A Colbry ",
       "Last Name": "Colbry",
@@ -16191,7 +17301,7 @@
       "Amending": ""
     },
     {
-      "Result": "141",
+      "Result": "171",
       "Report Year": "2025",
       "Display Name": "David Littleton",
       "Last Name": "Littleton",
@@ -16228,7 +17338,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "142",
+      "Result": "172",
       "Report Year": "2025",
       "Display Name": "David Littleton",
       "Last Name": "Littleton",
@@ -16265,7 +17375,7 @@
       "Amending": ""
     },
     {
-      "Result": "143",
+      "Result": "173",
       "Report Year": "2025",
       "Display Name": "David Pruhs",
       "Last Name": "Pruhs",
@@ -16302,7 +17412,7 @@
       "Amending": ""
     },
     {
-      "Result": "144",
+      "Result": "174",
       "Report Year": "2025",
       "Display Name": "Don Smith",
       "Last Name": "Smith",
@@ -16339,7 +17449,7 @@
       "Amending": ""
     },
     {
-      "Result": "145",
+      "Result": "175",
       "Report Year": "2025",
       "Display Name": "Ella Adkison",
       "Last Name": "Adkison",
@@ -16376,7 +17486,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "146",
+      "Result": "176",
       "Report Year": "2025",
       "Display Name": "Eric L Gurley",
       "Last Name": "Gurley",
@@ -16413,7 +17523,7 @@
       "Amending": ""
     },
     {
-      "Result": "147",
+      "Result": "177",
       "Report Year": "2025",
       "Display Name": "Erin Baldwin Day",
       "Last Name": "Day",
@@ -16450,7 +17560,7 @@
       "Amending": ""
     },
     {
-      "Result": "148",
+      "Result": "178",
       "Report Year": "2025",
       "Display Name": "Fannie Suvlu",
       "Last Name": "Suvlu",
@@ -16487,7 +17597,7 @@
       "Amending": ""
     },
     {
-      "Result": "149",
+      "Result": "179",
       "Report Year": "2025",
       "Display Name": "Forrest Deano olemaun",
       "Last Name": "olemaun",
@@ -16524,7 +17634,7 @@
       "Amending": ""
     },
     {
-      "Result": "150",
+      "Result": "180",
       "Report Year": "2025",
       "Display Name": "Frances JakyLou Olemaun",
       "Last Name": "Olemaun",
@@ -16561,7 +17671,7 @@
       "Amending": ""
     },
     {
-      "Result": "151",
+      "Result": "181",
       "Report Year": "2025",
       "Display Name": "Frederick F. Brower",
       "Last Name": "Brower",
@@ -16598,7 +17708,7 @@
       "Amending": ""
     },
     {
-      "Result": "152",
+      "Result": "182",
       "Report Year": "2025",
       "Display Name": "Garrett Armstrong",
       "Last Name": "Armstrong",
@@ -16635,7 +17745,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "153",
+      "Result": "183",
       "Report Year": "2025",
       "Display Name": "Gayle D. Claus",
       "Last Name": "Claus",
@@ -16672,7 +17782,7 @@
       "Amending": ""
     },
     {
-      "Result": "154",
+      "Result": "184",
       "Report Year": "2025",
       "Display Name": "Grant EchoHawk",
       "Last Name": "EchoHawk",
@@ -16709,7 +17819,7 @@
       "Amending": ""
     },
     {
-      "Result": "155",
+      "Result": "185",
       "Report Year": "2025",
       "Display Name": "Greg Smith",
       "Last Name": "Smith",
@@ -16746,7 +17856,7 @@
       "Amending": ""
     },
     {
-      "Result": "156",
+      "Result": "186",
       "Report Year": "2025",
       "Display Name": "Greg Smith for Assembly",
       "Last Name": "Smith",
@@ -16783,7 +17893,7 @@
       "Amending": ""
     },
     {
-      "Result": "157",
+      "Result": "187",
       "Report Year": "2025",
       "Display Name": "Gregory Robert Schiedler",
       "Last Name": "Schiedler",
@@ -16820,7 +17930,7 @@
       "Amending": ""
     },
     {
-      "Result": "158",
+      "Result": "188",
       "Report Year": "2025",
       "Display Name": "Hannah Victoria Ekalook",
       "Last Name": "Ekalook",
@@ -16857,7 +17967,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "159",
+      "Result": "189",
       "Report Year": "2025",
       "Display Name": "J. T. McComas-Roe",
       "Last Name": "McComas-Roe",
@@ -16894,7 +18004,7 @@
       "Amending": ""
     },
     {
-      "Result": "160",
+      "Result": "190",
       "Report Year": "2025",
       "Display Name": "James Michael Taylor",
       "Last Name": "Taylor",
@@ -16931,7 +18041,7 @@
       "Amending": ""
     },
     {
-      "Result": "161",
+      "Result": "191",
       "Report Year": "2025",
       "Display Name": "Jared David Goecker",
       "Last Name": "Goecker",
@@ -16968,7 +18078,7 @@
       "Amending": ""
     },
     {
-      "Result": "162",
+      "Result": "192",
       "Report Year": "2025",
       "Display Name": "Jared Griffin",
       "Last Name": "Griffin",
@@ -17005,7 +18115,7 @@
       "Amending": ""
     },
     {
-      "Result": "163",
+      "Result": "193",
       "Report Year": "2025",
       "Display Name": "Jeffery Aaron Woods",
       "Last Name": "Woods",
@@ -17042,7 +18152,7 @@
       "Amending": ""
     },
     {
-      "Result": "164",
+      "Result": "194",
       "Report Year": "2025",
       "Display Name": "Jenny Vander Weele Thomas",
       "Last Name": "Thomas",
@@ -17079,7 +18189,7 @@
       "Amending": ""
     },
     {
-      "Result": "165",
+      "Result": "195",
       "Report Year": "2025",
       "Display Name": "Jeremy Josiah Johnson (aka -jjj)",
       "Last Name": "Johnson",
@@ -17116,7 +18226,7 @@
       "Amending": ""
     },
     {
-      "Result": "166",
+      "Result": "196",
       "Report Year": "2025",
       "Display Name": "John Mink",
       "Last Name": "Mink",
@@ -17153,7 +18263,7 @@
       "Amending": ""
     },
     {
-      "Result": "167",
+      "Result": "197",
       "Report Year": "2025",
       "Display Name": "Joseph Alan Seale",
       "Last Name": "Seale",
@@ -17190,7 +18300,7 @@
       "Amending": ""
     },
     {
-      "Result": "168",
+      "Result": "198",
       "Report Year": "2025",
       "Display Name": "Kameron Perez-Verdia",
       "Last Name": "Perez-Verdia",
@@ -17227,7 +18337,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "169",
+      "Result": "199",
       "Report Year": "2025",
       "Display Name": "Keith McCormick",
       "Last Name": "McCormick",
@@ -17264,7 +18374,7 @@
       "Amending": ""
     },
     {
-      "Result": "170",
+      "Result": "200",
       "Report Year": "2025",
       "Display Name": "Kelly Lessens",
       "Last Name": "Lessens",
@@ -17301,7 +18411,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "171",
+      "Result": "201",
       "Report Year": "2025",
       "Display Name": "Kendal Kruse",
       "Last Name": "Kruse",
@@ -17338,7 +18448,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "172",
+      "Result": "202",
       "Report Year": "2025",
       "Display Name": "Kendal Kruse",
       "Last Name": "Kruse",
@@ -17375,7 +18485,7 @@
       "Amending": ""
     },
     {
-      "Result": "173",
+      "Result": "203",
       "Report Year": "2025",
       "Display Name": "Kristina \"KVan\" Van Hoogmoed",
       "Last Name": "Van Hoogmoed",
@@ -17412,7 +18522,7 @@
       "Amending": ""
     },
     {
-      "Result": "174",
+      "Result": "204",
       "Report Year": "2025",
       "Display Name": "Kyle Walker",
       "Last Name": "Walker",
@@ -17449,7 +18559,7 @@
       "Amending": ""
     },
     {
-      "Result": "175",
+      "Result": "205",
       "Report Year": "2025",
       "Display Name": "Margaret E. Bellamy",
       "Last Name": "Bellamy",
@@ -17486,7 +18596,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "176",
+      "Result": "206",
       "Report Year": "2025",
       "Display Name": "Mark Anthony Cox",
       "Last Name": "Cox",
@@ -17523,7 +18633,7 @@
       "Amending": ""
     },
     {
-      "Result": "177",
+      "Result": "207",
       "Report Year": "2025",
       "Display Name": "Mark C. Hoffer",
       "Last Name": "Hoffer",
@@ -17560,7 +18670,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "178",
+      "Result": "208",
       "Report Year": "2025",
       "Display Name": "Mark Schmidt",
       "Last Name": "Schmidt",
@@ -17597,7 +18707,7 @@
       "Amending": ""
     },
     {
-      "Result": "179",
+      "Result": "209",
       "Report Year": "2025",
       "Display Name": "Marlin Dale Eicher",
       "Last Name": "Eicher",
@@ -17634,7 +18744,7 @@
       "Amending": ""
     },
     {
-      "Result": "180",
+      "Result": "210",
       "Report Year": "2025",
       "Display Name": "Mary Jean Silva",
       "Last Name": "Silva",
@@ -17671,7 +18781,7 @@
       "Amending": ""
     },
     {
-      "Result": "181",
+      "Result": "211",
       "Report Year": "2025",
       "Display Name": "Melissa Burnett",
       "Last Name": "Burnett",
@@ -17708,7 +18818,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "182",
+      "Result": "212",
       "Report Year": "2025",
       "Display Name": "Melissa Cullum",
       "Last Name": "Cullum",
@@ -17745,7 +18855,7 @@
       "Amending": ""
     },
     {
-      "Result": "183",
+      "Result": "213",
       "Report Year": "2025",
       "Display Name": "Michael Bowles",
       "Last Name": "Bowles",
@@ -17782,7 +18892,7 @@
       "Amending": ""
     },
     {
-      "Result": "184",
+      "Result": "214",
       "Report Year": "2025",
       "Display Name": "Michael L. Jones",
       "Last Name": "Jones",
@@ -17819,7 +18929,7 @@
       "Amending": ""
     },
     {
-      "Result": "185",
+      "Result": "215",
       "Report Year": "2025",
       "Display Name": "Michelle Heun",
       "Last Name": "Heun",
@@ -17856,7 +18966,7 @@
       "Amending": ""
     },
     {
-      "Result": "186",
+      "Result": "216",
       "Report Year": "2025",
       "Display Name": "MINDY L. O'NEALL",
       "Last Name": "O'NEALL",
@@ -17893,7 +19003,7 @@
       "Amending": ""
     },
     {
-      "Result": "187",
+      "Result": "217",
       "Report Year": "2025",
       "Display Name": "Mitch Michaud",
       "Last Name": "Michaud",
@@ -17930,7 +19040,7 @@
       "Amending": ""
     },
     {
-      "Result": "188",
+      "Result": "218",
       "Report Year": "2025",
       "Display Name": "Naomi Hewitt",
       "Last Name": "Hewitt",
@@ -17967,7 +19077,7 @@
       "Amending": ""
     },
     {
-      "Result": "189",
+      "Result": "219",
       "Report Year": "2025",
       "Display Name": "Nathaniel \"Nano\" Brooks",
       "Last Name": "Brooks",
@@ -18004,7 +19114,7 @@
       "Amending": ""
     },
     {
-      "Result": "190",
+      "Result": "220",
       "Report Year": "2025",
       "Display Name": "Patricia E. Patkotak ",
       "Last Name": "Patkotak ",
@@ -18041,7 +19151,7 @@
       "Amending": ""
     },
     {
-      "Result": "191",
+      "Result": "221",
       "Report Year": "2025",
       "Display Name": "Patricia Truesdell",
       "Last Name": "Truesdell",
@@ -18078,7 +19188,7 @@
       "Amending": ""
     },
     {
-      "Result": "192",
+      "Result": "222",
       "Report Year": "2025",
       "Display Name": "Patrick Roach",
       "Last Name": "Roach",
@@ -18115,7 +19225,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "193",
+      "Result": "223",
       "Report Year": "2025",
       "Display Name": "Steven Whitney",
       "Last Name": "Whitney",
@@ -18152,7 +19262,7 @@
       "Amending": ""
     },
     {
-      "Result": "194",
+      "Result": "224",
       "Report Year": "2025",
       "Display Name": "Teresa Younghui Keller",
       "Last Name": "Keller",
@@ -18189,7 +19299,7 @@
       "Amending": ""
     },
     {
-      "Result": "195",
+      "Result": "225",
       "Report Year": "2025",
       "Display Name": "Wade Bryson",
       "Last Name": "Bryson",
@@ -18226,7 +19336,7 @@
       "Amending": ""
     },
     {
-      "Result": "196",
+      "Result": "226",
       "Report Year": "2025",
       "Display Name": "William Hutto",
       "Last Name": "Hutto",
@@ -18263,7 +19373,7 @@
       "Amending": ""
     },
     {
-      "Result": "197",
+      "Result": "227",
       "Report Year": "2025",
       "Display Name": "Yarrow G. Silvers",
       "Last Name": "Silvers",
@@ -18300,7 +19410,7 @@
       "Amending": ""
     },
     {
-      "Result": "198",
+      "Result": "228",
       "Report Year": "2024",
       "Display Name": "Aaron Levi Crook",
       "Last Name": "Crook",
@@ -18337,7 +19447,7 @@
       "Amending": ""
     },
     {
-      "Result": "199",
+      "Result": "229",
       "Report Year": "2024",
       "Display Name": "Aaron Lojewski",
       "Last Name": "Lojewski",
@@ -18374,7 +19484,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "200",
+      "Result": "230",
       "Report Year": "2024",
       "Display Name": "Abraham Karl Palmer",
       "Last Name": "Palmer",
@@ -18411,7 +19521,7 @@
       "Amending": ""
     },
     {
-      "Result": "201",
+      "Result": "231",
       "Report Year": "2024",
       "Display Name": "Agnes C. Moran",
       "Last Name": "Moran",
@@ -18448,7 +19558,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "202",
+      "Result": "232",
       "Report Year": "2024",
       "Display Name": "Aimee Sims",
       "Last Name": "Sims",
@@ -18485,7 +19595,7 @@
       "Amending": ""
     },
     {
-      "Result": "203",
+      "Result": "233",
       "Report Year": "2024",
       "Display Name": "Alana L. Greear/AlanaforAlaska",
       "Last Name": "Greear",
@@ -18522,7 +19632,7 @@
       "Amending": ""
     },
     {
-      "Result": "204",
+      "Result": "234",
       "Report Year": "2024",
       "Display Name": "Alicia Miner",
       "Last Name": "Miner",
@@ -18559,7 +19669,7 @@
       "Amending": ""
     },
     {
-      "Result": "205",
+      "Result": "235",
       "Report Year": "2024",
       "Display Name": "Alyse S. Galvin",
       "Last Name": "Galvin",
@@ -18596,7 +19706,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "206",
+      "Result": "236",
       "Report Year": "2024",
       "Display Name": "Andrea \"Andi\" Story",
       "Last Name": "Story",
@@ -18633,7 +19743,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "207",
+      "Result": "237",
       "Report Year": "2024",
       "Display Name": "Andrew Cizek",
       "Last Name": "Cizek",
@@ -18670,7 +19780,7 @@
       "Amending": ""
     },
     {
-      "Result": "208",
+      "Result": "238",
       "Report Year": "2024",
       "Display Name": "Andrew Louis Josephson",
       "Last Name": "Josephson",
@@ -18707,7 +19817,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "209",
+      "Result": "239",
       "Report Year": "2024",
       "Display Name": "Andrew Shane",
       "Last Name": "Shane",
@@ -18744,7 +19854,7 @@
       "Amending": ""
     },
     {
-      "Result": "210",
+      "Result": "240",
       "Report Year": "2024",
       "Display Name": "Andrew T. Gray",
       "Last Name": "Gray",
@@ -18781,7 +19891,7 @@
       "Amending": ""
     },
     {
-      "Result": "211",
+      "Result": "241",
       "Report Year": "2024",
       "Display Name": "Angela Rodell",
       "Last Name": "Rodell",
@@ -18818,7 +19928,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "212",
+      "Result": "242",
       "Report Year": "2024",
       "Display Name": "Anton L. Keller",
       "Last Name": "Keller",
@@ -18855,7 +19965,7 @@
       "Amending": ""
     },
     {
-      "Result": "213",
+      "Result": "243",
       "Report Year": "2024",
       "Display Name": "April Smith",
       "Last Name": "Smith",
@@ -18892,7 +20002,7 @@
       "Amending": ""
     },
     {
-      "Result": "214",
+      "Result": "244",
       "Report Year": "2024",
       "Display Name": "Ashley Carrick",
       "Last Name": "Carrick",
@@ -18929,7 +20039,7 @@
       "Amending": ""
     },
     {
-      "Result": "215",
+      "Result": "245",
       "Report Year": "2024",
       "Display Name": "Barton S. LeBon",
       "Last Name": "LeBon",
@@ -18966,7 +20076,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "216",
+      "Result": "246",
       "Report Year": "2024",
       "Display Name": "Ben Carpenter",
       "Last Name": "Carpenter",
@@ -19003,7 +20113,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "217",
+      "Result": "247",
       "Report Year": "2024",
       "Display Name": "Ben Kolendo",
       "Last Name": "Kolendo",
@@ -19040,7 +20150,7 @@
       "Amending": ""
     },
     {
-      "Result": "218",
+      "Result": "248",
       "Report Year": "2024",
       "Display Name": "Beth Weldon",
       "Last Name": "Weldon",
@@ -19077,7 +20187,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "219",
+      "Result": "249",
       "Report Year": "2024",
       "Display Name": "Bill Elam",
       "Last Name": "Elam",
@@ -19114,7 +20224,7 @@
       "Amending": ""
     },
     {
-      "Result": "220",
+      "Result": "250",
       "Report Year": "2024",
       "Display Name": "Bill Popp",
       "Last Name": "Popp",
@@ -19151,7 +20261,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "221",
+      "Result": "251",
       "Report Year": "2024",
       "Display Name": "Brandon P. Kowalski \"Putuuqti\"",
       "Last Name": "Kowalski",
@@ -19188,7 +20298,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "222",
+      "Result": "252",
       "Report Year": "2024",
       "Display Name": "Brandy Pennington",
       "Last Name": "Pennington",
@@ -19225,7 +20335,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "223",
+      "Result": "253",
       "Report Year": "2024",
       "Display Name": "Brent Johnson",
       "Last Name": "Johnson",
@@ -19262,7 +20372,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "224",
+      "Result": "254",
       "Report Year": "2024",
       "Display Name": "Brooks Pitcher",
       "Last Name": "Pitcher",
@@ -19299,7 +20409,7 @@
       "Amending": ""
     },
     {
-      "Result": "225",
+      "Result": "255",
       "Report Year": "2024",
       "Display Name": "Bruce Wall",
       "Last Name": "Wall",
@@ -19336,7 +20446,7 @@
       "Amending": ""
     },
     {
-      "Result": "226",
+      "Result": "256",
       "Report Year": "2024",
       "Display Name": "Bryce Edgmon",
       "Last Name": "Edgmom",
@@ -19373,7 +20483,7 @@
       "Amending": ""
     },
     {
-      "Result": "227",
+      "Result": "257",
       "Report Year": "2024",
       "Display Name": "Calvin Schrage",
       "Last Name": "Schrage",
@@ -19410,7 +20520,7 @@
       "Amending": ""
     },
     {
-      "Result": "228",
+      "Result": "258",
       "Report Year": "2024",
       "Display Name": "Carl Jacobs",
       "Last Name": "Jacobs",
@@ -19447,7 +20557,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "229",
+      "Result": "259",
       "Report Year": "2024",
       "Display Name": "Carolyn Hall",
       "Last Name": "Hall-Jensen",
@@ -19484,7 +20594,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "230",
+      "Result": "260",
       "Report Year": "2024",
       "Display Name": "Cathy L. Tilton",
       "Last Name": "Tilton",
@@ -19521,7 +20631,7 @@
       "Amending": ""
     },
     {
-      "Result": "231",
+      "Result": "261",
       "Report Year": "2024",
       "Display Name": "Charles \"Chuck\" Kopp ",
       "Last Name": "Kopp",
@@ -19558,7 +20668,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "232",
+      "Result": "262",
       "Report Year": "2024",
       "Display Name": "Chelsea Pohland",
       "Last Name": "Pohland",
@@ -19595,7 +20705,7 @@
       "Amending": ""
     },
     {
-      "Result": "233",
+      "Result": "263",
       "Report Year": "2024",
       "Display Name": "Cheronda Lei Smith",
       "Last Name": "Smith",
@@ -19632,7 +20742,7 @@
       "Amending": ""
     },
     {
-      "Result": "234",
+      "Result": "264",
       "Report Year": "2024",
       "Display Name": "Chris Tuck",
       "Last Name": "Tuck",
@@ -19669,7 +20779,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "235",
+      "Result": "265",
       "Report Year": "2024",
       "Display Name": "Cindy L. Ecklund",
       "Last Name": "Ecklund",
@@ -19706,7 +20816,7 @@
       "Amending": ""
     },
     {
-      "Result": "236",
+      "Result": "266",
       "Report Year": "2024",
       "Display Name": "CJ McCormick",
       "Last Name": "McCormick",
@@ -19743,7 +20853,7 @@
       "Amending": ""
     },
     {
-      "Result": "237",
+      "Result": "267",
       "Report Year": "2024",
       "Display Name": "Click Bishop",
       "Last Name": "Bishop",
@@ -19780,7 +20890,7 @@
       "Amending": ""
     },
     {
-      "Result": "238",
+      "Result": "268",
       "Report Year": "2024",
       "Display Name": "Cliff Groh",
       "Last Name": "Groh",
@@ -19817,7 +20927,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "239",
+      "Result": "269",
       "Report Year": "2024",
       "Display Name": "Cody Raymond Anderson",
       "Last Name": "Anderson",
@@ -19854,7 +20964,7 @@
       "Amending": ""
     },
     {
-      "Result": "240",
+      "Result": "270",
       "Report Year": "2024",
       "Display Name": "Cole Snodgress",
       "Last Name": "Snodgress",
@@ -19891,7 +21001,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "241",
+      "Result": "271",
       "Report Year": "2024",
       "Display Name": "Craig Johnson",
       "Last Name": "Johnson",
@@ -19928,7 +21038,7 @@
       "Amending": ""
     },
     {
-      "Result": "242",
+      "Result": "272",
       "Report Year": "2024",
       "Display Name": "Craig Johnson",
       "Last Name": "Johnson",
@@ -19965,7 +21075,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "243",
+      "Result": "273",
       "Report Year": "2024",
       "Display Name": "Dan Saddler",
       "Last Name": "Saddler",
@@ -20002,7 +21112,7 @@
       "Amending": ""
     },
     {
-      "Result": "244",
+      "Result": "274",
       "Report Year": "2024",
       "Display Name": "Dana Mock",
       "Last Name": "Mock",
@@ -20039,7 +21149,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "245",
+      "Result": "275",
       "Report Year": "2024",
       "Display Name": "Danny Suiter",
       "Last Name": "Suiter",
@@ -20076,7 +21186,7 @@
       "Amending": ""
     },
     {
-      "Result": "246",
+      "Result": "276",
       "Report Year": "2024",
       "Display Name": "Darin Colbry",
       "Last Name": "Colbry",
@@ -20113,7 +21223,7 @@
       "Amending": ""
     },
     {
-      "Result": "247",
+      "Result": "277",
       "Report Year": "2024",
       "Display Name": "Darren Morgan Deacon",
       "Last Name": "Deacon",
@@ -20150,7 +21260,7 @@
       "Amending": ""
     },
     {
-      "Result": "248",
+      "Result": "278",
       "Report Year": "2024",
       "Display Name": "Dave Bronson",
       "Last Name": "Bronson",
@@ -20187,7 +21297,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "249",
+      "Result": "279",
       "Report Year": "2024",
       "Display Name": "David Eastman",
       "Last Name": "Eastman",
@@ -20224,7 +21334,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "250",
+      "Result": "280",
       "Report Year": "2024",
       "Display Name": "David Guttenberg",
       "Last Name": "Guttenberg",
@@ -20261,7 +21371,7 @@
       "Amending": ""
     },
     {
-      "Result": "251",
+      "Result": "281",
       "Report Year": "2024",
       "Display Name": "David Nelson",
       "Last Name": "Nelson",
@@ -20298,7 +21408,7 @@
       "Amending": ""
     },
     {
-      "Result": "252",
+      "Result": "282",
       "Report Year": "2024",
       "Display Name": "David S. Wilson",
       "Last Name": "Wilson",
@@ -20335,7 +21445,7 @@
       "Amending": ""
     },
     {
-      "Result": "253",
+      "Result": "283",
       "Report Year": "2024",
       "Display Name": "Dawson R Slaughter",
       "Last Name": "Slaughter",
@@ -20372,7 +21482,7 @@
       "Amending": ""
     },
     {
-      "Result": "254",
+      "Result": "284",
       "Report Year": "2024",
       "Display Name": "DeLena M Johnson",
       "Last Name": "Goodwin Johnson",
@@ -20409,7 +21519,7 @@
       "Amending": ""
     },
     {
-      "Result": "255",
+      "Result": "285",
       "Report Year": "2024",
       "Display Name": "Denny Wells",
       "Last Name": "Wells",
@@ -20446,7 +21556,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "256",
+      "Result": "286",
       "Report Year": "2024",
       "Display Name": "Dmitri Fonov",
       "Last Name": "Fonov",
@@ -20483,7 +21593,7 @@
       "Amending": ""
     },
     {
-      "Result": "257",
+      "Result": "287",
       "Report Year": "2024",
       "Display Name": "Dmitri Fonov",
       "Last Name": "Fonov",
@@ -20520,7 +21630,7 @@
       "Amending": ""
     },
     {
-      "Result": "258",
+      "Result": "288",
       "Report Year": "2024",
       "Display Name": "Dolores McKee",
       "Last Name": "McKee",
@@ -20557,7 +21667,7 @@
       "Amending": ""
     },
     {
-      "Result": "259",
+      "Result": "289",
       "Report Year": "2024",
       "Display Name": "Donald \"Donny\" C. Olson",
       "Last Name": "Olson",
@@ -20594,7 +21704,7 @@
       "Amending": ""
     },
     {
-      "Result": "260",
+      "Result": "290",
       "Report Year": "2024",
       "Display Name": "Donna C Mears",
       "Last Name": "Mears",
@@ -20631,7 +21741,7 @@
       "Amending": ""
     },
     {
-      "Result": "261",
+      "Result": "291",
       "Report Year": "2024",
       "Display Name": "Dora Wilson",
       "Last Name": "Wilson",
@@ -20668,7 +21778,7 @@
       "Amending": ""
     },
     {
-      "Result": "262",
+      "Result": "292",
       "Report Year": "2024",
       "Display Name": "Dorene Lorenz",
       "Last Name": "Lorenz",
@@ -20705,7 +21815,7 @@
       "Amending": ""
     },
     {
-      "Result": "263",
+      "Result": "293",
       "Report Year": "2024",
       "Display Name": "Doyle Holmes",
       "Last Name": "Holmes",
@@ -20742,7 +21852,7 @@
       "Amending": ""
     },
     {
-      "Result": "264",
+      "Result": "294",
       "Report Year": "2024",
       "Display Name": "Dustin Thomas House Darden",
       "Last Name": "Darden",
@@ -20779,7 +21889,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "265",
+      "Result": "295",
       "Report Year": "2024",
       "Display Name": "Dustin Thomas House Darden ",
       "Last Name": "Darden ",
@@ -20816,7 +21926,7 @@
       "Amending": ""
     },
     {
-      "Result": "266",
+      "Result": "296",
       "Report Year": "2024",
       "Display Name": "Edna DeVries",
       "Last Name": "DeVries",
@@ -20853,7 +21963,7 @@
       "Amending": ""
     },
     {
-      "Result": "267",
+      "Result": "297",
       "Report Year": "2024",
       "Display Name": "Elexie Moore",
       "Last Name": "Moore",
@@ -20890,7 +22000,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "268",
+      "Result": "298",
       "Report Year": "2024",
       "Display Name": "Elizabeth (Ebett) Siddon",
       "Last Name": "Siddon",
@@ -20927,7 +22037,7 @@
       "Amending": ""
     },
     {
-      "Result": "269",
+      "Result": "299",
       "Report Year": "2024",
       "Display Name": "Forrest Dunbar",
       "Last Name": "Dunbar",
@@ -20964,7 +22074,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "270",
+      "Result": "300",
       "Report Year": "2024",
       "Display Name": "Frank Tomaszewski",
       "Last Name": "Tomaszewski",
@@ -21001,7 +22111,7 @@
       "Amending": ""
     },
     {
-      "Result": "271",
+      "Result": "301",
       "Report Year": "2024",
       "Display Name": "Garrett Armstrong",
       "Last Name": "Armstrong",
@@ -21038,7 +22148,7 @@
       "Amending": ""
     },
     {
-      "Result": "272",
+      "Result": "302",
       "Report Year": "2024",
       "Display Name": "Gary Keith Damron",
       "Last Name": "Damron",
@@ -21075,7 +22185,7 @@
       "Amending": ""
     },
     {
-      "Result": "273",
+      "Result": "303",
       "Report Year": "2024",
       "Display Name": "Genevieve Mina",
       "Last Name": "Mina",
@@ -21112,7 +22222,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "274",
+      "Result": "304",
       "Report Year": "2024",
       "Display Name": "Grant EchoHawk",
       "Last Name": "EchoHawk",
@@ -21149,7 +22259,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "275",
+      "Result": "305",
       "Report Year": "2024",
       "Display Name": "Greg Magee",
       "Last Name": "MAGEE",
@@ -21186,7 +22296,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "276",
+      "Result": "306",
       "Report Year": "2024",
       "Display Name": "Greta I\u00f1uuraaq Schuerch",
       "Last Name": "Schuerch",
@@ -21223,7 +22333,7 @@
       "Amending": ""
     },
     {
-      "Result": "277",
+      "Result": "307",
       "Report Year": "2024",
       "Display Name": "Grier Hopkins",
       "Last Name": "Hopkins",
@@ -21260,7 +22370,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "278",
+      "Result": "308",
       "Report Year": "2024",
       "Display Name": "Harold Borbridge ",
       "Last Name": "Borbridge ",
@@ -21297,7 +22407,7 @@
       "Amending": ""
     },
     {
-      "Result": "279",
+      "Result": "309",
       "Report Year": "2024",
       "Display Name": "Harry Winner, Kamdem",
       "Last Name": "Kamdem Fezeu",
@@ -21334,7 +22444,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "280",
+      "Result": "310",
       "Report Year": "2024",
       "Display Name": "Heather Gottshall",
       "Last Name": "Gottshall",
@@ -21371,7 +22481,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "281",
+      "Result": "311",
       "Report Year": "2024",
       "Display Name": "Helen Armstrong",
       "Last Name": "Armstrong",
@@ -21408,7 +22518,7 @@
       "Amending": ""
     },
     {
-      "Result": "282",
+      "Result": "312",
       "Report Year": "2024",
       "Display Name": "Hillary Palmer",
       "Last Name": "Palmer",
@@ -21445,7 +22555,7 @@
       "Amending": ""
     },
     {
-      "Result": "283",
+      "Result": "313",
       "Report Year": "2024",
       "Display Name": "Jai mahtani",
       "Last Name": "Mahtani",
@@ -21482,7 +22592,7 @@
       "Amending": ""
     },
     {
-      "Result": "284",
+      "Result": "314",
       "Report Year": "2024",
       "Display Name": "James Fields",
       "Last Name": "Fields",
@@ -21519,7 +22629,7 @@
       "Amending": ""
     },
     {
-      "Result": "285",
+      "Result": "315",
       "Report Year": "2024",
       "Display Name": "James Kaufman",
       "Last Name": "Kaufman",
@@ -21556,7 +22666,7 @@
       "Amending": ""
     },
     {
-      "Result": "286",
+      "Result": "316",
       "Report Year": "2024",
       "Display Name": "James Nelson Turner",
       "Last Name": "Turner",
@@ -21593,7 +22703,7 @@
       "Amending": ""
     },
     {
-      "Result": "287",
+      "Result": "317",
       "Report Year": "2024",
       "Display Name": "James Squyres",
       "Last Name": "Squyres",
@@ -21630,7 +22740,7 @@
       "Amending": ""
     },
     {
-      "Result": "288",
+      "Result": "318",
       "Report Year": "2024",
       "Display Name": "Jameson R. Corbin",
       "Last Name": "Corbin",
@@ -21667,7 +22777,7 @@
       "Amending": ""
     },
     {
-      "Result": "289",
+      "Result": "319",
       "Report Year": "2024",
       "Display Name": "Jamie Allard ",
       "Last Name": "del Fierro-Allard ",
@@ -21704,7 +22814,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "290",
+      "Result": "320",
       "Report Year": "2024",
       "Display Name": "Janice Park",
       "Last Name": "Park",
@@ -21741,7 +22851,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "291",
+      "Result": "321",
       "Report Year": "2024",
       "Display Name": "Jared David Goecker",
       "Last Name": "Goecker",
@@ -21778,7 +22888,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "292",
+      "Result": "322",
       "Report Year": "2024",
       "Display Name": "Jason Avery",
       "Last Name": "Avery",
@@ -21815,7 +22925,7 @@
       "Amending": ""
     },
     {
-      "Result": "293",
+      "Result": "323",
       "Report Year": "2024",
       "Display Name": "Jenny Di Grappa",
       "Last Name": "Di Grappa",
@@ -21852,7 +22962,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "294",
+      "Result": "324",
       "Report Year": "2024",
       "Display Name": "Jeremy T. Bynum",
       "Last Name": "Bynum",
@@ -21889,7 +22999,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "295",
+      "Result": "325",
       "Report Year": "2024",
       "Display Name": "Jesse J Bjorkman",
       "Last Name": "Bjorkman",
@@ -21926,7 +23036,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "296",
+      "Result": "326",
       "Report Year": "2024",
       "Display Name": "Jesse Kiehl",
       "Last Name": "Kiehl",
@@ -21963,7 +23073,7 @@
       "Amending": ""
     },
     {
-      "Result": "297",
+      "Result": "327",
       "Report Year": "2024",
       "Display Name": "Jesse M Sumner",
       "Last Name": "Sumner",
@@ -22000,7 +23110,7 @@
       "Amending": ""
     },
     {
-      "Result": "298",
+      "Result": "328",
       "Report Year": "2024",
       "Display Name": "Jim Arlington",
       "Last Name": "Arlington",
@@ -22037,7 +23147,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "299",
+      "Result": "329",
       "Report Year": "2024",
       "Display Name": "Jimi Cash",
       "Last Name": "Cash",
@@ -22074,7 +23184,7 @@
       "Amending": ""
     },
     {
-      "Result": "300",
+      "Result": "330",
       "Report Year": "2024",
       "Display Name": "John B Coghill Jr",
       "Last Name": "Coghill",
@@ -22111,7 +23221,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "301",
+      "Result": "331",
       "Report Year": "2024",
       "Display Name": "John C Howard",
       "Last Name": "Howard",
@@ -22148,7 +23258,7 @@
       "Amending": ""
     },
     {
-      "Result": "302",
+      "Result": "332",
       "Report Year": "2024",
       "Display Name": "John Hillyer",
       "Last Name": "Hillyer",
@@ -22185,7 +23295,7 @@
       "Amending": ""
     },
     {
-      "Result": "303",
+      "Result": "333",
       "Report Year": "2024",
       "Display Name": "Jonathon Young",
       "Last Name": "Young",
@@ -22222,7 +23332,7 @@
       "Amending": ""
     },
     {
-      "Result": "304",
+      "Result": "334",
       "Report Year": "2024",
       "Display Name": "Joseph Crisafi-Lurtsema",
       "Last Name": "Crisafi-Lurtsema",
@@ -22259,7 +23369,7 @@
       "Amending": ""
     },
     {
-      "Result": "305",
+      "Result": "335",
       "Report Year": "2024",
       "Display Name": "Joy Beth Cottle",
       "Last Name": "Cottle",
@@ -22296,7 +23406,7 @@
       "Amending": ""
     },
     {
-      "Result": "306",
+      "Result": "336",
       "Report Year": "2024",
       "Display Name": "Jubilee Underwood",
       "Last Name": "Underwood",
@@ -22333,7 +23443,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "307",
+      "Result": "337",
       "Report Year": "2024",
       "Display Name": "Julie Coulombe",
       "Last Name": "Coulombe",
@@ -22370,7 +23480,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "308",
+      "Result": "338",
       "Report Year": "2024",
       "Display Name": "Justin Ruffridge",
       "Last Name": "Ruffridge",
@@ -22407,7 +23517,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "309",
+      "Result": "339",
       "Report Year": "2024",
       "Display Name": "Kay Schuster",
       "Last Name": "Schuster",
@@ -22444,7 +23554,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "310",
+      "Result": "340",
       "Report Year": "2024",
       "Display Name": "kaylee Anderson",
       "Last Name": "Anderson",
@@ -22481,7 +23591,7 @@
       "Amending": ""
     },
     {
-      "Result": "311",
+      "Result": "341",
       "Report Year": "2024",
       "Display Name": "Keith Roderick Fons",
       "Last Name": "Fons",
@@ -22518,7 +23628,7 @@
       "Amending": ""
     },
     {
-      "Result": "312",
+      "Result": "342",
       "Report Year": "2024",
       "Display Name": "Kelly R. Merrick",
       "Last Name": "Merrick",
@@ -22555,7 +23665,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "313",
+      "Result": "343",
       "Report Year": "2024",
       "Display Name": "Ken McCarty",
       "Last Name": "McCarty",
@@ -22592,7 +23702,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "314",
+      "Result": "344",
       "Report Year": "2024",
       "Display Name": "Kevin J. McCabe",
       "Last Name": "McCabe",
@@ -22629,7 +23739,7 @@
       "Amending": ""
     },
     {
-      "Result": "315",
+      "Result": "345",
       "Report Year": "2024",
       "Display Name": "Kristan Kelly",
       "Last Name": "Kelly",
@@ -22666,7 +23776,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "316",
+      "Result": "346",
       "Report Year": "2024",
       "Display Name": "Ky Holland",
       "Last Name": "Holland",
@@ -22703,7 +23813,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "317",
+      "Result": "347",
       "Report Year": "2024",
       "Display Name": "Lee E Hammermeister",
       "Last Name": "Hammermeister",
@@ -22740,7 +23850,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "318",
+      "Result": "348",
       "Report Year": "2024",
       "Display Name": "Lee Ellis",
       "Last Name": "Ellis",
@@ -22777,7 +23887,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "319",
+      "Result": "349",
       "Report Year": "2024",
       "Display Name": "Leighton Radner",
       "Last Name": "Radner",
@@ -22814,7 +23924,7 @@
       "Amending": ""
     },
     {
-      "Result": "320",
+      "Result": "350",
       "Report Year": "2024",
       "Display Name": "Leslie Hajdukovich",
       "Last Name": "Hajdukovich",
@@ -22851,7 +23961,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "321",
+      "Result": "351",
       "Report Year": "2024",
       "Display Name": "Liz Vazquez ",
       "Last Name": "Vazquez ",
@@ -22888,7 +23998,7 @@
       "Amending": ""
     },
     {
-      "Result": "322",
+      "Result": "352",
       "Report Year": "2024",
       "Display Name": "Loa Carroll-Hubbard",
       "Last Name": "HUBBARD",
@@ -22925,7 +24035,7 @@
       "Amending": ""
     },
     {
-      "Result": "323",
+      "Result": "353",
       "Report Year": "2024",
       "Display Name": "Louise Stutes",
       "Last Name": "Stutes",
@@ -22962,7 +24072,7 @@
       "Amending": ""
     },
     {
-      "Result": "324",
+      "Result": "354",
       "Report Year": "2024",
       "Display Name": "Lucy Bauer",
       "Last Name": "Bauer",
@@ -22999,7 +24109,7 @@
       "Amending": ""
     },
     {
-      "Result": "325",
+      "Result": "355",
       "Report Year": "2024",
       "Display Name": "Mark H. Littlefield",
       "Last Name": "Littlefield",
@@ -23036,7 +24146,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "326",
+      "Result": "356",
       "Report Year": "2024",
       "Display Name": "Matt Claman",
       "Last Name": "Claman",
@@ -23073,7 +24183,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "327",
+      "Result": "357",
       "Report Year": "2024",
       "Display Name": "Maureen Hall",
       "Last Name": "Hall",
@@ -23110,7 +24220,7 @@
       "Amending": ""
     },
     {
-      "Result": "328",
+      "Result": "358",
       "Report Year": "2024",
       "Display Name": "Maxine Dibert",
       "Last Name": "Dibert",
@@ -23147,7 +24257,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "329",
+      "Result": "359",
       "Report Year": "2024",
       "Display Name": "Mia Costello",
       "Last Name": "Costello",
@@ -23184,7 +24294,7 @@
       "Amending": ""
     },
     {
-      "Result": "330",
+      "Result": "360",
       "Report Year": "2024",
       "Display Name": "Mia Costello",
       "Last Name": "Costello",
@@ -23221,7 +24331,7 @@
       "Amending": ""
     },
     {
-      "Result": "331",
+      "Result": "361",
       "Report Year": "2024",
       "Display Name": "Michael Thomas Briggs / Michael Briggs",
       "Last Name": "Briggs",
@@ -23258,7 +24368,7 @@
       "Amending": ""
     },
     {
-      "Result": "332",
+      "Result": "362",
       "Report Year": "2024",
       "Display Name": "Michael Warren Welch",
       "Last Name": "Welch",
@@ -23295,7 +24405,7 @@
       "Amending": ""
     },
     {
-      "Result": "333",
+      "Result": "363",
       "Report Year": "2024",
       "Display Name": "Miguel Angel Ramirez",
       "Last Name": "Ramirez",
@@ -23332,7 +24442,7 @@
       "Amending": ""
     },
     {
-      "Result": "334",
+      "Result": "364",
       "Report Year": "2024",
       "Display Name": "Mike Cronk",
       "Last Name": "Cronk",
@@ -23369,7 +24479,7 @@
       "Amending": ""
     },
     {
-      "Result": "335",
+      "Result": "365",
       "Report Year": "2024",
       "Display Name": "Mike Cronk",
       "Last Name": "Cronk",
@@ -23406,7 +24516,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "336",
+      "Result": "366",
       "Report Year": "2024",
       "Display Name": "Mike Prax",
       "Last Name": "Prax",
@@ -23443,7 +24553,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "337",
+      "Result": "367",
       "Report Year": "2024",
       "Display Name": "Morgan Dulian",
       "Last Name": "Dulian",
@@ -23480,7 +24590,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "338",
+      "Result": "368",
       "Report Year": "2024",
       "Display Name": "Nathaniel (Nano) Brooks",
       "Last Name": "Brooks",
@@ -23517,7 +24627,7 @@
       "Amending": ""
     },
     {
-      "Result": "339",
+      "Result": "369",
       "Report Year": "2024",
       "Display Name": "Neal Winston Foster",
       "Last Name": "Foster",
@@ -23554,7 +24664,7 @@
       "Amending": ""
     },
     {
-      "Result": "340",
+      "Result": "370",
       "Report Year": "2024",
       "Display Name": "Neil Steininger",
       "Last Name": "Steininger",
@@ -23591,7 +24701,7 @@
       "Amending": ""
     },
     {
-      "Result": "341",
+      "Result": "371",
       "Report Year": "2024",
       "Display Name": "Nellie Darlene Jimmie",
       "Last Name": "Jimmie",
@@ -23628,7 +24738,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "342",
+      "Result": "372",
       "Report Year": "2024",
       "Display Name": "Nick Moe",
       "Last Name": "Moe",
@@ -23665,7 +24775,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "343",
+      "Result": "373",
       "Report Year": "2024",
       "Display Name": "Olivia Rodriguez",
       "Last Name": "Rodriguez",
@@ -23702,7 +24812,7 @@
       "Amending": ""
     },
     {
-      "Result": "344",
+      "Result": "374",
       "Report Year": "2024",
       "Display Name": "Pamela Gay Conrad",
       "Last Name": "Conrad",
@@ -23739,7 +24849,7 @@
       "Amending": ""
     },
     {
-      "Result": "345",
+      "Result": "375",
       "Report Year": "2024",
       "Display Name": "Pamela Goode",
       "Last Name": "Goode",
@@ -23776,7 +24886,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "346",
+      "Result": "376",
       "Report Year": "2024",
       "Display Name": "Pat Higgins",
       "Last Name": "Higgins",
@@ -23813,7 +24923,7 @@
       "Amending": ""
     },
     {
-      "Result": "347",
+      "Result": "377",
       "Report Year": "2024",
       "Display Name": "Rachel Lord",
       "Last Name": "Lord",
@@ -23850,7 +24960,7 @@
       "Amending": ""
     },
     {
-      "Result": "348",
+      "Result": "378",
       "Report Year": "2024",
       "Display Name": "Rebecca (Becky) Schwanke",
       "Last Name": "Schwanke",
@@ -23887,7 +24997,7 @@
       "Amending": ""
     },
     {
-      "Result": "349",
+      "Result": "379",
       "Report Year": "2024",
       "Display Name": "Rebecca Himschoot",
       "Last Name": "Himschoot",
@@ -23924,7 +25034,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "350",
+      "Result": "380",
       "Report Year": "2024",
       "Display Name": "Richard Clement",
       "Last Name": "Clement",
@@ -23961,7 +25071,7 @@
       "Amending": ""
     },
     {
-      "Result": "351",
+      "Result": "381",
       "Report Year": "2024",
       "Display Name": "Richard Franklyn Clement",
       "Last Name": "Clement",
@@ -23998,7 +25108,7 @@
       "Amending": ""
     },
     {
-      "Result": "352",
+      "Result": "382",
       "Report Year": "2024",
       "Display Name": "robb Arnold",
       "Last Name": "Arnold",
@@ -24035,7 +25145,7 @@
       "Amending": ""
     },
     {
-      "Result": "353",
+      "Result": "383",
       "Report Year": "2024",
       "Display Name": "Robert D Yundt II",
       "Last Name": "Yundt",
@@ -24072,7 +25182,7 @@
       "Amending": ""
     },
     {
-      "Result": "354",
+      "Result": "384",
       "Report Year": "2024",
       "Display Name": "Robert J. Shields",
       "Last Name": "shields",
@@ -24109,7 +25219,7 @@
       "Amending": ""
     },
     {
-      "Result": "355",
+      "Result": "385",
       "Report Year": "2024",
       "Display Name": "Robyn Niayuq Burke",
       "Last Name": "Burke",
@@ -24146,7 +25256,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "356",
+      "Result": "386",
       "Report Year": "2024",
       "Display Name": "Ron Bernier",
       "Last Name": "Bernier",
@@ -24183,7 +25293,7 @@
       "Amending": ""
     },
     {
-      "Result": "357",
+      "Result": "387",
       "Report Year": "2024",
       "Display Name": "Ronald D Gillham",
       "Last Name": "Gillham",
@@ -24220,7 +25330,7 @@
       "Amending": ""
     },
     {
-      "Result": "358",
+      "Result": "388",
       "Report Year": "2024",
       "Display Name": "Ruben A. McNeill Jr.",
       "Last Name": "McNeill",
@@ -24257,7 +25367,7 @@
       "Amending": ""
     },
     {
-      "Result": "359",
+      "Result": "389",
       "Report Year": "2024",
       "Display Name": "Russell Oden wyatt ",
       "Last Name": "Wyatt",
@@ -24294,7 +25404,7 @@
       "Amending": ""
     },
     {
-      "Result": "360",
+      "Result": "390",
       "Report Year": "2024",
       "Display Name": "Saima Chase",
       "Last Name": "Chase",
@@ -24331,7 +25441,7 @@
       "Amending": ""
     },
     {
-      "Result": "361",
+      "Result": "391",
       "Report Year": "2024",
       "Display Name": "Sandra M Katelnikoff Lester",
       "Last Name": "Katelnikoff Lester",
@@ -24368,7 +25478,7 @@
       "Amending": ""
     },
     {
-      "Result": "362",
+      "Result": "392",
       "Report Year": "2024",
       "Display Name": "Sara Hannan",
       "Last Name": "Hannan",
@@ -24405,7 +25515,7 @@
       "Amending": ""
     },
     {
-      "Result": "363",
+      "Result": "393",
       "Report Year": "2024",
       "Display Name": "Sarah Douthit",
       "Last Name": "Douthit",
@@ -24442,7 +25552,7 @@
       "Amending": ""
     },
     {
-      "Result": "364",
+      "Result": "394",
       "Report Year": "2024",
       "Display Name": "Sarah L. Vance",
       "Last Name": "Vance",
@@ -24479,7 +25589,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "365",
+      "Result": "395",
       "Report Year": "2024",
       "Display Name": "Savannah Fletcher",
       "Last Name": "Fletcher",
@@ -24516,7 +25626,7 @@
       "Amending": ""
     },
     {
-      "Result": "366",
+      "Result": "396",
       "Report Year": "2024",
       "Display Name": "Savannah Fletcher",
       "Last Name": "Fletcher",
@@ -24553,7 +25663,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "367",
+      "Result": "397",
       "Report Year": "2024",
       "Display Name": "Scott A Kohlhaas",
       "Last Name": "Kohlhaas",
@@ -24590,7 +25700,7 @@
       "Amending": ""
     },
     {
-      "Result": "368",
+      "Result": "398",
       "Report Year": "2024",
       "Display Name": "Scott Kawasaki",
       "Last Name": "Kawasaki",
@@ -24627,7 +25737,7 @@
       "Amending": ""
     },
     {
-      "Result": "369",
+      "Result": "399",
       "Report Year": "2024",
       "Display Name": "Scott Kawasaki",
       "Last Name": "Kawasaki",
@@ -24664,7 +25774,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "370",
+      "Result": "400",
       "Report Year": "2024",
       "Display Name": "Sharon Denise Jackson",
       "Last Name": "Portch",
@@ -24701,7 +25811,7 @@
       "Amending": ""
     },
     {
-      "Result": "371",
+      "Result": "401",
       "Report Year": "2024",
       "Display Name": "Sheena Fort",
       "Last Name": "Fort",
@@ -24738,7 +25848,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "372",
+      "Result": "402",
       "Report Year": "2024",
       "Display Name": "Sherri L. Wall",
       "Last Name": "Wall",
@@ -24775,7 +25885,7 @@
       "Amending": ""
     },
     {
-      "Result": "373",
+      "Result": "403",
       "Report Year": "2024",
       "Display Name": "Stanley Wright",
       "Last Name": "Wright",
@@ -24812,7 +25922,7 @@
       "Amending": ""
     },
     {
-      "Result": "374",
+      "Result": "404",
       "Report Year": "2024",
       "Display Name": "Steve Menard",
       "Last Name": "Menard",
@@ -24849,7 +25959,7 @@
       "Amending": ""
     },
     {
-      "Result": "375",
+      "Result": "405",
       "Report Year": "2024",
       "Display Name": "Suzanne LaFrance",
       "Last Name": "LaFrance",
@@ -24886,7 +25996,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "376",
+      "Result": "406",
       "Report Year": "2024",
       "Display Name": "Tamara Kruse Roselius",
       "Last Name": "Kruse Roselius",
@@ -24923,7 +26033,7 @@
       "Amending": ""
     },
     {
-      "Result": "377",
+      "Result": "407",
       "Report Year": "2024",
       "Display Name": "Tammie Wilson",
       "Last Name": "Wilson",
@@ -24960,7 +26070,7 @@
       "Amending": ""
     },
     {
-      "Result": "378",
+      "Result": "408",
       "Report Year": "2024",
       "Display Name": "Taylor, Steven",
       "Last Name": "Taylor",
@@ -24997,7 +26107,7 @@
       "Amending": ""
     },
     {
-      "Result": "379",
+      "Result": "409",
       "Report Year": "2024",
       "Display Name": "Ted J. Eischeid",
       "Last Name": "EISCHEID",
@@ -25034,7 +26144,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "380",
+      "Result": "410",
       "Report Year": "2024",
       "Display Name": "Thomas C Ikaaq Baker",
       "Last Name": "Baker",
@@ -25071,7 +26181,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "381",
+      "Result": "411",
       "Report Year": "2024",
       "Display Name": "Thomas E. Bergey",
       "Last Name": "Bergey",
@@ -25108,7 +26218,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "382",
+      "Result": "412",
       "Report Year": "2024",
       "Display Name": "Thomas W McKay",
       "Last Name": "McKay",
@@ -25145,7 +26255,7 @@
       "Amending": ""
     },
     {
-      "Result": "383",
+      "Result": "413",
       "Report Year": "2024",
       "Display Name": "Thomas W McKay",
       "Last Name": "McKay",
@@ -25182,7 +26292,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "384",
+      "Result": "414",
       "Report Year": "2024",
       "Display Name": "Tina Wegener",
       "Last Name": "Wegener",
@@ -25219,7 +26329,7 @@
       "Amending": ""
     },
     {
-      "Result": "385",
+      "Result": "415",
       "Report Year": "2024",
       "Display Name": "Tyler Ivanoff",
       "Last Name": "Ivanoff",
@@ -25256,7 +26366,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "386",
+      "Result": "416",
       "Report Year": "2024",
       "Display Name": "Victoria Beatrice Sosa",
       "Last Name": "Sosa",
@@ -25293,7 +26403,7 @@
       "Amending": ""
     },
     {
-      "Result": "387",
+      "Result": "417",
       "Report Year": "2024",
       "Display Name": "Victoria Michele Hudson",
       "Last Name": "Hudson",
@@ -25330,7 +26440,7 @@
       "Amending": ""
     },
     {
-      "Result": "388",
+      "Result": "418",
       "Report Year": "2024",
       "Display Name": "Walter Featherly",
       "Last Name": "Featherly",
@@ -25367,7 +26477,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "389",
+      "Result": "419",
       "Report Year": "2024",
       "Display Name": "Walter Featherly",
       "Last Name": "Featherly",
@@ -25404,7 +26514,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "390",
+      "Result": "420",
       "Report Year": "2024",
       "Display Name": "WG Anaruk",
       "Last Name": "Anaruk",
@@ -25441,7 +26551,7 @@
       "Amending": ""
     },
     {
-      "Result": "391",
+      "Result": "421",
       "Report Year": "2024",
       "Display Name": "Will Muldoon",
       "Last Name": "Muldoon",
@@ -25478,7 +26588,7 @@
       "Amending": ""
     },
     {
-      "Result": "392",
+      "Result": "422",
       "Report Year": "2024",
       "Display Name": "Will Stapp",
       "Last Name": "Stapp",
@@ -25515,7 +26625,7 @@
       "Amending": ""
     },
     {
-      "Result": "393",
+      "Result": "423",
       "Report Year": "2024",
       "Display Name": "William \"Bill\" Thomas Jr.",
       "Last Name": "Thomas",
@@ -25552,7 +26662,7 @@
       "Amending": ""
     },
     {
-      "Result": "394",
+      "Result": "424",
       "Report Year": "2024",
       "Display Name": "William Z. \"Zack\" Fields",
       "Last Name": "Fields",
@@ -25589,7 +26699,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "395",
+      "Result": "425",
       "Report Year": "2024",
       "Display Name": "William Z. \"Zack\" Fields",
       "Last Name": "Fields",
@@ -25626,7 +26736,7 @@
       "Amending": ""
     },
     {
-      "Result": "396",
+      "Result": "426",
       "Report Year": "2024",
       "Display Name": "Williams, Robert 'Bert'",
       "Last Name": "Williams",
@@ -25663,7 +26773,7 @@
       "Amending": ""
     },
     {
-      "Result": "397",
+      "Result": "427",
       "Report Year": "2024",
       "Display Name": "Willy Keppel",
       "Last Name": "Keppel",
@@ -25700,7 +26810,7 @@
       "Amending": ""
     },
     {
-      "Result": "398",
+      "Result": "428",
       "Report Year": "2024",
       "Display Name": "Wright, Jessica",
       "Last Name": "Wright",
@@ -25737,7 +26847,7 @@
       "Amending": ""
     },
     {
-      "Result": "399",
+      "Result": "429",
       "Report Year": "2024",
       "Display Name": "Wright, Stephen",
       "Last Name": "Wright",
@@ -25774,7 +26884,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "400",
+      "Result": "430",
       "Report Year": "2023",
       "Display Name": "Aaron Gibson",
       "Last Name": "Gibson",
@@ -25811,7 +26921,7 @@
       "Amending": ""
     },
     {
-      "Result": "401",
+      "Result": "431",
       "Report Year": "2023",
       "Display Name": "Abby Bradberry",
       "Last Name": "Bradberry",
@@ -25848,7 +26958,7 @@
       "Amending": ""
     },
     {
-      "Result": "402",
+      "Result": "432",
       "Report Year": "2023",
       "Display Name": "Adam Bertoldo",
       "Last Name": "Bertoldo",
@@ -25885,7 +26995,7 @@
       "Amending": ""
     },
     {
-      "Result": "403",
+      "Result": "433",
       "Report Year": "2023",
       "Display Name": "Alicia Hughes-Skandijs",
       "Last Name": "Hughes-Skandijs",
@@ -25922,7 +27032,7 @@
       "Amending": ""
     },
     {
-      "Result": "404",
+      "Result": "434",
       "Report Year": "2023",
       "Display Name": "Andy Holleman",
       "Last Name": "Holleman",
@@ -25959,7 +27069,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "405",
+      "Result": "435",
       "Report Year": "2023",
       "Display Name": "Anna B. Brawley",
       "Last Name": "Brawley",
@@ -25996,7 +27106,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "406",
+      "Result": "436",
       "Report Year": "2023",
       "Display Name": "Anthony E. Edwardsen",
       "Last Name": "Edwardsen",
@@ -26033,7 +27143,7 @@
       "Amending": ""
     },
     {
-      "Result": "407",
+      "Result": "437",
       "Report Year": "2023",
       "Display Name": "April Smith",
       "Last Name": "Smith",
@@ -26070,7 +27180,7 @@
       "Amending": ""
     },
     {
-      "Result": "408",
+      "Result": "438",
       "Report Year": "2023",
       "Display Name": "Bobby Burgess",
       "Last Name": "Burgess",
@@ -26107,7 +27217,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "409",
+      "Result": "439",
       "Report Year": "2023",
       "Display Name": "Brad Snowden",
       "Last Name": "Snowden",
@@ -26144,7 +27254,7 @@
       "Amending": ""
     },
     {
-      "Result": "410",
+      "Result": "440",
       "Report Year": "2023",
       "Display Name": "Breck Craig",
       "Last Name": "Craig",
@@ -26181,7 +27291,7 @@
       "Amending": ""
     },
     {
-      "Result": "411",
+      "Result": "441",
       "Report Year": "2023",
       "Display Name": "Brian Flynn",
       "Last Name": "Flynn",
@@ -26218,7 +27328,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "412",
+      "Result": "442",
       "Report Year": "2023",
       "Display Name": "Brian Flynn",
       "Last Name": "Flynn",
@@ -26255,7 +27365,7 @@
       "Amending": ""
     },
     {
-      "Result": "413",
+      "Result": "443",
       "Report Year": "2023",
       "Display Name": "Brian Holst",
       "Last Name": "Holst",
@@ -26292,7 +27402,7 @@
       "Amending": ""
     },
     {
-      "Result": "414",
+      "Result": "444",
       "Report Year": "2023",
       "Display Name": "Britteny Cioni-Haywood",
       "Last Name": "Cioni-Haywood",
@@ -26329,7 +27439,7 @@
       "Amending": ""
     },
     {
-      "Result": "415",
+      "Result": "445",
       "Report Year": "2023",
       "Display Name": "Brooke Lavender",
       "Last Name": "Lavender",
@@ -26366,7 +27476,7 @@
       "Amending": ""
     },
     {
-      "Result": "416",
+      "Result": "446",
       "Report Year": "2023",
       "Display Name": "Christine Woll",
       "Last Name": "Woll",
@@ -26403,7 +27513,7 @@
       "Amending": ""
     },
     {
-      "Result": "417",
+      "Result": "447",
       "Report Year": "2023",
       "Display Name": "Christine Woll",
       "Last Name": "Woll",
@@ -26440,7 +27550,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "418",
+      "Result": "448",
       "Report Year": "2023",
       "Display Name": "Christopher Constant",
       "Last Name": "Constant",
@@ -26477,7 +27587,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "419",
+      "Result": "449",
       "Report Year": "2023",
       "Display Name": "Clayton \"Mokie\" Tew",
       "Last Name": "Tew",
@@ -26514,7 +27624,7 @@
       "Amending": ""
     },
     {
-      "Result": "420",
+      "Result": "450",
       "Report Year": "2023",
       "Display Name": "Cliff Murray",
       "Last Name": "Murray",
@@ -26551,7 +27661,7 @@
       "Amending": ""
     },
     {
-      "Result": "421",
+      "Result": "451",
       "Report Year": "2023",
       "Display Name": "Cody Schwegel",
       "Last Name": "Schwegel",
@@ -26588,7 +27698,7 @@
       "Amending": ""
     },
     {
-      "Result": "422",
+      "Result": "452",
       "Report Year": "2023",
       "Display Name": "Corrine Danner",
       "Last Name": "Danner",
@@ -26625,7 +27735,7 @@
       "Amending": ""
     },
     {
-      "Result": "423",
+      "Result": "453",
       "Report Year": "2023",
       "Display Name": "Craig Dagen",
       "Last Name": "Dagen",
@@ -26662,7 +27772,7 @@
       "Amending": ""
     },
     {
-      "Result": "424",
+      "Result": "454",
       "Report Year": "2023",
       "Display Name": "Danny Suiter",
       "Last Name": "Suiter",
@@ -26699,7 +27809,7 @@
       "Amending": ""
     },
     {
-      "Result": "425",
+      "Result": "455",
       "Report Year": "2023",
       "Display Name": "Darin Colbry",
       "Last Name": "Colbry",
@@ -26736,7 +27846,7 @@
       "Amending": ""
     },
     {
-      "Result": "426",
+      "Result": "456",
       "Report Year": "2023",
       "Display Name": "Dave Donley",
       "Last Name": "Donley",
@@ -26773,7 +27883,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "427",
+      "Result": "457",
       "Report Year": "2023",
       "Display Name": "David H. Noon",
       "Last Name": "Noon",
@@ -26810,7 +27920,7 @@
       "Amending": ""
     },
     {
-      "Result": "428",
+      "Result": "458",
       "Report Year": "2023",
       "Display Name": "David Lee  Morris",
       "Last Name": "MORRIS",
@@ -26847,7 +27957,7 @@
       "Amending": ""
     },
     {
-      "Result": "429",
+      "Result": "459",
       "Report Year": "2023",
       "Display Name": "David R Carey",
       "Last Name": "Carey",
@@ -26884,7 +27994,7 @@
       "Amending": ""
     },
     {
-      "Result": "430",
+      "Result": "460",
       "Report Year": "2023",
       "Display Name": "Dianne Kay Shibe",
       "Last Name": "Shibe",
@@ -26921,7 +28031,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "431",
+      "Result": "461",
       "Report Year": "2023",
       "Display Name": "Dianne MacRae",
       "Last Name": "MacRae",
@@ -26958,7 +28068,7 @@
       "Amending": ""
     },
     {
-      "Result": "432",
+      "Result": "462",
       "Report Year": "2023",
       "Display Name": "Dmitri Fonov",
       "Last Name": "Fonov",
@@ -26995,7 +28105,7 @@
       "Amending": ""
     },
     {
-      "Result": "433",
+      "Result": "463",
       "Report Year": "2023",
       "Display Name": "Don Anthony Nungasak",
       "Last Name": "Nungasak",
@@ -27032,7 +28142,7 @@
       "Amending": ""
     },
     {
-      "Result": "434",
+      "Result": "464",
       "Report Year": "2023",
       "Display Name": "Doreen Ahgeak Lampe",
       "Last Name": "Lampe",
@@ -27069,7 +28179,7 @@
       "Amending": ""
     },
     {
-      "Result": "435",
+      "Result": "465",
       "Report Year": "2023",
       "Display Name": "Doreen June Leavitt",
       "Last Name": "Leavitt",
@@ -27106,7 +28216,7 @@
       "Amending": ""
     },
     {
-      "Result": "436",
+      "Result": "466",
       "Report Year": "2023",
       "Display Name": "Dorene Lorenz",
       "Last Name": "Lorenz",
@@ -27143,7 +28253,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "437",
+      "Result": "467",
       "Report Year": "2023",
       "Display Name": "Dustin Thomas House Darden",
       "Last Name": "Darden",
@@ -27180,7 +28290,7 @@
       "Amending": ""
     },
     {
-      "Result": "438",
+      "Result": "468",
       "Report Year": "2023",
       "Display Name": "Ella Adkison",
       "Last Name": "Adkison",
@@ -27217,7 +28327,7 @@
       "Amending": ""
     },
     {
-      "Result": "439",
+      "Result": "469",
       "Report Year": "2023",
       "Display Name": "Eva Kinneeveauk",
       "Last Name": "Kinneeveauk",
@@ -27254,7 +28364,7 @@
       "Amending": ""
     },
     {
-      "Result": "440",
+      "Result": "470",
       "Report Year": "2023",
       "Display Name": "Evan Denty",
       "Last Name": "Denty",
@@ -27291,7 +28401,7 @@
       "Amending": ""
     },
     {
-      "Result": "441",
+      "Result": "471",
       "Report Year": "2023",
       "Display Name": "Felix Emmanuel Rivera",
       "Last Name": "Rivera",
@@ -27328,7 +28438,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "442",
+      "Result": "472",
       "Report Year": "2023",
       "Display Name": "Frederick Brower",
       "Last Name": "Brower",
@@ -27365,7 +28475,7 @@
       "Amending": ""
     },
     {
-      "Result": "443",
+      "Result": "473",
       "Report Year": "2023",
       "Display Name": "GAMBLE, Bill",
       "Last Name": "Gamble",
@@ -27402,7 +28512,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "444",
+      "Result": "474",
       "Report Year": "2023",
       "Display Name": "George Martinez",
       "Last Name": "Martinez",
@@ -27439,7 +28549,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "445",
+      "Result": "475",
       "Report Year": "2023",
       "Display Name": "Glenda D Ledford",
       "Last Name": "Ledford",
@@ -27476,7 +28586,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "446",
+      "Result": "476",
       "Report Year": "2023",
       "Display Name": "Henry S Batchelor Jr",
       "Last Name": "Batchelor",
@@ -27513,7 +28623,7 @@
       "Amending": ""
     },
     {
-      "Result": "447",
+      "Result": "477",
       "Report Year": "2023",
       "Display Name": "Ian Crafton",
       "Last Name": "Crafton",
@@ -27550,7 +28660,7 @@
       "Amending": ""
     },
     {
-      "Result": "448",
+      "Result": "478",
       "Report Year": "2023",
       "Display Name": "Irene Boll",
       "Last Name": "Boll",
@@ -27587,7 +28697,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "449",
+      "Result": "479",
       "Report Year": "2023",
       "Display Name": "J. Alan Seale",
       "Last Name": "Seale",
@@ -27624,7 +28734,7 @@
       "Amending": ""
     },
     {
-      "Result": "450",
+      "Result": "480",
       "Report Year": "2023",
       "Display Name": "Jackson Abney",
       "Last Name": "Abney",
@@ -27661,7 +28771,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "451",
+      "Result": "481",
       "Report Year": "2023",
       "Display Name": "Jeffrey Brasel",
       "Last Name": "Brasel",
@@ -27698,7 +28808,7 @@
       "Amending": ""
     },
     {
-      "Result": "452",
+      "Result": "482",
       "Report Year": "2023",
       "Display Name": "Jeffrey Charles Jones",
       "Last Name": "Jones",
@@ -27735,7 +28845,7 @@
       "Amending": ""
     },
     {
-      "Result": "453",
+      "Result": "483",
       "Report Year": "2023",
       "Display Name": "Jim Arlington",
       "Last Name": "Arlington",
@@ -27772,7 +28882,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "454",
+      "Result": "484",
       "Report Year": "2023",
       "Display Name": "Jimi Cash",
       "Last Name": "Cash",
@@ -27809,7 +28919,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "455",
+      "Result": "485",
       "Report Year": "2023",
       "Display Name": "JoAnn Wallace",
       "Last Name": "Wallace",
@@ -27846,7 +28956,7 @@
       "Amending": ""
     },
     {
-      "Result": "456",
+      "Result": "486",
       "Report Year": "2023",
       "Display Name": "John Hopson Jr",
       "Last Name": "Hopson",
@@ -27883,7 +28993,7 @@
       "Amending": ""
     },
     {
-      "Result": "457",
+      "Result": "487",
       "Report Year": "2023",
       "Display Name": "John Ringstad",
       "Last Name": "Ringstad",
@@ -27920,7 +29030,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "458",
+      "Result": "488",
       "Report Year": "2023",
       "Display Name": "John Trueblood",
       "Last Name": "Trueblood",
@@ -27957,7 +29067,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "459",
+      "Result": "489",
       "Report Year": "2023",
       "Display Name": "Joni Wise",
       "Last Name": "Wise",
@@ -27994,7 +29104,7 @@
       "Amending": ""
     },
     {
-      "Result": "460",
+      "Result": "490",
       "Report Year": "2023",
       "Display Name": "Joshua Bennett",
       "Last Name": "Bennett",
@@ -28031,7 +29141,7 @@
       "Amending": ""
     },
     {
-      "Result": "461",
+      "Result": "491",
       "Report Year": "2023",
       "Display Name": "Josiah Aullaqsruaq Patkotak",
       "Last Name": "Patkotak",
@@ -28068,7 +29178,7 @@
       "Amending": ""
     },
     {
-      "Result": "462",
+      "Result": "492",
       "Report Year": "2023",
       "Display Name": "Julie McDonald",
       "Last Name": "McDonald",
@@ -28105,7 +29215,7 @@
       "Amending": ""
     },
     {
-      "Result": "463",
+      "Result": "493",
       "Report Year": "2023",
       "Display Name": "Karen A Bronga",
       "Last Name": "Bronga",
@@ -28142,7 +29252,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "464",
+      "Result": "494",
       "Report Year": "2023",
       "Display Name": "Kasey Smith",
       "Last Name": "Smith",
@@ -28179,7 +29289,7 @@
       "Amending": ""
     },
     {
-      "Result": "465",
+      "Result": "495",
       "Report Year": "2023",
       "Display Name": "Katherine Tatsuda",
       "Last Name": "Tatsuda",
@@ -28216,7 +29326,7 @@
       "Amending": ""
     },
     {
-      "Result": "466",
+      "Result": "496",
       "Report Year": "2023",
       "Display Name": "Kathy McCollum",
       "Last Name": "McCollum",
@@ -28253,7 +29363,7 @@
       "Amending": ""
     },
     {
-      "Result": "467",
+      "Result": "497",
       "Report Year": "2023",
       "Display Name": "Kevin Scott Myers",
       "Last Name": "Myers",
@@ -28290,7 +29400,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "468",
+      "Result": "498",
       "Report Year": "2023",
       "Display Name": "Kevin T. Kristovich",
       "Last Name": "Kristovich",
@@ -28327,7 +29437,7 @@
       "Amending": ""
     },
     {
-      "Result": "469",
+      "Result": "499",
       "Report Year": "2023",
       "Display Name": "Kimberly Wojtak",
       "Last Name": "Wojtak",
@@ -28364,7 +29474,7 @@
       "Amending": ""
     },
     {
-      "Result": "470",
+      "Result": "500",
       "Report Year": "2023",
       "Display Name": "Laura Martinson McDonnell",
       "Last Name": "McDonnell",
@@ -28399,1116 +29509,6 @@
       "Submitted": "8/7/2023",
       "Status": "Filed",
       "Amending": " Amendment"
-    },
-    {
-      "Result": "471",
-      "Report Year": "2023",
-      "Display Name": "Leigh Sloan",
-      "Last Name": "Sloan",
-      "First Name": "Leigh",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "129 Burton St A",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99504",
-      "Country": "USA",
-      "Phone": "9073151338",
-      "Fax": "",
-      "Email": "leighsloanforanchorage@gmail.com",
-      "Election": "Anchorage Municipal Election",
-      "Election Type": "",
-      "Municipality": "Anchorage, City and Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Jason Michaud",
-      "Treasurer Email": "jason@electnw.com",
-      "Treasurer Phone": "253-220-5590",
-      "Chair Name": "Leigh Sloan",
-      "Chair Email": "leighsloanforanchorage@gmail.com",
-      "Chair Phone": "907-315-1338",
-      "Bank Name": "Alaska USA Federal Credit Union",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "2/13/2023",
-      "Status": "Filed",
-      "Amending": " Amendment"
-    },
-    {
-      "Result": "472",
-      "Report Year": "2023",
-      "Display Name": "Linda Farnsworth Hutchings",
-      "Last Name": "Hutchings",
-      "First Name": "Linda",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "P O Box 895",
-      "City": "Soldotna",
-      "State": "Alaska",
-      "Zip": "99669",
-      "Country": "USA",
-      "Phone": "9072526390",
-      "Fax": "",
-      "Email": "Linda@hutchingstrucks.com",
-      "Election": "Kenai Peninsula Borough Special Mayoral Election",
-      "Election Type": "",
-      "Municipality": "Kenai Peninsula Borough",
-      "Office": "Mayor",
-      "Treasurer Name": "Pamela Raygor",
-      "Treasurer Email": "Lindafh695@gmail.com",
-      "Treasurer Phone": "907-360-5044",
-      "Chair Name": "Linda F Hutchings",
-      "Chair Email": "Lindafh695@gmail.com",
-      "Chair Phone": "907-252-6390",
-      "Bank Name": "First National Bank Alaska",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "11/29/2022",
-      "Status": "Filed",
-      "Amending": " Amendment"
-    },
-    {
-      "Result": "473",
-      "Report Year": "2023",
-      "Display Name": "Liz Reeves-Ramos",
-      "Last Name": "Reeves-Ramos",
-      "First Name": "Elizabeth",
-      "Committee": "Liz Reeves-Ramos for Borough Assembly",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "PO Box 10694",
-      "City": "Fairbanks",
-      "State": "Alaska",
-      "Zip": "99710",
-      "Country": "USA",
-      "Phone": "9079789914",
-      "Fax": "",
-      "Email": "Lizforboroughassembly@gmail.com",
-      "Election": "Fairbanks North Star Borough",
-      "Election Type": "",
-      "Municipality": "Fairbanks Northstar Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Liz Reeves-Ramos ",
-      "Treasurer Email": "Lizforboroughassembly@gmail.com",
-      "Treasurer Phone": "9079789914",
-      "Chair Name": "Liz Reeves-Ramos ",
-      "Chair Email": "Lizforboroughassembly@gmail.com",
-      "Chair Phone": "9079789914",
-      "Bank Name": "Denali State Bank",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "7/24/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "474",
-      "Report Year": "2023",
-      "Display Name": "Lonny R Marney",
-      "Last Name": "Marney",
-      "First Name": "Lonny",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "1024 Pedro St",
-      "City": "Fairbanks",
-      "State": "Alaska",
-      "Zip": "99701",
-      "Country": "USA",
-      "Phone": "907-371-5130",
-      "Fax": "",
-      "Email": "lonny.marney@acsalaska.net",
-      "Election": "Fairbanks, City of",
-      "Election Type": "",
-      "Municipality": "Fairbanks, City of",
-      "Office": "City Council",
-      "Treasurer Name": "Michele A Marney",
-      "Treasurer Email": "lonny.marney@acsalaska.net",
-      "Treasurer Phone": "907-456-2459",
-      "Chair Name": "Lonny Marney",
-      "Chair Email": "lonny.marney@acsalalska.net",
-      "Chair Phone": "907-371-5130",
-      "Bank Name": "Wells Fargo Bank",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "7/29/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "475",
-      "Report Year": "2023",
-      "Display Name": "Maggie Matheson",
-      "Last Name": "Matheson",
-      "First Name": "Margaret ",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "New",
-      "Address": "1698 Bridgewater Dr",
-      "City": "Fairbanks",
-      "State": "Alaska",
-      "Zip": "99709",
-      "Country": "USA",
-      "Phone": "9079785012",
-      "Fax": "",
-      "Email": "maggie.b.matheson@gmail.com",
-      "Election": "Fairbanks North Star Borough",
-      "Election Type": "",
-      "Municipality": "Fairbanks Northstar Borough",
-      "Office": "School Board",
-      "Treasurer Name": "Maggie Matheson",
-      "Treasurer Email": "maggie.b.matheson@gmail.com",
-      "Treasurer Phone": "9079785012",
-      "Chair Name": "Maggie Matheson",
-      "Chair Email": "maggie.b.matheson@gmail.com",
-      "Chair Phone": "9079785012",
-      "Bank Name": "USAA",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "8/4/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "476",
-      "Report Year": "2023",
-      "Display Name": "Mark Anthony Cox",
-      "Last Name": "Cox",
-      "First Name": "Mark",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "New",
-      "Address": "PO Box 110406",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99511",
-      "Country": "USA",
-      "Phone": "9074064921",
-      "Fax": "",
-      "Email": "Mark.Anthony@macforanc.com",
-      "Election": "Anchorage Municipal Election",
-      "Election Type": "",
-      "Municipality": "Anchorage, City and Borough",
-      "Office": "School Board",
-      "Treasurer Name": "Mark Anthony Cox",
-      "Treasurer Email": "Mark.Anthony@macforanc.com",
-      "Treasurer Phone": "9074064921",
-      "Chair Name": "Mark Anthony Cox",
-      "Chair Email": "Mark.Anthony@macforanc.com",
-      "Chair Phone": "9074064921",
-      "Bank Name": "Alaska USA FCU",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "1/13/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "477",
-      "Report Year": "2023",
-      "Display Name": "Matthew Cruickshank",
-      "Last Name": "Cruickshank",
-      "First Name": "Matthew",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "New",
-      "Address": "18671 mink creek dr",
-      "City": "Chugiak",
-      "State": "Alaska",
-      "Zip": "99567",
-      "Country": "USA",
-      "Phone": "9076311450",
-      "Fax": "",
-      "Email": "mjfc4th@gmail.com",
-      "Election": "Anchorage Municipal Election",
-      "Election Type": "",
-      "Municipality": "Anchorage, City and Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Kimberly Collins",
-      "Treasurer Email": "mjfc4th@gmail.com",
-      "Treasurer Phone": "9076967266",
-      "Chair Name": "Matthew Cruickshank",
-      "Chair Email": "mjfc4th@gmail.com",
-      "Chair Phone": "9076311450",
-      "Bank Name": "Alaska USA Federal Credit Union",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "12/9/2022",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "478",
-      "Report Year": "2023",
-      "Display Name": "Meredith Maple",
-      "Last Name": "Maple",
-      "First Name": "Meredith",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "1526 Farmers Loop Road",
-      "City": "Fairbanks",
-      "State": "Alaska",
-      "Zip": "99709",
-      "Country": "USA",
-      "Phone": "502-337-5897",
-      "Fax": "",
-      "Email": "mapleforschoolboard@gmail.com",
-      "Election": "Fairbanks North Star Borough",
-      "Election Type": "",
-      "Municipality": "Fairbanks Northstar Borough",
-      "Office": "School Board",
-      "Treasurer Name": "Jessica Dixon",
-      "Treasurer Email": "jessicadixonak@gmail.com",
-      "Treasurer Phone": "907-978-5105",
-      "Chair Name": "Ronnie Houchin",
-      "Chair Email": "rhouchin@gmail.com",
-      "Chair Phone": "812-322-5599",
-      "Bank Name": "Denali State Bank",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "7/13/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "479",
-      "Report Year": "2023",
-      "Display Name": "Michael Humphrey",
-      "Last Name": "Humphrey",
-      "First Name": "Michael",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "PO Box 58726",
-      "City": "Fairbanks",
-      "State": "Alaska",
-      "Zip": "99711",
-      "Country": "USA",
-      "Phone": "3079223805",
-      "Fax": "",
-      "Email": "michael@humphreyforschoolboard.org",
-      "Election": "Fairbanks North Star Borough",
-      "Election Type": "",
-      "Municipality": "Fairbanks Northstar Borough",
-      "Office": "School Board",
-      "Treasurer Name": "Michael Humphrey",
-      "Treasurer Email": "michael@humphreyforschoolboard.org",
-      "Treasurer Phone": "3079223805",
-      "Chair Name": "Michael Humphrey ",
-      "Chair Email": "michael@humphreyforschoolboard.org",
-      "Chair Phone": "3079223805",
-      "Bank Name": "Mt. McKinley Bank",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "8/15/2023",
-      "Status": "Filed",
-      "Amending": " Amendment"
-    },
-    {
-      "Result": "480",
-      "Report Year": "2023",
-      "Display Name": "Mikayla Miller",
-      "Last Name": "Miller",
-      "First Name": "Mikayla",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "250 3rd ave apt 1",
-      "City": "Bethel",
-      "State": "Alaska",
-      "Zip": "99559-682",
-      "Country": "USA",
-      "Phone": "4029809558",
-      "Fax": "",
-      "Email": "millersuemikayla22@gmail.com",
-      "Election": "Bethel, City of",
-      "Election Type": "",
-      "Municipality": "Bethel, City of",
-      "Office": "City Council",
-      "Treasurer Name": "Marybeth Whalen",
-      "Treasurer Email": "marybeth.whalen@gmail.com",
-      "Treasurer Phone": "9077176090",
-      "Chair Name": "Theresa Quiner",
-      "Chair Email": "tquiner@gmail.com",
-      "Chair Phone": "9077177400",
-      "Bank Name": "Wells Fargo",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "8/21/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "481",
-      "Report Year": "2023",
-      "Display Name": "Mikel Insalaco",
-      "Last Name": "Insalaco",
-      "First Name": "Mikel",
-      "Committee": "Mikel Insalaco Candidate Committee",
-      "Purpose": "",
-      "Previously Registered": "New",
-      "Address": "1120 Huffman Rd, Suite 24-732",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99515",
-      "Country": "USA",
-      "Phone": "9072505109",
-      "Fax": "",
-      "Email": "mikel@voteforanchorage.com",
-      "Election": "Anchorage Municipal Election",
-      "Election Type": "",
-      "Municipality": "Anchorage, City and Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Mikel Insalaco",
-      "Treasurer Email": "mikeleinsalaco@gmail.com",
-      "Treasurer Phone": "9072505109",
-      "Chair Name": "Mikel Insalaco",
-      "Chair Email": "mikeleinsalaco@gmail.com",
-      "Chair Phone": "9072505109",
-      "Bank Name": "Northrim Bank",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "2/3/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "482",
-      "Report Year": "2023",
-      "Display Name": "Millie Schoonover",
-      "Last Name": "Schoonover",
-      "First Name": "A. Millie",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "704 W. Hamilton Dr.",
-      "City": "Craig",
-      "State": "Alaska",
-      "Zip": "99921",
-      "Country": "USA",
-      "Phone": "907-401-0461",
-      "Fax": "",
-      "Email": "amschoonover@yahoo.com",
-      "Election": "Craig, City of",
-      "Election Type": "",
-      "Municipality": "Craig, City of",
-      "Office": "",
-      "Treasurer Name": "Millie Schoonover",
-      "Treasurer Email": "amschoonover@yahoo.com",
-      "Treasurer Phone": "907-401-0461",
-      "Chair Name": "Millie Schoonover",
-      "Chair Email": "amschoonover@yahoo.com",
-      "Chair Phone": "907-401-0461",
-      "Bank Name": "None",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "9/7/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "483",
-      "Report Year": "2023",
-      "Display Name": "Nathaniel (Nano) Brooks",
-      "Last Name": "Brooks",
-      "First Name": "Nathaniel",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "Po box 34397",
-      "City": "Juneau",
-      "State": "Alaska",
-      "Zip": "99803",
-      "Country": "USA",
-      "Phone": "9072099181",
-      "Fax": "",
-      "Email": "413nano@gmail.com",
-      "Election": "Juneau, City and Borough",
-      "Election Type": "",
-      "Municipality": "Juneau, City and Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Nathaniel C. Brooks",
-      "Treasurer Email": "413nano@gmail",
-      "Treasurer Phone": "9072099181",
-      "Chair Name": "Nathaniel C. Brooks",
-      "Chair Email": "413nano@gmail.com",
-      "Chair Phone": "9072099181",
-      "Bank Name": "Global Credit Union ",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "6/27/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "484",
-      "Report Year": "2023",
-      "Display Name": "Nicholas Brad Watson",
-      "Last Name": "Watson",
-      "First Name": "Nicholas",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "180 north ave",
-      "City": "bethel",
-      "State": "Alaska",
-      "Zip": "99559",
-      "Country": "USA",
-      "Phone": "9075450482",
-      "Fax": "",
-      "Email": "swamp0foot@gmail.com",
-      "Election": "Bethel, City of",
-      "Election Type": "",
-      "Municipality": "Bethel, City of",
-      "Office": "City Council",
-      "Treasurer Name": "Nicholas Brad Watson",
-      "Treasurer Email": "swamp0foot@gmail.com",
-      "Treasurer Phone": "907-545-0482",
-      "Chair Name": "Nicholas Brad Watson",
-      "Chair Email": "swamp0foot@gmail.com",
-      "Chair Phone": "907-545-0482",
-      "Bank Name": "global credit union",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "8/18/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "485",
-      "Report Year": "2023",
-      "Display Name": "Nick LaJiness",
-      "Last Name": "LaJiness",
-      "First Name": "Nicholas",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "1117 Victor Street",
-      "City": "North Pole",
-      "State": "Alaska",
-      "Zip": "99705",
-      "Country": "USA",
-      "Phone": "9075901317",
-      "Fax": "",
-      "Email": "nickforfairbanks@gmail.com",
-      "Election": "Fairbanks North Star Borough",
-      "Election Type": "",
-      "Municipality": "Fairbanks Northstar Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Theresa Bratten",
-      "Treasurer Email": "nickforfairbanks@gmail.com",
-      "Treasurer Phone": "9077993699",
-      "Chair Name": "Nick LaJiness",
-      "Chair Email": "nickforfairbanks@gmail.com",
-      "Chair Phone": "907-590-1317",
-      "Bank Name": "Denali State Bank",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "7/17/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "486",
-      "Report Year": "2023",
-      "Display Name": "Paul R Kelly",
-      "Last Name": "Kelly",
-      "First Name": "Paul",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "P.O. Box 20981",
-      "City": "Juneau",
-      "State": "Alaska",
-      "Zip": "99802",
-      "Country": "USA",
-      "Phone": "907-240-3447",
-      "Fax": "",
-      "Email": "info@paul4juneau.com",
-      "Election": "Juneau, City and Borough",
-      "Election Type": "",
-      "Municipality": "Juneau, City and Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Supanika Ord\u00f3\u00f1ez",
-      "Treasurer Email": "campaign@paul4juneau.com",
-      "Treasurer Phone": "9079574592",
-      "Chair Name": "Paul Kelly",
-      "Chair Email": "info@paul4juneau.com",
-      "Chair Phone": "907-240-3447",
-      "Bank Name": "Global FCU",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "7/28/2023",
-      "Status": "Filed",
-      "Amending": " Amendment"
-    },
-    {
-      "Result": "487",
-      "Report Year": "2023",
-      "Display Name": "Peter A. Micciche",
-      "Last Name": "Micciche",
-      "First Name": "Peter",
-      "Committee": "Peter Micciche for Borough Mayor",
-      "Purpose": "",
-      "Previously Registered": "New",
-      "Address": "PO Box 1544",
-      "City": "Soldotna",
-      "State": "Alaska",
-      "Zip": "99669",
-      "Country": "USA",
-      "Phone": "9073986759",
-      "Fax": "",
-      "Email": "senator.peter.micciche@gmail.com",
-      "Election": "Kenai Peninsula Borough Special Mayoral Election",
-      "Election Type": "",
-      "Municipality": "Kenai Peninsula Borough",
-      "Office": "Mayor",
-      "Treasurer Name": "Peter A. Micciche",
-      "Treasurer Email": "senator.peter.micciche@gmail.com",
-      "Treasurer Phone": "9073986759",
-      "Chair Name": "Peter A. Micciche",
-      "Chair Email": "senator.peter.micciche@gmail.com",
-      "Chair Phone": "9073986759",
-      "Bank Name": "Wells Fargo",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "12/27/2022",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "488",
-      "Report Year": "2023",
-      "Display Name": "Peter A. Micciche",
-      "Last Name": "Micciche",
-      "First Name": "Peter",
-      "Committee": "Peter Micciche for KPB Mayor",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "PO Box 1544",
-      "City": "SOLDOTNA",
-      "State": "Alaska",
-      "Zip": "99669",
-      "Country": "USA",
-      "Phone": "907-398-6759",
-      "Fax": "",
-      "Email": "peter.micciche.kpbmayor@gmail.com",
-      "Election": "Kenai Peninsula Borough",
-      "Election Type": "",
-      "Municipality": "Kenai Peninsula Borough",
-      "Office": "Mayor",
-      "Treasurer Name": "Peter Micciche (Candidate)",
-      "Treasurer Email": "peter.micciche.kpbmayor@gmail.com",
-      "Treasurer Phone": "907-398-6759",
-      "Chair Name": "Peter Micciche (Candidate)",
-      "Chair Email": "peter.micciche.kpbmayor@gmail.com",
-      "Chair Phone": "907-398-6759",
-      "Bank Name": "Wells Fargo",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "7/31/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "489",
-      "Report Year": "2023",
-      "Display Name": "Rachel Ries",
-      "Last Name": "Ries",
-      "First Name": "Rachel",
-      "Committee": "Ries For Alaska",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "1120 Huffman Rd, Ste 24, #249",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99515",
-      "Country": "USA",
-      "Phone": "907-280-9468",
-      "Fax": "",
-      "Email": "RiesForAlaska@gmail.com",
-      "Election": "Anchorage Municipal Election",
-      "Election Type": "",
-      "Municipality": "Anchorage, City and Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Jason Michaud",
-      "Treasurer Email": "jason@electnw.com",
-      "Treasurer Phone": "(253) 220-5590",
-      "Chair Name": "Lolly Reid",
-      "Chair Email": "RiesForAlaska@gmail.com",
-      "Chair Phone": "907-830-0668",
-      "Bank Name": "Wells Fargo",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "3/22/2023",
-      "Status": "Filed",
-      "Amending": " Amendment"
-    },
-    {
-      "Result": "490",
-      "Report Year": "2023",
-      "Display Name": "Rex Allen Rock Sr.",
-      "Last Name": "Allen",
-      "First Name": "Rex",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "949 Ippiq St",
-      "City": "St. Point Hope",
-      "State": "Alaska",
-      "Zip": "99766",
-      "Country": "USA",
-      "Phone": "907-350-6814",
-      "Fax": "",
-      "Email": "rro3650523@aol.com",
-      "Election": "North Slope Borough",
-      "Election Type": "",
-      "Municipality": "North Slope Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Rex Allen Rock Sr.",
-      "Treasurer Email": "rro3650523@aol.com",
-      "Treasurer Phone": "907-350-6814",
-      "Chair Name": "Rex Allen Rock Sr.",
-      "Chair Email": "rro3650523@aol.com",
-      "Chair Phone": "907-350-6814",
-      "Bank Name": "N/A",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "8/24/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "491",
-      "Report Year": "2023",
-      "Display Name": "Richard Ole Larson",
-      "Last Name": "Larson",
-      "First Name": "Richard",
-      "Committee": "Committee to Re-elect Ole Larson",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "PO Box 876882",
-      "City": "Wasilla",
-      "State": "Alaska",
-      "Zip": "99687",
-      "Country": "USA",
-      "Phone": "9073763658",
-      "Fax": "",
-      "Email": "polarson@mtaonline.net",
-      "Election": "Matanuska-Susitna Borough",
-      "Election Type": "",
-      "Municipality": "Matanuska-Susitna Borough",
-      "Office": "School Board",
-      "Treasurer Name": "Richard Larson",
-      "Treasurer Email": "polarson@mtaonline.net",
-      "Treasurer Phone": "907-3542651",
-      "Chair Name": "Richard Larson",
-      "Chair Email": "polarson@mtaonline.net",
-      "Chair Phone": "907-354-2651",
-      "Bank Name": "Matanuska Valley Federal Credit Union",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "10/9/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "492",
-      "Report Year": "2023",
-      "Display Name": "Richard W. Best",
-      "Last Name": "Best",
-      "First Name": "Richard",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "439 S. Bailey Apt #1",
-      "City": "Palmer",
-      "State": "Alaska",
-      "Zip": "99645",
-      "Country": "USA",
-      "Phone": "907-715-4317",
-      "Fax": "",
-      "Email": "friendsofrichardbest@gmail.com",
-      "Election": "Palmer, City of",
-      "Election Type": "",
-      "Municipality": "Palmer, City of",
-      "Office": "City Council",
-      "Treasurer Name": "Richard Best",
-      "Treasurer Email": "friendsofrichardbest@gmail.com",
-      "Treasurer Phone": "907-715-4317",
-      "Chair Name": "Not Reported",
-      "Chair Email": "Not Reported",
-      "Chair Phone": "Not Reported",
-      "Bank Name": "Not Reported",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "7/27/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "493",
-      "Report Year": "2023",
-      "Display Name": "Robert Bret Coburn",
-      "Last Name": "Coburn",
-      "First Name": "Robert",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "New",
-      "Address": "19141 Pine Ridge Circle ",
-      "City": "Anchorage ",
-      "State": "Alaska",
-      "Zip": "99516",
-      "Country": "USA",
-      "Phone": "9072271290",
-      "Fax": "",
-      "Email": "denali1913@gmail.com",
-      "Election": "Anchorage Municipal Election",
-      "Election Type": "",
-      "Municipality": "Anchorage, City and Borough",
-      "Office": "Service Area Board",
-      "Treasurer Name": "None",
-      "Treasurer Email": "None",
-      "Treasurer Phone": "None",
-      "Chair Name": "None",
-      "Chair Email": "None",
-      "Chair Phone": "None",
-      "Bank Name": "None",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "3/27/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "494",
-      "Report Year": "2023",
-      "Display Name": "Robert D Yundt II",
-      "Last Name": "Yundt",
-      "First Name": "Robert",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "357 E Parks Hwy Suite 200",
-      "City": "Wasilla",
-      "State": "Alaska",
-      "Zip": "99654",
-      "Country": "USA",
-      "Phone": "907-232-8340",
-      "Fax": "",
-      "Email": "robertyundt@gmail.com",
-      "Election": "Matanuska-Susitna Borough",
-      "Election Type": "",
-      "Municipality": "Matanuska-Susitna Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Shelley Copeland",
-      "Treasurer Email": "shelleycarns@gmail.com",
-      "Treasurer Phone": "9073155045",
-      "Chair Name": "Robert D Yundt II",
-      "Chair Email": "robertyundt@gmail.com",
-      "Chair Phone": "9072328340",
-      "Bank Name": "Northrim Bank",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "8/29/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "495",
-      "Report Year": "2023",
-      "Display Name": "Robert Wall",
-      "Last Name": "Wall",
-      "First Name": "Robert",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "New",
-      "Address": "PO Box 761",
-      "City": "Sterling",
-      "State": "Alaska",
-      "Zip": "99672",
-      "Country": "USA",
-      "Phone": "9073989191",
-      "Fax": "",
-      "Email": "rkwallak@gmail.com",
-      "Election": "Kenai Peninsula Borough Special Mayoral Election",
-      "Election Type": "",
-      "Municipality": "Kenai Peninsula Borough",
-      "Office": "Mayor",
-      "Treasurer Name": "Juanita Ross",
-      "Treasurer Email": "juanita99669@gmail.com",
-      "Treasurer Phone": "907-398-8578",
-      "Chair Name": "Robert Wall",
-      "Chair Email": "rkwallak@gmail.com",
-      "Chair Phone": "907-398-9191",
-      "Bank Name": "First National Bank Alaska",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "1/31/2023",
-      "Status": "Filed",
-      "Amending": " Amendment"
-    },
-    {
-      "Result": "496",
-      "Report Year": "2023",
-      "Display Name": "Robyn Burke",
-      "Last Name": "Burke",
-      "First Name": "Robyn",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "PO Box 1557",
-      "City": "Utqiagvik",
-      "State": "Alaska",
-      "Zip": "99723",
-      "Country": "USA",
-      "Phone": "907-738-3346",
-      "Fax": "",
-      "Email": "rbynbrk4@gmail.com",
-      "Election": "North Slope Borough",
-      "Election Type": "",
-      "Municipality": "North Slope Borough",
-      "Office": "School Board",
-      "Treasurer Name": "Not Reported",
-      "Treasurer Email": "Not Reported",
-      "Treasurer Phone": "Not Reported",
-      "Chair Name": "Not Reported",
-      "Chair Email": "Not Reported",
-      "Chair Phone": "Not Reported",
-      "Bank Name": "Not Reported",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "7/11/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "497",
-      "Report Year": "2023",
-      "Display Name": "Scott W. Crass",
-      "Last Name": "Crass",
-      "First Name": "Scott",
-      "Committee": "Crass for Borough Assembly",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "3077 Davis Rd. ",
-      "City": "Fairbanks",
-      "State": "Alaska",
-      "Zip": "99709",
-      "Country": "USA",
-      "Phone": "907-251-0800",
-      "Fax": "",
-      "Email": "scott.crass@gmail.com",
-      "Election": "Fairbanks North Star Borough",
-      "Election Type": "",
-      "Municipality": "Fairbanks Northstar Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Ed Alexander",
-      "Treasurer Email": "1edward.alexander@gmail.com",
-      "Treasurer Phone": "907-328-9325",
-      "Chair Name": "John Perreault",
-      "Chair Email": "john.perreault@gmail.com ",
-      "Chair Phone": "907-687-1473",
-      "Bank Name": "Global Credit Union",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "7/25/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "498",
-      "Report Year": "2023",
-      "Display Name": "Spencer Moore",
-      "Last Name": "Moore",
-      "First Name": "Spencer",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "3418 Upland Dr",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99504",
-      "Country": "USA",
-      "Phone": "9073508262",
-      "Fax": "",
-      "Email": "spencermoore116@gmail.com",
-      "Election": "Anchorage Municipal Election",
-      "Election Type": "",
-      "Municipality": "Anchorage, City and Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Jason Michaud",
-      "Treasurer Email": "jason@electnw.com",
-      "Treasurer Phone": "2532205590",
-      "Chair Name": "Cody Anderson",
-      "Chair Email": "codyanderson@rocketmail.com",
-      "Chair Phone": "9074066401",
-      "Bank Name": "Northrim Bank",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "2/15/2024",
-      "Status": "Filed",
-      "Amending": " Amendment"
-    },
-    {
-      "Result": "499",
-      "Report Year": "2023",
-      "Display Name": "Sydney Zuyus",
-      "Last Name": "Zuyus",
-      "First Name": "Sydney",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "PO Box 873382",
-      "City": "Wasilla",
-      "State": "Alaska",
-      "Zip": "99687",
-      "Country": "USA",
-      "Phone": "9077075985",
-      "Fax": "",
-      "Email": "sydneyforschoolboard@outlook.com",
-      "Election": "Matanuska-Susitna Borough",
-      "Election Type": "",
-      "Municipality": "Matanuska-Susitna Borough",
-      "Office": "School Board",
-      "Treasurer Name": "Josh Holbrook",
-      "Treasurer Email": "josh.holbrook@gmail.com",
-      "Treasurer Phone": "9078418351",
-      "Chair Name": "Seth Brehm",
-      "Chair Email": "sethjbrehm@gmail.com",
-      "Chair Phone": "9073151223",
-      "Bank Name": "Matanuska Valley Federal Credit Union",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "9/1/2023",
-      "Status": "Filed",
-      "Amending": " Amendment"
-    },
-    {
-      "Result": "500",
-      "Report Year": "2023",
-      "Display Name": "Tammie Wilson",
-      "Last Name": "Wilson",
-      "First Name": "Tamara",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "571 Canoro Road",
-      "City": "North Pole",
-      "State": "Alaska",
-      "Zip": "99705",
-      "Country": "USA",
-      "Phone": "907-590-7602",
-      "Fax": "",
-      "Email": "tammie.k.wilson@gmail.com",
-      "Election": "Fairbanks North Star Borough",
-      "Election Type": "",
-      "Municipality": "Fairbanks Northstar Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Tammie Wilson",
-      "Treasurer Email": "tammie.k.wilson@gmail.com",
-      "Treasurer Phone": "907-590-7602",
-      "Chair Name": "Tammie Wilson",
-      "Chair Email": "tammie.k.wilson@gmail.com",
-      "Chair Phone": "907-590-7602",
-      "Bank Name": "Mt. McKinley",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "7/27/2023",
-      "Status": "Filed",
-      "Amending": ""
     }
   ],
   "debt": [

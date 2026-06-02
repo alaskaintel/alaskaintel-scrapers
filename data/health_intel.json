@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-05-31T12:39:49.632559",
+    "last_synced": "2026-06-02T15:16:37.273965",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 16
+    "total_alerts": 18
   },
   "alerts": [
     {
@@ -31,6 +31,21 @@
       "category": "policy",
       "impact": "regional hubs",
       "action": "immediate review required"
+    },
+    {
+      "id": "https://alaskabeacon.com/?p=25616",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "In Kachemak Bay, Kotzebue and beyond, Alaskans are on the lookout for harmful algae blooms",
+      "description": "Algae is vital to a healthy marine system, and most of the hundreds of varieties in Alaska\u2019s waters are beneficial or benign. But the handful that are harmful are, like other algae, proliferating in warmer conditions and releasing or threatening to release toxins that can sicken people and wildlife and, in the worst cases, cause [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/06/01/in-kachemak-bay-kotzebue-and-beyond-alaskans-are-on-the-lookout-for-harmful-algae-blooms/",
+      "published": "Mon, 01 Jun 2026 13:40:32 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "policy",
+      "impact": "statewide",
+      "action": "assess legislative impact"
     },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
@@ -225,6 +240,21 @@
       "severity": "high",
       "category": "outbreak",
       "impact": "rural / tribal communities",
+      "action": "immediate review required"
+    },
+    {
+      "id": "https://www.juneauempire.com/2026/06/01/new-searhc-urgent-clinic-now-open-on-juneaus-front-street/",
+      "type": "health_alert",
+      "source": "Juneau Empire",
+      "tier": 3,
+      "title": "New SEARHC urgent clinic now open on Juneau\u2019s Front Street",
+      "description": "<p>The new space will provide treatment for a range on non-emergency conditions </p>",
+      "link": "https://www.juneauempire.com/2026/06/01/new-searhc-urgent-clinic-now-open-on-juneaus-front-street/",
+      "published": "Mon, 01 Jun 2026 19:07:00 +0000",
+      "region": "regional hubs",
+      "severity": "high",
+      "category": "hospital",
+      "impact": "regional hubs",
       "action": "immediate review required"
     },
     {
