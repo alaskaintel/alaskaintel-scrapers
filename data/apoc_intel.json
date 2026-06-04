@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-03T15:55:24.749001",
+    "last_synced": "2026-06-04T14:28:01.157775",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -14898,6 +14898,43 @@
     {
       "Result": "106",
       "Report Year": "2026",
+      "Display Name": "Matt Heilala \\ Jesse Sumner",
+      "Last Name": "Heilala \\ Sumner",
+      "First Name": "Matt \\ Jesse",
+      "Committee": "Matt Heilala for Governor",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "3705 Arctic BLVD #487",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99503-5774",
+      "Country": "USA",
+      "Phone": "(907) 250-9823",
+      "Fax": "",
+      "Email": "mheilala@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "Governor",
+      "Treasurer Name": "Joseph Lurtsema",
+      "Treasurer Email": "joe@lurtsemacommunications.com",
+      "Treasurer Phone": "9073826863",
+      "Chair Name": "Matt Heilala",
+      "Chair Email": "mattheilala@gmail.com",
+      "Chair Phone": "9072509823",
+      "Bank Name": "First National Bank of Alaska",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/3/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "107",
+      "Report Year": "2026",
       "Display Name": "Matthew Harris Salisbury",
       "Last Name": "Salisbury",
       "First Name": "Matthew",
@@ -14933,7 +14970,7 @@
       "Amending": ""
     },
     {
-      "Result": "107",
+      "Result": "108",
       "Report Year": "2026",
       "Display Name": "Max Powers",
       "Last Name": "Powers",
@@ -14970,7 +15007,7 @@
       "Amending": ""
     },
     {
-      "Result": "108",
+      "Result": "109",
       "Report Year": "2026",
       "Display Name": "Maxine Dibert",
       "Last Name": "Dibert",
@@ -15007,7 +15044,7 @@
       "Amending": ""
     },
     {
-      "Result": "109",
+      "Result": "110",
       "Report Year": "2026",
       "Display Name": "Meda DeWitt",
       "Last Name": "DeWitt",
@@ -15044,7 +15081,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "110",
+      "Result": "111",
       "Report Year": "2026",
       "Display Name": "Michael Bowles",
       "Last Name": "Bowles",
@@ -15081,7 +15118,44 @@
       "Amending": ""
     },
     {
-      "Result": "111",
+      "Result": "112",
+      "Report Year": "2026",
+      "Display Name": "Michael Gilbert/Timothy Hickel",
+      "Last Name": "Gilbert/Hickel",
+      "First Name": "Michael/Timothy",
+      "Committee": "Gilbert/Hickel for Governor/Lt. Governor 2026",
+      "Purpose": "",
+      "Previously Registered": "New",
+      "Address": "3940 McPhee ave",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99508",
+      "Country": "USA",
+      "Phone": "907-717-5483",
+      "Fax": "",
+      "Email": "gilbert.michael16@yahoo.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "Governor",
+      "Treasurer Name": "Michael Gilbert",
+      "Treasurer Email": "gilbert.michael16@yahoo.com",
+      "Treasurer Phone": "9077175483",
+      "Chair Name": "Michail Gilbert",
+      "Chair Email": "gilbert.michael16@yahoo.com",
+      "Chair Phone": "9077175483",
+      "Bank Name": "Global Credit Union",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "6/3/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "113",
       "Report Year": "2026",
       "Display Name": "Michelle Heun",
       "Last Name": "Heun",
@@ -15118,7 +15192,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "112",
+      "Result": "114",
       "Report Year": "2026",
       "Display Name": "Miguel Angel Ramirez",
       "Last Name": "Ramirez",
@@ -15155,7 +15229,7 @@
       "Amending": ""
     },
     {
-      "Result": "113",
+      "Result": "115",
       "Report Year": "2026",
       "Display Name": "Mike Prax for State House",
       "Last Name": "Prax",
@@ -15192,7 +15266,7 @@
       "Amending": ""
     },
     {
-      "Result": "114",
+      "Result": "116",
       "Report Year": "2026",
       "Display Name": "NANCY A DAHLSTROM",
       "Last Name": "Dahlstrom",
@@ -15229,7 +15303,7 @@
       "Amending": ""
     },
     {
-      "Result": "115",
+      "Result": "117",
       "Report Year": "2026",
       "Display Name": "Neal \"Quannaq\" Foster",
       "Last Name": "Foster",
@@ -15266,7 +15340,7 @@
       "Amending": ""
     },
     {
-      "Result": "116",
+      "Result": "118",
       "Report Year": "2026",
       "Display Name": "nicholas danger",
       "Last Name": "danger",
@@ -15303,7 +15377,7 @@
       "Amending": ""
     },
     {
-      "Result": "117",
+      "Result": "119",
       "Report Year": "2026",
       "Display Name": "Nicholas James Capozzi",
       "Last Name": "Capozzi",
@@ -15340,7 +15414,7 @@
       "Amending": ""
     },
     {
-      "Result": "118",
+      "Result": "120",
       "Report Year": "2026",
       "Display Name": "Nissa Savage",
       "Last Name": "Savage",
@@ -15377,7 +15451,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "119",
+      "Result": "121",
       "Report Year": "2026",
       "Display Name": "Patricia R Chesbro",
       "Last Name": "Chesbro",
@@ -15414,7 +15488,7 @@
       "Amending": ""
     },
     {
-      "Result": "120",
+      "Result": "122",
       "Report Year": "2026",
       "Display Name": "Paul McDonogh",
       "Last Name": "McDonogh",
@@ -15451,7 +15525,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "121",
+      "Result": "123",
       "Report Year": "2026",
       "Display Name": "Paul Roy Kelly",
       "Last Name": "Kelly",
@@ -15488,7 +15562,7 @@
       "Amending": ""
     },
     {
-      "Result": "122",
+      "Result": "124",
       "Report Year": "2026",
       "Display Name": "Pepper McFarland",
       "Last Name": "McFarland",
@@ -15525,7 +15599,7 @@
       "Amending": ""
     },
     {
-      "Result": "123",
+      "Result": "125",
       "Report Year": "2026",
       "Display Name": "Peter Bauer",
       "Last Name": "Bauer",
@@ -15562,7 +15636,7 @@
       "Amending": ""
     },
     {
-      "Result": "124",
+      "Result": "126",
       "Report Year": "2026",
       "Display Name": "Phil Isley",
       "Last Name": "Isley",
@@ -15599,7 +15673,7 @@
       "Amending": ""
     },
     {
-      "Result": "125",
+      "Result": "127",
       "Report Year": "2026",
       "Display Name": "Rachel Blakeslee",
       "Last Name": "Blakeslee",
@@ -15636,7 +15710,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "126",
+      "Result": "128",
       "Report Year": "2026",
       "Display Name": "Rebecca A Schwanke",
       "Last Name": "Schwanke",
@@ -15673,7 +15747,7 @@
       "Amending": ""
     },
     {
-      "Result": "127",
+      "Result": "129",
       "Report Year": "2026",
       "Display Name": "Rebecca Himschoot",
       "Last Name": "Himschoot",
@@ -15710,7 +15784,7 @@
       "Amending": ""
     },
     {
-      "Result": "128",
+      "Result": "130",
       "Report Year": "2026",
       "Display Name": "Rebecca Himschoot",
       "Last Name": "Himschoot",
@@ -15747,7 +15821,7 @@
       "Amending": ""
     },
     {
-      "Result": "129",
+      "Result": "131",
       "Report Year": "2026",
       "Display Name": "Richard Robb ",
       "Last Name": "Robb",
@@ -15784,7 +15858,7 @@
       "Amending": ""
     },
     {
-      "Result": "130",
+      "Result": "132",
       "Report Year": "2026",
       "Display Name": "Robyn Niayuq Frier",
       "Last Name": "Frier",
@@ -15821,7 +15895,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "131",
+      "Result": "133",
       "Report Year": "2026",
       "Display Name": "Ronald Scott Williams",
       "Last Name": "williams",
@@ -15858,7 +15932,7 @@
       "Amending": ""
     },
     {
-      "Result": "132",
+      "Result": "134",
       "Report Year": "2026",
       "Display Name": "Ruby Jones",
       "Last Name": "Jones",
@@ -15895,7 +15969,7 @@
       "Amending": ""
     },
     {
-      "Result": "133",
+      "Result": "135",
       "Report Year": "2026",
       "Display Name": "Russell wyatt",
       "Last Name": "Wyatt",
@@ -15932,7 +16006,7 @@
       "Amending": ""
     },
     {
-      "Result": "134",
+      "Result": "136",
       "Report Year": "2026",
       "Display Name": "Ryan James Berry",
       "Last Name": "Berry",
@@ -15969,7 +16043,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "135",
+      "Result": "137",
       "Report Year": "2026",
       "Display Name": "Ryan William Sheldon",
       "Last Name": "Sheldon",
@@ -16006,7 +16080,7 @@
       "Amending": ""
     },
     {
-      "Result": "136",
+      "Result": "138",
       "Report Year": "2026",
       "Display Name": "Sandra Loomis",
       "Last Name": "Loomis",
@@ -16043,7 +16117,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "137",
+      "Result": "139",
       "Report Year": "2026",
       "Display Name": "Sara Hannan",
       "Last Name": "Hannan",
@@ -16080,7 +16154,7 @@
       "Amending": ""
     },
     {
-      "Result": "138",
+      "Result": "140",
       "Report Year": "2026",
       "Display Name": "Seth Church",
       "Last Name": "Church",
@@ -16117,7 +16191,7 @@
       "Amending": ""
     },
     {
-      "Result": "139",
+      "Result": "141",
       "Report Year": "2026",
       "Display Name": "Sharon Denise Jackson",
       "Last Name": "Portch",
@@ -16154,7 +16228,7 @@
       "Amending": ""
     },
     {
-      "Result": "140",
+      "Result": "142",
       "Report Year": "2026",
       "Display Name": "Sheldon R.J. Prout",
       "Last Name": "Prout",
@@ -16191,7 +16265,7 @@
       "Amending": ""
     },
     {
-      "Result": "141",
+      "Result": "143",
       "Report Year": "2026",
       "Display Name": "Shelley Hughes",
       "Last Name": "Hughes",
@@ -16228,7 +16302,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "142",
+      "Result": "144",
       "Report Year": "2026",
       "Display Name": "Shelley Hughes \\ Blake Gettys",
       "Last Name": "Hughes \\ Gettys",
@@ -16265,7 +16339,7 @@
       "Amending": ""
     },
     {
-      "Result": "143",
+      "Result": "145",
       "Report Year": "2026",
       "Display Name": "Steve Menard",
       "Last Name": "Menard",
@@ -16302,7 +16376,7 @@
       "Amending": ""
     },
     {
-      "Result": "144",
+      "Result": "146",
       "Report Year": "2026",
       "Display Name": "Steve St.Clair",
       "Last Name": "St.Clair",
@@ -16339,7 +16413,7 @@
       "Amending": ""
     },
     {
-      "Result": "145",
+      "Result": "147",
       "Report Year": "2026",
       "Display Name": "Sydney Scout",
       "Last Name": "Scout",
@@ -16376,7 +16450,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "146",
+      "Result": "148",
       "Report Year": "2026",
       "Display Name": "Ted J. Eischeid",
       "Last Name": "Eischeid",
@@ -16413,7 +16487,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "147",
+      "Result": "149",
       "Report Year": "2026",
       "Display Name": "Tom Begich",
       "Last Name": "Begich",
@@ -16450,7 +16524,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "148",
+      "Result": "150",
       "Report Year": "2026",
       "Display Name": "Treg Taylor",
       "Last Name": "Taylor",
@@ -16487,7 +16561,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "149",
+      "Result": "151",
       "Report Year": "2026",
       "Display Name": "Tyler Ivanoff",
       "Last Name": "Ivanoff",
@@ -16524,7 +16598,7 @@
       "Amending": ""
     },
     {
-      "Result": "150",
+      "Result": "152",
       "Report Year": "2026",
       "Display Name": "Votekevinmccabe",
       "Last Name": "McCabe",
@@ -16561,7 +16635,7 @@
       "Amending": ""
     },
     {
-      "Result": "151",
+      "Result": "153",
       "Report Year": "2026",
       "Display Name": "Wassilie Paul Guy",
       "Last Name": "guy",
@@ -16598,7 +16672,7 @@
       "Amending": ""
     },
     {
-      "Result": "152",
+      "Result": "154",
       "Report Year": "2026",
       "Display Name": "Wayne A. Morgan",
       "Last Name": "Morgan",
@@ -16635,7 +16709,7 @@
       "Amending": ""
     },
     {
-      "Result": "153",
+      "Result": "155",
       "Report Year": "2026",
       "Display Name": "Will Stapp",
       "Last Name": "Stapp",
@@ -16672,7 +16746,7 @@
       "Amending": ""
     },
     {
-      "Result": "154",
+      "Result": "156",
       "Report Year": "2026",
       "Display Name": "William Z \"Zack\" Fields",
       "Last Name": "Fields",
@@ -16709,7 +16783,7 @@
       "Amending": ""
     },
     {
-      "Result": "155",
+      "Result": "157",
       "Report Year": "2026",
       "Display Name": "Wright, Stephen",
       "Last Name": "Wright",
@@ -16746,7 +16820,7 @@
       "Amending": ""
     },
     {
-      "Result": "156",
+      "Result": "158",
       "Report Year": "2026",
       "Display Name": "Zachary H. Johnson",
       "Last Name": "Johnson",
@@ -16783,7 +16857,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "157",
+      "Result": "159",
       "Report Year": "2025",
       "Display Name": "Abby L. Bradberry",
       "Last Name": "Bradberry",
@@ -16820,7 +16894,7 @@
       "Amending": ""
     },
     {
-      "Result": "158",
+      "Result": "160",
       "Report Year": "2025",
       "Display Name": "Alexander Rosales",
       "Last Name": "Rosales",
@@ -16857,7 +16931,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "159",
+      "Result": "161",
       "Report Year": "2025",
       "Display Name": "Anthony Pitcher",
       "Last Name": "Pitcher",
@@ -16894,7 +16968,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "160",
+      "Result": "162",
       "Report Year": "2025",
       "Display Name": "Ash-Lee Waddell",
       "Last Name": "Waddell",
@@ -16931,7 +17005,7 @@
       "Amending": ""
     },
     {
-      "Result": "161",
+      "Result": "163",
       "Report Year": "2025",
       "Display Name": "Audra Hull",
       "Last Name": "Hull",
@@ -16968,7 +17042,7 @@
       "Amending": ""
     },
     {
-      "Result": "162",
+      "Result": "164",
       "Report Year": "2025",
       "Display Name": "Austin Otos",
       "Last Name": "Otos",
@@ -17005,7 +17079,7 @@
       "Amending": ""
     },
     {
-      "Result": "163",
+      "Result": "165",
       "Report Year": "2025",
       "Display Name": "Barbara Haney",
       "Last Name": "Haney",
@@ -17042,7 +17116,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "164",
+      "Result": "166",
       "Report Year": "2025",
       "Display Name": "Bradley Parsons",
       "Last Name": "Parsons",
@@ -17079,7 +17153,7 @@
       "Amending": ""
     },
     {
-      "Result": "165",
+      "Result": "167",
       "Report Year": "2025",
       "Display Name": "Brent Hibbert",
       "Last Name": "Hibbert",
@@ -17116,7 +17190,7 @@
       "Amending": ""
     },
     {
-      "Result": "166",
+      "Result": "168",
       "Report Year": "2025",
       "Display Name": "Brett Rotermund",
       "Last Name": "Rotermund",
@@ -17153,7 +17227,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "167",
+      "Result": "169",
       "Report Year": "2025",
       "Display Name": "Chemetria \"Sam\" Spencer",
       "Last Name": "Spencer",
@@ -17190,7 +17264,7 @@
       "Amending": ""
     },
     {
-      "Result": "168",
+      "Result": "170",
       "Report Year": "2025",
       "Display Name": "Crystal Tidwell",
       "Last Name": "Tidwell",
@@ -17227,7 +17301,7 @@
       "Amending": ""
     },
     {
-      "Result": "169",
+      "Result": "171",
       "Report Year": "2025",
       "Display Name": "Dana Raffaniello",
       "Last Name": "Raffaniello",
@@ -17264,7 +17338,7 @@
       "Amending": ""
     },
     {
-      "Result": "170",
+      "Result": "172",
       "Report Year": "2025",
       "Display Name": "Daniel George",
       "Last Name": "George",
@@ -17301,7 +17375,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "171",
+      "Result": "173",
       "Report Year": "2025",
       "Display Name": "Daniel Volland",
       "Last Name": "Volland",
@@ -17338,7 +17412,7 @@
       "Amending": ""
     },
     {
-      "Result": "172",
+      "Result": "174",
       "Report Year": "2025",
       "Display Name": "Darin A Colbry ",
       "Last Name": "Colbry",
@@ -17375,7 +17449,7 @@
       "Amending": ""
     },
     {
-      "Result": "173",
+      "Result": "175",
       "Report Year": "2025",
       "Display Name": "David Littleton",
       "Last Name": "Littleton",
@@ -17412,7 +17486,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "174",
+      "Result": "176",
       "Report Year": "2025",
       "Display Name": "David Littleton",
       "Last Name": "Littleton",
@@ -17449,7 +17523,7 @@
       "Amending": ""
     },
     {
-      "Result": "175",
+      "Result": "177",
       "Report Year": "2025",
       "Display Name": "David Pruhs",
       "Last Name": "Pruhs",
@@ -17486,7 +17560,7 @@
       "Amending": ""
     },
     {
-      "Result": "176",
+      "Result": "178",
       "Report Year": "2025",
       "Display Name": "Don Smith",
       "Last Name": "Smith",
@@ -17523,7 +17597,7 @@
       "Amending": ""
     },
     {
-      "Result": "177",
+      "Result": "179",
       "Report Year": "2025",
       "Display Name": "Ella Adkison",
       "Last Name": "Adkison",
@@ -17560,7 +17634,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "178",
+      "Result": "180",
       "Report Year": "2025",
       "Display Name": "Eric L Gurley",
       "Last Name": "Gurley",
@@ -17597,7 +17671,7 @@
       "Amending": ""
     },
     {
-      "Result": "179",
+      "Result": "181",
       "Report Year": "2025",
       "Display Name": "Erin Baldwin Day",
       "Last Name": "Day",
@@ -17634,7 +17708,7 @@
       "Amending": ""
     },
     {
-      "Result": "180",
+      "Result": "182",
       "Report Year": "2025",
       "Display Name": "Fannie Suvlu",
       "Last Name": "Suvlu",
@@ -17671,7 +17745,7 @@
       "Amending": ""
     },
     {
-      "Result": "181",
+      "Result": "183",
       "Report Year": "2025",
       "Display Name": "Forrest Deano olemaun",
       "Last Name": "olemaun",
@@ -17708,7 +17782,7 @@
       "Amending": ""
     },
     {
-      "Result": "182",
+      "Result": "184",
       "Report Year": "2025",
       "Display Name": "Frances JakyLou Olemaun",
       "Last Name": "Olemaun",
@@ -17745,7 +17819,7 @@
       "Amending": ""
     },
     {
-      "Result": "183",
+      "Result": "185",
       "Report Year": "2025",
       "Display Name": "Frederick F. Brower",
       "Last Name": "Brower",
@@ -17782,7 +17856,7 @@
       "Amending": ""
     },
     {
-      "Result": "184",
+      "Result": "186",
       "Report Year": "2025",
       "Display Name": "Garrett Armstrong",
       "Last Name": "Armstrong",
@@ -17819,7 +17893,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "185",
+      "Result": "187",
       "Report Year": "2025",
       "Display Name": "Gayle D. Claus",
       "Last Name": "Claus",
@@ -17856,7 +17930,7 @@
       "Amending": ""
     },
     {
-      "Result": "186",
+      "Result": "188",
       "Report Year": "2025",
       "Display Name": "Grant EchoHawk",
       "Last Name": "EchoHawk",
@@ -17893,7 +17967,7 @@
       "Amending": ""
     },
     {
-      "Result": "187",
+      "Result": "189",
       "Report Year": "2025",
       "Display Name": "Greg Smith",
       "Last Name": "Smith",
@@ -17930,7 +18004,7 @@
       "Amending": ""
     },
     {
-      "Result": "188",
+      "Result": "190",
       "Report Year": "2025",
       "Display Name": "Greg Smith for Assembly",
       "Last Name": "Smith",
@@ -17967,7 +18041,7 @@
       "Amending": ""
     },
     {
-      "Result": "189",
+      "Result": "191",
       "Report Year": "2025",
       "Display Name": "Gregory Robert Schiedler",
       "Last Name": "Schiedler",
@@ -18004,7 +18078,7 @@
       "Amending": ""
     },
     {
-      "Result": "190",
+      "Result": "192",
       "Report Year": "2025",
       "Display Name": "Hannah Victoria Ekalook",
       "Last Name": "Ekalook",
@@ -18041,7 +18115,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "191",
+      "Result": "193",
       "Report Year": "2025",
       "Display Name": "J. T. McComas-Roe",
       "Last Name": "McComas-Roe",
@@ -18078,7 +18152,7 @@
       "Amending": ""
     },
     {
-      "Result": "192",
+      "Result": "194",
       "Report Year": "2025",
       "Display Name": "James Michael Taylor",
       "Last Name": "Taylor",
@@ -18115,7 +18189,7 @@
       "Amending": ""
     },
     {
-      "Result": "193",
+      "Result": "195",
       "Report Year": "2025",
       "Display Name": "Jared David Goecker",
       "Last Name": "Goecker",
@@ -18152,7 +18226,7 @@
       "Amending": ""
     },
     {
-      "Result": "194",
+      "Result": "196",
       "Report Year": "2025",
       "Display Name": "Jared Griffin",
       "Last Name": "Griffin",
@@ -18189,7 +18263,7 @@
       "Amending": ""
     },
     {
-      "Result": "195",
+      "Result": "197",
       "Report Year": "2025",
       "Display Name": "Jeffery Aaron Woods",
       "Last Name": "Woods",
@@ -18226,7 +18300,7 @@
       "Amending": ""
     },
     {
-      "Result": "196",
+      "Result": "198",
       "Report Year": "2025",
       "Display Name": "Jenny Vander Weele Thomas",
       "Last Name": "Thomas",
@@ -18263,7 +18337,7 @@
       "Amending": ""
     },
     {
-      "Result": "197",
+      "Result": "199",
       "Report Year": "2025",
       "Display Name": "Jeremy Josiah Johnson (aka -jjj)",
       "Last Name": "Johnson",
@@ -18300,7 +18374,7 @@
       "Amending": ""
     },
     {
-      "Result": "198",
+      "Result": "200",
       "Report Year": "2025",
       "Display Name": "John Mink",
       "Last Name": "Mink",
@@ -18337,7 +18411,7 @@
       "Amending": ""
     },
     {
-      "Result": "199",
+      "Result": "201",
       "Report Year": "2025",
       "Display Name": "Joseph Alan Seale",
       "Last Name": "Seale",
@@ -18374,7 +18448,7 @@
       "Amending": ""
     },
     {
-      "Result": "200",
+      "Result": "202",
       "Report Year": "2025",
       "Display Name": "Kameron Perez-Verdia",
       "Last Name": "Perez-Verdia",
@@ -18411,7 +18485,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "201",
+      "Result": "203",
       "Report Year": "2025",
       "Display Name": "Keith McCormick",
       "Last Name": "McCormick",
@@ -18448,7 +18522,7 @@
       "Amending": ""
     },
     {
-      "Result": "202",
+      "Result": "204",
       "Report Year": "2025",
       "Display Name": "Kelly Lessens",
       "Last Name": "Lessens",
@@ -18485,7 +18559,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "203",
+      "Result": "205",
       "Report Year": "2025",
       "Display Name": "Kendal Kruse",
       "Last Name": "Kruse",
@@ -18522,7 +18596,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "204",
+      "Result": "206",
       "Report Year": "2025",
       "Display Name": "Kendal Kruse",
       "Last Name": "Kruse",
@@ -18559,7 +18633,7 @@
       "Amending": ""
     },
     {
-      "Result": "205",
+      "Result": "207",
       "Report Year": "2025",
       "Display Name": "Kristina \"KVan\" Van Hoogmoed",
       "Last Name": "Van Hoogmoed",
@@ -18596,7 +18670,7 @@
       "Amending": ""
     },
     {
-      "Result": "206",
+      "Result": "208",
       "Report Year": "2025",
       "Display Name": "Kyle Walker",
       "Last Name": "Walker",
@@ -18633,7 +18707,7 @@
       "Amending": ""
     },
     {
-      "Result": "207",
+      "Result": "209",
       "Report Year": "2025",
       "Display Name": "Margaret E. Bellamy",
       "Last Name": "Bellamy",
@@ -18670,7 +18744,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "208",
+      "Result": "210",
       "Report Year": "2025",
       "Display Name": "Mark Anthony Cox",
       "Last Name": "Cox",
@@ -18707,7 +18781,7 @@
       "Amending": ""
     },
     {
-      "Result": "209",
+      "Result": "211",
       "Report Year": "2025",
       "Display Name": "Mark C. Hoffer",
       "Last Name": "Hoffer",
@@ -18744,7 +18818,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "210",
+      "Result": "212",
       "Report Year": "2025",
       "Display Name": "Mark Schmidt",
       "Last Name": "Schmidt",
@@ -18781,7 +18855,7 @@
       "Amending": ""
     },
     {
-      "Result": "211",
+      "Result": "213",
       "Report Year": "2025",
       "Display Name": "Marlin Dale Eicher",
       "Last Name": "Eicher",
@@ -18818,7 +18892,7 @@
       "Amending": ""
     },
     {
-      "Result": "212",
+      "Result": "214",
       "Report Year": "2025",
       "Display Name": "Mary Jean Silva",
       "Last Name": "Silva",
@@ -18855,7 +18929,7 @@
       "Amending": ""
     },
     {
-      "Result": "213",
+      "Result": "215",
       "Report Year": "2025",
       "Display Name": "Melissa Burnett",
       "Last Name": "Burnett",
@@ -18892,7 +18966,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "214",
+      "Result": "216",
       "Report Year": "2025",
       "Display Name": "Melissa Cullum",
       "Last Name": "Cullum",
@@ -18929,7 +19003,7 @@
       "Amending": ""
     },
     {
-      "Result": "215",
+      "Result": "217",
       "Report Year": "2025",
       "Display Name": "Michael Bowles",
       "Last Name": "Bowles",
@@ -18966,7 +19040,7 @@
       "Amending": ""
     },
     {
-      "Result": "216",
+      "Result": "218",
       "Report Year": "2025",
       "Display Name": "Michael L. Jones",
       "Last Name": "Jones",
@@ -19003,7 +19077,7 @@
       "Amending": ""
     },
     {
-      "Result": "217",
+      "Result": "219",
       "Report Year": "2025",
       "Display Name": "Michelle Heun",
       "Last Name": "Heun",
@@ -19040,7 +19114,7 @@
       "Amending": ""
     },
     {
-      "Result": "218",
+      "Result": "220",
       "Report Year": "2025",
       "Display Name": "MINDY L. O'NEALL",
       "Last Name": "O'NEALL",
@@ -19077,7 +19151,7 @@
       "Amending": ""
     },
     {
-      "Result": "219",
+      "Result": "221",
       "Report Year": "2025",
       "Display Name": "Mitch Michaud",
       "Last Name": "Michaud",
@@ -19114,7 +19188,7 @@
       "Amending": ""
     },
     {
-      "Result": "220",
+      "Result": "222",
       "Report Year": "2025",
       "Display Name": "Naomi Hewitt",
       "Last Name": "Hewitt",
@@ -19151,7 +19225,7 @@
       "Amending": ""
     },
     {
-      "Result": "221",
+      "Result": "223",
       "Report Year": "2025",
       "Display Name": "Nathaniel \"Nano\" Brooks",
       "Last Name": "Brooks",
@@ -19188,7 +19262,7 @@
       "Amending": ""
     },
     {
-      "Result": "222",
+      "Result": "224",
       "Report Year": "2025",
       "Display Name": "Patricia E. Patkotak ",
       "Last Name": "Patkotak ",
@@ -19225,7 +19299,7 @@
       "Amending": ""
     },
     {
-      "Result": "223",
+      "Result": "225",
       "Report Year": "2025",
       "Display Name": "Patricia Truesdell",
       "Last Name": "Truesdell",
@@ -19262,7 +19336,7 @@
       "Amending": ""
     },
     {
-      "Result": "224",
+      "Result": "226",
       "Report Year": "2025",
       "Display Name": "Patrick Roach",
       "Last Name": "Roach",
@@ -19299,7 +19373,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "225",
+      "Result": "227",
       "Report Year": "2025",
       "Display Name": "Steven Whitney",
       "Last Name": "Whitney",
@@ -19336,7 +19410,7 @@
       "Amending": ""
     },
     {
-      "Result": "226",
+      "Result": "228",
       "Report Year": "2025",
       "Display Name": "Teresa Younghui Keller",
       "Last Name": "Keller",
@@ -19373,7 +19447,7 @@
       "Amending": ""
     },
     {
-      "Result": "227",
+      "Result": "229",
       "Report Year": "2025",
       "Display Name": "Wade Bryson",
       "Last Name": "Bryson",
@@ -19410,7 +19484,7 @@
       "Amending": ""
     },
     {
-      "Result": "228",
+      "Result": "230",
       "Report Year": "2025",
       "Display Name": "William Hutto",
       "Last Name": "Hutto",
@@ -19447,7 +19521,7 @@
       "Amending": ""
     },
     {
-      "Result": "229",
+      "Result": "231",
       "Report Year": "2025",
       "Display Name": "Yarrow G. Silvers",
       "Last Name": "Silvers",
@@ -19484,7 +19558,7 @@
       "Amending": ""
     },
     {
-      "Result": "230",
+      "Result": "232",
       "Report Year": "2024",
       "Display Name": "Aaron Levi Crook",
       "Last Name": "Crook",
@@ -19521,7 +19595,7 @@
       "Amending": ""
     },
     {
-      "Result": "231",
+      "Result": "233",
       "Report Year": "2024",
       "Display Name": "Aaron Lojewski",
       "Last Name": "Lojewski",
@@ -19558,7 +19632,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "232",
+      "Result": "234",
       "Report Year": "2024",
       "Display Name": "Abraham Karl Palmer",
       "Last Name": "Palmer",
@@ -19595,7 +19669,7 @@
       "Amending": ""
     },
     {
-      "Result": "233",
+      "Result": "235",
       "Report Year": "2024",
       "Display Name": "Agnes C. Moran",
       "Last Name": "Moran",
@@ -19632,7 +19706,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "234",
+      "Result": "236",
       "Report Year": "2024",
       "Display Name": "Aimee Sims",
       "Last Name": "Sims",
@@ -19669,7 +19743,7 @@
       "Amending": ""
     },
     {
-      "Result": "235",
+      "Result": "237",
       "Report Year": "2024",
       "Display Name": "Alana L. Greear/AlanaforAlaska",
       "Last Name": "Greear",
@@ -19706,7 +19780,7 @@
       "Amending": ""
     },
     {
-      "Result": "236",
+      "Result": "238",
       "Report Year": "2024",
       "Display Name": "Alicia Miner",
       "Last Name": "Miner",
@@ -19743,7 +19817,7 @@
       "Amending": ""
     },
     {
-      "Result": "237",
+      "Result": "239",
       "Report Year": "2024",
       "Display Name": "Alyse S. Galvin",
       "Last Name": "Galvin",
@@ -19780,7 +19854,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "238",
+      "Result": "240",
       "Report Year": "2024",
       "Display Name": "Andrea \"Andi\" Story",
       "Last Name": "Story",
@@ -19817,7 +19891,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "239",
+      "Result": "241",
       "Report Year": "2024",
       "Display Name": "Andrew Cizek",
       "Last Name": "Cizek",
@@ -19854,7 +19928,7 @@
       "Amending": ""
     },
     {
-      "Result": "240",
+      "Result": "242",
       "Report Year": "2024",
       "Display Name": "Andrew Louis Josephson",
       "Last Name": "Josephson",
@@ -19891,7 +19965,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "241",
+      "Result": "243",
       "Report Year": "2024",
       "Display Name": "Andrew Shane",
       "Last Name": "Shane",
@@ -19928,7 +20002,7 @@
       "Amending": ""
     },
     {
-      "Result": "242",
+      "Result": "244",
       "Report Year": "2024",
       "Display Name": "Andrew T. Gray",
       "Last Name": "Gray",
@@ -19965,7 +20039,7 @@
       "Amending": ""
     },
     {
-      "Result": "243",
+      "Result": "245",
       "Report Year": "2024",
       "Display Name": "Angela Rodell",
       "Last Name": "Rodell",
@@ -20002,7 +20076,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "244",
+      "Result": "246",
       "Report Year": "2024",
       "Display Name": "Anton L. Keller",
       "Last Name": "Keller",
@@ -20039,7 +20113,7 @@
       "Amending": ""
     },
     {
-      "Result": "245",
+      "Result": "247",
       "Report Year": "2024",
       "Display Name": "April Smith",
       "Last Name": "Smith",
@@ -20076,7 +20150,7 @@
       "Amending": ""
     },
     {
-      "Result": "246",
+      "Result": "248",
       "Report Year": "2024",
       "Display Name": "Ashley Carrick",
       "Last Name": "Carrick",
@@ -20113,7 +20187,7 @@
       "Amending": ""
     },
     {
-      "Result": "247",
+      "Result": "249",
       "Report Year": "2024",
       "Display Name": "Barton S. LeBon",
       "Last Name": "LeBon",
@@ -20150,7 +20224,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "248",
+      "Result": "250",
       "Report Year": "2024",
       "Display Name": "Ben Carpenter",
       "Last Name": "Carpenter",
@@ -20187,7 +20261,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "249",
+      "Result": "251",
       "Report Year": "2024",
       "Display Name": "Ben Kolendo",
       "Last Name": "Kolendo",
@@ -20224,7 +20298,7 @@
       "Amending": ""
     },
     {
-      "Result": "250",
+      "Result": "252",
       "Report Year": "2024",
       "Display Name": "Beth Weldon",
       "Last Name": "Weldon",
@@ -20261,7 +20335,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "251",
+      "Result": "253",
       "Report Year": "2024",
       "Display Name": "Bill Elam",
       "Last Name": "Elam",
@@ -20298,7 +20372,7 @@
       "Amending": ""
     },
     {
-      "Result": "252",
+      "Result": "254",
       "Report Year": "2024",
       "Display Name": "Bill Popp",
       "Last Name": "Popp",
@@ -20335,7 +20409,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "253",
+      "Result": "255",
       "Report Year": "2024",
       "Display Name": "Brandon P. Kowalski \"Putuuqti\"",
       "Last Name": "Kowalski",
@@ -20372,7 +20446,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "254",
+      "Result": "256",
       "Report Year": "2024",
       "Display Name": "Brandy Pennington",
       "Last Name": "Pennington",
@@ -20409,7 +20483,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "255",
+      "Result": "257",
       "Report Year": "2024",
       "Display Name": "Brent Johnson",
       "Last Name": "Johnson",
@@ -20446,7 +20520,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "256",
+      "Result": "258",
       "Report Year": "2024",
       "Display Name": "Brooks Pitcher",
       "Last Name": "Pitcher",
@@ -20483,7 +20557,7 @@
       "Amending": ""
     },
     {
-      "Result": "257",
+      "Result": "259",
       "Report Year": "2024",
       "Display Name": "Bruce Wall",
       "Last Name": "Wall",
@@ -20520,7 +20594,7 @@
       "Amending": ""
     },
     {
-      "Result": "258",
+      "Result": "260",
       "Report Year": "2024",
       "Display Name": "Bryce Edgmon",
       "Last Name": "Edgmom",
@@ -20557,7 +20631,7 @@
       "Amending": ""
     },
     {
-      "Result": "259",
+      "Result": "261",
       "Report Year": "2024",
       "Display Name": "Calvin Schrage",
       "Last Name": "Schrage",
@@ -20594,7 +20668,7 @@
       "Amending": ""
     },
     {
-      "Result": "260",
+      "Result": "262",
       "Report Year": "2024",
       "Display Name": "Carl Jacobs",
       "Last Name": "Jacobs",
@@ -20631,7 +20705,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "261",
+      "Result": "263",
       "Report Year": "2024",
       "Display Name": "Carolyn Hall",
       "Last Name": "Hall-Jensen",
@@ -20668,7 +20742,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "262",
+      "Result": "264",
       "Report Year": "2024",
       "Display Name": "Cathy L. Tilton",
       "Last Name": "Tilton",
@@ -20705,7 +20779,7 @@
       "Amending": ""
     },
     {
-      "Result": "263",
+      "Result": "265",
       "Report Year": "2024",
       "Display Name": "Charles \"Chuck\" Kopp ",
       "Last Name": "Kopp",
@@ -20742,7 +20816,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "264",
+      "Result": "266",
       "Report Year": "2024",
       "Display Name": "Chelsea Pohland",
       "Last Name": "Pohland",
@@ -20779,7 +20853,7 @@
       "Amending": ""
     },
     {
-      "Result": "265",
+      "Result": "267",
       "Report Year": "2024",
       "Display Name": "Cheronda Lei Smith",
       "Last Name": "Smith",
@@ -20816,7 +20890,7 @@
       "Amending": ""
     },
     {
-      "Result": "266",
+      "Result": "268",
       "Report Year": "2024",
       "Display Name": "Chris Tuck",
       "Last Name": "Tuck",
@@ -20853,7 +20927,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "267",
+      "Result": "269",
       "Report Year": "2024",
       "Display Name": "Cindy L. Ecklund",
       "Last Name": "Ecklund",
@@ -20890,7 +20964,7 @@
       "Amending": ""
     },
     {
-      "Result": "268",
+      "Result": "270",
       "Report Year": "2024",
       "Display Name": "CJ McCormick",
       "Last Name": "McCormick",
@@ -20927,7 +21001,7 @@
       "Amending": ""
     },
     {
-      "Result": "269",
+      "Result": "271",
       "Report Year": "2024",
       "Display Name": "Click Bishop",
       "Last Name": "Bishop",
@@ -20964,7 +21038,7 @@
       "Amending": ""
     },
     {
-      "Result": "270",
+      "Result": "272",
       "Report Year": "2024",
       "Display Name": "Cliff Groh",
       "Last Name": "Groh",
@@ -21001,7 +21075,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "271",
+      "Result": "273",
       "Report Year": "2024",
       "Display Name": "Cody Raymond Anderson",
       "Last Name": "Anderson",
@@ -21038,7 +21112,7 @@
       "Amending": ""
     },
     {
-      "Result": "272",
+      "Result": "274",
       "Report Year": "2024",
       "Display Name": "Cole Snodgress",
       "Last Name": "Snodgress",
@@ -21075,7 +21149,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "273",
+      "Result": "275",
       "Report Year": "2024",
       "Display Name": "Craig Johnson",
       "Last Name": "Johnson",
@@ -21112,7 +21186,7 @@
       "Amending": ""
     },
     {
-      "Result": "274",
+      "Result": "276",
       "Report Year": "2024",
       "Display Name": "Craig Johnson",
       "Last Name": "Johnson",
@@ -21149,7 +21223,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "275",
+      "Result": "277",
       "Report Year": "2024",
       "Display Name": "Dan Saddler",
       "Last Name": "Saddler",
@@ -21186,7 +21260,7 @@
       "Amending": ""
     },
     {
-      "Result": "276",
+      "Result": "278",
       "Report Year": "2024",
       "Display Name": "Dana Mock",
       "Last Name": "Mock",
@@ -21223,7 +21297,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "277",
+      "Result": "279",
       "Report Year": "2024",
       "Display Name": "Danny Suiter",
       "Last Name": "Suiter",
@@ -21260,7 +21334,7 @@
       "Amending": ""
     },
     {
-      "Result": "278",
+      "Result": "280",
       "Report Year": "2024",
       "Display Name": "Darin Colbry",
       "Last Name": "Colbry",
@@ -21297,7 +21371,7 @@
       "Amending": ""
     },
     {
-      "Result": "279",
+      "Result": "281",
       "Report Year": "2024",
       "Display Name": "Darren Morgan Deacon",
       "Last Name": "Deacon",
@@ -21334,7 +21408,7 @@
       "Amending": ""
     },
     {
-      "Result": "280",
+      "Result": "282",
       "Report Year": "2024",
       "Display Name": "Dave Bronson",
       "Last Name": "Bronson",
@@ -21371,7 +21445,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "281",
+      "Result": "283",
       "Report Year": "2024",
       "Display Name": "David Eastman",
       "Last Name": "Eastman",
@@ -21408,7 +21482,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "282",
+      "Result": "284",
       "Report Year": "2024",
       "Display Name": "David Guttenberg",
       "Last Name": "Guttenberg",
@@ -21445,7 +21519,7 @@
       "Amending": ""
     },
     {
-      "Result": "283",
+      "Result": "285",
       "Report Year": "2024",
       "Display Name": "David Nelson",
       "Last Name": "Nelson",
@@ -21482,7 +21556,7 @@
       "Amending": ""
     },
     {
-      "Result": "284",
+      "Result": "286",
       "Report Year": "2024",
       "Display Name": "David S. Wilson",
       "Last Name": "Wilson",
@@ -21519,7 +21593,7 @@
       "Amending": ""
     },
     {
-      "Result": "285",
+      "Result": "287",
       "Report Year": "2024",
       "Display Name": "Dawson R Slaughter",
       "Last Name": "Slaughter",
@@ -21556,7 +21630,7 @@
       "Amending": ""
     },
     {
-      "Result": "286",
+      "Result": "288",
       "Report Year": "2024",
       "Display Name": "DeLena M Johnson",
       "Last Name": "Goodwin Johnson",
@@ -21593,7 +21667,7 @@
       "Amending": ""
     },
     {
-      "Result": "287",
+      "Result": "289",
       "Report Year": "2024",
       "Display Name": "Denny Wells",
       "Last Name": "Wells",
@@ -21630,7 +21704,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "288",
+      "Result": "290",
       "Report Year": "2024",
       "Display Name": "Dmitri Fonov",
       "Last Name": "Fonov",
@@ -21667,7 +21741,7 @@
       "Amending": ""
     },
     {
-      "Result": "289",
+      "Result": "291",
       "Report Year": "2024",
       "Display Name": "Dmitri Fonov",
       "Last Name": "Fonov",
@@ -21704,7 +21778,7 @@
       "Amending": ""
     },
     {
-      "Result": "290",
+      "Result": "292",
       "Report Year": "2024",
       "Display Name": "Dolores McKee",
       "Last Name": "McKee",
@@ -21741,7 +21815,7 @@
       "Amending": ""
     },
     {
-      "Result": "291",
+      "Result": "293",
       "Report Year": "2024",
       "Display Name": "Donald \"Donny\" C. Olson",
       "Last Name": "Olson",
@@ -21778,7 +21852,7 @@
       "Amending": ""
     },
     {
-      "Result": "292",
+      "Result": "294",
       "Report Year": "2024",
       "Display Name": "Donna C Mears",
       "Last Name": "Mears",
@@ -21815,7 +21889,7 @@
       "Amending": ""
     },
     {
-      "Result": "293",
+      "Result": "295",
       "Report Year": "2024",
       "Display Name": "Dora Wilson",
       "Last Name": "Wilson",
@@ -21852,7 +21926,7 @@
       "Amending": ""
     },
     {
-      "Result": "294",
+      "Result": "296",
       "Report Year": "2024",
       "Display Name": "Dorene Lorenz",
       "Last Name": "Lorenz",
@@ -21889,7 +21963,7 @@
       "Amending": ""
     },
     {
-      "Result": "295",
+      "Result": "297",
       "Report Year": "2024",
       "Display Name": "Doyle Holmes",
       "Last Name": "Holmes",
@@ -21926,7 +22000,7 @@
       "Amending": ""
     },
     {
-      "Result": "296",
+      "Result": "298",
       "Report Year": "2024",
       "Display Name": "Dustin Thomas House Darden",
       "Last Name": "Darden",
@@ -21963,7 +22037,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "297",
+      "Result": "299",
       "Report Year": "2024",
       "Display Name": "Dustin Thomas House Darden ",
       "Last Name": "Darden ",
@@ -22000,7 +22074,7 @@
       "Amending": ""
     },
     {
-      "Result": "298",
+      "Result": "300",
       "Report Year": "2024",
       "Display Name": "Edna DeVries",
       "Last Name": "DeVries",
@@ -22037,7 +22111,7 @@
       "Amending": ""
     },
     {
-      "Result": "299",
+      "Result": "301",
       "Report Year": "2024",
       "Display Name": "Elexie Moore",
       "Last Name": "Moore",
@@ -22074,7 +22148,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "300",
+      "Result": "302",
       "Report Year": "2024",
       "Display Name": "Elizabeth (Ebett) Siddon",
       "Last Name": "Siddon",
@@ -22111,7 +22185,7 @@
       "Amending": ""
     },
     {
-      "Result": "301",
+      "Result": "303",
       "Report Year": "2024",
       "Display Name": "Forrest Dunbar",
       "Last Name": "Dunbar",
@@ -22148,7 +22222,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "302",
+      "Result": "304",
       "Report Year": "2024",
       "Display Name": "Frank Tomaszewski",
       "Last Name": "Tomaszewski",
@@ -22185,7 +22259,7 @@
       "Amending": ""
     },
     {
-      "Result": "303",
+      "Result": "305",
       "Report Year": "2024",
       "Display Name": "Garrett Armstrong",
       "Last Name": "Armstrong",
@@ -22222,7 +22296,7 @@
       "Amending": ""
     },
     {
-      "Result": "304",
+      "Result": "306",
       "Report Year": "2024",
       "Display Name": "Gary Keith Damron",
       "Last Name": "Damron",
@@ -22259,7 +22333,7 @@
       "Amending": ""
     },
     {
-      "Result": "305",
+      "Result": "307",
       "Report Year": "2024",
       "Display Name": "Genevieve Mina",
       "Last Name": "Mina",
@@ -22296,7 +22370,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "306",
+      "Result": "308",
       "Report Year": "2024",
       "Display Name": "Grant EchoHawk",
       "Last Name": "EchoHawk",
@@ -22333,7 +22407,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "307",
+      "Result": "309",
       "Report Year": "2024",
       "Display Name": "Greg Magee",
       "Last Name": "MAGEE",
@@ -22370,7 +22444,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "308",
+      "Result": "310",
       "Report Year": "2024",
       "Display Name": "Greta I\u00f1uuraaq Schuerch",
       "Last Name": "Schuerch",
@@ -22407,7 +22481,7 @@
       "Amending": ""
     },
     {
-      "Result": "309",
+      "Result": "311",
       "Report Year": "2024",
       "Display Name": "Grier Hopkins",
       "Last Name": "Hopkins",
@@ -22444,7 +22518,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "310",
+      "Result": "312",
       "Report Year": "2024",
       "Display Name": "Harold Borbridge ",
       "Last Name": "Borbridge ",
@@ -22481,7 +22555,7 @@
       "Amending": ""
     },
     {
-      "Result": "311",
+      "Result": "313",
       "Report Year": "2024",
       "Display Name": "Harry Winner, Kamdem",
       "Last Name": "Kamdem Fezeu",
@@ -22518,7 +22592,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "312",
+      "Result": "314",
       "Report Year": "2024",
       "Display Name": "Heather Gottshall",
       "Last Name": "Gottshall",
@@ -22555,7 +22629,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "313",
+      "Result": "315",
       "Report Year": "2024",
       "Display Name": "Helen Armstrong",
       "Last Name": "Armstrong",
@@ -22592,7 +22666,7 @@
       "Amending": ""
     },
     {
-      "Result": "314",
+      "Result": "316",
       "Report Year": "2024",
       "Display Name": "Hillary Palmer",
       "Last Name": "Palmer",
@@ -22629,7 +22703,7 @@
       "Amending": ""
     },
     {
-      "Result": "315",
+      "Result": "317",
       "Report Year": "2024",
       "Display Name": "Jai mahtani",
       "Last Name": "Mahtani",
@@ -22666,7 +22740,7 @@
       "Amending": ""
     },
     {
-      "Result": "316",
+      "Result": "318",
       "Report Year": "2024",
       "Display Name": "James Fields",
       "Last Name": "Fields",
@@ -22703,7 +22777,7 @@
       "Amending": ""
     },
     {
-      "Result": "317",
+      "Result": "319",
       "Report Year": "2024",
       "Display Name": "James Kaufman",
       "Last Name": "Kaufman",
@@ -22740,7 +22814,7 @@
       "Amending": ""
     },
     {
-      "Result": "318",
+      "Result": "320",
       "Report Year": "2024",
       "Display Name": "James Nelson Turner",
       "Last Name": "Turner",
@@ -22777,7 +22851,7 @@
       "Amending": ""
     },
     {
-      "Result": "319",
+      "Result": "321",
       "Report Year": "2024",
       "Display Name": "James Squyres",
       "Last Name": "Squyres",
@@ -22814,7 +22888,7 @@
       "Amending": ""
     },
     {
-      "Result": "320",
+      "Result": "322",
       "Report Year": "2024",
       "Display Name": "Jameson R. Corbin",
       "Last Name": "Corbin",
@@ -22851,7 +22925,7 @@
       "Amending": ""
     },
     {
-      "Result": "321",
+      "Result": "323",
       "Report Year": "2024",
       "Display Name": "Jamie Allard ",
       "Last Name": "del Fierro-Allard ",
@@ -22888,7 +22962,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "322",
+      "Result": "324",
       "Report Year": "2024",
       "Display Name": "Janice Park",
       "Last Name": "Park",
@@ -22925,7 +22999,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "323",
+      "Result": "325",
       "Report Year": "2024",
       "Display Name": "Jared David Goecker",
       "Last Name": "Goecker",
@@ -22962,7 +23036,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "324",
+      "Result": "326",
       "Report Year": "2024",
       "Display Name": "Jason Avery",
       "Last Name": "Avery",
@@ -22999,7 +23073,7 @@
       "Amending": ""
     },
     {
-      "Result": "325",
+      "Result": "327",
       "Report Year": "2024",
       "Display Name": "Jenny Di Grappa",
       "Last Name": "Di Grappa",
@@ -23036,7 +23110,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "326",
+      "Result": "328",
       "Report Year": "2024",
       "Display Name": "Jeremy T. Bynum",
       "Last Name": "Bynum",
@@ -23073,7 +23147,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "327",
+      "Result": "329",
       "Report Year": "2024",
       "Display Name": "Jesse J Bjorkman",
       "Last Name": "Bjorkman",
@@ -23110,7 +23184,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "328",
+      "Result": "330",
       "Report Year": "2024",
       "Display Name": "Jesse Kiehl",
       "Last Name": "Kiehl",
@@ -23147,7 +23221,7 @@
       "Amending": ""
     },
     {
-      "Result": "329",
+      "Result": "331",
       "Report Year": "2024",
       "Display Name": "Jesse M Sumner",
       "Last Name": "Sumner",
@@ -23184,7 +23258,7 @@
       "Amending": ""
     },
     {
-      "Result": "330",
+      "Result": "332",
       "Report Year": "2024",
       "Display Name": "Jim Arlington",
       "Last Name": "Arlington",
@@ -23221,7 +23295,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "331",
+      "Result": "333",
       "Report Year": "2024",
       "Display Name": "Jimi Cash",
       "Last Name": "Cash",
@@ -23258,7 +23332,7 @@
       "Amending": ""
     },
     {
-      "Result": "332",
+      "Result": "334",
       "Report Year": "2024",
       "Display Name": "John B Coghill Jr",
       "Last Name": "Coghill",
@@ -23295,7 +23369,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "333",
+      "Result": "335",
       "Report Year": "2024",
       "Display Name": "John C Howard",
       "Last Name": "Howard",
@@ -23332,7 +23406,7 @@
       "Amending": ""
     },
     {
-      "Result": "334",
+      "Result": "336",
       "Report Year": "2024",
       "Display Name": "John Hillyer",
       "Last Name": "Hillyer",
@@ -23369,7 +23443,7 @@
       "Amending": ""
     },
     {
-      "Result": "335",
+      "Result": "337",
       "Report Year": "2024",
       "Display Name": "Jonathon Young",
       "Last Name": "Young",
@@ -23406,7 +23480,7 @@
       "Amending": ""
     },
     {
-      "Result": "336",
+      "Result": "338",
       "Report Year": "2024",
       "Display Name": "Joseph Crisafi-Lurtsema",
       "Last Name": "Crisafi-Lurtsema",
@@ -23443,7 +23517,7 @@
       "Amending": ""
     },
     {
-      "Result": "337",
+      "Result": "339",
       "Report Year": "2024",
       "Display Name": "Joy Beth Cottle",
       "Last Name": "Cottle",
@@ -23480,7 +23554,7 @@
       "Amending": ""
     },
     {
-      "Result": "338",
+      "Result": "340",
       "Report Year": "2024",
       "Display Name": "Jubilee Underwood",
       "Last Name": "Underwood",
@@ -23517,7 +23591,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "339",
+      "Result": "341",
       "Report Year": "2024",
       "Display Name": "Julie Coulombe",
       "Last Name": "Coulombe",
@@ -23554,7 +23628,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "340",
+      "Result": "342",
       "Report Year": "2024",
       "Display Name": "Justin Ruffridge",
       "Last Name": "Ruffridge",
@@ -23591,7 +23665,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "341",
+      "Result": "343",
       "Report Year": "2024",
       "Display Name": "Kay Schuster",
       "Last Name": "Schuster",
@@ -23628,7 +23702,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "342",
+      "Result": "344",
       "Report Year": "2024",
       "Display Name": "kaylee Anderson",
       "Last Name": "Anderson",
@@ -23665,7 +23739,7 @@
       "Amending": ""
     },
     {
-      "Result": "343",
+      "Result": "345",
       "Report Year": "2024",
       "Display Name": "Keith Roderick Fons",
       "Last Name": "Fons",
@@ -23702,7 +23776,7 @@
       "Amending": ""
     },
     {
-      "Result": "344",
+      "Result": "346",
       "Report Year": "2024",
       "Display Name": "Kelly R. Merrick",
       "Last Name": "Merrick",
@@ -23739,7 +23813,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "345",
+      "Result": "347",
       "Report Year": "2024",
       "Display Name": "Ken McCarty",
       "Last Name": "McCarty",
@@ -23776,7 +23850,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "346",
+      "Result": "348",
       "Report Year": "2024",
       "Display Name": "Kevin J. McCabe",
       "Last Name": "McCabe",
@@ -23813,7 +23887,7 @@
       "Amending": ""
     },
     {
-      "Result": "347",
+      "Result": "349",
       "Report Year": "2024",
       "Display Name": "Kristan Kelly",
       "Last Name": "Kelly",
@@ -23850,7 +23924,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "348",
+      "Result": "350",
       "Report Year": "2024",
       "Display Name": "Ky Holland",
       "Last Name": "Holland",
@@ -23887,7 +23961,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "349",
+      "Result": "351",
       "Report Year": "2024",
       "Display Name": "Lee E Hammermeister",
       "Last Name": "Hammermeister",
@@ -23924,7 +23998,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "350",
+      "Result": "352",
       "Report Year": "2024",
       "Display Name": "Lee Ellis",
       "Last Name": "Ellis",
@@ -23961,7 +24035,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "351",
+      "Result": "353",
       "Report Year": "2024",
       "Display Name": "Leighton Radner",
       "Last Name": "Radner",
@@ -23998,7 +24072,7 @@
       "Amending": ""
     },
     {
-      "Result": "352",
+      "Result": "354",
       "Report Year": "2024",
       "Display Name": "Leslie Hajdukovich",
       "Last Name": "Hajdukovich",
@@ -24035,7 +24109,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "353",
+      "Result": "355",
       "Report Year": "2024",
       "Display Name": "Liz Vazquez ",
       "Last Name": "Vazquez ",
@@ -24072,7 +24146,7 @@
       "Amending": ""
     },
     {
-      "Result": "354",
+      "Result": "356",
       "Report Year": "2024",
       "Display Name": "Loa Carroll-Hubbard",
       "Last Name": "HUBBARD",
@@ -24109,7 +24183,7 @@
       "Amending": ""
     },
     {
-      "Result": "355",
+      "Result": "357",
       "Report Year": "2024",
       "Display Name": "Louise Stutes",
       "Last Name": "Stutes",
@@ -24146,7 +24220,7 @@
       "Amending": ""
     },
     {
-      "Result": "356",
+      "Result": "358",
       "Report Year": "2024",
       "Display Name": "Lucy Bauer",
       "Last Name": "Bauer",
@@ -24183,7 +24257,7 @@
       "Amending": ""
     },
     {
-      "Result": "357",
+      "Result": "359",
       "Report Year": "2024",
       "Display Name": "Mark H. Littlefield",
       "Last Name": "Littlefield",
@@ -24220,7 +24294,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "358",
+      "Result": "360",
       "Report Year": "2024",
       "Display Name": "Matt Claman",
       "Last Name": "Claman",
@@ -24257,7 +24331,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "359",
+      "Result": "361",
       "Report Year": "2024",
       "Display Name": "Maureen Hall",
       "Last Name": "Hall",
@@ -24294,7 +24368,7 @@
       "Amending": ""
     },
     {
-      "Result": "360",
+      "Result": "362",
       "Report Year": "2024",
       "Display Name": "Maxine Dibert",
       "Last Name": "Dibert",
@@ -24331,7 +24405,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "361",
+      "Result": "363",
       "Report Year": "2024",
       "Display Name": "Mia Costello",
       "Last Name": "Costello",
@@ -24368,7 +24442,7 @@
       "Amending": ""
     },
     {
-      "Result": "362",
+      "Result": "364",
       "Report Year": "2024",
       "Display Name": "Mia Costello",
       "Last Name": "Costello",
@@ -24405,7 +24479,7 @@
       "Amending": ""
     },
     {
-      "Result": "363",
+      "Result": "365",
       "Report Year": "2024",
       "Display Name": "Michael Thomas Briggs / Michael Briggs",
       "Last Name": "Briggs",
@@ -24442,7 +24516,7 @@
       "Amending": ""
     },
     {
-      "Result": "364",
+      "Result": "366",
       "Report Year": "2024",
       "Display Name": "Michael Warren Welch",
       "Last Name": "Welch",
@@ -24479,7 +24553,7 @@
       "Amending": ""
     },
     {
-      "Result": "365",
+      "Result": "367",
       "Report Year": "2024",
       "Display Name": "Miguel Angel Ramirez",
       "Last Name": "Ramirez",
@@ -24516,7 +24590,7 @@
       "Amending": ""
     },
     {
-      "Result": "366",
+      "Result": "368",
       "Report Year": "2024",
       "Display Name": "Mike Cronk",
       "Last Name": "Cronk",
@@ -24553,7 +24627,7 @@
       "Amending": ""
     },
     {
-      "Result": "367",
+      "Result": "369",
       "Report Year": "2024",
       "Display Name": "Mike Cronk",
       "Last Name": "Cronk",
@@ -24590,7 +24664,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "368",
+      "Result": "370",
       "Report Year": "2024",
       "Display Name": "Mike Prax",
       "Last Name": "Prax",
@@ -24627,7 +24701,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "369",
+      "Result": "371",
       "Report Year": "2024",
       "Display Name": "Morgan Dulian",
       "Last Name": "Dulian",
@@ -24664,7 +24738,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "370",
+      "Result": "372",
       "Report Year": "2024",
       "Display Name": "Nathaniel (Nano) Brooks",
       "Last Name": "Brooks",
@@ -24701,7 +24775,7 @@
       "Amending": ""
     },
     {
-      "Result": "371",
+      "Result": "373",
       "Report Year": "2024",
       "Display Name": "Neal Winston Foster",
       "Last Name": "Foster",
@@ -24738,7 +24812,7 @@
       "Amending": ""
     },
     {
-      "Result": "372",
+      "Result": "374",
       "Report Year": "2024",
       "Display Name": "Neil Steininger",
       "Last Name": "Steininger",
@@ -24775,7 +24849,7 @@
       "Amending": ""
     },
     {
-      "Result": "373",
+      "Result": "375",
       "Report Year": "2024",
       "Display Name": "Nellie Darlene Jimmie",
       "Last Name": "Jimmie",
@@ -24812,7 +24886,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "374",
+      "Result": "376",
       "Report Year": "2024",
       "Display Name": "Nick Moe",
       "Last Name": "Moe",
@@ -24849,7 +24923,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "375",
+      "Result": "377",
       "Report Year": "2024",
       "Display Name": "Olivia Rodriguez",
       "Last Name": "Rodriguez",
@@ -24886,7 +24960,7 @@
       "Amending": ""
     },
     {
-      "Result": "376",
+      "Result": "378",
       "Report Year": "2024",
       "Display Name": "Pamela Gay Conrad",
       "Last Name": "Conrad",
@@ -24923,7 +24997,7 @@
       "Amending": ""
     },
     {
-      "Result": "377",
+      "Result": "379",
       "Report Year": "2024",
       "Display Name": "Pamela Goode",
       "Last Name": "Goode",
@@ -24960,7 +25034,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "378",
+      "Result": "380",
       "Report Year": "2024",
       "Display Name": "Pat Higgins",
       "Last Name": "Higgins",
@@ -24997,7 +25071,7 @@
       "Amending": ""
     },
     {
-      "Result": "379",
+      "Result": "381",
       "Report Year": "2024",
       "Display Name": "Rachel Lord",
       "Last Name": "Lord",
@@ -25034,7 +25108,7 @@
       "Amending": ""
     },
     {
-      "Result": "380",
+      "Result": "382",
       "Report Year": "2024",
       "Display Name": "Rebecca (Becky) Schwanke",
       "Last Name": "Schwanke",
@@ -25071,7 +25145,7 @@
       "Amending": ""
     },
     {
-      "Result": "381",
+      "Result": "383",
       "Report Year": "2024",
       "Display Name": "Rebecca Himschoot",
       "Last Name": "Himschoot",
@@ -25108,7 +25182,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "382",
+      "Result": "384",
       "Report Year": "2024",
       "Display Name": "Richard Clement",
       "Last Name": "Clement",
@@ -25145,7 +25219,7 @@
       "Amending": ""
     },
     {
-      "Result": "383",
+      "Result": "385",
       "Report Year": "2024",
       "Display Name": "Richard Franklyn Clement",
       "Last Name": "Clement",
@@ -25182,7 +25256,7 @@
       "Amending": ""
     },
     {
-      "Result": "384",
+      "Result": "386",
       "Report Year": "2024",
       "Display Name": "robb Arnold",
       "Last Name": "Arnold",
@@ -25219,7 +25293,7 @@
       "Amending": ""
     },
     {
-      "Result": "385",
+      "Result": "387",
       "Report Year": "2024",
       "Display Name": "Robert D Yundt II",
       "Last Name": "Yundt",
@@ -25256,7 +25330,7 @@
       "Amending": ""
     },
     {
-      "Result": "386",
+      "Result": "388",
       "Report Year": "2024",
       "Display Name": "Robert J. Shields",
       "Last Name": "shields",
@@ -25293,7 +25367,7 @@
       "Amending": ""
     },
     {
-      "Result": "387",
+      "Result": "389",
       "Report Year": "2024",
       "Display Name": "Robyn Niayuq Burke",
       "Last Name": "Burke",
@@ -25330,7 +25404,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "388",
+      "Result": "390",
       "Report Year": "2024",
       "Display Name": "Ron Bernier",
       "Last Name": "Bernier",
@@ -25367,7 +25441,7 @@
       "Amending": ""
     },
     {
-      "Result": "389",
+      "Result": "391",
       "Report Year": "2024",
       "Display Name": "Ronald D Gillham",
       "Last Name": "Gillham",
@@ -25404,7 +25478,7 @@
       "Amending": ""
     },
     {
-      "Result": "390",
+      "Result": "392",
       "Report Year": "2024",
       "Display Name": "Ruben A. McNeill Jr.",
       "Last Name": "McNeill",
@@ -25441,7 +25515,7 @@
       "Amending": ""
     },
     {
-      "Result": "391",
+      "Result": "393",
       "Report Year": "2024",
       "Display Name": "Russell Oden wyatt ",
       "Last Name": "Wyatt",
@@ -25478,7 +25552,7 @@
       "Amending": ""
     },
     {
-      "Result": "392",
+      "Result": "394",
       "Report Year": "2024",
       "Display Name": "Saima Chase",
       "Last Name": "Chase",
@@ -25515,7 +25589,7 @@
       "Amending": ""
     },
     {
-      "Result": "393",
+      "Result": "395",
       "Report Year": "2024",
       "Display Name": "Sandra M Katelnikoff Lester",
       "Last Name": "Katelnikoff Lester",
@@ -25552,7 +25626,7 @@
       "Amending": ""
     },
     {
-      "Result": "394",
+      "Result": "396",
       "Report Year": "2024",
       "Display Name": "Sara Hannan",
       "Last Name": "Hannan",
@@ -25589,7 +25663,7 @@
       "Amending": ""
     },
     {
-      "Result": "395",
+      "Result": "397",
       "Report Year": "2024",
       "Display Name": "Sarah Douthit",
       "Last Name": "Douthit",
@@ -25626,7 +25700,7 @@
       "Amending": ""
     },
     {
-      "Result": "396",
+      "Result": "398",
       "Report Year": "2024",
       "Display Name": "Sarah L. Vance",
       "Last Name": "Vance",
@@ -25663,7 +25737,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "397",
+      "Result": "399",
       "Report Year": "2024",
       "Display Name": "Savannah Fletcher",
       "Last Name": "Fletcher",
@@ -25700,7 +25774,7 @@
       "Amending": ""
     },
     {
-      "Result": "398",
+      "Result": "400",
       "Report Year": "2024",
       "Display Name": "Savannah Fletcher",
       "Last Name": "Fletcher",
@@ -25737,7 +25811,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "399",
+      "Result": "401",
       "Report Year": "2024",
       "Display Name": "Scott A Kohlhaas",
       "Last Name": "Kohlhaas",
@@ -25774,7 +25848,7 @@
       "Amending": ""
     },
     {
-      "Result": "400",
+      "Result": "402",
       "Report Year": "2024",
       "Display Name": "Scott Kawasaki",
       "Last Name": "Kawasaki",
@@ -25811,7 +25885,7 @@
       "Amending": ""
     },
     {
-      "Result": "401",
+      "Result": "403",
       "Report Year": "2024",
       "Display Name": "Scott Kawasaki",
       "Last Name": "Kawasaki",
@@ -25848,7 +25922,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "402",
+      "Result": "404",
       "Report Year": "2024",
       "Display Name": "Sharon Denise Jackson",
       "Last Name": "Portch",
@@ -25885,7 +25959,7 @@
       "Amending": ""
     },
     {
-      "Result": "403",
+      "Result": "405",
       "Report Year": "2024",
       "Display Name": "Sheena Fort",
       "Last Name": "Fort",
@@ -25922,7 +25996,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "404",
+      "Result": "406",
       "Report Year": "2024",
       "Display Name": "Sherri L. Wall",
       "Last Name": "Wall",
@@ -25959,7 +26033,7 @@
       "Amending": ""
     },
     {
-      "Result": "405",
+      "Result": "407",
       "Report Year": "2024",
       "Display Name": "Stanley Wright",
       "Last Name": "Wright",
@@ -25996,7 +26070,7 @@
       "Amending": ""
     },
     {
-      "Result": "406",
+      "Result": "408",
       "Report Year": "2024",
       "Display Name": "Steve Menard",
       "Last Name": "Menard",
@@ -26033,7 +26107,7 @@
       "Amending": ""
     },
     {
-      "Result": "407",
+      "Result": "409",
       "Report Year": "2024",
       "Display Name": "Suzanne LaFrance",
       "Last Name": "LaFrance",
@@ -26070,7 +26144,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "408",
+      "Result": "410",
       "Report Year": "2024",
       "Display Name": "Tamara Kruse Roselius",
       "Last Name": "Kruse Roselius",
@@ -26107,7 +26181,7 @@
       "Amending": ""
     },
     {
-      "Result": "409",
+      "Result": "411",
       "Report Year": "2024",
       "Display Name": "Tammie Wilson",
       "Last Name": "Wilson",
@@ -26144,7 +26218,7 @@
       "Amending": ""
     },
     {
-      "Result": "410",
+      "Result": "412",
       "Report Year": "2024",
       "Display Name": "Taylor, Steven",
       "Last Name": "Taylor",
@@ -26181,7 +26255,7 @@
       "Amending": ""
     },
     {
-      "Result": "411",
+      "Result": "413",
       "Report Year": "2024",
       "Display Name": "Ted J. Eischeid",
       "Last Name": "EISCHEID",
@@ -26218,7 +26292,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "412",
+      "Result": "414",
       "Report Year": "2024",
       "Display Name": "Thomas C Ikaaq Baker",
       "Last Name": "Baker",
@@ -26255,7 +26329,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "413",
+      "Result": "415",
       "Report Year": "2024",
       "Display Name": "Thomas E. Bergey",
       "Last Name": "Bergey",
@@ -26292,7 +26366,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "414",
+      "Result": "416",
       "Report Year": "2024",
       "Display Name": "Thomas W McKay",
       "Last Name": "McKay",
@@ -26329,7 +26403,7 @@
       "Amending": ""
     },
     {
-      "Result": "415",
+      "Result": "417",
       "Report Year": "2024",
       "Display Name": "Thomas W McKay",
       "Last Name": "McKay",
@@ -26366,7 +26440,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "416",
+      "Result": "418",
       "Report Year": "2024",
       "Display Name": "Tina Wegener",
       "Last Name": "Wegener",
@@ -26403,7 +26477,7 @@
       "Amending": ""
     },
     {
-      "Result": "417",
+      "Result": "419",
       "Report Year": "2024",
       "Display Name": "Tyler Ivanoff",
       "Last Name": "Ivanoff",
@@ -26440,7 +26514,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "418",
+      "Result": "420",
       "Report Year": "2024",
       "Display Name": "Victoria Beatrice Sosa",
       "Last Name": "Sosa",
@@ -26477,7 +26551,7 @@
       "Amending": ""
     },
     {
-      "Result": "419",
+      "Result": "421",
       "Report Year": "2024",
       "Display Name": "Victoria Michele Hudson",
       "Last Name": "Hudson",
@@ -26514,7 +26588,7 @@
       "Amending": ""
     },
     {
-      "Result": "420",
+      "Result": "422",
       "Report Year": "2024",
       "Display Name": "Walter Featherly",
       "Last Name": "Featherly",
@@ -26551,7 +26625,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "421",
+      "Result": "423",
       "Report Year": "2024",
       "Display Name": "Walter Featherly",
       "Last Name": "Featherly",
@@ -26588,7 +26662,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "422",
+      "Result": "424",
       "Report Year": "2024",
       "Display Name": "WG Anaruk",
       "Last Name": "Anaruk",
@@ -26625,7 +26699,7 @@
       "Amending": ""
     },
     {
-      "Result": "423",
+      "Result": "425",
       "Report Year": "2024",
       "Display Name": "Will Muldoon",
       "Last Name": "Muldoon",
@@ -26662,7 +26736,7 @@
       "Amending": ""
     },
     {
-      "Result": "424",
+      "Result": "426",
       "Report Year": "2024",
       "Display Name": "Will Stapp",
       "Last Name": "Stapp",
@@ -26699,7 +26773,7 @@
       "Amending": ""
     },
     {
-      "Result": "425",
+      "Result": "427",
       "Report Year": "2024",
       "Display Name": "William \"Bill\" Thomas Jr.",
       "Last Name": "Thomas",
@@ -26736,7 +26810,7 @@
       "Amending": ""
     },
     {
-      "Result": "426",
+      "Result": "428",
       "Report Year": "2024",
       "Display Name": "William Z. \"Zack\" Fields",
       "Last Name": "Fields",
@@ -26773,7 +26847,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "427",
+      "Result": "429",
       "Report Year": "2024",
       "Display Name": "William Z. \"Zack\" Fields",
       "Last Name": "Fields",
@@ -26810,7 +26884,7 @@
       "Amending": ""
     },
     {
-      "Result": "428",
+      "Result": "430",
       "Report Year": "2024",
       "Display Name": "Williams, Robert 'Bert'",
       "Last Name": "Williams",
@@ -26847,7 +26921,7 @@
       "Amending": ""
     },
     {
-      "Result": "429",
+      "Result": "431",
       "Report Year": "2024",
       "Display Name": "Willy Keppel",
       "Last Name": "Keppel",
@@ -26884,7 +26958,7 @@
       "Amending": ""
     },
     {
-      "Result": "430",
+      "Result": "432",
       "Report Year": "2024",
       "Display Name": "Wright, Jessica",
       "Last Name": "Wright",
@@ -26921,7 +26995,7 @@
       "Amending": ""
     },
     {
-      "Result": "431",
+      "Result": "433",
       "Report Year": "2024",
       "Display Name": "Wright, Stephen",
       "Last Name": "Wright",
@@ -26958,7 +27032,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "432",
+      "Result": "434",
       "Report Year": "2023",
       "Display Name": "Aaron Gibson",
       "Last Name": "Gibson",
@@ -26995,7 +27069,7 @@
       "Amending": ""
     },
     {
-      "Result": "433",
+      "Result": "435",
       "Report Year": "2023",
       "Display Name": "Abby Bradberry",
       "Last Name": "Bradberry",
@@ -27032,7 +27106,7 @@
       "Amending": ""
     },
     {
-      "Result": "434",
+      "Result": "436",
       "Report Year": "2023",
       "Display Name": "Adam Bertoldo",
       "Last Name": "Bertoldo",
@@ -27069,7 +27143,7 @@
       "Amending": ""
     },
     {
-      "Result": "435",
+      "Result": "437",
       "Report Year": "2023",
       "Display Name": "Alicia Hughes-Skandijs",
       "Last Name": "Hughes-Skandijs",
@@ -27106,7 +27180,7 @@
       "Amending": ""
     },
     {
-      "Result": "436",
+      "Result": "438",
       "Report Year": "2023",
       "Display Name": "Andy Holleman",
       "Last Name": "Holleman",
@@ -27143,7 +27217,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "437",
+      "Result": "439",
       "Report Year": "2023",
       "Display Name": "Anna B. Brawley",
       "Last Name": "Brawley",
@@ -27180,7 +27254,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "438",
+      "Result": "440",
       "Report Year": "2023",
       "Display Name": "Anthony E. Edwardsen",
       "Last Name": "Edwardsen",
@@ -27217,7 +27291,7 @@
       "Amending": ""
     },
     {
-      "Result": "439",
+      "Result": "441",
       "Report Year": "2023",
       "Display Name": "April Smith",
       "Last Name": "Smith",
@@ -27254,7 +27328,7 @@
       "Amending": ""
     },
     {
-      "Result": "440",
+      "Result": "442",
       "Report Year": "2023",
       "Display Name": "Bobby Burgess",
       "Last Name": "Burgess",
@@ -27291,7 +27365,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "441",
+      "Result": "443",
       "Report Year": "2023",
       "Display Name": "Brad Snowden",
       "Last Name": "Snowden",
@@ -27328,7 +27402,7 @@
       "Amending": ""
     },
     {
-      "Result": "442",
+      "Result": "444",
       "Report Year": "2023",
       "Display Name": "Breck Craig",
       "Last Name": "Craig",
@@ -27365,7 +27439,7 @@
       "Amending": ""
     },
     {
-      "Result": "443",
+      "Result": "445",
       "Report Year": "2023",
       "Display Name": "Brian Flynn",
       "Last Name": "Flynn",
@@ -27402,7 +27476,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "444",
+      "Result": "446",
       "Report Year": "2023",
       "Display Name": "Brian Flynn",
       "Last Name": "Flynn",
@@ -27439,7 +27513,7 @@
       "Amending": ""
     },
     {
-      "Result": "445",
+      "Result": "447",
       "Report Year": "2023",
       "Display Name": "Brian Holst",
       "Last Name": "Holst",
@@ -27476,7 +27550,7 @@
       "Amending": ""
     },
     {
-      "Result": "446",
+      "Result": "448",
       "Report Year": "2023",
       "Display Name": "Britteny Cioni-Haywood",
       "Last Name": "Cioni-Haywood",
@@ -27513,7 +27587,7 @@
       "Amending": ""
     },
     {
-      "Result": "447",
+      "Result": "449",
       "Report Year": "2023",
       "Display Name": "Brooke Lavender",
       "Last Name": "Lavender",
@@ -27550,7 +27624,7 @@
       "Amending": ""
     },
     {
-      "Result": "448",
+      "Result": "450",
       "Report Year": "2023",
       "Display Name": "Christine Woll",
       "Last Name": "Woll",
@@ -27587,7 +27661,7 @@
       "Amending": ""
     },
     {
-      "Result": "449",
+      "Result": "451",
       "Report Year": "2023",
       "Display Name": "Christine Woll",
       "Last Name": "Woll",
@@ -27624,7 +27698,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "450",
+      "Result": "452",
       "Report Year": "2023",
       "Display Name": "Christopher Constant",
       "Last Name": "Constant",
@@ -27661,7 +27735,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "451",
+      "Result": "453",
       "Report Year": "2023",
       "Display Name": "Clayton \"Mokie\" Tew",
       "Last Name": "Tew",
@@ -27698,7 +27772,7 @@
       "Amending": ""
     },
     {
-      "Result": "452",
+      "Result": "454",
       "Report Year": "2023",
       "Display Name": "Cliff Murray",
       "Last Name": "Murray",
@@ -27735,7 +27809,7 @@
       "Amending": ""
     },
     {
-      "Result": "453",
+      "Result": "455",
       "Report Year": "2023",
       "Display Name": "Cody Schwegel",
       "Last Name": "Schwegel",
@@ -27772,7 +27846,7 @@
       "Amending": ""
     },
     {
-      "Result": "454",
+      "Result": "456",
       "Report Year": "2023",
       "Display Name": "Corrine Danner",
       "Last Name": "Danner",
@@ -27809,7 +27883,7 @@
       "Amending": ""
     },
     {
-      "Result": "455",
+      "Result": "457",
       "Report Year": "2023",
       "Display Name": "Craig Dagen",
       "Last Name": "Dagen",
@@ -27846,7 +27920,7 @@
       "Amending": ""
     },
     {
-      "Result": "456",
+      "Result": "458",
       "Report Year": "2023",
       "Display Name": "Danny Suiter",
       "Last Name": "Suiter",
@@ -27883,7 +27957,7 @@
       "Amending": ""
     },
     {
-      "Result": "457",
+      "Result": "459",
       "Report Year": "2023",
       "Display Name": "Darin Colbry",
       "Last Name": "Colbry",
@@ -27920,7 +27994,7 @@
       "Amending": ""
     },
     {
-      "Result": "458",
+      "Result": "460",
       "Report Year": "2023",
       "Display Name": "Dave Donley",
       "Last Name": "Donley",
@@ -27957,7 +28031,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "459",
+      "Result": "461",
       "Report Year": "2023",
       "Display Name": "David H. Noon",
       "Last Name": "Noon",
@@ -27994,7 +28068,7 @@
       "Amending": ""
     },
     {
-      "Result": "460",
+      "Result": "462",
       "Report Year": "2023",
       "Display Name": "David Lee  Morris",
       "Last Name": "MORRIS",
@@ -28031,7 +28105,7 @@
       "Amending": ""
     },
     {
-      "Result": "461",
+      "Result": "463",
       "Report Year": "2023",
       "Display Name": "David R Carey",
       "Last Name": "Carey",
@@ -28068,7 +28142,7 @@
       "Amending": ""
     },
     {
-      "Result": "462",
+      "Result": "464",
       "Report Year": "2023",
       "Display Name": "Dianne Kay Shibe",
       "Last Name": "Shibe",
@@ -28105,7 +28179,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "463",
+      "Result": "465",
       "Report Year": "2023",
       "Display Name": "Dianne MacRae",
       "Last Name": "MacRae",
@@ -28142,7 +28216,7 @@
       "Amending": ""
     },
     {
-      "Result": "464",
+      "Result": "466",
       "Report Year": "2023",
       "Display Name": "Dmitri Fonov",
       "Last Name": "Fonov",
@@ -28179,7 +28253,7 @@
       "Amending": ""
     },
     {
-      "Result": "465",
+      "Result": "467",
       "Report Year": "2023",
       "Display Name": "Don Anthony Nungasak",
       "Last Name": "Nungasak",
@@ -28216,7 +28290,7 @@
       "Amending": ""
     },
     {
-      "Result": "466",
+      "Result": "468",
       "Report Year": "2023",
       "Display Name": "Doreen Ahgeak Lampe",
       "Last Name": "Lampe",
@@ -28253,7 +28327,7 @@
       "Amending": ""
     },
     {
-      "Result": "467",
+      "Result": "469",
       "Report Year": "2023",
       "Display Name": "Doreen June Leavitt",
       "Last Name": "Leavitt",
@@ -28290,7 +28364,7 @@
       "Amending": ""
     },
     {
-      "Result": "468",
+      "Result": "470",
       "Report Year": "2023",
       "Display Name": "Dorene Lorenz",
       "Last Name": "Lorenz",
@@ -28327,7 +28401,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "469",
+      "Result": "471",
       "Report Year": "2023",
       "Display Name": "Dustin Thomas House Darden",
       "Last Name": "Darden",
@@ -28364,7 +28438,7 @@
       "Amending": ""
     },
     {
-      "Result": "470",
+      "Result": "472",
       "Report Year": "2023",
       "Display Name": "Ella Adkison",
       "Last Name": "Adkison",
@@ -28401,7 +28475,7 @@
       "Amending": ""
     },
     {
-      "Result": "471",
+      "Result": "473",
       "Report Year": "2023",
       "Display Name": "Eva Kinneeveauk",
       "Last Name": "Kinneeveauk",
@@ -28438,7 +28512,7 @@
       "Amending": ""
     },
     {
-      "Result": "472",
+      "Result": "474",
       "Report Year": "2023",
       "Display Name": "Evan Denty",
       "Last Name": "Denty",
@@ -28475,7 +28549,7 @@
       "Amending": ""
     },
     {
-      "Result": "473",
+      "Result": "475",
       "Report Year": "2023",
       "Display Name": "Felix Emmanuel Rivera",
       "Last Name": "Rivera",
@@ -28512,7 +28586,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "474",
+      "Result": "476",
       "Report Year": "2023",
       "Display Name": "Frederick Brower",
       "Last Name": "Brower",
@@ -28549,7 +28623,7 @@
       "Amending": ""
     },
     {
-      "Result": "475",
+      "Result": "477",
       "Report Year": "2023",
       "Display Name": "GAMBLE, Bill",
       "Last Name": "Gamble",
@@ -28586,7 +28660,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "476",
+      "Result": "478",
       "Report Year": "2023",
       "Display Name": "George Martinez",
       "Last Name": "Martinez",
@@ -28623,7 +28697,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "477",
+      "Result": "479",
       "Report Year": "2023",
       "Display Name": "Glenda D Ledford",
       "Last Name": "Ledford",
@@ -28660,7 +28734,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "478",
+      "Result": "480",
       "Report Year": "2023",
       "Display Name": "Henry S Batchelor Jr",
       "Last Name": "Batchelor",
@@ -28697,7 +28771,7 @@
       "Amending": ""
     },
     {
-      "Result": "479",
+      "Result": "481",
       "Report Year": "2023",
       "Display Name": "Ian Crafton",
       "Last Name": "Crafton",
@@ -28734,7 +28808,7 @@
       "Amending": ""
     },
     {
-      "Result": "480",
+      "Result": "482",
       "Report Year": "2023",
       "Display Name": "Irene Boll",
       "Last Name": "Boll",
@@ -28771,7 +28845,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "481",
+      "Result": "483",
       "Report Year": "2023",
       "Display Name": "J. Alan Seale",
       "Last Name": "Seale",
@@ -28808,7 +28882,7 @@
       "Amending": ""
     },
     {
-      "Result": "482",
+      "Result": "484",
       "Report Year": "2023",
       "Display Name": "Jackson Abney",
       "Last Name": "Abney",
@@ -28845,7 +28919,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "483",
+      "Result": "485",
       "Report Year": "2023",
       "Display Name": "Jeffrey Brasel",
       "Last Name": "Brasel",
@@ -28882,7 +28956,7 @@
       "Amending": ""
     },
     {
-      "Result": "484",
+      "Result": "486",
       "Report Year": "2023",
       "Display Name": "Jeffrey Charles Jones",
       "Last Name": "Jones",
@@ -28919,7 +28993,7 @@
       "Amending": ""
     },
     {
-      "Result": "485",
+      "Result": "487",
       "Report Year": "2023",
       "Display Name": "Jim Arlington",
       "Last Name": "Arlington",
@@ -28956,7 +29030,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "486",
+      "Result": "488",
       "Report Year": "2023",
       "Display Name": "Jimi Cash",
       "Last Name": "Cash",
@@ -28993,7 +29067,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "487",
+      "Result": "489",
       "Report Year": "2023",
       "Display Name": "JoAnn Wallace",
       "Last Name": "Wallace",
@@ -29030,7 +29104,7 @@
       "Amending": ""
     },
     {
-      "Result": "488",
+      "Result": "490",
       "Report Year": "2023",
       "Display Name": "John Hopson Jr",
       "Last Name": "Hopson",
@@ -29067,7 +29141,7 @@
       "Amending": ""
     },
     {
-      "Result": "489",
+      "Result": "491",
       "Report Year": "2023",
       "Display Name": "John Ringstad",
       "Last Name": "Ringstad",
@@ -29104,7 +29178,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "490",
+      "Result": "492",
       "Report Year": "2023",
       "Display Name": "John Trueblood",
       "Last Name": "Trueblood",
@@ -29141,7 +29215,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "491",
+      "Result": "493",
       "Report Year": "2023",
       "Display Name": "Joni Wise",
       "Last Name": "Wise",
@@ -29178,7 +29252,7 @@
       "Amending": ""
     },
     {
-      "Result": "492",
+      "Result": "494",
       "Report Year": "2023",
       "Display Name": "Joshua Bennett",
       "Last Name": "Bennett",
@@ -29215,7 +29289,7 @@
       "Amending": ""
     },
     {
-      "Result": "493",
+      "Result": "495",
       "Report Year": "2023",
       "Display Name": "Josiah Aullaqsruaq Patkotak",
       "Last Name": "Patkotak",
@@ -29252,7 +29326,7 @@
       "Amending": ""
     },
     {
-      "Result": "494",
+      "Result": "496",
       "Report Year": "2023",
       "Display Name": "Julie McDonald",
       "Last Name": "McDonald",
@@ -29289,7 +29363,7 @@
       "Amending": ""
     },
     {
-      "Result": "495",
+      "Result": "497",
       "Report Year": "2023",
       "Display Name": "Karen A Bronga",
       "Last Name": "Bronga",
@@ -29326,7 +29400,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "496",
+      "Result": "498",
       "Report Year": "2023",
       "Display Name": "Kasey Smith",
       "Last Name": "Smith",
@@ -29363,7 +29437,7 @@
       "Amending": ""
     },
     {
-      "Result": "497",
+      "Result": "499",
       "Report Year": "2023",
       "Display Name": "Katherine Tatsuda",
       "Last Name": "Tatsuda",
@@ -29400,7 +29474,7 @@
       "Amending": ""
     },
     {
-      "Result": "498",
+      "Result": "500",
       "Report Year": "2023",
       "Display Name": "Kathy McCollum",
       "Last Name": "McCollum",
@@ -29433,80 +29507,6 @@
       "Bank Zip": "",
       "Bank Country": "",
       "Submitted": "5/17/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "499",
-      "Report Year": "2023",
-      "Display Name": "Kevin Scott Myers",
-      "Last Name": "Myers",
-      "First Name": "Kevin",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "P.O. Box 771381",
-      "City": "Eagle River",
-      "State": "Alaska",
-      "Zip": "99577",
-      "Country": "USA",
-      "Phone": "907-280-8010",
-      "Fax": "",
-      "Email": "scott@scottak.com",
-      "Election": "Anchorage Municipal Election",
-      "Election Type": "",
-      "Municipality": "Anchorage, City and Borough",
-      "Office": "Assembly",
-      "Treasurer Name": "Ryan Berry",
-      "Treasurer Email": "ryan@scottmyersforalaska.com",
-      "Treasurer Phone": "907-720-8885",
-      "Chair Name": "Kevin Scott Myers",
-      "Chair Email": "scott@scottak.com",
-      "Chair Phone": "907-280-8010",
-      "Bank Name": "Wells Fargo Bank",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "12/9/2022",
-      "Status": "Filed",
-      "Amending": " Amendment"
-    },
-    {
-      "Result": "500",
-      "Report Year": "2023",
-      "Display Name": "Kevin T. Kristovich",
-      "Last Name": "Kristovich",
-      "First Name": "Kevin",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "419 Bawden St",
-      "City": "Ketchikan",
-      "State": "Alaska",
-      "Zip": "99901",
-      "Country": "USA",
-      "Phone": "907-821-1623",
-      "Fax": "",
-      "Email": "kevinkristovich@gmail.com",
-      "Election": "Ketchikan, City of",
-      "Election Type": "",
-      "Municipality": "Ketchikan, City of ",
-      "Office": "City Council",
-      "Treasurer Name": "",
-      "Treasurer Email": "",
-      "Treasurer Phone": "",
-      "Chair Name": "",
-      "Chair Email": "",
-      "Chair Phone": "",
-      "Bank Name": "Not Reported",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "8/24/2023",
       "Status": "Filed",
       "Amending": ""
     }

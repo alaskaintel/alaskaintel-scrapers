@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-03T15:55:30.138422",
+    "last_synced": "2026-06-04T14:28:04.763422",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 19
+    "total_alerts": 20
   },
   "alerts": [
     {
@@ -31,21 +31,6 @@
       "category": "hospital",
       "impact": "statewide",
       "action": "monitor"
-    },
-    {
-      "id": "https://alaskabeacon.com/?p=25616",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "In Kachemak Bay, Kotzebue and beyond, Alaskans are on the lookout for harmful algae blooms",
-      "description": "Algae is vital to a healthy marine system, and most of the hundreds of varieties in Alaska\u2019s waters are beneficial or benign. But the handful that are harmful are, like other algae, proliferating in warmer conditions and releasing or threatening to release toxins that can sicken people and wildlife and, in the worst cases, cause [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/06/01/in-kachemak-bay-kotzebue-and-beyond-alaskans-are-on-the-lookout-for-harmful-algae-blooms/",
-      "published": "Mon, 01 Jun 2026 13:40:32 +0000",
-      "region": "statewide",
-      "severity": "medium",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "assess legislative impact"
     },
     {
       "id": "https://alaskabeacon.com/?post_type=republished&p=26479",
@@ -218,7 +203,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome celebrates  Memorial Day",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cNH_MemorialDay2%20cop...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-6\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cNH_MemorialDay2%20cop...",
       "link": "https://www.nomenugget.net/news/nome-celebrates-memorial-day-1",
       "published": "Thu, 28 May 2026 01:03:24 +0000",
       "region": "statewide",
@@ -233,7 +218,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Spurred by increased marine traffic, efforts are afoot to create a Bering Strait Waterways Safety Committee",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_WSC_2%...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_WSC_2%...",
       "link": "https://www.nomenugget.net/news/spurred-increased-marine-traffic-efforts-are-afoot-create-bering-strait-waterways-safety",
       "published": "Thu, 28 May 2026 00:55:47 +0000",
       "region": "rural / tribal communities",
@@ -278,11 +263,41 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "David O\u2019Neill appointed to school board seat C",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-1\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_schoolboar...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_schoolboar...",
       "link": "https://www.nomenugget.net/education/david-o%E2%80%99neill-appointed-school-board-seat-c",
       "published": "Thu, 28 May 2026 01:43:25 +0000",
       "region": "statewide",
       "severity": "medium",
+      "category": "hospital",
+      "impact": "statewide",
+      "action": "monitor"
+    },
+    {
+      "id": "24322 at https://www.nomenugget.net",
+      "type": "health_alert",
+      "source": "Nome Nugget",
+      "tier": 3,
+      "title": "Itqaummatiga- My Memories",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">A Column by Tatauq Josie Bourdon</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-1\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cRober...",
+      "link": "https://www.nomenugget.net/news/itqaummatiga-my-memories",
+      "published": "Thu, 04 Jun 2026 04:10:30 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "policy",
+      "impact": "statewide",
+      "action": "assess legislative impact"
+    },
+    {
+      "id": "24319 at https://www.nomenugget.net",
+      "type": "health_alert",
+      "source": "Nome Nugget",
+      "tier": 3,
+      "title": "Nome-Beltz celebrates Class of 2026",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_wesleycarleeHobbs....",
+      "link": "https://www.nomenugget.net/education/nome-beltz-celebrates-class-2026",
+      "published": "Thu, 04 Jun 2026 03:21:54 +0000",
+      "region": "statewide",
+      "severity": "low",
       "category": "hospital",
       "impact": "statewide",
       "action": "monitor"
