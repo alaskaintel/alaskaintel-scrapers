@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-04T14:28:01.157775",
+    "last_synced": "2026-06-05T14:24:13.148560",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -11330,18 +11330,18 @@
       "Treasurer Name": "Austin Mahan",
       "Treasurer Email": "austin.n.mahan@gmail.com",
       "Treasurer Phone": "9077159384",
-      "Chair Name": "Jay Reto",
-      "Chair Email": "humble332001@yahoo.com",
-      "Chair Phone": "9072680151",
+      "Chair Name": "Nate Graham",
+      "Chair Email": "nate.graham.ak@gmail.com",
+      "Chair Phone": "2539050975",
       "Bank Name": "Wells Fargo",
       "Bank Address": "",
       "Bank City": "",
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "5/30/2026",
+      "Submitted": "6/4/2026",
       "Status": "Filed",
-      "Amending": ""
+      "Amending": " Amendment"
     },
     {
       "Result": "10",
@@ -13865,7 +13865,7 @@
       "Display Name": "Jeffrey L. Rentzel",
       "Last Name": "Rentzel",
       "First Name": "Jeffrey",
-      "Committee": "Rentzel for State House",
+      "Committee": "",
       "Purpose": "",
       "Previously Registered": "Registered",
       "Address": "PO BOX 82758",
@@ -13892,9 +13892,9 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "5/27/2026",
+      "Submitted": "6/4/2026",
       "Status": "Filed",
-      "Amending": ""
+      "Amending": " Amendment"
     },
     {
       "Result": "79",
