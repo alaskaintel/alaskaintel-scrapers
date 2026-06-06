@@ -5,7 +5,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/224966/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265216"
+    "last_scraped_at": "2026-06-06T12:03:28.497879"
   },
   {
     "case_id": "ADL 233387",
@@ -13,7 +13,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/233387/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265292"
+    "last_scraped_at": "2026-06-06T12:03:28.497985"
   },
   {
     "case_id": "ADL 234751",
@@ -21,7 +21,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/234751/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265345"
+    "last_scraped_at": "2026-06-06T12:03:28.498035"
   },
   {
     "case_id": "ADL 422612",
@@ -29,7 +29,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422612/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265401"
+    "last_scraped_at": "2026-06-06T12:03:28.498075"
   },
   {
     "case_id": "ADL 422615",
@@ -37,15 +37,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422615/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265451"
-  },
-  {
-    "case_id": "ADL 422616",
-    "name": "DNR DMLW NRO",
-    "status": "ACTIVE ADJUDICATION (14)",
-    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422616/landflag/y/searchtype/casefile/reporttype/abstract",
-    "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265502"
+    "last_scraped_at": "2026-06-06T12:03:28.498111"
   },
   {
     "case_id": "ADL 422617",
@@ -53,7 +45,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422617/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265535"
+    "last_scraped_at": "2026-06-06T12:03:28.498150"
   },
   {
     "case_id": "ADL 422618",
@@ -61,15 +53,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422618/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265558"
-  },
-  {
-    "case_id": "ADL 422675",
-    "name": "DNR DMLW NRO",
-    "status": "ACTIVE ADJUDICATION (14)",
-    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422675/landflag/y/searchtype/casefile/reporttype/abstract",
-    "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265621"
+    "last_scraped_at": "2026-06-06T12:03:28.498187"
   },
   {
     "case_id": "ADL 422614",
@@ -77,15 +61,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422614/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265675"
-  },
-  {
-    "case_id": "ADL 422620",
-    "name": "DNR DMLW NRO",
-    "status": "ACTIVE ADJUDICATION (14)",
-    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422620/landflag/y/searchtype/casefile/reporttype/abstract",
-    "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265728"
+    "last_scraped_at": "2026-06-06T12:03:28.498225"
   },
   {
     "case_id": "ADL 422619",
@@ -93,7 +69,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422619/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265781"
+    "last_scraped_at": "2026-06-06T12:03:28.498275"
   },
   {
     "case_id": "ADL 422621",
@@ -101,7 +77,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422621/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265830"
+    "last_scraped_at": "2026-06-06T12:03:28.498312"
   },
   {
     "case_id": "ADL 422631",
@@ -109,7 +85,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422631/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265877"
+    "last_scraped_at": "2026-06-06T12:03:28.498348"
   },
   {
     "case_id": "ADL 422632",
@@ -117,7 +93,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422632/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.265976"
+    "last_scraped_at": "2026-06-06T12:03:28.498382"
   },
   {
     "case_id": "ADL 422630",
@@ -125,7 +101,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422630/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266030"
+    "last_scraped_at": "2026-06-06T12:03:28.498419"
   },
   {
     "case_id": "ADL 422624",
@@ -133,7 +109,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422624/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266078"
+    "last_scraped_at": "2026-06-06T12:03:28.498459"
   },
   {
     "case_id": "ADL 422625",
@@ -141,7 +117,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422625/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266120"
+    "last_scraped_at": "2026-06-06T12:03:28.498496"
   },
   {
     "case_id": "ADL 422626",
@@ -149,15 +125,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422626/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266163"
-  },
-  {
-    "case_id": "ADL 422623",
-    "name": "DNR DMLW NRO",
-    "status": "ACTIVE ADJUDICATION (14)",
-    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422623/landflag/y/searchtype/casefile/reporttype/abstract",
-    "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266206"
+    "last_scraped_at": "2026-06-06T12:03:28.498587"
   },
   {
     "case_id": "ADL 422622",
@@ -165,7 +133,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422622/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266248"
+    "last_scraped_at": "2026-06-06T12:03:28.498625"
   },
   {
     "case_id": "ADL 422628",
@@ -173,15 +141,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422628/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266289"
-  },
-  {
-    "case_id": "ADL 422629",
-    "name": "DNR DMLW NRO",
-    "status": "ACTIVE ADJUDICATION (14)",
-    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422629/landflag/y/searchtype/casefile/reporttype/abstract",
-    "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266330"
+    "last_scraped_at": "2026-06-06T12:03:28.498656"
   },
   {
     "case_id": "ADL 422611",
@@ -189,7 +149,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422611/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266372"
+    "last_scraped_at": "2026-06-06T12:03:28.498689"
   },
   {
     "case_id": "ADL 422633",
@@ -197,7 +157,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422633/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266413"
+    "last_scraped_at": "2026-06-06T12:03:28.498720"
   },
   {
     "case_id": "ADL 422634",
@@ -205,7 +165,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422634/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266477"
+    "last_scraped_at": "2026-06-06T12:03:28.498755"
   },
   {
     "case_id": "ADL 422635",
@@ -213,7 +173,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422635/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266520"
+    "last_scraped_at": "2026-06-06T12:03:28.498787"
   },
   {
     "case_id": "ADL 422636",
@@ -221,7 +181,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422636/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266570"
+    "last_scraped_at": "2026-06-06T12:03:28.498818"
   },
   {
     "case_id": "ADL 422637",
@@ -229,7 +189,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422637/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266612"
+    "last_scraped_at": "2026-06-06T12:03:28.498847"
   },
   {
     "case_id": "ADL 422639",
@@ -237,7 +197,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422639/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266653"
+    "last_scraped_at": "2026-06-06T12:03:28.498878"
   },
   {
     "case_id": "ADL 422640",
@@ -245,15 +205,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422640/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266693"
-  },
-  {
-    "case_id": "ADL 422638",
-    "name": "DNR DMLW NRO",
-    "status": "ACTIVE ADJUDICATION (14)",
-    "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422638/landflag/y/searchtype/casefile/reporttype/abstract",
-    "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266733"
+    "last_scraped_at": "2026-06-06T12:03:28.498909"
   },
   {
     "case_id": "ADL 422641",
@@ -261,7 +213,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422641/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266773"
+    "last_scraped_at": "2026-06-06T12:03:28.498940"
   },
   {
     "case_id": "ADL 422642",
@@ -269,7 +221,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422642/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266813"
+    "last_scraped_at": "2026-06-06T12:03:28.498978"
   },
   {
     "case_id": "ADL 422643",
@@ -277,7 +229,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422643/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266853"
+    "last_scraped_at": "2026-06-06T12:03:28.499008"
   },
   {
     "case_id": "ADL 422644",
@@ -285,7 +237,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422644/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266916"
+    "last_scraped_at": "2026-06-06T12:03:28.499038"
   },
   {
     "case_id": "ADL 422627",
@@ -293,7 +245,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422627/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.266967"
+    "last_scraped_at": "2026-06-06T12:03:28.499070"
   },
   {
     "case_id": "ADL 422610",
@@ -301,7 +253,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422610/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.267010"
+    "last_scraped_at": "2026-06-06T12:03:28.499100"
   },
   {
     "case_id": "ADL 422613",
@@ -309,7 +261,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422613/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.267051"
+    "last_scraped_at": "2026-06-06T12:03:28.499130"
   },
   {
     "case_id": "ADL 225713",
@@ -317,7 +269,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/225713/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.267093"
+    "last_scraped_at": "2026-06-06T12:03:28.499161"
   },
   {
     "case_id": "ADL 422872",
@@ -325,7 +277,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422872/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.267132"
+    "last_scraped_at": "2026-06-06T12:03:28.499192"
   },
   {
     "case_id": "ADL 422873",
@@ -333,7 +285,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/422873/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.267172"
+    "last_scraped_at": "2026-06-06T12:03:28.499221"
   },
   {
     "case_id": "ADL 233388",
@@ -341,7 +293,7 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/233388/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.267211"
+    "last_scraped_at": "2026-06-06T12:03:28.499275"
   },
   {
     "case_id": "ADL 231512",
@@ -349,6 +301,6 @@
     "status": "ACTIVE ADJUDICATION (14)",
     "info_link": "https://dnr.alaska.gov/projects/las/#filetype/ADL/filenumber/231512/landflag/y/searchtype/casefile/reporttype/abstract",
     "intelligence": null,
-    "last_scraped_at": "2026-06-05T13:46:50.267250"
+    "last_scraped_at": "2026-06-06T12:03:28.499309"
   }
 ]
