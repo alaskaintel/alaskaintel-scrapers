@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-06T12:34:28.949769",
+    "last_synced": "2026-06-07T12:47:22.358038",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 19
+    "total_alerts": 20
   },
   "alerts": [
     {
@@ -300,6 +300,21 @@
       "severity": "low",
       "category": "policy",
       "impact": "regional hubs",
+      "action": "assess legislative impact"
+    },
+    {
+      "id": "https://alaska-native-news.com/?p=84421",
+      "type": "health_alert",
+      "source": "Alaska Native News",
+      "tier": 3,
+      "title": "SEARHC\u2019s New Canoe Wrap Tells the Story of Native Resilience",
+      "description": "&#160; As the community prepares for the powerful Journey to Celebration, one canoe will be making the voyage with a visually captivating timeline of Tlingit history and collective wellness on its hull. The SouthEast Alaska Regional Health Consortium (SEARHC) is debuting a new look for its 2026 journey. Titled Ancestral Echoes, the piece was designed [&#8230;]",
+      "link": "https://alaska-native-news.com/searhcs-new-canoe-wrap-tells-the-story-of-native-resilience/84421/",
+      "published": "Sat, 06 Jun 2026 14:04:32 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "policy",
+      "impact": "statewide",
       "action": "assess legislative impact"
     }
   ]
