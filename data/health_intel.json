@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-07T12:47:22.358038",
+    "last_synced": "2026-06-08T15:17:49.186890",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -17,6 +17,21 @@
     "total_alerts": 20
   },
   "alerts": [
+    {
+      "id": "https://alaskabeacon.com/?post_type=republished&p=26380",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "The feds have embraced medical marijuana. Now what?",
+      "description": "The U.S. Department of Justice\u2019s recent decision to downgrade the drug classification for medical cannabis will help medical marijuana businesses. Companies will be able to claim some federal tax benefits. New research can start up at state universities. But the broader divide between federal and state marijuana policy remains largely intact, leaving states to navigate [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/06/08/repub/the-feds-have-embraced-medical-marijuana-now-what/",
+      "published": "Mon, 08 Jun 2026 13:55:12 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "policy",
+      "impact": "statewide",
+      "action": "assess legislative impact"
+    },
     {
       "id": "https://alaskabeacon.com/?post_type=republished&p=26543",
       "type": "health_alert",
@@ -300,21 +315,6 @@
       "severity": "low",
       "category": "policy",
       "impact": "regional hubs",
-      "action": "assess legislative impact"
-    },
-    {
-      "id": "https://alaska-native-news.com/?p=84421",
-      "type": "health_alert",
-      "source": "Alaska Native News",
-      "tier": 3,
-      "title": "SEARHC\u2019s New Canoe Wrap Tells the Story of Native Resilience",
-      "description": "&#160; As the community prepares for the powerful Journey to Celebration, one canoe will be making the voyage with a visually captivating timeline of Tlingit history and collective wellness on its hull. The SouthEast Alaska Regional Health Consortium (SEARHC) is debuting a new look for its 2026 journey. Titled Ancestral Echoes, the piece was designed [&#8230;]",
-      "link": "https://alaska-native-news.com/searhcs-new-canoe-wrap-tells-the-story-of-native-resilience/84421/",
-      "published": "Sat, 06 Jun 2026 14:04:32 +0000",
-      "region": "statewide",
-      "severity": "low",
-      "category": "policy",
-      "impact": "statewide",
       "action": "assess legislative impact"
     }
   ]
