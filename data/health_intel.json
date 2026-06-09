@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-08T15:17:49.186890",
+    "last_synced": "2026-06-09T14:03:24.083262",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 20
+    "total_alerts": 19
   },
   "alerts": [
     {
@@ -31,21 +31,6 @@
       "category": "policy",
       "impact": "statewide",
       "action": "assess legislative impact"
-    },
-    {
-      "id": "https://alaskabeacon.com/?post_type=republished&p=26543",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "New medical guidance affirms Tylenol safety during pregnancy months after Trump sows doubt",
-      "description": "The Society for Maternal-Fetal Medicine published new clinical guidance this week affirming that acetaminophen, better known by its brand Tylenol, should be the \u201cfirst-line\u201d defense against pain and fever during pregnancy.\u00a0 The directive contradicts the Trump administration\u2019s notice to physicians last year cautioning against the use of the primary pain reliever recommended for pregnant women, [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/06/04/repub/new-medical-guidance-affirms-tylenol-safety-during-pregnancy-months-after-trump-sows-doubt/",
-      "published": "Thu, 04 Jun 2026 20:00:48 +0000",
-      "region": "statewide",
-      "severity": "low",
-      "category": "hospital",
-      "impact": "statewide",
-      "action": "monitor"
     },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
