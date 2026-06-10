@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-09T14:03:24.083262",
+    "last_synced": "2026-06-10T14:44:46.892471",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 19
+    "total_alerts": 18
   },
   "alerts": [
     {
@@ -213,33 +213,18 @@
       "action": "immediate review required"
     },
     {
-      "id": "https://www.juneauempire.com/2026/06/04/capital-city-fire-rescue-logs-860-total-responses-in-juneau-in-may/",
+      "id": "https://www.juneauempire.com/?p=132860",
       "type": "health_alert",
       "source": "Juneau Empire",
       "tier": 3,
-      "title": "Capital City Fire Rescue logs 860 total responses in Juneau in May",
-      "description": "<p>478 responses were for fire and emergency medical services incidents </p>",
-      "link": "https://www.juneauempire.com/2026/06/04/capital-city-fire-rescue-logs-860-total-responses-in-juneau-in-may/",
-      "published": "Thu, 04 Jun 2026 19:59:00 +0000",
-      "region": "regional hubs",
+      "title": "LETTER: Wealth inequality reaching crisis levels",
+      "description": "<p>Wealth inequality in the United States has reached levels that should concern every American. While millions of working families struggle to afford housing, health care, child care, and higher education, a small percentage of the population continues to accumulate enormous wealth at a historic pace.</p>",
+      "link": "https://www.juneauempire.com/2026/06/09/letter-wealth-inequality-reaching-crisis-levels/",
+      "published": "Wed, 10 Jun 2026 01:30:00 +0000",
+      "region": "statewide",
       "severity": "high",
       "category": "policy",
-      "impact": "regional hubs",
-      "action": "immediate review required"
-    },
-    {
-      "id": "https://www.juneauempire.com/2026/06/01/new-searhc-urgent-clinic-now-open-on-juneaus-front-street/",
-      "type": "health_alert",
-      "source": "Juneau Empire",
-      "tier": 3,
-      "title": "New SEARHC urgent clinic now open on Juneau\u2019s Front Street",
-      "description": "<p>The new space will provide treatment for a range on non-emergency conditions </p>",
-      "link": "https://www.juneauempire.com/2026/06/01/new-searhc-urgent-clinic-now-open-on-juneaus-front-street/",
-      "published": "Mon, 01 Jun 2026 19:07:00 +0000",
-      "region": "regional hubs",
-      "severity": "high",
-      "category": "hospital",
-      "impact": "regional hubs",
+      "impact": "statewide",
       "action": "immediate review required"
     },
     {
