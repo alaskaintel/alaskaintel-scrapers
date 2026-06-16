@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-14T13:27:29.463086",
+    "last_synced": "2026-06-16T16:27:23.196426",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,24 +14,9 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 23
+    "total_alerts": 22
   },
   "alerts": [
-    {
-      "id": "https://alaskabeacon.com/?post_type=republished&p=26698",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Strong candidates in Alaska, Ohio seen as moving US Senate races toward Dems",
-      "description": "Democrats\u2019 prospects in a trio of key U.S. Senate races are improving, an influential elections forecaster said Thursday, though Republicans are still favored to retain control of the chamber after the midterm elections. Sabato\u2019s Crystal Ball, which predicts election outcomes,&#160;moved three races \u2014 in North Carolina, Alaska and Ohio \u2014 in Democrats\u2019 favor. After the [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/06/11/repub/strong-candidates-in-alaska-ohio-seen-as-moving-us-senate-races-toward-dems/",
-      "published": "Thu, 11 Jun 2026 18:00:39 +0000",
-      "region": "statewide",
-      "severity": "medium",
-      "category": "outbreak",
-      "impact": "statewide",
-      "action": "review transmission risk"
-    },
     {
       "id": "https://alaskabeacon.com/?p=26738",
       "type": "health_alert",
@@ -218,7 +203,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Teller residents voice concern over proposed graphite mine",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_meetingG1TLA.jpg?i...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_meetingG1TLA.jpg?i...",
       "link": "https://www.nomenugget.net/news/teller-residents-voice-concern-over-proposed-graphite-mine",
       "published": "Thu, 11 Jun 2026 03:07:20 +0000",
       "region": "rural / tribal communities",
@@ -233,7 +218,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Researchers test harvested birds for avian flu",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_swabbingeggs.jpg?i...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_swabbingeggs.jpg?i...",
       "link": "https://www.nomenugget.net/news/researchers-test-harvested-birds-avian-flu",
       "published": "Thu, 11 Jun 2026 02:58:37 +0000",
       "region": "rural / tribal communities",
@@ -258,27 +243,12 @@
       "action": "immediate review required"
     },
     {
-      "id": "24314 at https://www.nomenugget.net",
-      "type": "health_alert",
-      "source": "Nome Nugget",
-      "tier": 3,
-      "title": "David O\u2019Neill appointed to school board seat C",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_schoolboar...",
-      "link": "https://www.nomenugget.net/education/david-o%E2%80%99neill-appointed-school-board-seat-c",
-      "published": "Thu, 28 May 2026 01:43:25 +0000",
-      "region": "statewide",
-      "severity": "medium",
-      "category": "hospital",
-      "impact": "statewide",
-      "action": "monitor"
-    },
-    {
       "id": "24332 at https://www.nomenugget.net",
       "type": "health_alert",
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome holds spring cleanup week",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_cleanu...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_cleanu...",
       "link": "https://www.nomenugget.net/news/nome-holds-spring-cleanup-week",
       "published": "Thu, 11 Jun 2026 03:01:52 +0000",
       "region": "statewide",
@@ -293,7 +263,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Itqaummatiga- My Memories",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">A Column by Tatauq Josie Bourdon</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cRober...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">A Column by Tatauq Josie Bourdon</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-6\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cRober...",
       "link": "https://www.nomenugget.net/news/itqaummatiga-my-memories",
       "published": "Thu, 04 Jun 2026 04:10:30 +0000",
       "region": "statewide",
@@ -308,7 +278,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome-Beltz celebrates Class of 2026",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_wesleycarleeHobbs....",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_wesleycarleeHobbs....",
       "link": "https://www.nomenugget.net/education/nome-beltz-celebrates-class-2026",
       "published": "Thu, 04 Jun 2026 03:21:54 +0000",
       "region": "statewide",
@@ -360,6 +330,21 @@
       "severity": "low",
       "category": "policy",
       "impact": "regional hubs",
+      "action": "assess legislative impact"
+    },
+    {
+      "id": "https://alaska-native-news.com/?p=84562",
+      "type": "health_alert",
+      "source": "Alaska Native News",
+      "tier": 3,
+      "title": "Addressing marine debris and harmful algal blooms",
+      "description": "&#160; Dear Alaskans, As the state with more coastline than the rest of the country combined, Alaska has a direct stake in the health of our oceans, fisheries, marine ecosystems, and coastal communities. For this reason, I have supported numerous federal programs and legislative efforts that strengthen ocean research, improve marine debris response, protect coastal [&#8230;]",
+      "link": "https://alaska-native-news.com/addressing-marine-debris-and-harmful-algal-blooms/84562/",
+      "published": "Mon, 15 Jun 2026 14:04:36 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "policy",
+      "impact": "statewide",
       "action": "assess legislative impact"
     }
   ]
