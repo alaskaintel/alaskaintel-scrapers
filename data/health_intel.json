@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-18T14:30:33.376936",
+    "last_synced": "2026-06-19T14:31:33.007901",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 19
+    "total_alerts": 17
   },
   "alerts": [
     {
@@ -31,21 +31,6 @@
       "category": "hospital",
       "impact": "statewide",
       "action": "monitor"
-    },
-    {
-      "id": "https://alaskabeacon.com/?post_type=republished&p=26795",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Special ed, civil rights to be shifted out of Trump\u2019s shrinking Department of Education",
-      "description": "WASHINGTON \u2014 The U.S. Department of Education announced sweeping efforts Tuesday to outsource its special education programs and civil rights enforcement to other agencies, in another major step by President Donald Trump\u2019s administration to dismantle the department. The Department of Health and Human Services will administer programs under the Education Department\u2019s Office of Special Education [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/06/16/repub/special-ed-civil-rights-to-be-shifted-out-of-trumps-shrinking-department-of-education/",
-      "published": "Tue, 16 Jun 2026 22:40:24 +0000",
-      "region": "statewide",
-      "severity": "low",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "assess legislative impact"
     },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
@@ -251,21 +236,6 @@
       "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">A Column by Tatauq Josie Bourdon</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cRober...",
       "link": "https://www.nomenugget.net/news/itqaummatiga-my-memories",
       "published": "Thu, 04 Jun 2026 04:10:30 +0000",
-      "region": "statewide",
-      "severity": "low",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "assess legislative impact"
-    },
-    {
-      "id": "https://www.juneauempire.com/?p=132906",
-      "type": "health_alert",
-      "source": "Juneau Empire",
-      "tier": 3,
-      "title": "SEARHC awards $85K in scholarships to Alaska health-care students",
-      "description": "<p>28 scholarships were handed out to future health-care professionals </p>",
-      "link": "https://www.juneauempire.com/2026/06/13/searhc-awards-85k-in-scholarships-to-alaska-health-care-students/",
-      "published": "Sat, 13 Jun 2026 13:30:00 +0000",
       "region": "statewide",
       "severity": "low",
       "category": "policy",
