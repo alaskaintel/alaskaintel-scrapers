@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-23T14:04:12.312604",
+    "last_synced": "2026-06-24T13:43:25.680421",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 15
+    "total_alerts": 19
   },
   "alerts": [
     {
@@ -31,6 +31,51 @@
       "category": "outbreak",
       "impact": "statewide",
       "action": "review transmission risk"
+    },
+    {
+      "id": "https://alaskabeacon.com/?p=26931",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Alaska\u2019s native bumblebees are essential to our food web",
+      "description": "Alaska\u2019s short summers demand fast, resilient pollinators \u2014 and few species meet that challenge as well as our native bumblebees. These insects are active in cold, windy, and unpredictable weather that keeps most other pollinators grounded. Their ability to generate heat, forage in low temperatures and fly long distances makes them essential to the health [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/06/23/alaskas-native-bumblebees-are-essential-to-our-food-web/",
+      "published": "Tue, 23 Jun 2026 23:36:32 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "policy",
+      "impact": "statewide",
+      "action": "assess legislative impact"
+    },
+    {
+      "id": "https://alaskabeacon.com/?p=26927",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Lawsuit aims to put sunflower sea stars on endangered species list",
+      "description": "An environmental group has sued the Trump administration over its failure to grant Endangered Species Act protections to sunflower sea stars, a keystone Pacific Ocean species that lost 90% of its population since 2013 to a wasting disease. The Center for Biological Diversity, in its lawsuit filed Monday in U.S. District Court for the Northern [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/06/23/lawsuit-aims-to-put-sunflower-sea-stars-on-endangered-species-list/",
+      "published": "Tue, 23 Jun 2026 21:00:44 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "outbreak",
+      "impact": "statewide",
+      "action": "review transmission risk"
+    },
+    {
+      "id": "https://alaskabeacon.com/?post_type=republished&p=26925",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Nationwide survey shows ongoing struggles for pregnant patients on Medicaid",
+      "description": "A survey of more than 3,800 people nationwide who gave birth in 2023 and 2024 found those using Medicaid described worse outcomes than those on private insurance, that access to care remains limited for some, and that women often feel unheard and disregarded during pregnancy and labor and delivery. The Listening to Mothers survey, conducted [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/06/23/repub/nationwide-survey-shows-ongoing-struggles-for-pregnant-patients-on-medicaid/",
+      "published": "Tue, 23 Jun 2026 19:00:42 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "hospital",
+      "impact": "statewide",
+      "action": "monitor"
     },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
@@ -226,6 +271,21 @@
       "category": "policy",
       "impact": "regional hubs",
       "action": "immediate review required"
+    },
+    {
+      "id": "https://www.juneauempire.com/?p=133018",
+      "type": "health_alert",
+      "source": "Juneau Empire",
+      "tier": 3,
+      "title": "LETTER: Alaska psychiatric patients face longstanding mistreatment",
+      "description": "<p>Psychiatric patients at the state-run Alaska Psychiatric Institute are facing mistreatment because the only ones that help patients fill out the grievance forms are hospital employees and there is no reasonable access to the impartial body to bring their grievance to.</p>",
+      "link": "https://www.juneauempire.com/2026/06/24/letter-alaska-psychiatric-patients-face-longstanding-mistreatment/",
+      "published": "Wed, 24 Jun 2026 11:30:00 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "hospital",
+      "impact": "statewide",
+      "action": "monitor"
     },
     {
       "id": "24332 at https://www.nomenugget.net",
