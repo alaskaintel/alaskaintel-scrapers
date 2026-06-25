@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-24T13:43:22.008624",
+    "last_synced": "2026-06-25T13:42:04.715245",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -14706,7 +14706,7 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "6/20/2026",
+      "Submitted": "6/24/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
@@ -14716,7 +14716,7 @@
       "Display Name": "Jonathan Kreiss-Tomkins (JKT) / Zac Johnson",
       "Last Name": "Kreiss-Tomkins / Johnson",
       "First Name": "Jonathan / Zachary",
-      "Committee": "JKT for Alaska",
+      "Committee": "",
       "Purpose": "",
       "Previously Registered": "New",
       "Address": "PO Box 2185",
@@ -14743,7 +14743,7 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "6/19/2026",
+      "Submitted": "6/24/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
@@ -29371,10 +29371,10 @@
       "Committee": "",
       "Purpose": "",
       "Previously Registered": "New",
-      "Address": "8106 circle drive",
+      "Address": "P.O. box 32593",
       "City": "Juneau",
       "State": "Alaska",
-      "Zip": "99801",
+      "Zip": "99803",
       "Country": "USA",
       "Phone": "9072094023",
       "Fax": "",
@@ -29395,9 +29395,9 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "8/13/2023",
+      "Submitted": "6/24/2026",
       "Status": "Filed",
-      "Amending": ""
+      "Amending": " Amendment"
     },
     {
       "Result": "498",
@@ -47769,62 +47769,6 @@
     },
     {
       "Result": "110",
-      "Date": "2/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Bank Fee",
-      "Payment Detail": "",
-      "Amount": "$251.66",
-      "Last/Business Name": "ANEDOT ",
-      "First Name": "",
-      "Address": "3723 GREENVILLE AVE, ST 41002",
-      "City": "DALLAS",
-      "State": "Texas",
-      "Zip": "75206-5311",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Credit card fees for donations made between 6/23/25 and 2/1/26",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Votekevinmccabe",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "111",
-      "Date": "1/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Check",
-      "Payment Detail": "5016",
-      "Amount": "$1,000.00",
-      "Last/Business Name": "PAC MANAGEMENT SERVICES LLC",
-      "First Name": "DBA VIP GATEKEEPER",
-      "Address": "10521 JUDICIAL DR. STE 200A",
-      "City": "FAIRFAX",
-      "State": "Virginia",
-      "Zip": "22030-5160",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "CHECK FROM LLC -- NOT DEPOSITED/CASHED; RETURNED TO SENDER. CHK NUMBER IS THE PAC'S CHECK NUMBER.",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Votekevinmccabe",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "112",
       "Date": "12/31/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -47852,7 +47796,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "113",
+      "Result": "111",
       "Date": "1/8/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -47880,7 +47824,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "114",
+      "Result": "112",
       "Date": "12/16/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -47908,7 +47852,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "115",
+      "Result": "113",
       "Date": "11/6/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -47936,7 +47880,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "116",
+      "Result": "114",
       "Date": "11/12/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -47964,7 +47908,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "117",
+      "Result": "115",
       "Date": "11/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -47992,7 +47936,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "118",
+      "Result": "116",
       "Date": "11/8/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48020,7 +47964,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "119",
+      "Result": "117",
       "Date": "11/14/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48048,7 +47992,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "120",
+      "Result": "118",
       "Date": "11/18/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48076,7 +48020,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "121",
+      "Result": "119",
       "Date": "11/16/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48104,7 +48048,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "122",
+      "Result": "120",
       "Date": "11/26/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48132,7 +48076,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "123",
+      "Result": "121",
       "Date": "11/30/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48160,7 +48104,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "124",
+      "Result": "122",
       "Date": "12/2/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48188,7 +48132,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "125",
+      "Result": "123",
       "Date": "12/12/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48216,7 +48160,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "126",
+      "Result": "124",
       "Date": "12/18/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48244,7 +48188,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "127",
+      "Result": "125",
       "Date": "12/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48272,7 +48216,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "128",
+      "Result": "126",
       "Date": "12/24/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48300,7 +48244,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "129",
+      "Result": "127",
       "Date": "12/26/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48328,7 +48272,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "130",
+      "Result": "128",
       "Date": "12/30/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48356,7 +48300,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "131",
+      "Result": "129",
       "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48384,7 +48328,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "132",
+      "Result": "130",
       "Date": "1/9/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48412,7 +48356,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "133",
+      "Result": "131",
       "Date": "1/13/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48440,7 +48384,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "134",
+      "Result": "132",
       "Date": "1/21/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -48468,7 +48412,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "135",
+      "Result": "133",
       "Date": "1/9/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48496,7 +48440,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "136",
+      "Result": "134",
       "Date": "1/23/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -48524,7 +48468,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "137",
+      "Result": "135",
       "Date": "1/30/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -48552,7 +48496,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "138",
+      "Result": "136",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -48580,7 +48524,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "139",
+      "Result": "137",
       "Date": "2/9/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48608,7 +48552,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "140",
+      "Result": "138",
       "Date": "2/10/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48636,7 +48580,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "141",
+      "Result": "139",
       "Date": "2/12/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48664,7 +48608,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "142",
+      "Result": "140",
       "Date": "2/19/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -48692,7 +48636,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "143",
+      "Result": "141",
       "Date": "2/19/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48720,7 +48664,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "144",
+      "Result": "142",
       "Date": "2/19/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48748,7 +48692,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "145",
+      "Result": "143",
       "Date": "2/19/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48776,7 +48720,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "146",
+      "Result": "144",
       "Date": "2/23/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -48804,7 +48748,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "147",
+      "Result": "145",
       "Date": "2/26/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48832,7 +48776,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "148",
+      "Result": "146",
       "Date": "2/26/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -48860,7 +48804,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "149",
+      "Result": "147",
       "Date": "3/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -48888,7 +48832,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "150",
+      "Result": "148",
       "Date": "3/2/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48916,7 +48860,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "151",
+      "Result": "149",
       "Date": "3/3/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48944,7 +48888,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "152",
+      "Result": "150",
       "Date": "3/4/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -48972,7 +48916,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "153",
+      "Result": "151",
       "Date": "3/9/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -49000,7 +48944,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "154",
+      "Result": "152",
       "Date": "3/10/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49028,7 +48972,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "155",
+      "Result": "153",
       "Date": "3/12/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -49056,7 +49000,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "156",
+      "Result": "154",
       "Date": "3/16/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49084,7 +49028,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "157",
+      "Result": "155",
       "Date": "3/23/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49112,7 +49056,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "158",
+      "Result": "156",
       "Date": "4/7/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49128,6 +49072,62 @@
       "Occupation": "",
       "Employer": "",
       "Purpose of Expenditure": "Processing fees incurred for credit card contributions on this report",
+      "--------": "",
+      "Report Type": "First Quarterly",
+      "Election Name": " - ",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "No on 2",
+      "Report Year": "2026",
+      "Submitted": "4/10/2026"
+    },
+    {
+      "Result": "157",
+      "Date": "3/27/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$1,009.80",
+      "Last/Business Name": "Alaska Airlines",
+      "First Name": "",
+      "Address": "PO Box 68900",
+      "City": "Seattle",
+      "State": "Washington",
+      "Zip": "98168",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Staff travel (ANC-JNU-SIT / SIT-ANC)",
+      "--------": "",
+      "Report Type": "First Quarterly",
+      "Election Name": " - ",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "No on 2",
+      "Report Year": "2026",
+      "Submitted": "4/10/2026"
+    },
+    {
+      "Result": "158",
+      "Date": "3/27/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$35.00",
+      "Last/Business Name": "Alaska Airlines",
+      "First Name": "",
+      "Address": "PO Box 68900",
+      "City": "Seattle",
+      "State": "Washington",
+      "Zip": "98168",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Seat upgrade",
       "--------": "",
       "Report Type": "First Quarterly",
       "Election Name": " - ",
@@ -49169,62 +49169,6 @@
     },
     {
       "Result": "160",
-      "Date": "3/27/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$35.00",
-      "Last/Business Name": "Alaska Airlines",
-      "First Name": "",
-      "Address": "PO Box 68900",
-      "City": "Seattle",
-      "State": "Washington",
-      "Zip": "98168",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Seat upgrade",
-      "--------": "",
-      "Report Type": "First Quarterly",
-      "Election Name": " - ",
-      "Election Type": "",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Group",
-      "Name": "No on 2",
-      "Report Year": "2026",
-      "Submitted": "4/10/2026"
-    },
-    {
-      "Result": "161",
-      "Date": "3/27/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$1,009.80",
-      "Last/Business Name": "Alaska Airlines",
-      "First Name": "",
-      "Address": "PO Box 68900",
-      "City": "Seattle",
-      "State": "Washington",
-      "Zip": "98168",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Staff travel (ANC-JNU-SIT / SIT-ANC)",
-      "--------": "",
-      "Report Type": "First Quarterly",
-      "Election Name": " - ",
-      "Election Type": "",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Group",
-      "Name": "No on 2",
-      "Report Year": "2026",
-      "Submitted": "4/10/2026"
-    },
-    {
-      "Result": "162",
       "Date": "3/30/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49252,7 +49196,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "163",
+      "Result": "161",
       "Date": "3/30/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49280,7 +49224,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "164",
+      "Result": "162",
       "Date": "3/30/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49308,7 +49252,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "165",
+      "Result": "163",
       "Date": "4/3/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -49336,7 +49280,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "166",
+      "Result": "164",
       "Date": "3/31/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49364,7 +49308,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "167",
+      "Result": "165",
       "Date": "4/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49392,7 +49336,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "168",
+      "Result": "166",
       "Date": "4/2/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49420,7 +49364,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "169",
+      "Result": "167",
       "Date": "4/2/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49448,7 +49392,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "170",
+      "Result": "168",
       "Date": "4/2/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49476,7 +49420,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "171",
+      "Result": "169",
       "Date": "4/2/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49504,7 +49448,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "172",
+      "Result": "170",
       "Date": "4/2/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49532,7 +49476,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "173",
+      "Result": "171",
       "Date": "5/14/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49560,7 +49504,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "174",
+      "Result": "172",
       "Date": "5/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49588,7 +49532,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "175",
+      "Result": "173",
       "Date": "5/19/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49616,7 +49560,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "176",
+      "Result": "174",
       "Date": "5/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49644,7 +49588,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "177",
+      "Result": "175",
       "Date": "5/28/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -49672,7 +49616,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "178",
+      "Result": "176",
       "Date": "5/28/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -49700,7 +49644,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "179",
+      "Result": "177",
       "Date": "5/29/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49728,7 +49672,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "180",
+      "Result": "178",
       "Date": "6/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49756,7 +49700,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "181",
+      "Result": "179",
       "Date": "6/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -49784,7 +49728,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "182",
+      "Result": "180",
       "Date": "6/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -49812,7 +49756,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "183",
+      "Result": "181",
       "Date": "6/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -49840,7 +49784,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "184",
+      "Result": "182",
       "Date": "6/5/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49868,7 +49812,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "185",
+      "Result": "183",
       "Date": "6/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49896,7 +49840,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "186",
+      "Result": "184",
       "Date": "7/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -49924,7 +49868,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "187",
+      "Result": "185",
       "Date": "7/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -49952,7 +49896,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "188",
+      "Result": "186",
       "Date": "7/5/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -49980,7 +49924,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "189",
+      "Result": "187",
       "Date": "7/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50008,7 +49952,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "190",
+      "Result": "188",
       "Date": "7/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50036,7 +49980,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "191",
+      "Result": "189",
       "Date": "7/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50064,7 +50008,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "192",
+      "Result": "190",
       "Date": "7/21/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50092,7 +50036,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "193",
+      "Result": "191",
       "Date": "7/24/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50120,7 +50064,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "194",
+      "Result": "192",
       "Date": "7/24/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50148,7 +50092,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "195",
+      "Result": "193",
       "Date": "7/29/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50176,7 +50120,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "196",
+      "Result": "194",
       "Date": "7/29/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50204,7 +50148,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "197",
+      "Result": "195",
       "Date": "7/30/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50232,7 +50176,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "198",
+      "Result": "196",
       "Date": "8/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50260,7 +50204,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "199",
+      "Result": "197",
       "Date": "8/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -50288,7 +50232,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "200",
+      "Result": "198",
       "Date": "8/5/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50316,7 +50260,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "201",
+      "Result": "199",
       "Date": "8/12/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50344,7 +50288,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "202",
+      "Result": "200",
       "Date": "8/19/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50372,7 +50316,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "203",
+      "Result": "201",
       "Date": "8/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50400,7 +50344,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "204",
+      "Result": "202",
       "Date": "8/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50428,7 +50372,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "205",
+      "Result": "203",
       "Date": "9/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -50456,7 +50400,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "206",
+      "Result": "204",
       "Date": "9/5/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50484,7 +50428,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "207",
+      "Result": "205",
       "Date": "9/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50512,7 +50456,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "208",
+      "Result": "206",
       "Date": "9/24/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50540,7 +50484,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "209",
+      "Result": "207",
       "Date": "9/24/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50568,7 +50512,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "210",
+      "Result": "208",
       "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -50596,7 +50540,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "211",
+      "Result": "209",
       "Date": "10/5/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50624,7 +50568,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "212",
+      "Result": "210",
       "Date": "10/7/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50652,7 +50596,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "213",
+      "Result": "211",
       "Date": "10/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50680,7 +50624,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "214",
+      "Result": "212",
       "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -50708,7 +50652,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "215",
+      "Result": "213",
       "Date": "11/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50736,7 +50680,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "216",
+      "Result": "214",
       "Date": "11/5/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50764,7 +50708,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "217",
+      "Result": "215",
       "Date": "11/6/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50792,7 +50736,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "218",
+      "Result": "216",
       "Date": "11/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50820,7 +50764,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "219",
+      "Result": "217",
       "Date": "11/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50848,7 +50792,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "220",
+      "Result": "218",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -50876,7 +50820,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "221",
+      "Result": "219",
       "Date": "12/5/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50904,7 +50848,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "222",
+      "Result": "220",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50932,7 +50876,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "223",
+      "Result": "221",
       "Date": "12/17/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -50960,7 +50904,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "224",
+      "Result": "222",
       "Date": "12/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -50988,7 +50932,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "225",
+      "Result": "223",
       "Date": "1/5/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51016,7 +50960,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "226",
+      "Result": "224",
       "Date": "1/20/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51044,7 +50988,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "227",
+      "Result": "225",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51072,7 +51016,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "228",
+      "Result": "226",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51100,7 +51044,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "229",
+      "Result": "227",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51128,7 +51072,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "230",
+      "Result": "228",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51156,7 +51100,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "231",
+      "Result": "229",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51184,7 +51128,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "232",
+      "Result": "230",
       "Date": "10/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51212,8 +51156,64 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "233",
+      "Result": "231",
       "Date": "11/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$175.00",
+      "Last/Business Name": "Campaign Deputy",
+      "First Name": "",
+      "Address": "PO Box 8141",
+      "City": "Louieville",
+      "State": "Kentucky",
+      "Zip": "40257",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Donor database",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Ky Holland",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "232",
+      "Date": "12/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$175.00",
+      "Last/Business Name": "Campaign Deputy",
+      "First Name": "",
+      "Address": "PO Box 8141",
+      "City": "Louieville",
+      "State": "Kentucky",
+      "Zip": "40257",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Donor database",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Ky Holland",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "233",
+      "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -51241,7 +51241,7 @@
     },
     {
       "Result": "234",
-      "Date": "12/1/2025",
+      "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -51269,62 +51269,6 @@
     },
     {
       "Result": "235",
-      "Date": "1/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$175.00",
-      "Last/Business Name": "Campaign Deputy",
-      "First Name": "",
-      "Address": "PO Box 8141",
-      "City": "Louieville",
-      "State": "Kentucky",
-      "Zip": "40257",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Donor database",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "House",
-      "Filer Type": "Candidate",
-      "Name": "Ky Holland",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "236",
-      "Date": "2/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$175.00",
-      "Last/Business Name": "Campaign Deputy",
-      "First Name": "",
-      "Address": "PO Box 8141",
-      "City": "Louieville",
-      "State": "Kentucky",
-      "Zip": "40257",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Donor database",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "House",
-      "Filer Type": "Candidate",
-      "Name": "Ky Holland",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "237",
       "Date": "10/21/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51352,7 +51296,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "238",
+      "Result": "236",
       "Date": "11/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -51380,7 +51324,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "239",
+      "Result": "237",
       "Date": "12/2/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -51408,7 +51352,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "240",
+      "Result": "238",
       "Date": "10/7/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51436,7 +51380,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "241",
+      "Result": "239",
       "Date": "11/7/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51464,7 +51408,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "242",
+      "Result": "240",
       "Date": "12/8/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51492,7 +51436,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "243",
+      "Result": "241",
       "Date": "1/7/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51520,7 +51464,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "244",
+      "Result": "242",
       "Date": "9/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51548,7 +51492,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "245",
+      "Result": "243",
       "Date": "10/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51576,7 +51520,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "246",
+      "Result": "244",
       "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51604,7 +51548,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "247",
+      "Result": "245",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51632,7 +51576,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "248",
+      "Result": "246",
       "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51660,7 +51604,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "249",
+      "Result": "247",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51688,7 +51632,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "250",
+      "Result": "248",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51716,7 +51660,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "251",
+      "Result": "249",
       "Date": "12/2/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -51744,7 +51688,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "252",
+      "Result": "250",
       "Date": "9/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51772,7 +51716,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "253",
+      "Result": "251",
       "Date": "8/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51800,7 +51744,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "254",
+      "Result": "252",
       "Date": "8/16/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Credit Card",
@@ -51828,7 +51772,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "255",
+      "Result": "253",
       "Date": "8/16/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Credit Card",
@@ -51856,7 +51800,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "256",
+      "Result": "254",
       "Date": "8/22/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -51884,7 +51828,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "257",
+      "Result": "255",
       "Date": "9/16/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Credit Card",
@@ -51912,7 +51856,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "258",
+      "Result": "256",
       "Date": "9/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51940,7 +51884,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "259",
+      "Result": "257",
       "Date": "9/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51968,7 +51912,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "260",
+      "Result": "258",
       "Date": "10/8/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -51996,7 +51940,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "261",
+      "Result": "259",
       "Date": "1/18/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52024,7 +51968,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "262",
+      "Result": "260",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -52052,7 +51996,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "263",
+      "Result": "261",
       "Date": "7/18/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52080,7 +52024,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "264",
+      "Result": "262",
       "Date": "10/17/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52108,7 +52052,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "265",
+      "Result": "263",
       "Date": "7/29/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52136,7 +52080,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "266",
+      "Result": "264",
       "Date": "10/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52164,7 +52108,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "267",
+      "Result": "265",
       "Date": "7/29/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52192,7 +52136,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "268",
+      "Result": "266",
       "Date": "7/22/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52220,7 +52164,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "269",
+      "Result": "267",
       "Date": "7/3/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52248,7 +52192,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "270",
+      "Result": "268",
       "Date": "6/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52276,7 +52220,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "271",
+      "Result": "269",
       "Date": "5/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -52304,7 +52248,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "272",
+      "Result": "270",
       "Date": "7/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52332,7 +52276,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "273",
+      "Result": "271",
       "Date": "7/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52360,7 +52304,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "274",
+      "Result": "272",
       "Date": "7/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52388,7 +52332,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "275",
+      "Result": "273",
       "Date": "1/5/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52416,7 +52360,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "276",
+      "Result": "274",
       "Date": "1/10/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52444,7 +52388,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "277",
+      "Result": "275",
       "Date": "1/10/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52472,7 +52416,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "278",
+      "Result": "276",
       "Date": "1/15/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52500,7 +52444,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "279",
+      "Result": "277",
       "Date": "10/13/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52528,7 +52472,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "280",
+      "Result": "278",
       "Date": "10/17/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52556,7 +52500,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "281",
+      "Result": "279",
       "Date": "10/17/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52584,7 +52528,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "282",
+      "Result": "280",
       "Date": "10/8/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52612,7 +52556,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "283",
+      "Result": "281",
       "Date": "10/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52640,7 +52584,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "284",
+      "Result": "282",
       "Date": "10/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52668,7 +52612,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "285",
+      "Result": "283",
       "Date": "10/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52696,7 +52640,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "286",
+      "Result": "284",
       "Date": "9/3/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52724,7 +52668,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "287",
+      "Result": "285",
       "Date": "9/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52752,7 +52696,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "288",
+      "Result": "286",
       "Date": "9/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52780,7 +52724,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "289",
+      "Result": "287",
       "Date": "9/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52808,7 +52752,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "290",
+      "Result": "288",
       "Date": "9/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52836,7 +52780,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "291",
+      "Result": "289",
       "Date": "9/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52864,7 +52808,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "292",
+      "Result": "290",
       "Date": "8/5/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52892,7 +52836,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "293",
+      "Result": "291",
       "Date": "7/18/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -52920,7 +52864,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "294",
+      "Result": "292",
       "Date": "5/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52948,7 +52892,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "295",
+      "Result": "293",
       "Date": "9/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -52976,7 +52920,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "296",
+      "Result": "294",
       "Date": "1/31/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -53004,7 +52948,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "297",
+      "Result": "295",
       "Date": "11/17/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53032,7 +52976,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "298",
+      "Result": "296",
       "Date": "11/17/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53060,7 +53004,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "299",
+      "Result": "297",
       "Date": "12/8/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53088,7 +53032,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "300",
+      "Result": "298",
       "Date": "11/18/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53116,7 +53060,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "301",
+      "Result": "299",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53144,7 +53088,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "302",
+      "Result": "300",
       "Date": "1/16/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -53172,7 +53116,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "303",
+      "Result": "301",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -53200,7 +53144,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "304",
+      "Result": "302",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -53228,7 +53172,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "305",
+      "Result": "303",
       "Date": "6/19/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53256,7 +53200,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "306",
+      "Result": "304",
       "Date": "6/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53284,8 +53228,64 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "307",
+      "Result": "305",
       "Date": "9/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$185.00",
+      "Last/Business Name": "Campaign Deputy",
+      "First Name": "",
+      "Address": "PO Box 8141",
+      "City": "Louieville",
+      "State": "Kentucky",
+      "Zip": "40257",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Donor database",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Ted J. Eischeid",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "306",
+      "Date": "10/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$185.00",
+      "Last/Business Name": "Campaign Deputy",
+      "First Name": "",
+      "Address": "PO Box 8141",
+      "City": "Louieville",
+      "State": "Kentucky",
+      "Zip": "40257",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Donor database",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Ted J. Eischeid",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "307",
+      "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -53313,7 +53313,7 @@
     },
     {
       "Result": "308",
-      "Date": "10/1/2025",
+      "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -53341,7 +53341,7 @@
     },
     {
       "Result": "309",
-      "Date": "11/1/2025",
+      "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -53369,7 +53369,7 @@
     },
     {
       "Result": "310",
-      "Date": "12/1/2025",
+      "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -53397,62 +53397,6 @@
     },
     {
       "Result": "311",
-      "Date": "1/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$185.00",
-      "Last/Business Name": "Campaign Deputy",
-      "First Name": "",
-      "Address": "PO Box 8141",
-      "City": "Louieville",
-      "State": "Kentucky",
-      "Zip": "40257",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Donor database",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "House",
-      "Filer Type": "Candidate",
-      "Name": "Ted J. Eischeid",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "312",
-      "Date": "2/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$185.00",
-      "Last/Business Name": "Campaign Deputy",
-      "First Name": "",
-      "Address": "PO Box 8141",
-      "City": "Louieville",
-      "State": "Kentucky",
-      "Zip": "40257",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Donor database",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "House",
-      "Filer Type": "Candidate",
-      "Name": "Ted J. Eischeid",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "313",
       "Date": "9/26/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53480,7 +53424,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "314",
+      "Result": "312",
       "Date": "9/18/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -53508,7 +53452,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "315",
+      "Result": "313",
       "Date": "9/16/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -53536,7 +53480,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "316",
+      "Result": "314",
       "Date": "6/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53564,7 +53508,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "317",
+      "Result": "315",
       "Date": "7/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53592,7 +53536,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "318",
+      "Result": "316",
       "Date": "8/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53620,8 +53564,64 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "319",
+      "Result": "317",
       "Date": "9/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$33.60",
+      "Last/Business Name": "Google",
+      "First Name": "",
+      "Address": "101 Huntington Ave",
+      "City": "Boston",
+      "State": "Massachusetts",
+      "Zip": "02199",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "G-suite",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Ted J. Eischeid",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "318",
+      "Date": "10/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$33.60",
+      "Last/Business Name": "Google",
+      "First Name": "",
+      "Address": "101 Huntington Ave",
+      "City": "Boston",
+      "State": "Massachusetts",
+      "Zip": "02199",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "G-suite",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Ted J. Eischeid",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "319",
+      "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -53649,7 +53649,7 @@
     },
     {
       "Result": "320",
-      "Date": "10/1/2025",
+      "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -53677,7 +53677,7 @@
     },
     {
       "Result": "321",
-      "Date": "11/1/2025",
+      "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -53705,7 +53705,7 @@
     },
     {
       "Result": "322",
-      "Date": "12/1/2025",
+      "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -53733,62 +53733,6 @@
     },
     {
       "Result": "323",
-      "Date": "1/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$33.60",
-      "Last/Business Name": "Google",
-      "First Name": "",
-      "Address": "101 Huntington Ave",
-      "City": "Boston",
-      "State": "Massachusetts",
-      "Zip": "02199",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "G-suite",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "House",
-      "Filer Type": "Candidate",
-      "Name": "Ted J. Eischeid",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "324",
-      "Date": "2/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$33.60",
-      "Last/Business Name": "Google",
-      "First Name": "",
-      "Address": "101 Huntington Ave",
-      "City": "Boston",
-      "State": "Massachusetts",
-      "Zip": "02199",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "G-suite",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "House",
-      "Filer Type": "Candidate",
-      "Name": "Ted J. Eischeid",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "325",
       "Date": "7/23/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53816,7 +53760,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "326",
+      "Result": "324",
       "Date": "8/22/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53844,7 +53788,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "327",
+      "Result": "325",
       "Date": "9/22/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53872,7 +53816,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "328",
+      "Result": "326",
       "Date": "10/22/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53900,7 +53844,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "329",
+      "Result": "327",
       "Date": "11/22/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53928,7 +53872,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "330",
+      "Result": "328",
       "Date": "12/22/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53956,7 +53900,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "331",
+      "Result": "329",
       "Date": "1/22/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -53984,7 +53928,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "332",
+      "Result": "330",
       "Date": "7/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54012,7 +53956,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "333",
+      "Result": "331",
       "Date": "8/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54040,8 +53984,64 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "334",
+      "Result": "332",
       "Date": "9/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Electronic Funds Transfer",
+      "Payment Detail": "",
+      "Amount": "$1,500.00",
+      "Last/Business Name": "Ship Creek Group, LLC",
+      "First Name": "",
+      "Address": "721 Depot Drive, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Compliance and Fundraising Support (including in-house graphic design); paid 12/20/2025",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Ted J. Eischeid",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "333",
+      "Date": "10/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Electronic Funds Transfer",
+      "Payment Detail": "",
+      "Amount": "$1,500.00",
+      "Last/Business Name": "Ship Creek Group, LLC",
+      "First Name": "",
+      "Address": "721 Depot Drive, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Compliance and Fundraising Support (including in-house graphic design); paid 12/20/2025",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Ted J. Eischeid",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "334",
+      "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
       "Payment Detail": "",
@@ -54069,7 +54069,7 @@
     },
     {
       "Result": "335",
-      "Date": "10/1/2025",
+      "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
       "Payment Detail": "",
@@ -54097,62 +54097,6 @@
     },
     {
       "Result": "336",
-      "Date": "11/1/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$1,500.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Compliance and Fundraising Support (including in-house graphic design); paid 12/20/2025",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "House",
-      "Filer Type": "Candidate",
-      "Name": "Ted J. Eischeid",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "337",
-      "Date": "12/1/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$1,500.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Compliance and Fundraising Support (including in-house graphic design); paid 12/20/2025",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "House",
-      "Filer Type": "Candidate",
-      "Name": "Ted J. Eischeid",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "338",
       "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54180,7 +54124,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "339",
+      "Result": "337",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54208,7 +54152,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "340",
+      "Result": "338",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54236,7 +54180,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "341",
+      "Result": "339",
       "Date": "11/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -54264,7 +54208,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "342",
+      "Result": "340",
       "Date": "12/2/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -54292,7 +54236,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "343",
+      "Result": "341",
       "Date": "7/3/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54320,7 +54264,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "344",
+      "Result": "342",
       "Date": "8/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54348,7 +54292,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "345",
+      "Result": "343",
       "Date": "11/5/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54376,7 +54320,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "346",
+      "Result": "344",
       "Date": "12/31/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -54404,7 +54348,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "347",
+      "Result": "345",
       "Date": "1/5/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -54432,7 +54376,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "348",
+      "Result": "346",
       "Date": "1/19/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54460,7 +54404,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "349",
+      "Result": "347",
       "Date": "1/19/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54488,7 +54432,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "350",
+      "Result": "348",
       "Date": "1/19/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54516,7 +54460,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "351",
+      "Result": "349",
       "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54544,7 +54488,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "352",
+      "Result": "350",
       "Date": "9/26/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54572,7 +54516,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "353",
+      "Result": "351",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54600,7 +54544,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "354",
+      "Result": "352",
       "Date": "10/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54628,7 +54572,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "355",
+      "Result": "353",
       "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54656,7 +54600,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "356",
+      "Result": "354",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54684,7 +54628,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "357",
+      "Result": "355",
       "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54712,7 +54656,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "358",
+      "Result": "356",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54740,7 +54684,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "359",
+      "Result": "357",
       "Date": "10/8/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54768,7 +54712,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "360",
+      "Result": "358",
       "Date": "9/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54796,7 +54740,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "361",
+      "Result": "359",
       "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54824,7 +54768,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "362",
+      "Result": "360",
       "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54852,7 +54796,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "363",
+      "Result": "361",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54880,7 +54824,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "364",
+      "Result": "362",
       "Date": "11/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -54908,7 +54852,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "365",
+      "Result": "363",
       "Date": "1/20/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -54936,7 +54880,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "366",
+      "Result": "364",
       "Date": "1/19/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -54964,7 +54908,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "367",
+      "Result": "365",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -54992,7 +54936,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "368",
+      "Result": "366",
       "Date": "9/23/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -55020,7 +54964,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "369",
+      "Result": "367",
       "Date": "9/23/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -55048,7 +54992,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "370",
+      "Result": "368",
       "Date": "9/23/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -55076,7 +55020,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "371",
+      "Result": "369",
       "Date": "9/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -55104,7 +55048,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "372",
+      "Result": "370",
       "Date": "9/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -55132,7 +55076,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "373",
+      "Result": "371",
       "Date": "12/2/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -55160,7 +55104,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "374",
+      "Result": "372",
       "Date": "8/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55188,7 +55132,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "375",
+      "Result": "373",
       "Date": "9/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55216,7 +55160,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "376",
+      "Result": "374",
       "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55244,8 +55188,64 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "377",
+      "Result": "375",
       "Date": "11/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$16.80",
+      "Last/Business Name": "Google",
+      "First Name": "",
+      "Address": "1602 Amphitheatre Pkwy",
+      "City": "Mountain View",
+      "State": "California",
+      "Zip": "94043",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "G-Suite",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "",
+      "Filer Type": "Candidate",
+      "Name": "Cathy Giessel",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "376",
+      "Date": "12/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$16.80",
+      "Last/Business Name": "Google",
+      "First Name": "",
+      "Address": "1602 Amphitheatre Pkwy",
+      "City": "Mountain View",
+      "State": "California",
+      "Zip": "94043",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "G-Suite",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "",
+      "Filer Type": "Candidate",
+      "Name": "Cathy Giessel",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "377",
+      "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -55275,62 +55275,6 @@
       "Result": "378",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$16.80",
-      "Last/Business Name": "Google",
-      "First Name": "",
-      "Address": "1602 Amphitheatre Pkwy",
-      "City": "Mountain View",
-      "State": "California",
-      "Zip": "94043",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "G-Suite",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Cathy Giessel",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "379",
-      "Date": "1/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$16.80",
-      "Last/Business Name": "Google",
-      "First Name": "",
-      "Address": "1602 Amphitheatre Pkwy",
-      "City": "Mountain View",
-      "State": "California",
-      "Zip": "94043",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "G-Suite",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Cathy Giessel",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "380",
-      "Date": "12/1/2025",
-      "Transaction Type": "Expenditure",
       "Payment Type": "Check",
       "Payment Detail": "520",
       "Amount": "($151.67)",
@@ -55356,7 +55300,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "381",
+      "Result": "379",
       "Date": "9/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55384,8 +55328,64 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "382",
+      "Result": "380",
       "Date": "10/27/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$179.00",
+      "Last/Business Name": "NationBuilder",
+      "First Name": "",
+      "Address": "PO Box 811428",
+      "City": "Los Angeles",
+      "State": "California",
+      "Zip": "90081",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Donor outreach software",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "",
+      "Filer Type": "Candidate",
+      "Name": "Cathy Giessel",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "381",
+      "Date": "11/27/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$179.00",
+      "Last/Business Name": "NationBuilder",
+      "First Name": "",
+      "Address": "PO Box 811428",
+      "City": "Los Angeles",
+      "State": "California",
+      "Zip": "90081",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Donor outreach software",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "",
+      "Filer Type": "Candidate",
+      "Name": "Cathy Giessel",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "382",
+      "Date": "12/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
       "Payment Detail": "",
@@ -55413,62 +55413,6 @@
     },
     {
       "Result": "383",
-      "Date": "11/27/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$179.00",
-      "Last/Business Name": "NationBuilder",
-      "First Name": "",
-      "Address": "PO Box 811428",
-      "City": "Los Angeles",
-      "State": "California",
-      "Zip": "90081",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Donor outreach software",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Cathy Giessel",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "384",
-      "Date": "12/27/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$179.00",
-      "Last/Business Name": "NationBuilder",
-      "First Name": "",
-      "Address": "PO Box 811428",
-      "City": "Los Angeles",
-      "State": "California",
-      "Zip": "90081",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Donor outreach software",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Cathy Giessel",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "385",
       "Date": "10/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55496,7 +55440,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "386",
+      "Result": "384",
       "Date": "12/3/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55524,7 +55468,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "387",
+      "Result": "385",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -55552,7 +55496,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "388",
+      "Result": "386",
       "Date": "6/23/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -55580,7 +55524,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "389",
+      "Result": "387",
       "Date": "7/7/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -55608,7 +55552,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "390",
+      "Result": "388",
       "Date": "7/23/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -55636,7 +55580,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "391",
+      "Result": "389",
       "Date": "8/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -55664,8 +55608,64 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "392",
+      "Result": "390",
       "Date": "9/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Electronic Funds Transfer",
+      "Payment Detail": "",
+      "Amount": "$1,500.00",
+      "Last/Business Name": "Ship Creek Group, LLC",
+      "First Name": "",
+      "Address": "721 Depot Dr, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Campaign support (Fundraising, strategy, compliance). Paid 11/21/25.",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "",
+      "Filer Type": "Candidate",
+      "Name": "Cathy Giessel",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "391",
+      "Date": "10/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Electronic Funds Transfer",
+      "Payment Detail": "",
+      "Amount": "$1,500.00",
+      "Last/Business Name": "Ship Creek Group, LLC",
+      "First Name": "",
+      "Address": "721 Depot Dr, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Campaign support (Fundraising, strategy, compliance). Paid 11/21/25.",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "",
+      "Filer Type": "Candidate",
+      "Name": "Cathy Giessel",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "392",
+      "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
       "Payment Detail": "",
@@ -55693,62 +55693,6 @@
     },
     {
       "Result": "393",
-      "Date": "10/1/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$1,500.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Dr, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Campaign support (Fundraising, strategy, compliance). Paid 11/21/25.",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Cathy Giessel",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "394",
-      "Date": "11/1/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$1,500.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Dr, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Campaign support (Fundraising, strategy, compliance). Paid 11/21/25.",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Cathy Giessel",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "395",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -55776,7 +55720,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "396",
+      "Result": "394",
       "Date": "1/24/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55804,7 +55748,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "397",
+      "Result": "395",
       "Date": "11/21/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55832,7 +55776,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "398",
+      "Result": "396",
       "Date": "10/14/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55860,7 +55804,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "399",
+      "Result": "397",
       "Date": "12/7/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55888,7 +55832,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "400",
+      "Result": "398",
       "Date": "7/14/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -55916,7 +55860,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "401",
+      "Result": "399",
       "Date": "1/27/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -55944,7 +55888,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "402",
+      "Result": "400",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -55972,7 +55916,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "403",
+      "Result": "401",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -56000,7 +55944,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "404",
+      "Result": "402",
       "Date": "8/12/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -56028,7 +55972,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "405",
+      "Result": "403",
       "Date": "10/6/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -56056,7 +56000,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "406",
+      "Result": "404",
       "Date": "6/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -56084,7 +56028,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "407",
+      "Result": "405",
       "Date": "7/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -56112,8 +56056,64 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "408",
+      "Result": "406",
       "Date": "8/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Electronic Funds Transfer",
+      "Payment Detail": "",
+      "Amount": "$500.00",
+      "Last/Business Name": "Ship Creek Group, LLC",
+      "First Name": "",
+      "Address": "721 Depot Drive, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Fundraising support(including in-house graphic design), and compliance (paid 12/20/2025)",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "",
+      "Filer Type": "Candidate",
+      "Name": "Rebecca Himschoot",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "407",
+      "Date": "9/1/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Electronic Funds Transfer",
+      "Payment Detail": "",
+      "Amount": "$500.00",
+      "Last/Business Name": "Ship Creek Group, LLC",
+      "First Name": "",
+      "Address": "721 Depot Drive, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Fundraising support(including in-house graphic design), and compliance (paid 12/20/2025)",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "",
+      "Filer Type": "Candidate",
+      "Name": "Rebecca Himschoot",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "408",
+      "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
       "Payment Detail": "",
@@ -56141,62 +56141,6 @@
     },
     {
       "Result": "409",
-      "Date": "9/1/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$500.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Fundraising support(including in-house graphic design), and compliance (paid 12/20/2025)",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "410",
-      "Date": "10/1/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$500.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Fundraising support(including in-house graphic design), and compliance (paid 12/20/2025)",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "411",
       "Date": "5/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56224,7 +56168,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "412",
+      "Result": "410",
       "Date": "6/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56252,7 +56196,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "413",
+      "Result": "411",
       "Date": "7/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56280,7 +56224,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "414",
+      "Result": "412",
       "Date": "8/28/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56308,7 +56252,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "415",
+      "Result": "413",
       "Date": "9/29/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56336,7 +56280,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "416",
+      "Result": "414",
       "Date": "10/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56364,7 +56308,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "417",
+      "Result": "415",
       "Date": "11/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56392,7 +56336,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "418",
+      "Result": "416",
       "Date": "12/27/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56420,7 +56364,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "419",
+      "Result": "417",
       "Date": "1/27/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56448,7 +56392,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "420",
+      "Result": "418",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -56476,7 +56420,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "421",
+      "Result": "419",
       "Date": "9/2/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56504,7 +56448,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "422",
+      "Result": "420",
       "Date": "11/6/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -56532,7 +56476,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "423",
+      "Result": "421",
       "Date": "11/19/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56560,7 +56504,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "424",
+      "Result": "422",
       "Date": "11/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -56588,7 +56532,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "425",
+      "Result": "423",
       "Date": "12/8/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -56616,7 +56560,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "426",
+      "Result": "424",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56644,7 +56588,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "427",
+      "Result": "425",
       "Date": "12/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56672,7 +56616,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "428",
+      "Result": "426",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56700,7 +56644,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "429",
+      "Result": "427",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56728,7 +56672,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "430",
+      "Result": "428",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56756,7 +56700,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "431",
+      "Result": "429",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56784,7 +56728,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "432",
+      "Result": "430",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56812,7 +56756,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "433",
+      "Result": "431",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56840,7 +56784,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "434",
+      "Result": "432",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56868,7 +56812,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "435",
+      "Result": "433",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56896,7 +56840,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "436",
+      "Result": "434",
       "Date": "12/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56924,7 +56868,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "437",
+      "Result": "435",
       "Date": "12/17/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56952,7 +56896,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "438",
+      "Result": "436",
       "Date": "12/17/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56980,7 +56924,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "439",
+      "Result": "437",
       "Date": "12/26/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57008,7 +56952,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "440",
+      "Result": "438",
       "Date": "12/30/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57036,7 +56980,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "441",
+      "Result": "439",
       "Date": "1/2/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57064,7 +57008,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "442",
+      "Result": "440",
       "Date": "1/12/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57092,7 +57036,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "443",
+      "Result": "441",
       "Date": "1/8/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57120,7 +57064,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "444",
+      "Result": "442",
       "Date": "1/3/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57148,7 +57092,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "445",
+      "Result": "443",
       "Date": "1/6/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57176,7 +57120,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "446",
+      "Result": "444",
       "Date": "1/12/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57204,7 +57148,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "447",
+      "Result": "445",
       "Date": "1/20/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57232,7 +57176,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "448",
+      "Result": "446",
       "Date": "1/21/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57260,7 +57204,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "449",
+      "Result": "447",
       "Date": "1/26/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57288,7 +57232,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "450",
+      "Result": "448",
       "Date": "1/31/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57316,7 +57260,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "451",
+      "Result": "449",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57344,7 +57288,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "452",
+      "Result": "450",
       "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57372,7 +57316,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "453",
+      "Result": "451",
       "Date": "6/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57400,7 +57344,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "454",
+      "Result": "452",
       "Date": "6/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57428,7 +57372,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "455",
+      "Result": "453",
       "Date": "7/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57456,7 +57400,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "456",
+      "Result": "454",
       "Date": "7/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57484,7 +57428,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "457",
+      "Result": "455",
       "Date": "7/16/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57512,7 +57456,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "458",
+      "Result": "456",
       "Date": "7/29/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57540,7 +57484,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "459",
+      "Result": "457",
       "Date": "7/31/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57568,7 +57512,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "460",
+      "Result": "458",
       "Date": "8/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57596,7 +57540,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "461",
+      "Result": "459",
       "Date": "8/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57624,7 +57568,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "462",
+      "Result": "460",
       "Date": "8/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57652,7 +57596,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "463",
+      "Result": "461",
       "Date": "8/14/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57680,7 +57624,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "464",
+      "Result": "462",
       "Date": "8/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57708,7 +57652,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "465",
+      "Result": "463",
       "Date": "8/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57736,7 +57680,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "466",
+      "Result": "464",
       "Date": "8/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57764,7 +57708,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "467",
+      "Result": "465",
       "Date": "9/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57792,7 +57736,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "468",
+      "Result": "466",
       "Date": "9/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57820,7 +57764,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "469",
+      "Result": "467",
       "Date": "9/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57848,7 +57792,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "470",
+      "Result": "468",
       "Date": "9/12/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57876,7 +57820,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "471",
+      "Result": "469",
       "Date": "9/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57904,7 +57848,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "472",
+      "Result": "470",
       "Date": "9/23/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57932,7 +57876,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "473",
+      "Result": "471",
       "Date": "9/23/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57960,7 +57904,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "474",
+      "Result": "472",
       "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57988,7 +57932,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "475",
+      "Result": "473",
       "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -58016,7 +57960,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "476",
+      "Result": "474",
       "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58044,7 +57988,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "477",
+      "Result": "475",
       "Date": "10/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58072,7 +58016,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "478",
+      "Result": "476",
       "Date": "10/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58100,7 +58044,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "479",
+      "Result": "477",
       "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58128,7 +58072,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "480",
+      "Result": "478",
       "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58156,7 +58100,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "481",
+      "Result": "479",
       "Date": "11/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -58184,7 +58128,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "482",
+      "Result": "480",
       "Date": "11/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58212,7 +58156,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "483",
+      "Result": "481",
       "Date": "11/13/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58240,7 +58184,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "484",
+      "Result": "482",
       "Date": "11/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58268,7 +58212,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "485",
+      "Result": "483",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58296,7 +58240,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "486",
+      "Result": "484",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58324,7 +58268,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "487",
+      "Result": "485",
       "Date": "12/2/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58352,7 +58296,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "488",
+      "Result": "486",
       "Date": "12/2/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -58380,7 +58324,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "489",
+      "Result": "487",
       "Date": "12/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58408,7 +58352,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "490",
+      "Result": "488",
       "Date": "12/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58436,7 +58380,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "491",
+      "Result": "489",
       "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58464,7 +58408,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "492",
+      "Result": "490",
       "Date": "1/9/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58492,7 +58436,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "493",
+      "Result": "491",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58520,7 +58464,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "494",
+      "Result": "492",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58548,7 +58492,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "495",
+      "Result": "493",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58576,7 +58520,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "496",
+      "Result": "494",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58604,7 +58548,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "497",
+      "Result": "495",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58632,7 +58576,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "498",
+      "Result": "496",
       "Date": "4/14/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58660,7 +58604,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "499",
+      "Result": "497",
       "Date": "11/16/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58688,7 +58632,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "500",
+      "Result": "498",
       "Date": "1/11/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58704,6 +58648,62 @@
       "Occupation": "",
       "Employer": "",
       "Purpose of Expenditure": "Fees",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "DeLena Johnson",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "499",
+      "Date": "1/31/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Bank Fee",
+      "Payment Detail": "",
+      "Amount": "$0.19",
+      "Last/Business Name": "Matanuska Valley FCU",
+      "First Name": "",
+      "Address": "1020 S. Bailey Street",
+      "City": "Palmer",
+      "State": "Alaska",
+      "Zip": "99645",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Bank Fees",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "DeLena Johnson",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "500",
+      "Date": "12/31/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Bank Fee",
+      "Payment Detail": "",
+      "Amount": "$0.02",
+      "Last/Business Name": "Matanuska Valley FCU",
+      "First Name": "",
+      "Address": "1020 S. Bailey Street",
+      "City": "Palmer",
+      "State": "Alaska",
+      "Zip": "99645",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Bank Fee",
       "--------": "",
       "Report Type": "Year Start Report",
       "Election Name": "2026 - State Primary",

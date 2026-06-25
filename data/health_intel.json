@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-24T13:43:25.680421",
+    "last_synced": "2026-06-25T13:42:09.766651",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -18,19 +18,19 @@
   },
   "alerts": [
     {
-      "id": "https://alaskabeacon.com/?p=26874",
+      "id": "https://alaskabeacon.com/?p=26953",
       "type": "health_alert",
       "source": "Alaska Beacon",
       "tier": 1,
-      "title": "Dunleavy vetoes nine bills, but Alaska lawmakers override two in special session flurry",
-      "description": "Alaska Gov. Mike Dunleavy extended his record-high veto rate Thursday by vetoing nine of the 82 bills passed by lawmakers in the second year of the 34th Alaska State Legislature. Among the vetoed bills were measures that would have provided mental health lessons to kids in public schools, created a retirement plan for private-sector workers [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/06/19/dunleavy-vetoes-nine-bills-but-alaska-lawmakers-override-two-in-special-session-flurry/",
-      "published": "Sat, 20 Jun 2026 00:59:53 +0000",
-      "region": "statewide",
-      "severity": "medium",
-      "category": "outbreak",
-      "impact": "statewide",
-      "action": "review transmission risk"
+      "title": "Protect Alaska fisheries from offshore drilling",
+      "description": "Alaska and fisheries are intrinsically linked, both economically and culturally. Alaska\u2019s fisheries provide for communities and rural economies across the state\u2014and they will do so sustainably, year after year, provided we take care of the ocean and rivers that support them.\u00a0 That is why Alaska should be excluded from the federal government\u2019s latest plan for [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/06/24/protect-alaska-fisheries-from-offshore-drilling/",
+      "published": "Wed, 24 Jun 2026 22:00:33 +0000",
+      "region": "rural / tribal communities",
+      "severity": "low",
+      "category": "policy",
+      "impact": "rural / tribal communities",
+      "action": "assess legislative impact"
     },
     {
       "id": "https://alaskabeacon.com/?p=26931",
@@ -228,36 +228,6 @@
       "action": "assess legislative impact"
     },
     {
-      "id": "24333 at https://www.nomenugget.net",
-      "type": "health_alert",
-      "source": "Nome Nugget",
-      "tier": 3,
-      "title": "Teller residents voice concern over proposed graphite mine",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-6\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_meetingG1TLA.jpg?i...",
-      "link": "https://www.nomenugget.net/news/teller-residents-voice-concern-over-proposed-graphite-mine",
-      "published": "Thu, 11 Jun 2026 03:07:20 +0000",
-      "region": "rural / tribal communities",
-      "severity": "high",
-      "category": "outbreak",
-      "impact": "rural / tribal communities",
-      "action": "immediate review required"
-    },
-    {
-      "id": "24330 at https://www.nomenugget.net",
-      "type": "health_alert",
-      "source": "Nome Nugget",
-      "tier": 3,
-      "title": "Researchers test harvested birds for avian flu",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_swabbingeggs.jpg?i...",
-      "link": "https://www.nomenugget.net/news/researchers-test-harvested-birds-avian-flu",
-      "published": "Thu, 11 Jun 2026 02:58:37 +0000",
-      "region": "rural / tribal communities",
-      "severity": "high",
-      "category": "outbreak",
-      "impact": "rural / tribal communities",
-      "action": "immediate review required"
-    },
-    {
       "id": "https://alaska-native-news.com/?p=84668",
       "type": "health_alert",
       "source": "Alaska Native News",
@@ -271,6 +241,21 @@
       "category": "policy",
       "impact": "regional hubs",
       "action": "immediate review required"
+    },
+    {
+      "id": "24347 at https://www.nomenugget.net",
+      "type": "health_alert",
+      "source": "Nome Nugget",
+      "tier": 3,
+      "title": "Fog and a tender mishap cancel town trip for 200 Noordam passengers",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_cruise...",
+      "link": "https://www.nomenugget.net/news/fog-and-tender-mishap-cancel-town-trip-200-noordam-passengers",
+      "published": "Thu, 25 Jun 2026 06:23:24 +0000",
+      "region": "rural / tribal communities",
+      "severity": "medium",
+      "category": "outbreak",
+      "impact": "rural / tribal communities",
+      "action": "review transmission risk"
     },
     {
       "id": "https://www.juneauempire.com/?p=133018",
@@ -288,14 +273,29 @@
       "action": "monitor"
     },
     {
-      "id": "24332 at https://www.nomenugget.net",
+      "id": "https://www.homernews.com/?p=82421",
       "type": "health_alert",
-      "source": "Nome Nugget",
+      "source": "Homer News",
       "tier": 3,
-      "title": "Nome holds spring cleanup week",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_cleanu...",
-      "link": "https://www.nomenugget.net/news/nome-holds-spring-cleanup-week",
-      "published": "Thu, 11 Jun 2026 03:01:52 +0000",
+      "title": "Winter rescue: Saving the teacher\u2019s life \u2014 Part 3",
+      "description": "<p><em>AUTHOR&#8217;S NOTE: On Nov. 20, 1927, Ninilchik schoolteacher John Bess Howe accidentally shot herself in the abdomen while cleaning a gun. After waiting in pain for several days, she was transported to an Anchorage hospital, where she was operated on and convalesced.</em></p>",
+      "link": "https://www.homernews.com/2026/06/25/winter-rescue-saving-the-teachers-life-part-3/",
+      "published": "Thu, 25 Jun 2026 11:30:00 +0000",
+      "region": "regional hubs",
+      "severity": "medium",
+      "category": "hospital",
+      "impact": "regional hubs",
+      "action": "monitor"
+    },
+    {
+      "id": "https://www.homernews.com/?p=82433",
+      "type": "health_alert",
+      "source": "Homer News",
+      "tier": 3,
+      "title": "Homer Pet of the Week: Hunter",
+      "description": "<p>Hunter loves the mellow side of life, and is patiently waiting for his furever family to find him </p>",
+      "link": "https://www.homernews.com/2026/06/25/homer-pet-of-the-week-hunter/",
+      "published": "Thu, 25 Jun 2026 13:30:00 +0000",
       "region": "statewide",
       "severity": "low",
       "category": "policy",
