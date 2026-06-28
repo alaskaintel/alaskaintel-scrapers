@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-27T12:35:58.829681",
+    "last_synced": "2026-06-28T12:45:53.065088",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 19
+    "total_alerts": 18
   },
   "alerts": [
     {
@@ -30,21 +30,6 @@
       "severity": "medium",
       "category": "policy",
       "impact": "statewide",
-      "action": "assess legislative impact"
-    },
-    {
-      "id": "https://alaskabeacon.com/?p=26953",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Protect Alaska fisheries from offshore drilling",
-      "description": "Alaska and fisheries are intrinsically linked, both economically and culturally. Alaska\u2019s fisheries provide for communities and rural economies across the state\u2014and they will do so sustainably, year after year, provided we take care of the ocean and rivers that support them.\u00a0 That is why Alaska should be excluded from the federal government\u2019s latest plan for [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/06/24/protect-alaska-fisheries-from-offshore-drilling/",
-      "published": "Wed, 24 Jun 2026 22:00:33 +0000",
-      "region": "rural / tribal communities",
-      "severity": "low",
-      "category": "policy",
-      "impact": "rural / tribal communities",
       "action": "assess legislative impact"
     },
     {
@@ -198,6 +183,36 @@
       "action": "assess legislative impact"
     },
     {
+      "id": "https://alaska-native-news.com/?p=84779",
+      "type": "health_alert",
+      "source": "Alaska Native News",
+      "tier": 3,
+      "title": "Governor Signs House Bill 73 to Help Close Critical Gap in Alaska\u2019s Continuum of Care",
+      "description": "&#160; Anchorage, Alaska \u2014 Governor Mike Dunleavy signed House Bill 73 into law, advancing Alaska&#8217;s complex care work and helping address a longstanding gap in care for Alaskans with severe, complex behavioral health and medical needs. &#8220;Alaska has long recognized a significant gap in care for individuals whose needs cannot be safely met at home [&#8230;]",
+      "link": "https://alaska-native-news.com/governor-signs-house-bill-73-to-help-close-critical-gap-in-alaskas-continuum-of-care/84779/",
+      "published": "Sat, 27 Jun 2026 14:04:24 +0000",
+      "region": "regional hubs",
+      "severity": "high",
+      "category": "policy",
+      "impact": "regional hubs",
+      "action": "immediate review required"
+    },
+    {
+      "id": "https://alaska-native-news.com/?p=84777",
+      "type": "health_alert",
+      "source": "Alaska Native News",
+      "tier": 3,
+      "title": "Legislature Sustains Veto of Critical Youth Mental Health Bill",
+      "description": "&#160; JUNEAU, AK \u2013 At a time when Alaska faces urgent youth mental health and suicide prevention challenges, state legislators this past Saturday voted to sustain Governor Mike Dunleavy\u2019s veto of SB 41, Public Schools: Mental Health Education&#8211;a bipartisan bill that would have directed the State Board of Education to develop guidelines for mental health [&#8230;]",
+      "link": "https://alaska-native-news.com/legislature-sustains-veto-of-critical-youth-mental-health-bill/84777/",
+      "published": "Sat, 27 Jun 2026 14:03:06 +0000",
+      "region": "regional hubs",
+      "severity": "high",
+      "category": "policy",
+      "impact": "regional hubs",
+      "action": "immediate review required"
+    },
+    {
       "id": "24358 at https://www.nomenugget.net",
       "type": "health_alert",
       "source": "Nome Nugget",
@@ -270,36 +285,6 @@
       "severity": "low",
       "category": "policy",
       "impact": "statewide",
-      "action": "assess legislative impact"
-    },
-    {
-      "id": "https://alaska-native-news.com/?p=84745",
-      "type": "health_alert",
-      "source": "Alaska Native News",
-      "tier": 3,
-      "title": "AFN and Alaska Native Rural Veterinary, Inc. Announce Launch of Rural Veterinary Public Health Program Serving 80 Tribal Communities Across Rural Alaska",
-      "description": "&#160; Anchorage, Alaska \u2014 The Alaska Federation of Natives (AFN), in partnership with Alaska Native Rural Veterinary, Inc. (ANRV), announced the launch of a new rural veterinary public health initiative beginning July 1, 2026. The program is designed to provide veterinary care, identify barriers to care, monitor zoonotic disease, improve access to services, strengthen preventative [&#8230;]",
-      "link": "https://alaska-native-news.com/afn-and-alaska-native-rural-veterinary-inc-announce-launch-of-rural-veterinary-public-health-program-serving-80-tribal-communities-across-rural-alaska/84745/",
-      "published": "Fri, 26 Jun 2026 14:02:02 +0000",
-      "region": "rural / tribal communities",
-      "severity": "low",
-      "category": "outbreak",
-      "impact": "rural / tribal communities",
-      "action": "review transmission risk"
-    },
-    {
-      "id": "https://alaska-native-news.com/?p=84765",
-      "type": "health_alert",
-      "source": "Alaska Native News",
-      "tier": 3,
-      "title": "Alaska Has a Rare Opportunity to Transform Rural Health. We Must Think Bigger Than Individual Projects.",
-      "description": "&#160; When people hear that Alaska has been awarded $272 million per year for 5 years through the Rural Health Transformation Program, one of the first questions they ask is simple: What are we going to do with it? It&#8217;s an important question. But an even more important one is this: What kind of health [&#8230;]",
-      "link": "https://alaska-native-news.com/alaska-has-a-rare-opportunity-to-transform-rural-health-we-must-think-bigger-than-individual-projects/84765/",
-      "published": "Thu, 25 Jun 2026 18:03:07 +0000",
-      "region": "rural / tribal communities",
-      "severity": "low",
-      "category": "policy",
-      "impact": "rural / tribal communities",
       "action": "assess legislative impact"
     }
   ]
