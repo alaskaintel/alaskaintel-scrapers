@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-28T12:45:53.065088",
+    "last_synced": "2026-06-29T15:12:46.394777",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 18
+    "total_alerts": 19
   },
   "alerts": [
     {
@@ -281,6 +281,21 @@
       "description": "<p>Hunter loves the mellow side of life, and is patiently waiting for his furever family to find him </p>",
       "link": "https://www.homernews.com/2026/06/25/homer-pet-of-the-week-hunter/",
       "published": "Thu, 25 Jun 2026 13:30:00 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "policy",
+      "impact": "statewide",
+      "action": "assess legislative impact"
+    },
+    {
+      "id": "https://alaska-native-news.com/?p=84832",
+      "type": "health_alert",
+      "source": "Alaska Native News",
+      "tier": 3,
+      "title": "Unhinged Trump Calls US Progressives Communist \u2018Animals\u2019 Who Will \u2018Close Your Churches\u2019 and \u2018Kill Your People\u2019",
+      "description": "&#160; The president complained about primary victories of progressives backed by New York City\u2019s democratic socialist mayor, who this week secured a rent freeze for a million units and put $15 million toward gender-affirming care. \ufeff After a series of electoral victories for democratic socialists and legal blows to President Donald Trump\u2019s authoritarian agenda this [&#8230;]",
+      "link": "https://alaska-native-news.com/unhinged-trump-calls-us-progressives-communist-animals-who-will-close-your-churches-and-kill-your-people/84832/",
+      "published": "Sun, 28 Jun 2026 23:11:50 +0000",
       "region": "statewide",
       "severity": "low",
       "category": "policy",
