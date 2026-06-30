@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-06-29T15:12:46.394777",
+    "last_synced": "2026-06-30T13:31:48.480750",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -18,16 +18,16 @@
   },
   "alerts": [
     {
-      "id": "https://alaskabeacon.com/?p=26973",
+      "id": "https://alaskabeacon.com/?post_type=republished&p=27022",
       "type": "health_alert",
       "source": "Alaska Beacon",
       "tier": 1,
-      "title": "Dunleavy vetoes some health and education increases approved by Alaska lawmakers",
-      "description": "Alaska Gov. Mike Dunleavy canceled funding increases for a variety of state health and education programs on Wednesday, vetoing a combined $57.8 million in general-purpose money from state budget bills passed by the Legislature. Under the Alaska Constitution, the governor has the ability to eliminate or reduce individual line items from the budget. Dunleavy struck [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/06/25/dunleavy-vetoes-some-health-and-education-increases-approved-by-alaska-lawmakers/",
-      "published": "Thu, 25 Jun 2026 20:37:54 +0000",
+      "title": "Federal health agency cancels most of its teen pregnancy prevention grants",
+      "description": "A spokesperson for U.S. Health and Human Services confirmed to Stateline on Friday that the agency is canceling 53 out of 67 grants, worth about $68 million, under the Teen Pregnancy Prevention Program, affecting grantees in more than two dozen states. A list obtained by Stateline of canceled grants includes those awarded to universities, community [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/06/29/repub/federal-health-agency-cancels-most-of-its-teen-pregnancy-prevention-grants/",
+      "published": "Mon, 29 Jun 2026 22:15:19 +0000",
       "region": "statewide",
-      "severity": "medium",
+      "severity": "low",
       "category": "policy",
       "impact": "statewide",
       "action": "assess legislative impact"
@@ -218,7 +218,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Buff-breasted Sandpiper\u2013\u2013an elegant visitor delights observers",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-1\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20260530_persons_4417.jp...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20260530_persons_4417.jp...",
       "link": "https://www.nomenugget.net/birder%E2%80%99s-notebook/buff-breasted-sandpiper%E2%80%93%E2%80%93-elegant-visitor-delights-observers",
       "published": "Sat, 27 Jun 2026 02:52:05 +0000",
       "region": "statewide",
@@ -233,7 +233,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Fog and a tender mishap cancel town trip for 200 Noordam passengers",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_cruise...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_cruise...",
       "link": "https://www.nomenugget.net/news/fog-and-tender-mishap-cancel-town-trip-200-noordam-passengers",
       "published": "Thu, 25 Jun 2026 06:23:24 +0000",
       "region": "rural / tribal communities",
