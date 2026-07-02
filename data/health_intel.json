@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-01T14:03:12.573364",
+    "last_synced": "2026-07-02T13:18:52.677736",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 19
+    "total_alerts": 18
   },
   "alerts": [
     {
@@ -183,27 +183,12 @@
       "action": "assess legislative impact"
     },
     {
-      "id": "https://alaska-native-news.com/?p=84837",
-      "type": "health_alert",
-      "source": "Alaska Native News",
-      "tier": 3,
-      "title": "\u2018Republicans Created This Crisis on Purpose\u2019: Federal Data Shows ACA Enrollment Plunging",
-      "description": "&#160; \u201cThis coverage collapse was a choice that Congress made. As a result, millions more will end up uninsured, living sicker, dying younger, and being one emergency away from financial ruin.\u201d The\u00a0Trump administration\u00a0quietly released data last week showing a sharp decline in the number of Americans enrolled in health insurance on the\u00a0Affordable Care Act\u00a0exchanges, a\u00a0widely [&#8230;]",
-      "link": "https://alaska-native-news.com/republicans-created-this-crisis-on-purpose-federal-data-shows-aca-enrollment-plunging/84837/",
-      "published": "Tue, 30 Jun 2026 14:01:56 +0000",
-      "region": "statewide",
-      "severity": "high",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "immediate review required"
-    },
-    {
       "id": "24365 at https://www.nomenugget.net",
       "type": "health_alert",
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Grand jury indicts man on 47 counts of sexual abuse crimes",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-1\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cAST_ULRIC-JEFFERY-ULR...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cAST_ULRIC-JEFFERY-ULR...",
       "link": "https://www.nomenugget.net/news/grand-jury-indicts-man-47-counts-sexual-abuse-crimes",
       "published": "Wed, 01 Jul 2026 09:07:53 +0000",
       "region": "rural / tribal communities",
@@ -218,7 +203,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "First reindeer pass through Seward Peninsula\u2019s newest corral",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Keith Conger</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cKC_Kakaruk%20Herd%2014...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Keith Conger</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cKC_Kakaruk%20Herd%2014...",
       "link": "https://www.nomenugget.net/news/first-reindeer-pass-through-seward-peninsula%E2%80%99s-newest-corral",
       "published": "Wed, 01 Jul 2026 09:04:12 +0000",
       "region": "regional hubs",
@@ -233,7 +218,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Buff-breasted Sandpiper\u2013\u2013an elegant visitor delights observers",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20260530_persons_4417.jp...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20260530_persons_4417.jp...",
       "link": "https://www.nomenugget.net/birder%E2%80%99s-notebook/buff-breasted-sandpiper%E2%80%93%E2%80%93-elegant-visitor-delights-observers",
       "published": "Sat, 27 Jun 2026 02:52:05 +0000",
       "region": "statewide",
@@ -248,7 +233,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Fog and a tender mishap cancel town trip for 200 Noordam passengers",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_cruise...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_cruise...",
       "link": "https://www.nomenugget.net/news/fog-and-tender-mishap-cancel-town-trip-200-noordam-passengers",
       "published": "Thu, 25 Jun 2026 06:23:24 +0000",
       "region": "rural / tribal communities",
@@ -273,14 +258,14 @@
       "action": "assess legislative impact"
     },
     {
-      "id": "https://www.homernews.com/?p=82421",
+      "id": "https://www.homernews.com/?p=82500",
       "type": "health_alert",
       "source": "Homer News",
       "tier": 3,
-      "title": "Winter rescue: Saving the teacher\u2019s life \u2014 Part 3",
-      "description": "<p><em>AUTHOR&#8217;S NOTE: On Nov. 20, 1927, Ninilchik schoolteacher John Bess Howe accidentally shot herself in the abdomen while cleaning a gun. After waiting in pain for several days, she was transported to an Anchorage hospital, where she was operated on and convalesced.</em></p>",
-      "link": "https://www.homernews.com/2026/06/25/winter-rescue-saving-the-teachers-life-part-3/",
-      "published": "Thu, 25 Jun 2026 11:30:00 +0000",
+      "title": "Winter rescue: Saving the teacher\u2019s life \u2014 Part 4",
+      "description": "<p><em>AUTHOR&#8217;S NOTE: On Nov. 20, 1927, Ninilchik schoolteacher John Bess Howe accidentally shot herself in the abdomen while cleaning a gun. After waiting in pain for several days, she was transported to an Anchorage hospital, where she was operated on and convalesced for about a month. Next, she was transferred by train, steamship and ambulance to a hospital in Seattle.</em></p>",
+      "link": "https://www.homernews.com/2026/07/02/winter-rescue-saving-the-teachers-life-part-4/",
+      "published": "Thu, 02 Jul 2026 12:30:00 +0000",
       "region": "regional hubs",
       "severity": "medium",
       "category": "hospital",

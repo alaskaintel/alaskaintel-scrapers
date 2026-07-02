@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-01T14:03:08.515611",
+    "last_synced": "2026-07-02T13:18:46.912251",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -14854,7 +14854,7 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "6/24/2026",
+      "Submitted": "7/1/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
@@ -14891,7 +14891,7 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "6/24/2026",
+      "Submitted": "7/1/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
@@ -15826,7 +15826,7 @@
       "Display Name": "Matt Andrew Heilala",
       "Last Name": "Heilala",
       "First Name": "Matt",
-      "Committee": "Matt Heilala for Governor",
+      "Committee": "",
       "Purpose": "",
       "Previously Registered": "Registered",
       "Address": "3705 Arctic BLVD #487",
@@ -15841,8 +15841,8 @@
       "Election Type": "",
       "Municipality": "",
       "Office": "Governor",
-      "Treasurer Name": "Joseph Lurtsema",
-      "Treasurer Email": "joe@lurtsemacommunications.com",
+      "Treasurer Name": "Matt Heilala",
+      "Treasurer Email": "mattheilala@gmail.com",
       "Treasurer Phone": "9073826863",
       "Chair Name": "Matt Heilala",
       "Chair Email": "mattheilala@gmail.com",
@@ -15853,9 +15853,9 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "6/1/2026",
+      "Submitted": "7/1/2026",
       "Status": "Filed",
-      "Amending": ""
+      "Amending": " Amendment"
     },
     {
       "Result": "132",
@@ -15952,9 +15952,9 @@
       "Election Type": "",
       "Municipality": "",
       "Office": "Governor",
-      "Treasurer Name": "Joseph Lurtsema",
-      "Treasurer Email": "joe@lurtsemacommunications.com",
-      "Treasurer Phone": "9073826863",
+      "Treasurer Name": "Matt Heilala",
+      "Treasurer Email": "mattheilala@gmail.com",
+      "Treasurer Phone": "9072509823",
       "Chair Name": "Matt Heilala",
       "Chair Email": "mattheilala@gmail.com",
       "Chair Phone": "9072509823",
@@ -15964,7 +15964,7 @@
       "Bank State": "",
       "Bank Zip": "",
       "Bank Country": "",
-      "Submitted": "6/9/2026",
+      "Submitted": "7/1/2026",
       "Status": "Filed",
       "Amending": " Amendment"
     },
@@ -29718,23 +29718,6 @@
     },
     {
       "Result": "13",
-      "Date": "7/16/2025",
-      "Balance Remaining": "$0.00",
-      "Original Amount": "$600.00",
-      "Name": "Paul McDonogh",
-      "Address": "P.O. Box 240207",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99524",
-      "Country": "USA",
-      "Description/Purpose": "Voter file access.",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "3/31/2026"
-    },
-    {
-      "Result": "14",
       "Date": "5/21/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$1,250.00",
@@ -29749,6 +29732,23 @@
       "Filer Type": "Candidate",
       "Report Year": "2026",
       "Submitted": "3/30/2026"
+    },
+    {
+      "Result": "14",
+      "Date": "7/16/2025",
+      "Balance Remaining": "$0.00",
+      "Original Amount": "$600.00",
+      "Name": "Paul McDonogh",
+      "Address": "P.O. Box 240207",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99524",
+      "Country": "USA",
+      "Description/Purpose": "Voter file access.",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/1/2026"
     },
     {
       "Result": "15",
@@ -30955,7 +30955,7 @@
       "--------": "",
       "Filer Type": "Candidate",
       "Report Year": "2026",
-      "Submitted": "3/31/2026"
+      "Submitted": "7/1/2026"
     },
     {
       "Result": "86",
@@ -32149,23 +32149,6 @@
     },
     {
       "Result": "156",
-      "Date": "2/19/2026",
-      "Balance Remaining": "$0.00",
-      "Original Amount": "$7,000.00",
-      "Name": "Paul McDonogh",
-      "Address": "834-F S Perry St #1453",
-      "City": "Castle Rock",
-      "State": "Colorado",
-      "Zip": "80104",
-      "Country": "USA",
-      "Description/Purpose": "Digital Strategy & general account management, voter targeting, ad account setup and configuration, performance optimization, and performance reporting. Facebook, Instagram, Google search, and display advertising placed directly by Surge Tactic.",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "3/31/2026"
-    },
-    {
-      "Result": "157",
       "Date": "2/4/2026",
       "Balance Remaining": "$16,520.00",
       "Original Amount": "$23,600.00",
@@ -32182,7 +32165,7 @@
       "Submitted": "3/30/2026"
     },
     {
-      "Result": "158",
+      "Result": "157",
       "Date": "2/23/2026",
       "Balance Remaining": "$13,000.00",
       "Original Amount": "$13,000.00",
@@ -32199,7 +32182,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "159",
+      "Result": "158",
       "Date": "2/23/2026",
       "Balance Remaining": "$1,370.00",
       "Original Amount": "$13,000.00",
@@ -32214,6 +32197,23 @@
       "Filer Type": "Candidate",
       "Report Year": "2026",
       "Submitted": "3/31/2026"
+    },
+    {
+      "Result": "159",
+      "Date": "2/19/2026",
+      "Balance Remaining": "$0.00",
+      "Original Amount": "$7,000.00",
+      "Name": "Paul McDonogh",
+      "Address": "834-F S Perry St #1453",
+      "City": "Castle Rock",
+      "State": "Colorado",
+      "Zip": "80104",
+      "Country": "USA",
+      "Description/Purpose": "Digital Strategy & general account management, voter targeting, ad account setup and configuration, performance optimization, and performance reporting. Facebook, Instagram, Google search, and display advertising placed directly by Surge Tactic.",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/1/2026"
     },
     {
       "Result": "160",
