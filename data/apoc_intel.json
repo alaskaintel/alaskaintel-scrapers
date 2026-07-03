@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-02T13:18:46.912251",
+    "last_synced": "2026-07-03T13:19:01.372290",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -18339,6 +18339,43 @@
     {
       "Result": "199",
       "Report Year": "2026",
+      "Display Name": "Willy Keppel",
+      "Last Name": "Keppel",
+      "First Name": "William",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "1192 Qanirtuuq road",
+      "City": "quinhagak",
+      "State": "Alaska",
+      "Zip": "008",
+      "Country": "USA",
+      "Phone": "(907) 545-2899",
+      "Fax": "",
+      "Email": "willykeppel37@gmail.com",
+      "Election": "State Primary",
+      "Election Type": "",
+      "Municipality": "",
+      "Office": "House",
+      "Treasurer Name": "Willy Keppel",
+      "Treasurer Email": "willykeppel37@gmail.com",
+      "Treasurer Phone": "907-545-2899",
+      "Chair Name": "Willy Keppel",
+      "Chair Email": "willykeppel37@gmail.com",
+      "Chair Phone": "907-545-2899",
+      "Bank Name": "Global CU",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "7/2/2026",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "200",
+      "Report Year": "2026",
       "Display Name": "Wright, Stephen",
       "Last Name": "Wright",
       "First Name": "Stephen",
@@ -18374,7 +18411,7 @@
       "Amending": ""
     },
     {
-      "Result": "200",
+      "Result": "201",
       "Report Year": "2026",
       "Display Name": "Zachary H. Johnson",
       "Last Name": "Johnson",
@@ -18411,7 +18448,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "201",
+      "Result": "202",
       "Report Year": "2026",
       "Display Name": "Zane Vrvilo",
       "Last Name": "Vrvilo",
@@ -18448,7 +18485,7 @@
       "Amending": ""
     },
     {
-      "Result": "202",
+      "Result": "203",
       "Report Year": "2025",
       "Display Name": "Abby L. Bradberry",
       "Last Name": "Bradberry",
@@ -18485,7 +18522,7 @@
       "Amending": ""
     },
     {
-      "Result": "203",
+      "Result": "204",
       "Report Year": "2025",
       "Display Name": "Alexander Rosales",
       "Last Name": "Rosales",
@@ -18522,7 +18559,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "204",
+      "Result": "205",
       "Report Year": "2025",
       "Display Name": "Anthony Pitcher",
       "Last Name": "Pitcher",
@@ -18559,7 +18596,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "205",
+      "Result": "206",
       "Report Year": "2025",
       "Display Name": "Ash-Lee Waddell",
       "Last Name": "Waddell",
@@ -18596,7 +18633,7 @@
       "Amending": ""
     },
     {
-      "Result": "206",
+      "Result": "207",
       "Report Year": "2025",
       "Display Name": "Audra Hull",
       "Last Name": "Hull",
@@ -18633,7 +18670,7 @@
       "Amending": ""
     },
     {
-      "Result": "207",
+      "Result": "208",
       "Report Year": "2025",
       "Display Name": "Austin Otos",
       "Last Name": "Otos",
@@ -18670,7 +18707,7 @@
       "Amending": ""
     },
     {
-      "Result": "208",
+      "Result": "209",
       "Report Year": "2025",
       "Display Name": "Barbara Haney",
       "Last Name": "Haney",
@@ -18707,7 +18744,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "209",
+      "Result": "210",
       "Report Year": "2025",
       "Display Name": "Bradley Parsons",
       "Last Name": "Parsons",
@@ -18744,7 +18781,7 @@
       "Amending": ""
     },
     {
-      "Result": "210",
+      "Result": "211",
       "Report Year": "2025",
       "Display Name": "Brent Hibbert",
       "Last Name": "Hibbert",
@@ -18781,7 +18818,7 @@
       "Amending": ""
     },
     {
-      "Result": "211",
+      "Result": "212",
       "Report Year": "2025",
       "Display Name": "Brett Rotermund",
       "Last Name": "Rotermund",
@@ -18818,7 +18855,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "212",
+      "Result": "213",
       "Report Year": "2025",
       "Display Name": "Chemetria \"Sam\" Spencer",
       "Last Name": "Spencer",
@@ -18855,7 +18892,7 @@
       "Amending": ""
     },
     {
-      "Result": "213",
+      "Result": "214",
       "Report Year": "2025",
       "Display Name": "Crystal Tidwell",
       "Last Name": "Tidwell",
@@ -18892,7 +18929,7 @@
       "Amending": ""
     },
     {
-      "Result": "214",
+      "Result": "215",
       "Report Year": "2025",
       "Display Name": "Dana Raffaniello",
       "Last Name": "Raffaniello",
@@ -18929,7 +18966,7 @@
       "Amending": ""
     },
     {
-      "Result": "215",
+      "Result": "216",
       "Report Year": "2025",
       "Display Name": "Daniel George",
       "Last Name": "George",
@@ -18966,7 +19003,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "216",
+      "Result": "217",
       "Report Year": "2025",
       "Display Name": "Daniel Volland",
       "Last Name": "Volland",
@@ -19003,7 +19040,7 @@
       "Amending": ""
     },
     {
-      "Result": "217",
+      "Result": "218",
       "Report Year": "2025",
       "Display Name": "Darin A Colbry ",
       "Last Name": "Colbry",
@@ -19040,7 +19077,7 @@
       "Amending": ""
     },
     {
-      "Result": "218",
+      "Result": "219",
       "Report Year": "2025",
       "Display Name": "David Littleton",
       "Last Name": "Littleton",
@@ -19077,7 +19114,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "219",
+      "Result": "220",
       "Report Year": "2025",
       "Display Name": "David Littleton",
       "Last Name": "Littleton",
@@ -19114,7 +19151,7 @@
       "Amending": ""
     },
     {
-      "Result": "220",
+      "Result": "221",
       "Report Year": "2025",
       "Display Name": "David Pruhs",
       "Last Name": "Pruhs",
@@ -19151,7 +19188,7 @@
       "Amending": ""
     },
     {
-      "Result": "221",
+      "Result": "222",
       "Report Year": "2025",
       "Display Name": "Don Smith",
       "Last Name": "Smith",
@@ -19188,7 +19225,7 @@
       "Amending": ""
     },
     {
-      "Result": "222",
+      "Result": "223",
       "Report Year": "2025",
       "Display Name": "Ella Adkison",
       "Last Name": "Adkison",
@@ -19225,7 +19262,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "223",
+      "Result": "224",
       "Report Year": "2025",
       "Display Name": "Eric L Gurley",
       "Last Name": "Gurley",
@@ -19262,7 +19299,7 @@
       "Amending": ""
     },
     {
-      "Result": "224",
+      "Result": "225",
       "Report Year": "2025",
       "Display Name": "Erin Baldwin Day",
       "Last Name": "Day",
@@ -19299,7 +19336,7 @@
       "Amending": ""
     },
     {
-      "Result": "225",
+      "Result": "226",
       "Report Year": "2025",
       "Display Name": "Fannie Suvlu",
       "Last Name": "Suvlu",
@@ -19336,7 +19373,7 @@
       "Amending": ""
     },
     {
-      "Result": "226",
+      "Result": "227",
       "Report Year": "2025",
       "Display Name": "Forrest Deano olemaun",
       "Last Name": "olemaun",
@@ -19373,7 +19410,7 @@
       "Amending": ""
     },
     {
-      "Result": "227",
+      "Result": "228",
       "Report Year": "2025",
       "Display Name": "Frances JakyLou Olemaun",
       "Last Name": "Olemaun",
@@ -19410,7 +19447,7 @@
       "Amending": ""
     },
     {
-      "Result": "228",
+      "Result": "229",
       "Report Year": "2025",
       "Display Name": "Frederick F. Brower",
       "Last Name": "Brower",
@@ -19447,7 +19484,7 @@
       "Amending": ""
     },
     {
-      "Result": "229",
+      "Result": "230",
       "Report Year": "2025",
       "Display Name": "Garrett Armstrong",
       "Last Name": "Armstrong",
@@ -19484,7 +19521,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "230",
+      "Result": "231",
       "Report Year": "2025",
       "Display Name": "Gayle D. Claus",
       "Last Name": "Claus",
@@ -19521,7 +19558,7 @@
       "Amending": ""
     },
     {
-      "Result": "231",
+      "Result": "232",
       "Report Year": "2025",
       "Display Name": "Grant EchoHawk",
       "Last Name": "EchoHawk",
@@ -19558,7 +19595,7 @@
       "Amending": ""
     },
     {
-      "Result": "232",
+      "Result": "233",
       "Report Year": "2025",
       "Display Name": "Greg Smith",
       "Last Name": "Smith",
@@ -19595,7 +19632,7 @@
       "Amending": ""
     },
     {
-      "Result": "233",
+      "Result": "234",
       "Report Year": "2025",
       "Display Name": "Greg Smith for Assembly",
       "Last Name": "Smith",
@@ -19632,7 +19669,7 @@
       "Amending": ""
     },
     {
-      "Result": "234",
+      "Result": "235",
       "Report Year": "2025",
       "Display Name": "Gregory Robert Schiedler",
       "Last Name": "Schiedler",
@@ -19669,7 +19706,7 @@
       "Amending": ""
     },
     {
-      "Result": "235",
+      "Result": "236",
       "Report Year": "2025",
       "Display Name": "Hannah Victoria Ekalook",
       "Last Name": "Ekalook",
@@ -19706,7 +19743,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "236",
+      "Result": "237",
       "Report Year": "2025",
       "Display Name": "J. T. McComas-Roe",
       "Last Name": "McComas-Roe",
@@ -19743,7 +19780,7 @@
       "Amending": ""
     },
     {
-      "Result": "237",
+      "Result": "238",
       "Report Year": "2025",
       "Display Name": "James Michael Taylor",
       "Last Name": "Taylor",
@@ -19780,7 +19817,7 @@
       "Amending": ""
     },
     {
-      "Result": "238",
+      "Result": "239",
       "Report Year": "2025",
       "Display Name": "Jared David Goecker",
       "Last Name": "Goecker",
@@ -19817,7 +19854,7 @@
       "Amending": ""
     },
     {
-      "Result": "239",
+      "Result": "240",
       "Report Year": "2025",
       "Display Name": "Jared Griffin",
       "Last Name": "Griffin",
@@ -19854,7 +19891,7 @@
       "Amending": ""
     },
     {
-      "Result": "240",
+      "Result": "241",
       "Report Year": "2025",
       "Display Name": "Jeffery Aaron Woods",
       "Last Name": "Woods",
@@ -19891,7 +19928,7 @@
       "Amending": ""
     },
     {
-      "Result": "241",
+      "Result": "242",
       "Report Year": "2025",
       "Display Name": "Jenny Vander Weele Thomas",
       "Last Name": "Thomas",
@@ -19928,7 +19965,7 @@
       "Amending": ""
     },
     {
-      "Result": "242",
+      "Result": "243",
       "Report Year": "2025",
       "Display Name": "Jeremy Josiah Johnson (aka -jjj)",
       "Last Name": "Johnson",
@@ -19965,7 +20002,7 @@
       "Amending": ""
     },
     {
-      "Result": "243",
+      "Result": "244",
       "Report Year": "2025",
       "Display Name": "John Mink",
       "Last Name": "Mink",
@@ -20002,7 +20039,7 @@
       "Amending": ""
     },
     {
-      "Result": "244",
+      "Result": "245",
       "Report Year": "2025",
       "Display Name": "Joseph Alan Seale",
       "Last Name": "Seale",
@@ -20039,7 +20076,7 @@
       "Amending": ""
     },
     {
-      "Result": "245",
+      "Result": "246",
       "Report Year": "2025",
       "Display Name": "Kameron Perez-Verdia",
       "Last Name": "Perez-Verdia",
@@ -20076,7 +20113,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "246",
+      "Result": "247",
       "Report Year": "2025",
       "Display Name": "Keith McCormick",
       "Last Name": "McCormick",
@@ -20113,7 +20150,7 @@
       "Amending": ""
     },
     {
-      "Result": "247",
+      "Result": "248",
       "Report Year": "2025",
       "Display Name": "Kelly Lessens",
       "Last Name": "Lessens",
@@ -20146,43 +20183,6 @@
       "Bank Zip": "",
       "Bank Country": "",
       "Submitted": "1/17/2025",
-      "Status": "Filed",
-      "Amending": " Amendment"
-    },
-    {
-      "Result": "248",
-      "Report Year": "2025",
-      "Display Name": "Kendal Kruse",
-      "Last Name": "Kruse",
-      "First Name": "Kendal",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "Registered",
-      "Address": "12201 E Lady Slipper Ln",
-      "City": "Palmer",
-      "State": "Alaska",
-      "Zip": "99645-9081",
-      "Country": "USA",
-      "Phone": "7202315396",
-      "Fax": "",
-      "Email": "kendalwkruse@gmail.com",
-      "Election": "Matanuska-Susitna Borough",
-      "Election Type": "",
-      "Municipality": "Matanuska-Susitna Borough",
-      "Office": "School Board",
-      "Treasurer Name": "Michael Kruse",
-      "Treasurer Email": "mike.t.kruse@gmail.com",
-      "Treasurer Phone": "9072309125",
-      "Chair Name": "Kendal Kruse",
-      "Chair Email": "kendalwkruse@gmail.com",
-      "Chair Phone": "7202315396",
-      "Bank Name": "Matanuska Federal Credit Union",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "10/4/2025",
       "Status": "Filed",
       "Amending": " Amendment"
     },
@@ -20221,10 +20221,47 @@
       "Bank Country": "",
       "Submitted": "10/4/2025",
       "Status": "Filed",
-      "Amending": ""
+      "Amending": " Amendment"
     },
     {
       "Result": "250",
+      "Report Year": "2025",
+      "Display Name": "Kendal Kruse",
+      "Last Name": "Kruse",
+      "First Name": "Kendal",
+      "Committee": "",
+      "Purpose": "",
+      "Previously Registered": "Registered",
+      "Address": "12201 E Lady Slipper Ln",
+      "City": "Palmer",
+      "State": "Alaska",
+      "Zip": "99645-9081",
+      "Country": "USA",
+      "Phone": "7202315396",
+      "Fax": "",
+      "Email": "kendalwkruse@gmail.com",
+      "Election": "Matanuska-Susitna Borough",
+      "Election Type": "",
+      "Municipality": "Matanuska-Susitna Borough",
+      "Office": "School Board",
+      "Treasurer Name": "Michael Kruse",
+      "Treasurer Email": "mike.t.kruse@gmail.com",
+      "Treasurer Phone": "9072309125",
+      "Chair Name": "Kendal Kruse",
+      "Chair Email": "kendalwkruse@gmail.com",
+      "Chair Phone": "7202315396",
+      "Bank Name": "Matanuska Federal Credit Union",
+      "Bank Address": "",
+      "Bank City": "",
+      "Bank State": "",
+      "Bank Zip": "",
+      "Bank Country": "",
+      "Submitted": "10/4/2025",
+      "Status": "Filed",
+      "Amending": ""
+    },
+    {
+      "Result": "251",
       "Report Year": "2025",
       "Display Name": "Kristina \"KVan\" Van Hoogmoed",
       "Last Name": "Van Hoogmoed",
@@ -20261,7 +20298,7 @@
       "Amending": ""
     },
     {
-      "Result": "251",
+      "Result": "252",
       "Report Year": "2025",
       "Display Name": "Kyle Walker",
       "Last Name": "Walker",
@@ -20298,7 +20335,7 @@
       "Amending": ""
     },
     {
-      "Result": "252",
+      "Result": "253",
       "Report Year": "2025",
       "Display Name": "Margaret E. Bellamy",
       "Last Name": "Bellamy",
@@ -20335,7 +20372,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "253",
+      "Result": "254",
       "Report Year": "2025",
       "Display Name": "Mark Anthony Cox",
       "Last Name": "Cox",
@@ -20372,7 +20409,7 @@
       "Amending": ""
     },
     {
-      "Result": "254",
+      "Result": "255",
       "Report Year": "2025",
       "Display Name": "Mark C. Hoffer",
       "Last Name": "Hoffer",
@@ -20409,7 +20446,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "255",
+      "Result": "256",
       "Report Year": "2025",
       "Display Name": "Mark Schmidt",
       "Last Name": "Schmidt",
@@ -20446,7 +20483,7 @@
       "Amending": ""
     },
     {
-      "Result": "256",
+      "Result": "257",
       "Report Year": "2025",
       "Display Name": "Marlin Dale Eicher",
       "Last Name": "Eicher",
@@ -20483,7 +20520,7 @@
       "Amending": ""
     },
     {
-      "Result": "257",
+      "Result": "258",
       "Report Year": "2025",
       "Display Name": "Mary Jean Silva",
       "Last Name": "Silva",
@@ -20520,7 +20557,7 @@
       "Amending": ""
     },
     {
-      "Result": "258",
+      "Result": "259",
       "Report Year": "2025",
       "Display Name": "Melissa Burnett",
       "Last Name": "Burnett",
@@ -20557,7 +20594,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "259",
+      "Result": "260",
       "Report Year": "2025",
       "Display Name": "Melissa Cullum",
       "Last Name": "Cullum",
@@ -20594,7 +20631,7 @@
       "Amending": ""
     },
     {
-      "Result": "260",
+      "Result": "261",
       "Report Year": "2025",
       "Display Name": "Michael Bowles",
       "Last Name": "Bowles",
@@ -20631,7 +20668,7 @@
       "Amending": ""
     },
     {
-      "Result": "261",
+      "Result": "262",
       "Report Year": "2025",
       "Display Name": "Michael L. Jones",
       "Last Name": "Jones",
@@ -20668,7 +20705,7 @@
       "Amending": ""
     },
     {
-      "Result": "262",
+      "Result": "263",
       "Report Year": "2025",
       "Display Name": "Michelle Heun",
       "Last Name": "Heun",
@@ -20705,7 +20742,7 @@
       "Amending": ""
     },
     {
-      "Result": "263",
+      "Result": "264",
       "Report Year": "2025",
       "Display Name": "MINDY L. O'NEALL",
       "Last Name": "O'NEALL",
@@ -20742,7 +20779,7 @@
       "Amending": ""
     },
     {
-      "Result": "264",
+      "Result": "265",
       "Report Year": "2025",
       "Display Name": "Mitch Michaud",
       "Last Name": "Michaud",
@@ -20779,7 +20816,7 @@
       "Amending": ""
     },
     {
-      "Result": "265",
+      "Result": "266",
       "Report Year": "2025",
       "Display Name": "Naomi Hewitt",
       "Last Name": "Hewitt",
@@ -20816,7 +20853,7 @@
       "Amending": ""
     },
     {
-      "Result": "266",
+      "Result": "267",
       "Report Year": "2025",
       "Display Name": "Nathaniel \"Nano\" Brooks",
       "Last Name": "Brooks",
@@ -20853,7 +20890,7 @@
       "Amending": ""
     },
     {
-      "Result": "267",
+      "Result": "268",
       "Report Year": "2025",
       "Display Name": "Patricia E. Patkotak ",
       "Last Name": "Patkotak ",
@@ -20890,7 +20927,7 @@
       "Amending": ""
     },
     {
-      "Result": "268",
+      "Result": "269",
       "Report Year": "2025",
       "Display Name": "Patricia Truesdell",
       "Last Name": "Truesdell",
@@ -20927,7 +20964,7 @@
       "Amending": ""
     },
     {
-      "Result": "269",
+      "Result": "270",
       "Report Year": "2025",
       "Display Name": "Patrick Roach",
       "Last Name": "Roach",
@@ -20964,7 +21001,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "270",
+      "Result": "271",
       "Report Year": "2025",
       "Display Name": "Steven Whitney",
       "Last Name": "Whitney",
@@ -21001,7 +21038,7 @@
       "Amending": ""
     },
     {
-      "Result": "271",
+      "Result": "272",
       "Report Year": "2025",
       "Display Name": "Teresa Younghui Keller",
       "Last Name": "Keller",
@@ -21038,7 +21075,7 @@
       "Amending": ""
     },
     {
-      "Result": "272",
+      "Result": "273",
       "Report Year": "2025",
       "Display Name": "Wade Bryson",
       "Last Name": "Bryson",
@@ -21075,7 +21112,7 @@
       "Amending": ""
     },
     {
-      "Result": "273",
+      "Result": "274",
       "Report Year": "2025",
       "Display Name": "William Hutto",
       "Last Name": "Hutto",
@@ -21112,7 +21149,7 @@
       "Amending": ""
     },
     {
-      "Result": "274",
+      "Result": "275",
       "Report Year": "2025",
       "Display Name": "Yarrow G. Silvers",
       "Last Name": "Silvers",
@@ -21149,7 +21186,7 @@
       "Amending": ""
     },
     {
-      "Result": "275",
+      "Result": "276",
       "Report Year": "2024",
       "Display Name": "Aaron Levi Crook",
       "Last Name": "Crook",
@@ -21186,7 +21223,7 @@
       "Amending": ""
     },
     {
-      "Result": "276",
+      "Result": "277",
       "Report Year": "2024",
       "Display Name": "Aaron Lojewski",
       "Last Name": "Lojewski",
@@ -21223,7 +21260,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "277",
+      "Result": "278",
       "Report Year": "2024",
       "Display Name": "Abraham Karl Palmer",
       "Last Name": "Palmer",
@@ -21260,7 +21297,7 @@
       "Amending": ""
     },
     {
-      "Result": "278",
+      "Result": "279",
       "Report Year": "2024",
       "Display Name": "Agnes C. Moran",
       "Last Name": "Moran",
@@ -21297,7 +21334,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "279",
+      "Result": "280",
       "Report Year": "2024",
       "Display Name": "Aimee Sims",
       "Last Name": "Sims",
@@ -21334,7 +21371,7 @@
       "Amending": ""
     },
     {
-      "Result": "280",
+      "Result": "281",
       "Report Year": "2024",
       "Display Name": "Alana L. Greear/AlanaforAlaska",
       "Last Name": "Greear",
@@ -21371,7 +21408,7 @@
       "Amending": ""
     },
     {
-      "Result": "281",
+      "Result": "282",
       "Report Year": "2024",
       "Display Name": "Alicia Miner",
       "Last Name": "Miner",
@@ -21408,7 +21445,7 @@
       "Amending": ""
     },
     {
-      "Result": "282",
+      "Result": "283",
       "Report Year": "2024",
       "Display Name": "Alyse S. Galvin",
       "Last Name": "Galvin",
@@ -21445,7 +21482,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "283",
+      "Result": "284",
       "Report Year": "2024",
       "Display Name": "Andrea \"Andi\" Story",
       "Last Name": "Story",
@@ -21482,7 +21519,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "284",
+      "Result": "285",
       "Report Year": "2024",
       "Display Name": "Andrew Cizek",
       "Last Name": "Cizek",
@@ -21519,7 +21556,7 @@
       "Amending": ""
     },
     {
-      "Result": "285",
+      "Result": "286",
       "Report Year": "2024",
       "Display Name": "Andrew Louis Josephson",
       "Last Name": "Josephson",
@@ -21556,7 +21593,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "286",
+      "Result": "287",
       "Report Year": "2024",
       "Display Name": "Andrew Shane",
       "Last Name": "Shane",
@@ -21593,7 +21630,7 @@
       "Amending": ""
     },
     {
-      "Result": "287",
+      "Result": "288",
       "Report Year": "2024",
       "Display Name": "Andrew T. Gray",
       "Last Name": "Gray",
@@ -21630,7 +21667,7 @@
       "Amending": ""
     },
     {
-      "Result": "288",
+      "Result": "289",
       "Report Year": "2024",
       "Display Name": "Angela Rodell",
       "Last Name": "Rodell",
@@ -21667,7 +21704,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "289",
+      "Result": "290",
       "Report Year": "2024",
       "Display Name": "Anton L. Keller",
       "Last Name": "Keller",
@@ -21704,7 +21741,7 @@
       "Amending": ""
     },
     {
-      "Result": "290",
+      "Result": "291",
       "Report Year": "2024",
       "Display Name": "April Smith",
       "Last Name": "Smith",
@@ -21741,7 +21778,7 @@
       "Amending": ""
     },
     {
-      "Result": "291",
+      "Result": "292",
       "Report Year": "2024",
       "Display Name": "Ashley Carrick",
       "Last Name": "Carrick",
@@ -21778,7 +21815,7 @@
       "Amending": ""
     },
     {
-      "Result": "292",
+      "Result": "293",
       "Report Year": "2024",
       "Display Name": "Barton S. LeBon",
       "Last Name": "LeBon",
@@ -21815,7 +21852,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "293",
+      "Result": "294",
       "Report Year": "2024",
       "Display Name": "Ben Carpenter",
       "Last Name": "Carpenter",
@@ -21852,7 +21889,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "294",
+      "Result": "295",
       "Report Year": "2024",
       "Display Name": "Ben Kolendo",
       "Last Name": "Kolendo",
@@ -21889,7 +21926,7 @@
       "Amending": ""
     },
     {
-      "Result": "295",
+      "Result": "296",
       "Report Year": "2024",
       "Display Name": "Beth Weldon",
       "Last Name": "Weldon",
@@ -21926,7 +21963,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "296",
+      "Result": "297",
       "Report Year": "2024",
       "Display Name": "Bill Elam",
       "Last Name": "Elam",
@@ -21963,7 +22000,7 @@
       "Amending": ""
     },
     {
-      "Result": "297",
+      "Result": "298",
       "Report Year": "2024",
       "Display Name": "Bill Popp",
       "Last Name": "Popp",
@@ -22000,7 +22037,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "298",
+      "Result": "299",
       "Report Year": "2024",
       "Display Name": "Brandon P. Kowalski \"Putuuqti\"",
       "Last Name": "Kowalski",
@@ -22037,7 +22074,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "299",
+      "Result": "300",
       "Report Year": "2024",
       "Display Name": "Brandy Pennington",
       "Last Name": "Pennington",
@@ -22074,7 +22111,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "300",
+      "Result": "301",
       "Report Year": "2024",
       "Display Name": "Brent Johnson",
       "Last Name": "Johnson",
@@ -22111,7 +22148,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "301",
+      "Result": "302",
       "Report Year": "2024",
       "Display Name": "Brooks Pitcher",
       "Last Name": "Pitcher",
@@ -22148,7 +22185,7 @@
       "Amending": ""
     },
     {
-      "Result": "302",
+      "Result": "303",
       "Report Year": "2024",
       "Display Name": "Bruce Wall",
       "Last Name": "Wall",
@@ -22185,7 +22222,7 @@
       "Amending": ""
     },
     {
-      "Result": "303",
+      "Result": "304",
       "Report Year": "2024",
       "Display Name": "Bryce Edgmon",
       "Last Name": "Edgmom",
@@ -22222,7 +22259,7 @@
       "Amending": ""
     },
     {
-      "Result": "304",
+      "Result": "305",
       "Report Year": "2024",
       "Display Name": "Calvin Schrage",
       "Last Name": "Schrage",
@@ -22259,7 +22296,7 @@
       "Amending": ""
     },
     {
-      "Result": "305",
+      "Result": "306",
       "Report Year": "2024",
       "Display Name": "Carl Jacobs",
       "Last Name": "Jacobs",
@@ -22296,7 +22333,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "306",
+      "Result": "307",
       "Report Year": "2024",
       "Display Name": "Carolyn Hall",
       "Last Name": "Hall-Jensen",
@@ -22333,7 +22370,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "307",
+      "Result": "308",
       "Report Year": "2024",
       "Display Name": "Cathy L. Tilton",
       "Last Name": "Tilton",
@@ -22370,7 +22407,7 @@
       "Amending": ""
     },
     {
-      "Result": "308",
+      "Result": "309",
       "Report Year": "2024",
       "Display Name": "Charles \"Chuck\" Kopp ",
       "Last Name": "Kopp",
@@ -22407,7 +22444,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "309",
+      "Result": "310",
       "Report Year": "2024",
       "Display Name": "Chelsea Pohland",
       "Last Name": "Pohland",
@@ -22444,7 +22481,7 @@
       "Amending": ""
     },
     {
-      "Result": "310",
+      "Result": "311",
       "Report Year": "2024",
       "Display Name": "Cheronda Lei Smith",
       "Last Name": "Smith",
@@ -22481,7 +22518,7 @@
       "Amending": ""
     },
     {
-      "Result": "311",
+      "Result": "312",
       "Report Year": "2024",
       "Display Name": "Chris Tuck",
       "Last Name": "Tuck",
@@ -22518,7 +22555,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "312",
+      "Result": "313",
       "Report Year": "2024",
       "Display Name": "Cindy L. Ecklund",
       "Last Name": "Ecklund",
@@ -22555,7 +22592,7 @@
       "Amending": ""
     },
     {
-      "Result": "313",
+      "Result": "314",
       "Report Year": "2024",
       "Display Name": "CJ McCormick",
       "Last Name": "McCormick",
@@ -22592,7 +22629,7 @@
       "Amending": ""
     },
     {
-      "Result": "314",
+      "Result": "315",
       "Report Year": "2024",
       "Display Name": "Click Bishop",
       "Last Name": "Bishop",
@@ -22629,7 +22666,7 @@
       "Amending": ""
     },
     {
-      "Result": "315",
+      "Result": "316",
       "Report Year": "2024",
       "Display Name": "Cliff Groh",
       "Last Name": "Groh",
@@ -22666,7 +22703,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "316",
+      "Result": "317",
       "Report Year": "2024",
       "Display Name": "Cody Raymond Anderson",
       "Last Name": "Anderson",
@@ -22703,7 +22740,7 @@
       "Amending": ""
     },
     {
-      "Result": "317",
+      "Result": "318",
       "Report Year": "2024",
       "Display Name": "Cole Snodgress",
       "Last Name": "Snodgress",
@@ -22740,7 +22777,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "318",
+      "Result": "319",
       "Report Year": "2024",
       "Display Name": "Craig Johnson",
       "Last Name": "Johnson",
@@ -22777,7 +22814,7 @@
       "Amending": ""
     },
     {
-      "Result": "319",
+      "Result": "320",
       "Report Year": "2024",
       "Display Name": "Craig Johnson",
       "Last Name": "Johnson",
@@ -22814,7 +22851,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "320",
+      "Result": "321",
       "Report Year": "2024",
       "Display Name": "Dan Saddler",
       "Last Name": "Saddler",
@@ -22851,7 +22888,7 @@
       "Amending": ""
     },
     {
-      "Result": "321",
+      "Result": "322",
       "Report Year": "2024",
       "Display Name": "Dana Mock",
       "Last Name": "Mock",
@@ -22888,7 +22925,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "322",
+      "Result": "323",
       "Report Year": "2024",
       "Display Name": "Danny Suiter",
       "Last Name": "Suiter",
@@ -22925,7 +22962,7 @@
       "Amending": ""
     },
     {
-      "Result": "323",
+      "Result": "324",
       "Report Year": "2024",
       "Display Name": "Darin Colbry",
       "Last Name": "Colbry",
@@ -22962,7 +22999,7 @@
       "Amending": ""
     },
     {
-      "Result": "324",
+      "Result": "325",
       "Report Year": "2024",
       "Display Name": "Darren Morgan Deacon",
       "Last Name": "Deacon",
@@ -22999,7 +23036,7 @@
       "Amending": ""
     },
     {
-      "Result": "325",
+      "Result": "326",
       "Report Year": "2024",
       "Display Name": "Dave Bronson",
       "Last Name": "Bronson",
@@ -23036,7 +23073,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "326",
+      "Result": "327",
       "Report Year": "2024",
       "Display Name": "David Eastman",
       "Last Name": "Eastman",
@@ -23073,7 +23110,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "327",
+      "Result": "328",
       "Report Year": "2024",
       "Display Name": "David Guttenberg",
       "Last Name": "Guttenberg",
@@ -23110,7 +23147,7 @@
       "Amending": ""
     },
     {
-      "Result": "328",
+      "Result": "329",
       "Report Year": "2024",
       "Display Name": "David Nelson",
       "Last Name": "Nelson",
@@ -23147,7 +23184,7 @@
       "Amending": ""
     },
     {
-      "Result": "329",
+      "Result": "330",
       "Report Year": "2024",
       "Display Name": "David S. Wilson",
       "Last Name": "Wilson",
@@ -23184,7 +23221,7 @@
       "Amending": ""
     },
     {
-      "Result": "330",
+      "Result": "331",
       "Report Year": "2024",
       "Display Name": "Dawson R Slaughter",
       "Last Name": "Slaughter",
@@ -23221,7 +23258,7 @@
       "Amending": ""
     },
     {
-      "Result": "331",
+      "Result": "332",
       "Report Year": "2024",
       "Display Name": "DeLena M Johnson",
       "Last Name": "Goodwin Johnson",
@@ -23258,7 +23295,7 @@
       "Amending": ""
     },
     {
-      "Result": "332",
+      "Result": "333",
       "Report Year": "2024",
       "Display Name": "Denny Wells",
       "Last Name": "Wells",
@@ -23295,7 +23332,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "333",
+      "Result": "334",
       "Report Year": "2024",
       "Display Name": "Dmitri Fonov",
       "Last Name": "Fonov",
@@ -23332,7 +23369,7 @@
       "Amending": ""
     },
     {
-      "Result": "334",
+      "Result": "335",
       "Report Year": "2024",
       "Display Name": "Dmitri Fonov",
       "Last Name": "Fonov",
@@ -23369,7 +23406,7 @@
       "Amending": ""
     },
     {
-      "Result": "335",
+      "Result": "336",
       "Report Year": "2024",
       "Display Name": "Dolores McKee",
       "Last Name": "McKee",
@@ -23406,7 +23443,7 @@
       "Amending": ""
     },
     {
-      "Result": "336",
+      "Result": "337",
       "Report Year": "2024",
       "Display Name": "Donald \"Donny\" C. Olson",
       "Last Name": "Olson",
@@ -23443,7 +23480,7 @@
       "Amending": ""
     },
     {
-      "Result": "337",
+      "Result": "338",
       "Report Year": "2024",
       "Display Name": "Donna C Mears",
       "Last Name": "Mears",
@@ -23480,7 +23517,7 @@
       "Amending": ""
     },
     {
-      "Result": "338",
+      "Result": "339",
       "Report Year": "2024",
       "Display Name": "Dora Wilson",
       "Last Name": "Wilson",
@@ -23517,7 +23554,7 @@
       "Amending": ""
     },
     {
-      "Result": "339",
+      "Result": "340",
       "Report Year": "2024",
       "Display Name": "Dorene Lorenz",
       "Last Name": "Lorenz",
@@ -23554,7 +23591,7 @@
       "Amending": ""
     },
     {
-      "Result": "340",
+      "Result": "341",
       "Report Year": "2024",
       "Display Name": "Doyle Holmes",
       "Last Name": "Holmes",
@@ -23591,7 +23628,7 @@
       "Amending": ""
     },
     {
-      "Result": "341",
+      "Result": "342",
       "Report Year": "2024",
       "Display Name": "Dustin Thomas House Darden",
       "Last Name": "Darden",
@@ -23628,7 +23665,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "342",
+      "Result": "343",
       "Report Year": "2024",
       "Display Name": "Dustin Thomas House Darden ",
       "Last Name": "Darden ",
@@ -23665,7 +23702,7 @@
       "Amending": ""
     },
     {
-      "Result": "343",
+      "Result": "344",
       "Report Year": "2024",
       "Display Name": "Edna DeVries",
       "Last Name": "DeVries",
@@ -23702,7 +23739,7 @@
       "Amending": ""
     },
     {
-      "Result": "344",
+      "Result": "345",
       "Report Year": "2024",
       "Display Name": "Elexie Moore",
       "Last Name": "Moore",
@@ -23739,7 +23776,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "345",
+      "Result": "346",
       "Report Year": "2024",
       "Display Name": "Elizabeth (Ebett) Siddon",
       "Last Name": "Siddon",
@@ -23776,7 +23813,7 @@
       "Amending": ""
     },
     {
-      "Result": "346",
+      "Result": "347",
       "Report Year": "2024",
       "Display Name": "Forrest Dunbar",
       "Last Name": "Dunbar",
@@ -23813,7 +23850,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "347",
+      "Result": "348",
       "Report Year": "2024",
       "Display Name": "Frank Tomaszewski",
       "Last Name": "Tomaszewski",
@@ -23850,7 +23887,7 @@
       "Amending": ""
     },
     {
-      "Result": "348",
+      "Result": "349",
       "Report Year": "2024",
       "Display Name": "Garrett Armstrong",
       "Last Name": "Armstrong",
@@ -23887,7 +23924,7 @@
       "Amending": ""
     },
     {
-      "Result": "349",
+      "Result": "350",
       "Report Year": "2024",
       "Display Name": "Gary Keith Damron",
       "Last Name": "Damron",
@@ -23924,7 +23961,7 @@
       "Amending": ""
     },
     {
-      "Result": "350",
+      "Result": "351",
       "Report Year": "2024",
       "Display Name": "Genevieve Mina",
       "Last Name": "Mina",
@@ -23961,7 +23998,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "351",
+      "Result": "352",
       "Report Year": "2024",
       "Display Name": "Grant EchoHawk",
       "Last Name": "EchoHawk",
@@ -23998,7 +24035,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "352",
+      "Result": "353",
       "Report Year": "2024",
       "Display Name": "Greg Magee",
       "Last Name": "MAGEE",
@@ -24035,7 +24072,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "353",
+      "Result": "354",
       "Report Year": "2024",
       "Display Name": "Greta I\u00f1uuraaq Schuerch",
       "Last Name": "Schuerch",
@@ -24072,7 +24109,7 @@
       "Amending": ""
     },
     {
-      "Result": "354",
+      "Result": "355",
       "Report Year": "2024",
       "Display Name": "Grier Hopkins",
       "Last Name": "Hopkins",
@@ -24109,7 +24146,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "355",
+      "Result": "356",
       "Report Year": "2024",
       "Display Name": "Harold Borbridge ",
       "Last Name": "Borbridge ",
@@ -24146,7 +24183,7 @@
       "Amending": ""
     },
     {
-      "Result": "356",
+      "Result": "357",
       "Report Year": "2024",
       "Display Name": "Harry Winner, Kamdem",
       "Last Name": "Kamdem Fezeu",
@@ -24183,7 +24220,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "357",
+      "Result": "358",
       "Report Year": "2024",
       "Display Name": "Heather Gottshall",
       "Last Name": "Gottshall",
@@ -24220,7 +24257,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "358",
+      "Result": "359",
       "Report Year": "2024",
       "Display Name": "Helen Armstrong",
       "Last Name": "Armstrong",
@@ -24257,7 +24294,7 @@
       "Amending": ""
     },
     {
-      "Result": "359",
+      "Result": "360",
       "Report Year": "2024",
       "Display Name": "Hillary Palmer",
       "Last Name": "Palmer",
@@ -24294,7 +24331,7 @@
       "Amending": ""
     },
     {
-      "Result": "360",
+      "Result": "361",
       "Report Year": "2024",
       "Display Name": "Jai mahtani",
       "Last Name": "Mahtani",
@@ -24331,7 +24368,7 @@
       "Amending": ""
     },
     {
-      "Result": "361",
+      "Result": "362",
       "Report Year": "2024",
       "Display Name": "James Fields",
       "Last Name": "Fields",
@@ -24368,7 +24405,7 @@
       "Amending": ""
     },
     {
-      "Result": "362",
+      "Result": "363",
       "Report Year": "2024",
       "Display Name": "James Kaufman",
       "Last Name": "Kaufman",
@@ -24405,7 +24442,7 @@
       "Amending": ""
     },
     {
-      "Result": "363",
+      "Result": "364",
       "Report Year": "2024",
       "Display Name": "James Nelson Turner",
       "Last Name": "Turner",
@@ -24442,7 +24479,7 @@
       "Amending": ""
     },
     {
-      "Result": "364",
+      "Result": "365",
       "Report Year": "2024",
       "Display Name": "James Squyres",
       "Last Name": "Squyres",
@@ -24479,7 +24516,7 @@
       "Amending": ""
     },
     {
-      "Result": "365",
+      "Result": "366",
       "Report Year": "2024",
       "Display Name": "Jameson R. Corbin",
       "Last Name": "Corbin",
@@ -24516,7 +24553,7 @@
       "Amending": ""
     },
     {
-      "Result": "366",
+      "Result": "367",
       "Report Year": "2024",
       "Display Name": "Jamie Allard ",
       "Last Name": "del Fierro-Allard ",
@@ -24553,7 +24590,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "367",
+      "Result": "368",
       "Report Year": "2024",
       "Display Name": "Janice Park",
       "Last Name": "Park",
@@ -24590,7 +24627,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "368",
+      "Result": "369",
       "Report Year": "2024",
       "Display Name": "Jared David Goecker",
       "Last Name": "Goecker",
@@ -24627,7 +24664,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "369",
+      "Result": "370",
       "Report Year": "2024",
       "Display Name": "Jason Avery",
       "Last Name": "Avery",
@@ -24664,7 +24701,7 @@
       "Amending": ""
     },
     {
-      "Result": "370",
+      "Result": "371",
       "Report Year": "2024",
       "Display Name": "Jenny Di Grappa",
       "Last Name": "Di Grappa",
@@ -24701,7 +24738,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "371",
+      "Result": "372",
       "Report Year": "2024",
       "Display Name": "Jeremy T. Bynum",
       "Last Name": "Bynum",
@@ -24738,7 +24775,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "372",
+      "Result": "373",
       "Report Year": "2024",
       "Display Name": "Jesse J Bjorkman",
       "Last Name": "Bjorkman",
@@ -24775,7 +24812,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "373",
+      "Result": "374",
       "Report Year": "2024",
       "Display Name": "Jesse Kiehl",
       "Last Name": "Kiehl",
@@ -24812,7 +24849,7 @@
       "Amending": ""
     },
     {
-      "Result": "374",
+      "Result": "375",
       "Report Year": "2024",
       "Display Name": "Jesse M Sumner",
       "Last Name": "Sumner",
@@ -24849,7 +24886,7 @@
       "Amending": ""
     },
     {
-      "Result": "375",
+      "Result": "376",
       "Report Year": "2024",
       "Display Name": "Jim Arlington",
       "Last Name": "Arlington",
@@ -24886,7 +24923,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "376",
+      "Result": "377",
       "Report Year": "2024",
       "Display Name": "Jimi Cash",
       "Last Name": "Cash",
@@ -24923,7 +24960,7 @@
       "Amending": ""
     },
     {
-      "Result": "377",
+      "Result": "378",
       "Report Year": "2024",
       "Display Name": "John B Coghill Jr",
       "Last Name": "Coghill",
@@ -24960,7 +24997,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "378",
+      "Result": "379",
       "Report Year": "2024",
       "Display Name": "John C Howard",
       "Last Name": "Howard",
@@ -24997,7 +25034,7 @@
       "Amending": ""
     },
     {
-      "Result": "379",
+      "Result": "380",
       "Report Year": "2024",
       "Display Name": "John Hillyer",
       "Last Name": "Hillyer",
@@ -25034,7 +25071,7 @@
       "Amending": ""
     },
     {
-      "Result": "380",
+      "Result": "381",
       "Report Year": "2024",
       "Display Name": "Jonathon Young",
       "Last Name": "Young",
@@ -25071,7 +25108,7 @@
       "Amending": ""
     },
     {
-      "Result": "381",
+      "Result": "382",
       "Report Year": "2024",
       "Display Name": "Joseph Crisafi-Lurtsema",
       "Last Name": "Crisafi-Lurtsema",
@@ -25108,7 +25145,7 @@
       "Amending": ""
     },
     {
-      "Result": "382",
+      "Result": "383",
       "Report Year": "2024",
       "Display Name": "Joy Beth Cottle",
       "Last Name": "Cottle",
@@ -25145,7 +25182,7 @@
       "Amending": ""
     },
     {
-      "Result": "383",
+      "Result": "384",
       "Report Year": "2024",
       "Display Name": "Jubilee Underwood",
       "Last Name": "Underwood",
@@ -25182,7 +25219,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "384",
+      "Result": "385",
       "Report Year": "2024",
       "Display Name": "Julie Coulombe",
       "Last Name": "Coulombe",
@@ -25219,7 +25256,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "385",
+      "Result": "386",
       "Report Year": "2024",
       "Display Name": "Justin Ruffridge",
       "Last Name": "Ruffridge",
@@ -25256,7 +25293,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "386",
+      "Result": "387",
       "Report Year": "2024",
       "Display Name": "Kay Schuster",
       "Last Name": "Schuster",
@@ -25293,7 +25330,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "387",
+      "Result": "388",
       "Report Year": "2024",
       "Display Name": "kaylee Anderson",
       "Last Name": "Anderson",
@@ -25330,7 +25367,7 @@
       "Amending": ""
     },
     {
-      "Result": "388",
+      "Result": "389",
       "Report Year": "2024",
       "Display Name": "Keith Roderick Fons",
       "Last Name": "Fons",
@@ -25367,7 +25404,7 @@
       "Amending": ""
     },
     {
-      "Result": "389",
+      "Result": "390",
       "Report Year": "2024",
       "Display Name": "Kelly R. Merrick",
       "Last Name": "Merrick",
@@ -25404,7 +25441,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "390",
+      "Result": "391",
       "Report Year": "2024",
       "Display Name": "Ken McCarty",
       "Last Name": "McCarty",
@@ -25441,7 +25478,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "391",
+      "Result": "392",
       "Report Year": "2024",
       "Display Name": "Kevin J. McCabe",
       "Last Name": "McCabe",
@@ -25478,7 +25515,7 @@
       "Amending": ""
     },
     {
-      "Result": "392",
+      "Result": "393",
       "Report Year": "2024",
       "Display Name": "Kristan Kelly",
       "Last Name": "Kelly",
@@ -25515,7 +25552,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "393",
+      "Result": "394",
       "Report Year": "2024",
       "Display Name": "Ky Holland",
       "Last Name": "Holland",
@@ -25552,7 +25589,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "394",
+      "Result": "395",
       "Report Year": "2024",
       "Display Name": "Lee E Hammermeister",
       "Last Name": "Hammermeister",
@@ -25589,7 +25626,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "395",
+      "Result": "396",
       "Report Year": "2024",
       "Display Name": "Lee Ellis",
       "Last Name": "Ellis",
@@ -25626,7 +25663,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "396",
+      "Result": "397",
       "Report Year": "2024",
       "Display Name": "Leighton Radner",
       "Last Name": "Radner",
@@ -25663,7 +25700,7 @@
       "Amending": ""
     },
     {
-      "Result": "397",
+      "Result": "398",
       "Report Year": "2024",
       "Display Name": "Leslie Hajdukovich",
       "Last Name": "Hajdukovich",
@@ -25700,7 +25737,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "398",
+      "Result": "399",
       "Report Year": "2024",
       "Display Name": "Liz Vazquez ",
       "Last Name": "Vazquez ",
@@ -25737,7 +25774,7 @@
       "Amending": ""
     },
     {
-      "Result": "399",
+      "Result": "400",
       "Report Year": "2024",
       "Display Name": "Loa Carroll-Hubbard",
       "Last Name": "HUBBARD",
@@ -25774,7 +25811,7 @@
       "Amending": ""
     },
     {
-      "Result": "400",
+      "Result": "401",
       "Report Year": "2024",
       "Display Name": "Louise Stutes",
       "Last Name": "Stutes",
@@ -25811,7 +25848,7 @@
       "Amending": ""
     },
     {
-      "Result": "401",
+      "Result": "402",
       "Report Year": "2024",
       "Display Name": "Lucy Bauer",
       "Last Name": "Bauer",
@@ -25848,7 +25885,7 @@
       "Amending": ""
     },
     {
-      "Result": "402",
+      "Result": "403",
       "Report Year": "2024",
       "Display Name": "Mark H. Littlefield",
       "Last Name": "Littlefield",
@@ -25885,7 +25922,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "403",
+      "Result": "404",
       "Report Year": "2024",
       "Display Name": "Matt Claman",
       "Last Name": "Claman",
@@ -25922,7 +25959,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "404",
+      "Result": "405",
       "Report Year": "2024",
       "Display Name": "Maureen Hall",
       "Last Name": "Hall",
@@ -25959,7 +25996,7 @@
       "Amending": ""
     },
     {
-      "Result": "405",
+      "Result": "406",
       "Report Year": "2024",
       "Display Name": "Maxine Dibert",
       "Last Name": "Dibert",
@@ -25996,7 +26033,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "406",
+      "Result": "407",
       "Report Year": "2024",
       "Display Name": "Mia Costello",
       "Last Name": "Costello",
@@ -26033,7 +26070,7 @@
       "Amending": ""
     },
     {
-      "Result": "407",
+      "Result": "408",
       "Report Year": "2024",
       "Display Name": "Mia Costello",
       "Last Name": "Costello",
@@ -26070,7 +26107,7 @@
       "Amending": ""
     },
     {
-      "Result": "408",
+      "Result": "409",
       "Report Year": "2024",
       "Display Name": "Michael Thomas Briggs / Michael Briggs",
       "Last Name": "Briggs",
@@ -26107,7 +26144,7 @@
       "Amending": ""
     },
     {
-      "Result": "409",
+      "Result": "410",
       "Report Year": "2024",
       "Display Name": "Michael Warren Welch",
       "Last Name": "Welch",
@@ -26144,7 +26181,7 @@
       "Amending": ""
     },
     {
-      "Result": "410",
+      "Result": "411",
       "Report Year": "2024",
       "Display Name": "Miguel Angel Ramirez",
       "Last Name": "Ramirez",
@@ -26181,7 +26218,7 @@
       "Amending": ""
     },
     {
-      "Result": "411",
+      "Result": "412",
       "Report Year": "2024",
       "Display Name": "Mike Cronk",
       "Last Name": "Cronk",
@@ -26218,7 +26255,7 @@
       "Amending": ""
     },
     {
-      "Result": "412",
+      "Result": "413",
       "Report Year": "2024",
       "Display Name": "Mike Cronk",
       "Last Name": "Cronk",
@@ -26255,7 +26292,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "413",
+      "Result": "414",
       "Report Year": "2024",
       "Display Name": "Mike Prax",
       "Last Name": "Prax",
@@ -26292,7 +26329,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "414",
+      "Result": "415",
       "Report Year": "2024",
       "Display Name": "Morgan Dulian",
       "Last Name": "Dulian",
@@ -26329,7 +26366,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "415",
+      "Result": "416",
       "Report Year": "2024",
       "Display Name": "Nathaniel (Nano) Brooks",
       "Last Name": "Brooks",
@@ -26366,7 +26403,7 @@
       "Amending": ""
     },
     {
-      "Result": "416",
+      "Result": "417",
       "Report Year": "2024",
       "Display Name": "Neal Winston Foster",
       "Last Name": "Foster",
@@ -26403,7 +26440,7 @@
       "Amending": ""
     },
     {
-      "Result": "417",
+      "Result": "418",
       "Report Year": "2024",
       "Display Name": "Neil Steininger",
       "Last Name": "Steininger",
@@ -26440,7 +26477,7 @@
       "Amending": ""
     },
     {
-      "Result": "418",
+      "Result": "419",
       "Report Year": "2024",
       "Display Name": "Nellie Darlene Jimmie",
       "Last Name": "Jimmie",
@@ -26477,7 +26514,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "419",
+      "Result": "420",
       "Report Year": "2024",
       "Display Name": "Nick Moe",
       "Last Name": "Moe",
@@ -26514,7 +26551,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "420",
+      "Result": "421",
       "Report Year": "2024",
       "Display Name": "Olivia Rodriguez",
       "Last Name": "Rodriguez",
@@ -26551,7 +26588,7 @@
       "Amending": ""
     },
     {
-      "Result": "421",
+      "Result": "422",
       "Report Year": "2024",
       "Display Name": "Pamela Gay Conrad",
       "Last Name": "Conrad",
@@ -26588,7 +26625,7 @@
       "Amending": ""
     },
     {
-      "Result": "422",
+      "Result": "423",
       "Report Year": "2024",
       "Display Name": "Pamela Goode",
       "Last Name": "Goode",
@@ -26625,7 +26662,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "423",
+      "Result": "424",
       "Report Year": "2024",
       "Display Name": "Pat Higgins",
       "Last Name": "Higgins",
@@ -26662,7 +26699,7 @@
       "Amending": ""
     },
     {
-      "Result": "424",
+      "Result": "425",
       "Report Year": "2024",
       "Display Name": "Rachel Lord",
       "Last Name": "Lord",
@@ -26699,7 +26736,7 @@
       "Amending": ""
     },
     {
-      "Result": "425",
+      "Result": "426",
       "Report Year": "2024",
       "Display Name": "Rebecca (Becky) Schwanke",
       "Last Name": "Schwanke",
@@ -26736,7 +26773,7 @@
       "Amending": ""
     },
     {
-      "Result": "426",
+      "Result": "427",
       "Report Year": "2024",
       "Display Name": "Rebecca Himschoot",
       "Last Name": "Himschoot",
@@ -26773,7 +26810,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "427",
+      "Result": "428",
       "Report Year": "2024",
       "Display Name": "Richard Clement",
       "Last Name": "Clement",
@@ -26810,7 +26847,7 @@
       "Amending": ""
     },
     {
-      "Result": "428",
+      "Result": "429",
       "Report Year": "2024",
       "Display Name": "Richard Franklyn Clement",
       "Last Name": "Clement",
@@ -26847,7 +26884,7 @@
       "Amending": ""
     },
     {
-      "Result": "429",
+      "Result": "430",
       "Report Year": "2024",
       "Display Name": "robb Arnold",
       "Last Name": "Arnold",
@@ -26884,7 +26921,7 @@
       "Amending": ""
     },
     {
-      "Result": "430",
+      "Result": "431",
       "Report Year": "2024",
       "Display Name": "Robert D Yundt II",
       "Last Name": "Yundt",
@@ -26921,7 +26958,7 @@
       "Amending": ""
     },
     {
-      "Result": "431",
+      "Result": "432",
       "Report Year": "2024",
       "Display Name": "Robert J. Shields",
       "Last Name": "shields",
@@ -26958,7 +26995,7 @@
       "Amending": ""
     },
     {
-      "Result": "432",
+      "Result": "433",
       "Report Year": "2024",
       "Display Name": "Robyn Niayuq Burke",
       "Last Name": "Burke",
@@ -26995,7 +27032,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "433",
+      "Result": "434",
       "Report Year": "2024",
       "Display Name": "Ron Bernier",
       "Last Name": "Bernier",
@@ -27032,7 +27069,7 @@
       "Amending": ""
     },
     {
-      "Result": "434",
+      "Result": "435",
       "Report Year": "2024",
       "Display Name": "Ronald D Gillham",
       "Last Name": "Gillham",
@@ -27069,7 +27106,7 @@
       "Amending": ""
     },
     {
-      "Result": "435",
+      "Result": "436",
       "Report Year": "2024",
       "Display Name": "Ruben A. McNeill Jr.",
       "Last Name": "McNeill",
@@ -27106,7 +27143,7 @@
       "Amending": ""
     },
     {
-      "Result": "436",
+      "Result": "437",
       "Report Year": "2024",
       "Display Name": "Russell Oden wyatt ",
       "Last Name": "Wyatt",
@@ -27143,7 +27180,7 @@
       "Amending": ""
     },
     {
-      "Result": "437",
+      "Result": "438",
       "Report Year": "2024",
       "Display Name": "Saima Chase",
       "Last Name": "Chase",
@@ -27180,7 +27217,7 @@
       "Amending": ""
     },
     {
-      "Result": "438",
+      "Result": "439",
       "Report Year": "2024",
       "Display Name": "Sandra M Katelnikoff Lester",
       "Last Name": "Katelnikoff Lester",
@@ -27217,7 +27254,7 @@
       "Amending": ""
     },
     {
-      "Result": "439",
+      "Result": "440",
       "Report Year": "2024",
       "Display Name": "Sara Hannan",
       "Last Name": "Hannan",
@@ -27254,7 +27291,7 @@
       "Amending": ""
     },
     {
-      "Result": "440",
+      "Result": "441",
       "Report Year": "2024",
       "Display Name": "Sarah Douthit",
       "Last Name": "Douthit",
@@ -27291,7 +27328,7 @@
       "Amending": ""
     },
     {
-      "Result": "441",
+      "Result": "442",
       "Report Year": "2024",
       "Display Name": "Sarah L. Vance",
       "Last Name": "Vance",
@@ -27328,7 +27365,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "442",
+      "Result": "443",
       "Report Year": "2024",
       "Display Name": "Savannah Fletcher",
       "Last Name": "Fletcher",
@@ -27365,7 +27402,7 @@
       "Amending": ""
     },
     {
-      "Result": "443",
+      "Result": "444",
       "Report Year": "2024",
       "Display Name": "Savannah Fletcher",
       "Last Name": "Fletcher",
@@ -27402,7 +27439,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "444",
+      "Result": "445",
       "Report Year": "2024",
       "Display Name": "Scott A Kohlhaas",
       "Last Name": "Kohlhaas",
@@ -27439,7 +27476,7 @@
       "Amending": ""
     },
     {
-      "Result": "445",
+      "Result": "446",
       "Report Year": "2024",
       "Display Name": "Scott Kawasaki",
       "Last Name": "Kawasaki",
@@ -27476,7 +27513,7 @@
       "Amending": ""
     },
     {
-      "Result": "446",
+      "Result": "447",
       "Report Year": "2024",
       "Display Name": "Scott Kawasaki",
       "Last Name": "Kawasaki",
@@ -27513,7 +27550,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "447",
+      "Result": "448",
       "Report Year": "2024",
       "Display Name": "Sharon Denise Jackson",
       "Last Name": "Portch",
@@ -27550,7 +27587,7 @@
       "Amending": ""
     },
     {
-      "Result": "448",
+      "Result": "449",
       "Report Year": "2024",
       "Display Name": "Sheena Fort",
       "Last Name": "Fort",
@@ -27587,7 +27624,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "449",
+      "Result": "450",
       "Report Year": "2024",
       "Display Name": "Sherri L. Wall",
       "Last Name": "Wall",
@@ -27624,7 +27661,7 @@
       "Amending": ""
     },
     {
-      "Result": "450",
+      "Result": "451",
       "Report Year": "2024",
       "Display Name": "Stanley Wright",
       "Last Name": "Wright",
@@ -27661,7 +27698,7 @@
       "Amending": ""
     },
     {
-      "Result": "451",
+      "Result": "452",
       "Report Year": "2024",
       "Display Name": "Steve Menard",
       "Last Name": "Menard",
@@ -27698,7 +27735,7 @@
       "Amending": ""
     },
     {
-      "Result": "452",
+      "Result": "453",
       "Report Year": "2024",
       "Display Name": "Suzanne LaFrance",
       "Last Name": "LaFrance",
@@ -27735,7 +27772,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "453",
+      "Result": "454",
       "Report Year": "2024",
       "Display Name": "Tamara Kruse Roselius",
       "Last Name": "Kruse Roselius",
@@ -27772,7 +27809,7 @@
       "Amending": ""
     },
     {
-      "Result": "454",
+      "Result": "455",
       "Report Year": "2024",
       "Display Name": "Tammie Wilson",
       "Last Name": "Wilson",
@@ -27809,7 +27846,7 @@
       "Amending": ""
     },
     {
-      "Result": "455",
+      "Result": "456",
       "Report Year": "2024",
       "Display Name": "Taylor, Steven",
       "Last Name": "Taylor",
@@ -27846,7 +27883,7 @@
       "Amending": ""
     },
     {
-      "Result": "456",
+      "Result": "457",
       "Report Year": "2024",
       "Display Name": "Ted J. Eischeid",
       "Last Name": "EISCHEID",
@@ -27883,7 +27920,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "457",
+      "Result": "458",
       "Report Year": "2024",
       "Display Name": "Thomas C Ikaaq Baker",
       "Last Name": "Baker",
@@ -27920,7 +27957,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "458",
+      "Result": "459",
       "Report Year": "2024",
       "Display Name": "Thomas E. Bergey",
       "Last Name": "Bergey",
@@ -27957,7 +27994,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "459",
+      "Result": "460",
       "Report Year": "2024",
       "Display Name": "Thomas W McKay",
       "Last Name": "McKay",
@@ -27994,7 +28031,7 @@
       "Amending": ""
     },
     {
-      "Result": "460",
+      "Result": "461",
       "Report Year": "2024",
       "Display Name": "Thomas W McKay",
       "Last Name": "McKay",
@@ -28031,7 +28068,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "461",
+      "Result": "462",
       "Report Year": "2024",
       "Display Name": "Tina Wegener",
       "Last Name": "Wegener",
@@ -28068,7 +28105,7 @@
       "Amending": ""
     },
     {
-      "Result": "462",
+      "Result": "463",
       "Report Year": "2024",
       "Display Name": "Tyler Ivanoff",
       "Last Name": "Ivanoff",
@@ -28105,7 +28142,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "463",
+      "Result": "464",
       "Report Year": "2024",
       "Display Name": "Victoria Beatrice Sosa",
       "Last Name": "Sosa",
@@ -28142,7 +28179,7 @@
       "Amending": ""
     },
     {
-      "Result": "464",
+      "Result": "465",
       "Report Year": "2024",
       "Display Name": "Victoria Michele Hudson",
       "Last Name": "Hudson",
@@ -28179,7 +28216,7 @@
       "Amending": ""
     },
     {
-      "Result": "465",
+      "Result": "466",
       "Report Year": "2024",
       "Display Name": "Walter Featherly",
       "Last Name": "Featherly",
@@ -28216,7 +28253,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "466",
+      "Result": "467",
       "Report Year": "2024",
       "Display Name": "Walter Featherly",
       "Last Name": "Featherly",
@@ -28253,7 +28290,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "467",
+      "Result": "468",
       "Report Year": "2024",
       "Display Name": "WG Anaruk",
       "Last Name": "Anaruk",
@@ -28290,7 +28327,7 @@
       "Amending": ""
     },
     {
-      "Result": "468",
+      "Result": "469",
       "Report Year": "2024",
       "Display Name": "Will Muldoon",
       "Last Name": "Muldoon",
@@ -28327,7 +28364,7 @@
       "Amending": ""
     },
     {
-      "Result": "469",
+      "Result": "470",
       "Report Year": "2024",
       "Display Name": "Will Stapp",
       "Last Name": "Stapp",
@@ -28364,7 +28401,7 @@
       "Amending": ""
     },
     {
-      "Result": "470",
+      "Result": "471",
       "Report Year": "2024",
       "Display Name": "William \"Bill\" Thomas Jr.",
       "Last Name": "Thomas",
@@ -28401,7 +28438,7 @@
       "Amending": ""
     },
     {
-      "Result": "471",
+      "Result": "472",
       "Report Year": "2024",
       "Display Name": "William Z. \"Zack\" Fields",
       "Last Name": "Fields",
@@ -28438,7 +28475,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "472",
+      "Result": "473",
       "Report Year": "2024",
       "Display Name": "William Z. \"Zack\" Fields",
       "Last Name": "Fields",
@@ -28475,7 +28512,7 @@
       "Amending": ""
     },
     {
-      "Result": "473",
+      "Result": "474",
       "Report Year": "2024",
       "Display Name": "Williams, Robert 'Bert'",
       "Last Name": "Williams",
@@ -28512,7 +28549,7 @@
       "Amending": ""
     },
     {
-      "Result": "474",
+      "Result": "475",
       "Report Year": "2024",
       "Display Name": "Willy Keppel",
       "Last Name": "Keppel",
@@ -28549,7 +28586,7 @@
       "Amending": ""
     },
     {
-      "Result": "475",
+      "Result": "476",
       "Report Year": "2024",
       "Display Name": "Wright, Jessica",
       "Last Name": "Wright",
@@ -28586,7 +28623,7 @@
       "Amending": ""
     },
     {
-      "Result": "476",
+      "Result": "477",
       "Report Year": "2024",
       "Display Name": "Wright, Stephen",
       "Last Name": "Wright",
@@ -28623,7 +28660,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "477",
+      "Result": "478",
       "Report Year": "2023",
       "Display Name": "Aaron Gibson",
       "Last Name": "Gibson",
@@ -28660,7 +28697,7 @@
       "Amending": ""
     },
     {
-      "Result": "478",
+      "Result": "479",
       "Report Year": "2023",
       "Display Name": "Abby Bradberry",
       "Last Name": "Bradberry",
@@ -28697,7 +28734,7 @@
       "Amending": ""
     },
     {
-      "Result": "479",
+      "Result": "480",
       "Report Year": "2023",
       "Display Name": "Adam Bertoldo",
       "Last Name": "Bertoldo",
@@ -28734,7 +28771,7 @@
       "Amending": ""
     },
     {
-      "Result": "480",
+      "Result": "481",
       "Report Year": "2023",
       "Display Name": "Alicia Hughes-Skandijs",
       "Last Name": "Hughes-Skandijs",
@@ -28771,7 +28808,7 @@
       "Amending": ""
     },
     {
-      "Result": "481",
+      "Result": "482",
       "Report Year": "2023",
       "Display Name": "Andy Holleman",
       "Last Name": "Holleman",
@@ -28808,7 +28845,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "482",
+      "Result": "483",
       "Report Year": "2023",
       "Display Name": "Anna B. Brawley",
       "Last Name": "Brawley",
@@ -28845,7 +28882,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "483",
+      "Result": "484",
       "Report Year": "2023",
       "Display Name": "Anthony E. Edwardsen",
       "Last Name": "Edwardsen",
@@ -28882,7 +28919,7 @@
       "Amending": ""
     },
     {
-      "Result": "484",
+      "Result": "485",
       "Report Year": "2023",
       "Display Name": "April Smith",
       "Last Name": "Smith",
@@ -28919,7 +28956,7 @@
       "Amending": ""
     },
     {
-      "Result": "485",
+      "Result": "486",
       "Report Year": "2023",
       "Display Name": "Bobby Burgess",
       "Last Name": "Burgess",
@@ -28956,7 +28993,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "486",
+      "Result": "487",
       "Report Year": "2023",
       "Display Name": "Brad Snowden",
       "Last Name": "Snowden",
@@ -28993,7 +29030,7 @@
       "Amending": ""
     },
     {
-      "Result": "487",
+      "Result": "488",
       "Report Year": "2023",
       "Display Name": "Breck Craig",
       "Last Name": "Craig",
@@ -29030,7 +29067,7 @@
       "Amending": ""
     },
     {
-      "Result": "488",
+      "Result": "489",
       "Report Year": "2023",
       "Display Name": "Brian Flynn",
       "Last Name": "Flynn",
@@ -29067,7 +29104,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "489",
+      "Result": "490",
       "Report Year": "2023",
       "Display Name": "Brian Flynn",
       "Last Name": "Flynn",
@@ -29104,7 +29141,7 @@
       "Amending": ""
     },
     {
-      "Result": "490",
+      "Result": "491",
       "Report Year": "2023",
       "Display Name": "Brian Holst",
       "Last Name": "Holst",
@@ -29141,7 +29178,7 @@
       "Amending": ""
     },
     {
-      "Result": "491",
+      "Result": "492",
       "Report Year": "2023",
       "Display Name": "Britteny Cioni-Haywood",
       "Last Name": "Cioni-Haywood",
@@ -29178,7 +29215,7 @@
       "Amending": ""
     },
     {
-      "Result": "492",
+      "Result": "493",
       "Report Year": "2023",
       "Display Name": "Brooke Lavender",
       "Last Name": "Lavender",
@@ -29215,7 +29252,7 @@
       "Amending": ""
     },
     {
-      "Result": "493",
+      "Result": "494",
       "Report Year": "2023",
       "Display Name": "Christine Woll",
       "Last Name": "Woll",
@@ -29252,7 +29289,7 @@
       "Amending": ""
     },
     {
-      "Result": "494",
+      "Result": "495",
       "Report Year": "2023",
       "Display Name": "Christine Woll",
       "Last Name": "Woll",
@@ -29289,7 +29326,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "495",
+      "Result": "496",
       "Report Year": "2023",
       "Display Name": "Christopher Constant",
       "Last Name": "Constant",
@@ -29326,7 +29363,7 @@
       "Amending": " Amendment"
     },
     {
-      "Result": "496",
+      "Result": "497",
       "Report Year": "2023",
       "Display Name": "Clayton \"Mokie\" Tew",
       "Last Name": "Tew",
@@ -29363,7 +29400,7 @@
       "Amending": ""
     },
     {
-      "Result": "497",
+      "Result": "498",
       "Report Year": "2023",
       "Display Name": "Cliff Murray",
       "Last Name": "Murray",
@@ -29400,7 +29437,7 @@
       "Amending": ""
     },
     {
-      "Result": "498",
+      "Result": "499",
       "Report Year": "2023",
       "Display Name": "Cody Schwegel",
       "Last Name": "Schwegel",
@@ -29437,7 +29474,7 @@
       "Amending": ""
     },
     {
-      "Result": "499",
+      "Result": "500",
       "Report Year": "2023",
       "Display Name": "Corrine Danner",
       "Last Name": "Danner",
@@ -29470,43 +29507,6 @@
       "Bank Zip": "",
       "Bank Country": "",
       "Submitted": "9/13/2023",
-      "Status": "Filed",
-      "Amending": ""
-    },
-    {
-      "Result": "500",
-      "Report Year": "2023",
-      "Display Name": "Craig Dagen",
-      "Last Name": "Dagen",
-      "First Name": "Craig",
-      "Committee": "",
-      "Purpose": "",
-      "Previously Registered": "New",
-      "Address": "3985 Cliffside Rd.",
-      "City": "Kodiak",
-      "State": "Alaska",
-      "Zip": "99615",
-      "Country": "USA",
-      "Phone": "6268330348",
-      "Fax": "",
-      "Email": "cpdagen@icloud.com",
-      "Election": "Kodiak Island Borough",
-      "Election Type": "",
-      "Municipality": "Kodiak Island Borough",
-      "Office": "Service Area Board",
-      "Treasurer Name": "Craig P. Dagen",
-      "Treasurer Email": "cpdagen@icloud.com",
-      "Treasurer Phone": "6268330348",
-      "Chair Name": "Craig Dagen",
-      "Chair Email": "cpdagen@icloud.com",
-      "Chair Phone": "6268330348",
-      "Bank Name": "Wells Fargo",
-      "Bank Address": "",
-      "Bank City": "",
-      "Bank State": "",
-      "Bank Zip": "",
-      "Bank Country": "",
-      "Submitted": "8/22/2023",
       "Status": "Filed",
       "Amending": ""
     }
@@ -31112,91 +31112,6 @@
     },
     {
       "Result": "95",
-      "Date": "11/1/2025",
-      "Balance Remaining": "$500.00",
-      "Original Amount": "$500.00",
-      "Name": "Rebecca Himschoot",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Fundraising support(including in-house graphic design), and compliance",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "96",
-      "Date": "12/1/2025",
-      "Balance Remaining": "$500.00",
-      "Original Amount": "$500.00",
-      "Name": "Rebecca Himschoot",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Fundraising support(including in-house graphic design), and compliance",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "97",
-      "Date": "1/1/2026",
-      "Balance Remaining": "$500.00",
-      "Original Amount": "$500.00",
-      "Name": "Rebecca Himschoot",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Fundraising support(including in-house graphic design), and compliance",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "98",
-      "Date": "2/1/2026",
-      "Balance Remaining": "$500.00",
-      "Original Amount": "$500.00",
-      "Name": "Rebecca Himschoot",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Fundraising support(including in-house graphic design), and compliance",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "99",
-      "Date": "11/1/2025",
-      "Balance Remaining": "$2,700.00",
-      "Original Amount": "$2,700.00",
-      "Name": "Rebecca Himschoot",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Hourly fee for additional fundraising support including PAC outreach and creation of supplementary materials (including in-house graphic design)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "100",
       "Date": "1/15/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -31213,7 +31128,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "101",
+      "Result": "96",
       "Date": "1/1/2026",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -31230,7 +31145,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "102",
+      "Result": "97",
       "Date": "2/1/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -31247,7 +31162,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "103",
+      "Result": "98",
       "Date": "12/15/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -31264,7 +31179,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "104",
+      "Result": "99",
       "Date": "10/1/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -31281,7 +31196,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "105",
+      "Result": "100",
       "Date": "11/1/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -31298,7 +31213,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "106",
+      "Result": "101",
       "Date": "1/1/2026",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -31315,7 +31230,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "107",
+      "Result": "102",
       "Date": "2/1/2026",
       "Balance Remaining": "$250.00",
       "Original Amount": "$250.00",
@@ -31332,7 +31247,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "108",
+      "Result": "103",
       "Date": "2/1/2026",
       "Balance Remaining": "$250.00",
       "Original Amount": "$250.00",
@@ -31349,8 +31264,93 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "109",
+      "Result": "104",
       "Date": "7/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "105",
+      "Date": "8/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "106",
+      "Date": "9/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "107",
+      "Date": "10/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "108",
+      "Date": "11/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "109",
+      "Date": "12/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
       "Name": "Rachel Blakeslee",
@@ -31367,91 +31367,6 @@
     },
     {
       "Result": "110",
-      "Date": "8/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "111",
-      "Date": "9/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "112",
-      "Date": "10/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "113",
-      "Date": "11/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "114",
-      "Date": "12/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "115",
       "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31468,7 +31383,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "116",
+      "Result": "111",
       "Date": "2/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31485,7 +31400,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "117",
+      "Result": "112",
       "Date": "11/20/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -31502,7 +31417,7 @@
       "Submitted": "2/25/2026"
     },
     {
-      "Result": "118",
+      "Result": "113",
       "Date": "12/1/2025",
       "Balance Remaining": "$665.96",
       "Original Amount": "$665.96",
@@ -31519,7 +31434,7 @@
       "Submitted": "2/25/2026"
     },
     {
-      "Result": "119",
+      "Result": "114",
       "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31536,7 +31451,7 @@
       "Submitted": "2/25/2026"
     },
     {
-      "Result": "120",
+      "Result": "115",
       "Date": "2/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31553,7 +31468,7 @@
       "Submitted": "2/25/2026"
     },
     {
-      "Result": "121",
+      "Result": "116",
       "Date": "11/19/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -31570,7 +31485,7 @@
       "Submitted": "3/7/2026"
     },
     {
-      "Result": "122",
+      "Result": "117",
       "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31587,7 +31502,7 @@
       "Submitted": "3/7/2026"
     },
     {
-      "Result": "123",
+      "Result": "118",
       "Date": "2/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31604,7 +31519,7 @@
       "Submitted": "3/7/2026"
     },
     {
-      "Result": "124",
+      "Result": "119",
       "Date": "3/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31621,7 +31536,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "125",
+      "Result": "120",
       "Date": "7/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -31638,7 +31553,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "126",
+      "Result": "121",
       "Date": "8/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -31655,7 +31570,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "127",
+      "Result": "122",
       "Date": "9/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -31672,7 +31587,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "128",
+      "Result": "123",
       "Date": "10/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -31689,7 +31604,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "129",
+      "Result": "124",
       "Date": "11/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -31706,7 +31621,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "130",
+      "Result": "125",
       "Date": "12/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -31723,7 +31638,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "131",
+      "Result": "126",
       "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31740,7 +31655,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "132",
+      "Result": "127",
       "Date": "2/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31757,7 +31672,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "133",
+      "Result": "128",
       "Date": "3/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31774,7 +31689,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "134",
+      "Result": "129",
       "Date": "11/20/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -31791,7 +31706,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "135",
+      "Result": "130",
       "Date": "12/1/2025",
       "Balance Remaining": "$665.96",
       "Original Amount": "$665.96",
@@ -31808,7 +31723,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "136",
+      "Result": "131",
       "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31825,7 +31740,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "137",
+      "Result": "132",
       "Date": "2/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31842,7 +31757,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "138",
+      "Result": "133",
       "Date": "3/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31859,7 +31774,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "139",
+      "Result": "134",
       "Date": "3/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31876,7 +31791,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "140",
+      "Result": "135",
       "Date": "11/20/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -31893,7 +31808,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "141",
+      "Result": "136",
       "Date": "12/1/2025",
       "Balance Remaining": "$690.60",
       "Original Amount": "$690.60",
@@ -31910,7 +31825,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "142",
+      "Result": "137",
       "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31927,7 +31842,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "143",
+      "Result": "138",
       "Date": "2/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31944,7 +31859,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "144",
+      "Result": "139",
       "Date": "3/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31961,7 +31876,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "145",
+      "Result": "140",
       "Date": "3/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31978,7 +31893,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "146",
+      "Result": "141",
       "Date": "10/30/2025",
       "Balance Remaining": "$46.36",
       "Original Amount": "$46.36",
@@ -31995,7 +31910,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "147",
+      "Result": "142",
       "Date": "4/1/2026",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -32012,7 +31927,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "148",
+      "Result": "143",
       "Date": "4/1/2026",
       "Balance Remaining": "$7,500.00",
       "Original Amount": "$7,500.00",
@@ -32029,7 +31944,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "149",
+      "Result": "144",
       "Date": "4/1/2026",
       "Balance Remaining": "$235.00",
       "Original Amount": "$235.00",
@@ -32046,7 +31961,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "150",
+      "Result": "145",
       "Date": "2/4/2026",
       "Balance Remaining": "$3,005.00",
       "Original Amount": "$3,005.00",
@@ -32061,6 +31976,91 @@
       "Filer Type": "Group",
       "Report Year": "2026",
       "Submitted": "4/10/2026"
+    },
+    {
+      "Result": "146",
+      "Date": "11/1/2025",
+      "Balance Remaining": "$500.00",
+      "Original Amount": "$500.00",
+      "Name": "Rebecca Himschoot",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Fundraising support(including in-house graphic design), and compliance",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/2/2026"
+    },
+    {
+      "Result": "147",
+      "Date": "11/1/2025",
+      "Balance Remaining": "$2,700.00",
+      "Original Amount": "$2,700.00",
+      "Name": "Rebecca Himschoot",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Hourly fee for additional fundraising support including PAC outreach and creation of supplementary materials (including in-house graphic design)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/2/2026"
+    },
+    {
+      "Result": "148",
+      "Date": "12/1/2025",
+      "Balance Remaining": "$500.00",
+      "Original Amount": "$500.00",
+      "Name": "Rebecca Himschoot",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Fundraising support(including in-house graphic design), and compliance",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/2/2026"
+    },
+    {
+      "Result": "149",
+      "Date": "1/1/2026",
+      "Balance Remaining": "$500.00",
+      "Original Amount": "$500.00",
+      "Name": "Rebecca Himschoot",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Fundraising support(including in-house graphic design), and compliance",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/2/2026"
+    },
+    {
+      "Result": "150",
+      "Date": "2/1/2026",
+      "Balance Remaining": "$250.00",
+      "Original Amount": "$250.00",
+      "Name": "Rebecca Himschoot",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Fundraising support(including in-house graphic design), and compliance",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/2/2026"
     },
     {
       "Result": "151",
@@ -32230,7 +32230,7 @@
       "--------": "",
       "Filer Type": "Candidate",
       "Report Year": "2026",
-      "Submitted": "3/31/2026"
+      "Submitted": "7/2/2026"
     },
     {
       "Result": "161",
@@ -55889,566 +55889,6 @@
     },
     {
       "Result": "400",
-      "Date": "2/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$1.53",
-      "Last/Business Name": "ActBlue",
-      "First Name": "",
-      "Address": "PO Box 441146",
-      "City": "Somerville",
-      "State": "Massachusetts",
-      "Zip": "02144",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Service fees",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "401",
-      "Date": "2/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$353.20",
-      "Last/Business Name": "Anedot",
-      "First Name": "",
-      "Address": "1340 Poydras St #1770",
-      "City": "New Orleans",
-      "State": "Louisiana",
-      "Zip": "70112",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Credit card processing fees this reporting cycle",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "402",
-      "Date": "8/12/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Check",
-      "Payment Detail": "1069",
-      "Amount": "$404.17",
-      "Last/Business Name": "Color Art Printing",
-      "First Name": "",
-      "Address": "430 W 7th Ave, Ste 10",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Personalized stationary and shipping to Sitka (paid 8/25/25)",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "403",
-      "Date": "10/6/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Check",
-      "Payment Detail": "1036",
-      "Amount": "$500.00",
-      "Last/Business Name": "RDCIT",
-      "First Name": "",
-      "Address": "14 Island View Dr",
-      "City": "Hollis",
-      "State": "Alaska",
-      "Zip": "99000",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Lodging",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "404",
-      "Date": "6/15/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$250.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Campaign start-up including system set-up, compliance, and fundraising support (including in-house graphic design); paid 8/18/2025",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "405",
-      "Date": "7/1/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$500.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Fundraising support(including in-house graphic design), and compliance (paid 8/18/2025)",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "406",
-      "Date": "8/1/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$500.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Fundraising support(including in-house graphic design), and compliance (paid 12/20/2025)",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "407",
-      "Date": "9/1/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$500.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Fundraising support(including in-house graphic design), and compliance (paid 12/20/2025)",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "408",
-      "Date": "10/1/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$500.00",
-      "Last/Business Name": "Ship Creek Group, LLC",
-      "First Name": "",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Fundraising support(including in-house graphic design), and compliance (paid 12/20/2025)",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "409",
-      "Date": "5/27/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$8.40",
-      "Last/Business Name": "Squarespace",
-      "First Name": "",
-      "Address": "225 Varrick St, 12th Floor",
-      "City": "New York",
-      "State": "New York",
-      "Zip": "10014",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "email hosting",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "410",
-      "Date": "6/27/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$8.40",
-      "Last/Business Name": "Squarespace",
-      "First Name": "",
-      "Address": "225 Varrick St, 12th Floor",
-      "City": "New York",
-      "State": "New York",
-      "Zip": "10014",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "email hosting",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "411",
-      "Date": "7/27/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$8.40",
-      "Last/Business Name": "Squarespace",
-      "First Name": "",
-      "Address": "225 Varrick St, 12th Floor",
-      "City": "New York",
-      "State": "New York",
-      "Zip": "10014",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "email hosting",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "412",
-      "Date": "8/28/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$8.40",
-      "Last/Business Name": "Squarespace",
-      "First Name": "",
-      "Address": "225 Varrick St, 12th Floor",
-      "City": "New York",
-      "State": "New York",
-      "Zip": "10014",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "email hosting",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "413",
-      "Date": "9/29/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$8.40",
-      "Last/Business Name": "Squarespace",
-      "First Name": "",
-      "Address": "225 Varrick St, 12th Floor",
-      "City": "New York",
-      "State": "New York",
-      "Zip": "10014",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "email hosting",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "414",
-      "Date": "10/27/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$8.40",
-      "Last/Business Name": "Squarespace",
-      "First Name": "",
-      "Address": "225 Varrick St, 12th Floor",
-      "City": "New York",
-      "State": "New York",
-      "Zip": "10014",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "email hosting",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "415",
-      "Date": "11/27/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$8.40",
-      "Last/Business Name": "Squarespace",
-      "First Name": "",
-      "Address": "225 Varrick St, 12th Floor",
-      "City": "New York",
-      "State": "New York",
-      "Zip": "10014",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "email hosting",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "416",
-      "Date": "12/27/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$8.40",
-      "Last/Business Name": "Squarespace",
-      "First Name": "",
-      "Address": "225 Varrick St, 12th Floor",
-      "City": "New York",
-      "State": "New York",
-      "Zip": "10014",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "email hosting",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "417",
-      "Date": "1/27/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$8.40",
-      "Last/Business Name": "Squarespace",
-      "First Name": "",
-      "Address": "225 Varrick St, 12th Floor",
-      "City": "New York",
-      "State": "New York",
-      "Zip": "10014",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "email hosting",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "418",
-      "Date": "2/1/2026",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Electronic Funds Transfer",
-      "Payment Detail": "",
-      "Amount": "$3.58",
-      "Last/Business Name": "Stripe",
-      "First Name": "",
-      "Address": "185 Berry St #550",
-      "City": "San Francisco",
-      "State": "California",
-      "Zip": "94107",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Credit card processing fees this reporting cycle",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "419",
-      "Date": "9/2/2025",
-      "Transaction Type": "Expenditure",
-      "Payment Type": "Debit Card",
-      "Payment Detail": "",
-      "Amount": "$156.00",
-      "Last/Business Name": "USPS",
-      "First Name": "",
-      "Address": "1207 Sawmill Creek Rd",
-      "City": "Sitka ",
-      "State": "Alaska",
-      "Zip": "99835",
-      "Country": "USA",
-      "Occupation": "",
-      "Employer": "",
-      "Purpose of Expenditure": "Stamps",
-      "--------": "",
-      "Report Type": "Year Start Report",
-      "Election Name": "2026 - State Primary",
-      "Election Type": "State Primary",
-      "Municipality": "",
-      "Office": "",
-      "Filer Type": "Candidate",
-      "Name": "Rebecca Himschoot",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
-      "Result": "420",
       "Date": "11/6/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -56476,7 +55916,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "421",
+      "Result": "401",
       "Date": "11/19/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56504,7 +55944,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "422",
+      "Result": "402",
       "Date": "11/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -56532,7 +55972,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "423",
+      "Result": "403",
       "Date": "12/8/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -56560,7 +56000,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "424",
+      "Result": "404",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56588,7 +56028,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "425",
+      "Result": "405",
       "Date": "12/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56616,7 +56056,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "426",
+      "Result": "406",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56644,7 +56084,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "427",
+      "Result": "407",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56672,7 +56112,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "428",
+      "Result": "408",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56700,7 +56140,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "429",
+      "Result": "409",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56728,7 +56168,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "430",
+      "Result": "410",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56756,7 +56196,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "431",
+      "Result": "411",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56784,7 +56224,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "432",
+      "Result": "412",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56812,7 +56252,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "433",
+      "Result": "413",
       "Date": "12/10/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56840,7 +56280,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "434",
+      "Result": "414",
       "Date": "12/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56868,7 +56308,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "435",
+      "Result": "415",
       "Date": "12/17/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56896,7 +56336,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "436",
+      "Result": "416",
       "Date": "12/17/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56924,7 +56364,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "437",
+      "Result": "417",
       "Date": "12/26/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56952,7 +56392,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "438",
+      "Result": "418",
       "Date": "12/30/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -56980,7 +56420,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "439",
+      "Result": "419",
       "Date": "1/2/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57008,7 +56448,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "440",
+      "Result": "420",
       "Date": "1/12/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57036,7 +56476,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "441",
+      "Result": "421",
       "Date": "1/8/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57064,7 +56504,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "442",
+      "Result": "422",
       "Date": "1/3/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57092,7 +56532,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "443",
+      "Result": "423",
       "Date": "1/6/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57120,7 +56560,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "444",
+      "Result": "424",
       "Date": "1/12/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57148,7 +56588,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "445",
+      "Result": "425",
       "Date": "1/20/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57176,7 +56616,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "446",
+      "Result": "426",
       "Date": "1/21/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57204,7 +56644,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "447",
+      "Result": "427",
       "Date": "1/26/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57232,7 +56672,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "448",
+      "Result": "428",
       "Date": "1/31/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57260,7 +56700,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "449",
+      "Result": "429",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57288,7 +56728,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "450",
+      "Result": "430",
       "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57316,7 +56756,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "451",
+      "Result": "431",
       "Date": "6/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57344,7 +56784,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "452",
+      "Result": "432",
       "Date": "6/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57372,7 +56812,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "453",
+      "Result": "433",
       "Date": "7/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57400,7 +56840,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "454",
+      "Result": "434",
       "Date": "7/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57428,7 +56868,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "455",
+      "Result": "435",
       "Date": "7/16/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57456,7 +56896,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "456",
+      "Result": "436",
       "Date": "7/29/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57484,7 +56924,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "457",
+      "Result": "437",
       "Date": "7/31/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57512,7 +56952,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "458",
+      "Result": "438",
       "Date": "8/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57540,7 +56980,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "459",
+      "Result": "439",
       "Date": "8/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57568,7 +57008,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "460",
+      "Result": "440",
       "Date": "8/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57596,7 +57036,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "461",
+      "Result": "441",
       "Date": "8/14/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57624,7 +57064,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "462",
+      "Result": "442",
       "Date": "8/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57652,7 +57092,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "463",
+      "Result": "443",
       "Date": "8/20/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57680,7 +57120,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "464",
+      "Result": "444",
       "Date": "8/25/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57708,7 +57148,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "465",
+      "Result": "445",
       "Date": "9/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57736,7 +57176,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "466",
+      "Result": "446",
       "Date": "9/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57764,7 +57204,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "467",
+      "Result": "447",
       "Date": "9/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57792,7 +57232,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "468",
+      "Result": "448",
       "Date": "9/12/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57820,7 +57260,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "469",
+      "Result": "449",
       "Date": "9/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -57848,7 +57288,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "470",
+      "Result": "450",
       "Date": "9/23/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57876,7 +57316,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "471",
+      "Result": "451",
       "Date": "9/23/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57904,7 +57344,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "472",
+      "Result": "452",
       "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57932,7 +57372,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "473",
+      "Result": "453",
       "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -57960,7 +57400,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "474",
+      "Result": "454",
       "Date": "10/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -57988,7 +57428,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "475",
+      "Result": "455",
       "Date": "10/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58016,7 +57456,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "476",
+      "Result": "456",
       "Date": "10/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58044,7 +57484,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "477",
+      "Result": "457",
       "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58072,7 +57512,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "478",
+      "Result": "458",
       "Date": "11/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58100,7 +57540,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "479",
+      "Result": "459",
       "Date": "11/4/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -58128,7 +57568,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "480",
+      "Result": "460",
       "Date": "11/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58156,7 +57596,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "481",
+      "Result": "461",
       "Date": "11/13/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58184,7 +57624,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "482",
+      "Result": "462",
       "Date": "11/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58212,7 +57652,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "483",
+      "Result": "463",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58240,7 +57680,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "484",
+      "Result": "464",
       "Date": "12/1/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58268,7 +57708,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "485",
+      "Result": "465",
       "Date": "12/2/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58296,7 +57736,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "486",
+      "Result": "466",
       "Date": "12/2/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Check",
@@ -58324,7 +57764,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "487",
+      "Result": "467",
       "Date": "12/9/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58352,7 +57792,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "488",
+      "Result": "468",
       "Date": "12/15/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58380,7 +57820,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "489",
+      "Result": "469",
       "Date": "1/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58408,7 +57848,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "490",
+      "Result": "470",
       "Date": "1/9/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58436,7 +57876,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "491",
+      "Result": "471",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58464,7 +57904,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "492",
+      "Result": "472",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58492,7 +57932,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "493",
+      "Result": "473",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58520,7 +57960,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "494",
+      "Result": "474",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Debit Card",
@@ -58548,7 +57988,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "495",
+      "Result": "475",
       "Date": "2/1/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58576,7 +58016,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "496",
+      "Result": "476",
       "Date": "4/14/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58604,7 +58044,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "497",
+      "Result": "477",
       "Date": "11/16/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58632,7 +58072,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "498",
+      "Result": "478",
       "Date": "1/11/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Electronic Funds Transfer",
@@ -58660,7 +58100,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "499",
+      "Result": "479",
       "Date": "1/31/2026",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -58688,7 +58128,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "500",
+      "Result": "480",
       "Date": "12/31/2025",
       "Transaction Type": "Expenditure",
       "Payment Type": "Bank Fee",
@@ -58714,6 +58154,566 @@
       "Name": "DeLena Johnson",
       "Report Year": "2026",
       "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "481",
+      "Date": "2/5/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Bank Fee",
+      "Payment Detail": "",
+      "Amount": "$1.30",
+      "Last/Business Name": "Anedot",
+      "First Name": "",
+      "Address": "1340 Poydras St., Ste 1770",
+      "City": "New Orleans",
+      "State": "Louisiana",
+      "Zip": "70112",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Transaction Fee: Membership",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "482",
+      "Date": "2/7/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Bank Fee",
+      "Payment Detail": "",
+      "Amount": "$2.60",
+      "Last/Business Name": "Anedot",
+      "First Name": "",
+      "Address": "1340 Poydras St., Ste 1770",
+      "City": "New Orleans",
+      "State": "Louisiana",
+      "Zip": "70112",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Transaction Fee: Membership",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "483",
+      "Date": "2/10/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Check",
+      "Payment Detail": "2416",
+      "Amount": "$200.00",
+      "Last/Business Name": "Vote Handeland",
+      "First Name": "",
+      "Address": "8709 Plumas Cir",
+      "City": "Eagle River",
+      "State": "Alaska",
+      "Zip": "99577",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Campaign Donation: Election Campaign",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "484",
+      "Date": "2/10/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Check",
+      "Payment Detail": "2417",
+      "Amount": "$200.00",
+      "Last/Business Name": "Flynn for Anchorage",
+      "First Name": "",
+      "Address": "645 G St, St 100 PMB 626",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Campaign Donation: Election Campaign",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "485",
+      "Date": "2/10/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Check",
+      "Payment Detail": "2418",
+      "Amount": "$200.00",
+      "Last/Business Name": "Donley for Alaska",
+      "First Name": "",
+      "Address": "6860 Tondi Ln",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99507",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Campaign Donation: Election Campaign",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "486",
+      "Date": "2/10/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Check",
+      "Payment Detail": "2419",
+      "Amount": "$200.00",
+      "Last/Business Name": "Anderson for Anchorage",
+      "First Name": "",
+      "Address": "PO Box 210183",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99521",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Campaign Donation: Election Campaign",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "487",
+      "Date": "2/10/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Check",
+      "Payment Detail": "2420",
+      "Amount": "$200.00",
+      "Last/Business Name": "Bruce for Anchorage",
+      "First Name": "",
+      "Address": "13301 Messinia St",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99516",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Campaign Donation: Election Campaign",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "488",
+      "Date": "2/13/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Bank Fee",
+      "Payment Detail": "",
+      "Amount": "$1.30",
+      "Last/Business Name": "Anedot",
+      "First Name": "",
+      "Address": "1340 Poydras St., Ste 1770",
+      "City": "New Orleans",
+      "State": "Louisiana",
+      "Zip": "70112",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Transaction Fee: Membership",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "489",
+      "Date": "2/14/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Bank Fee",
+      "Payment Detail": "",
+      "Amount": "$0.80",
+      "Last/Business Name": "Square",
+      "First Name": "",
+      "Address": "1455 Market St., Ste 600",
+      "City": "San Francisco",
+      "State": "California",
+      "Zip": "94103",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Transaction Fee: Membership",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "490",
+      "Date": "2/16/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$100.00",
+      "Last/Business Name": "Alaska Republican Party",
+      "First Name": "",
+      "Address": "PO Box 201049",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99520",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Payment: Monthly Donation",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "491",
+      "Date": "2/24/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Bank Fee",
+      "Payment Detail": "",
+      "Amount": "$1.90",
+      "Last/Business Name": "Anedot",
+      "First Name": "",
+      "Address": "1340 Poydras St., Ste 1770",
+      "City": "New Orleans",
+      "State": "Louisiana",
+      "Zip": "70112",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Transaction Fee: Membership",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "492",
+      "Date": "2/27/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$1,107.00",
+      "Last/Business Name": "Alaska Mini Storage - Wasilla",
+      "First Name": "",
+      "Address": "190 E Paulson Ave, #4",
+      "City": "Wasilla",
+      "State": "Alaska",
+      "Zip": "99654",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Payment: Rental - Storage Unit",
+      "--------": "",
+      "Report Type": "Thirty Day Report",
+      "Election Name": "2026 - Anchorage Municipal Election",
+      "Election Type": "Anchorage Municipal",
+      "Municipality": "Anchorage, City and Borough",
+      "Office": "",
+      "Filer Type": "Group",
+      "Name": "Mat Su Republican Women's Club Est. 1947",
+      "Report Year": "2026",
+      "Submitted": "3/9/2026"
+    },
+    {
+      "Result": "493",
+      "Date": "6/12/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$8.40",
+      "Last/Business Name": "Squarespace",
+      "First Name": "",
+      "Address": "225 Varick St, 12th Floor",
+      "City": "New York",
+      "State": "New York",
+      "Zip": "10014",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Google Workspace",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Calvin Schrage",
+      "Report Year": "2026",
+      "Submitted": "2/14/2026"
+    },
+    {
+      "Result": "494",
+      "Date": "1/19/2026",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Electronic Funds Transfer",
+      "Payment Detail": "",
+      "Amount": "$698.18",
+      "Last/Business Name": "Anedot",
+      "First Name": "",
+      "Address": "1340 Poydras St #1770",
+      "City": "New Orleans",
+      "State": "Louisiana",
+      "Zip": "70112",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Credit card processing fees this cycle",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Calvin Schrage",
+      "Report Year": "2026",
+      "Submitted": "2/14/2026"
+    },
+    {
+      "Result": "495",
+      "Date": "7/12/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$8.40",
+      "Last/Business Name": "Squarespace",
+      "First Name": "",
+      "Address": "225 Varick St, 12th Floor",
+      "City": "New York",
+      "State": "New York",
+      "Zip": "10014",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Google Workspace",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Calvin Schrage",
+      "Report Year": "2026",
+      "Submitted": "2/14/2026"
+    },
+    {
+      "Result": "496",
+      "Date": "8/12/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$8.40",
+      "Last/Business Name": "Squarespace",
+      "First Name": "",
+      "Address": "225 Varick St, 12th Floor",
+      "City": "New York",
+      "State": "New York",
+      "Zip": "10014",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Google Workspace",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Calvin Schrage",
+      "Report Year": "2026",
+      "Submitted": "2/14/2026"
+    },
+    {
+      "Result": "497",
+      "Date": "8/13/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$192.00",
+      "Last/Business Name": "Squarespace",
+      "First Name": "",
+      "Address": "225 Varick St, 12th Floor",
+      "City": "New York",
+      "State": "New York",
+      "Zip": "10014",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Website fee",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Calvin Schrage",
+      "Report Year": "2026",
+      "Submitted": "2/14/2026"
+    },
+    {
+      "Result": "498",
+      "Date": "8/28/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$15.00",
+      "Last/Business Name": "Squarespace",
+      "First Name": "",
+      "Address": "225 Varick St, 12th Floor",
+      "City": "New York",
+      "State": "New York",
+      "Zip": "10014",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Domain",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Calvin Schrage",
+      "Report Year": "2026",
+      "Submitted": "2/14/2026"
+    },
+    {
+      "Result": "499",
+      "Date": "8/28/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$15.00",
+      "Last/Business Name": "Squarespace",
+      "First Name": "",
+      "Address": "225 Varick St, 12th Floor",
+      "City": "New York",
+      "State": "New York",
+      "Zip": "10014",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Domain",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Calvin Schrage",
+      "Report Year": "2026",
+      "Submitted": "2/14/2026"
+    },
+    {
+      "Result": "500",
+      "Date": "9/12/2025",
+      "Transaction Type": "Expenditure",
+      "Payment Type": "Debit Card",
+      "Payment Detail": "",
+      "Amount": "$8.40",
+      "Last/Business Name": "Squarespace",
+      "First Name": "",
+      "Address": "225 Varick St, 12th Floor",
+      "City": "New York",
+      "State": "New York",
+      "Zip": "10014",
+      "Country": "USA",
+      "Occupation": "",
+      "Employer": "",
+      "Purpose of Expenditure": "Google Workspace",
+      "--------": "",
+      "Report Type": "Year Start Report",
+      "Election Name": "2026 - State Primary",
+      "Election Type": "State Primary",
+      "Municipality": "",
+      "Office": "House",
+      "Filer Type": "Candidate",
+      "Name": "Calvin Schrage",
+      "Report Year": "2026",
+      "Submitted": "2/14/2026"
     }
   ],
   "group_registration": [

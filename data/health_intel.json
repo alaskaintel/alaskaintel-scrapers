@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-02T13:18:52.677736",
+    "last_synced": "2026-07-03T13:19:06.853537",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,18 +14,33 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 18
+    "total_alerts": 20
   },
   "alerts": [
     {
-      "id": "https://alaskabeacon.com/?post_type=republished&p=27022",
+      "id": "https://alaskabeacon.com/?post_type=republished&p=27093",
       "type": "health_alert",
       "source": "Alaska Beacon",
       "tier": 1,
-      "title": "Federal health agency cancels most of its teen pregnancy prevention grants",
-      "description": "A spokesperson for U.S. Health and Human Services confirmed to Stateline on Friday that the agency is canceling 53 out of 67 grants, worth about $68 million, under the Teen Pregnancy Prevention Program, affecting grantees in more than two dozen states. A list obtained by Stateline of canceled grants includes those awarded to universities, community [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/06/29/repub/federal-health-agency-cancels-most-of-its-teen-pregnancy-prevention-grants/",
-      "published": "Mon, 29 Jun 2026 22:15:19 +0000",
+      "title": "America\u2019s 250th birthday is on sale. Where\u2019s all that merch money going?",
+      "description": "WASHINGTON \u2014 What&#8217;s more American than apple pie? Capitalism. And an array of merchandise and influence is on sale for the 250th birthday of the United States. An America250 $275 Liberty Lux American Prosperity decorative throw pillow, anyone? How about a $25 Freedom 250 youth tee? America250, a commission\u00a0created by Congress a decade ago, and [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/07/02/repub/americas-250th-birthday-is-on-sale-wheres-all-that-merch-money-going/",
+      "published": "Thu, 02 Jul 2026 21:00:49 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "outbreak",
+      "impact": "statewide",
+      "action": "review transmission risk"
+    },
+    {
+      "id": "https://alaskabeacon.com/?post_type=republished&p=27083",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Medicaid again to cover non-abortion care at Planned Parenthood as GOP ban ends",
+      "description": "WASHINGTON \u2014 Republicans celebrated last year when they barred Medicaid payments from going to Planned Parenthood for one year, predicting the financial impact would hollow out the organization.\u00a0 A year later, with that section of the \u201cbig, beautiful\u201d law set to expire July 4, GOP lawmakers are trying to find a way to keep the [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/07/02/repub/medicaid-again-to-cover-non-abortion-care-at-planned-parenthood-as-gop-ban-ends/",
+      "published": "Thu, 02 Jul 2026 17:30:23 +0000",
       "region": "statewide",
       "severity": "low",
       "category": "policy",
@@ -273,18 +288,33 @@
       "action": "monitor"
     },
     {
-      "id": "https://www.homernews.com/?p=82433",
+      "id": "https://www.juneauempire.com/?p=133101",
+      "type": "health_alert",
+      "source": "Juneau Empire",
+      "tier": 3,
+      "title": "OPINION: Alaska has a rare opportunity to transform rural health",
+      "description": "<p>When people hear that Alaska has been awarded $272 million per year for five years through the Rural Health Transformation Program, one of the first questions they ask is simple: What are we going to do with it?</p>",
+      "link": "https://www.juneauempire.com/2026/07/02/opinion-alaska-has-a-rare-opportunity-to-transform-rural-health/",
+      "published": "Thu, 02 Jul 2026 18:30:00 +0000",
+      "region": "rural / tribal communities",
+      "severity": "low",
+      "category": "policy",
+      "impact": "rural / tribal communities",
+      "action": "assess legislative impact"
+    },
+    {
+      "id": "https://www.homernews.com/?p=82524",
       "type": "health_alert",
       "source": "Homer News",
       "tier": 3,
-      "title": "Homer Pet of the Week: Hunter",
-      "description": "<p>Hunter loves the mellow side of life, and is patiently waiting for his furever family to find him </p>",
-      "link": "https://www.homernews.com/2026/06/25/homer-pet-of-the-week-hunter/",
-      "published": "Thu, 25 Jun 2026 13:30:00 +0000",
-      "region": "statewide",
+      "title": "OPINION: Alaska has a rare opportunity to transform rural health",
+      "description": "<p>When people hear that Alaska has been awarded $272 million per year for five years through the Rural Health Transformation Program, one of the first questions they ask is simple: What are we going to do with it?</p>",
+      "link": "https://www.homernews.com/2026/07/02/opinion-alaska-has-a-rare-opportunity-to-transform-rural-health/",
+      "published": "Thu, 02 Jul 2026 18:30:00 +0000",
+      "region": "rural / tribal communities",
       "severity": "low",
       "category": "policy",
-      "impact": "statewide",
+      "impact": "rural / tribal communities",
       "action": "assess legislative impact"
     }
   ]
