@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-05T12:45:28.213738",
+    "last_synced": "2026-07-07T13:44:11.922080",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,9 +14,24 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 18
+    "total_alerts": 21
   },
   "alerts": [
+    {
+      "id": "https://alaskabeacon.com/?p=27132",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "New disease threats follow Trump administration\u2019s health program cuts",
+      "description": "As beachgoers flock to water during the busy July Fourth weekend, danger could be lurking in some areas. Researchers this spring discovered flesh-eating bacteria in water in several coastal locations across New York\u2019s Long Island, and town officials in the Hamptons vacation destination posted an alert about the findings. Eight people in Florida have been [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/07/06/new-disease-threats-follow-trump-administrations-health-program-cuts/",
+      "published": "Mon, 06 Jul 2026 18:30:10 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "outbreak",
+      "impact": "statewide",
+      "action": "review transmission risk"
+    },
     {
       "id": "https://alaskabeacon.com/?post_type=republished&p=27093",
       "type": "health_alert",
@@ -273,6 +288,21 @@
       "action": "assess legislative impact"
     },
     {
+      "id": "https://www.homernews.com/?p=82559",
+      "type": "health_alert",
+      "source": "Homer News",
+      "tier": 3,
+      "title": "PopUp Clinic brings free medical services to Homer residents in need",
+      "description": "<p>Homer PopUp Clinic offers services on Mondays at the Homer United Methodist Church </p>",
+      "link": "https://www.homernews.com/2026/07/07/popup-clinic-brings-free-medical-services-to-homer-residents-in-need/",
+      "published": "Tue, 07 Jul 2026 12:30:00 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "hospital",
+      "impact": "statewide",
+      "action": "monitor"
+    },
+    {
       "id": "https://www.homernews.com/?p=82524",
       "type": "health_alert",
       "source": "Homer News",
@@ -285,6 +315,21 @@
       "severity": "low",
       "category": "policy",
       "impact": "rural / tribal communities",
+      "action": "assess legislative impact"
+    },
+    {
+      "id": "https://alaska-native-news.com/?p=84971",
+      "type": "health_alert",
+      "source": "Alaska Native News",
+      "tier": 3,
+      "title": "UPDATE: Coast Guard responds to helicopter crash in Sitka",
+      "description": "JUNEAU \u2014 The Coast Guard is actively investigating the helicopter crash on Harbor Mountain\u00a0that occurred June 22, 2026. The four crew members involved in the crash were treated for minor injuries and released from Mt. Edgecumbe Medical Center the same day. The crash occurred approximately 1,500 feet on the south side of Harbor Mountain. Several [&#8230;]",
+      "link": "https://alaska-native-news.com/update-coast-guard-responds-to-helicopter-crash-in-sitka/84971/",
+      "published": "Mon, 06 Jul 2026 14:04:35 +0000",
+      "region": "regional hubs",
+      "severity": "low",
+      "category": "policy",
+      "impact": "regional hubs",
       "action": "assess legislative impact"
     }
   ]
