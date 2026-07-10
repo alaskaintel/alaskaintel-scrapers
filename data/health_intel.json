@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-09T14:17:20.966046",
+    "last_synced": "2026-07-10T13:30:05.905563",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,9 +14,24 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 20
+    "total_alerts": 21
   },
   "alerts": [
+    {
+      "id": "https://alaskabeacon.com/?p=27211",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Partnership launched to bring veterinary care to rural Alaska",
+      "description": "For years, rural Alaska communities have struggled with out-of-control dog populations that pose dangers to children, and diseases circulating through wildlife that can spill over into pets and people. And for years, the Alaska Federation of Natives has asked policy makers to help address the situation by extending veterinary services that residents say are desperately [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/07/09/partnership-launched-to-bring-veterinary-care-to-rural-alaska/",
+      "published": "Thu, 09 Jul 2026 18:50:49 +0000",
+      "region": "rural / tribal communities",
+      "severity": "medium",
+      "category": "outbreak",
+      "impact": "rural / tribal communities",
+      "action": "review transmission risk"
+    },
     {
       "id": "https://alaskabeacon.com/?p=27172",
       "type": "health_alert",
@@ -198,12 +213,27 @@
       "action": "assess legislative impact"
     },
     {
+      "id": "24383 at https://www.nomenugget.net",
+      "type": "health_alert",
+      "source": "Nome Nugget",
+      "tier": 3,
+      "title": "Graphite One: Permitting process now requires Environmental Impact Statement rather than Environmental Assessment",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-1\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_kigsminesite_0.jpg...",
+      "link": "https://www.nomenugget.net/news/graphite-one-permitting-process-now-requires-environmental-impact-statement-rather",
+      "published": "Fri, 10 Jul 2026 03:11:55 +0000",
+      "region": "rural / tribal communities",
+      "severity": "high",
+      "category": "policy",
+      "impact": "rural / tribal communities",
+      "action": "immediate review required"
+    },
+    {
       "id": "24382 at https://www.nomenugget.net",
       "type": "health_alert",
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome celebrates Independence Day under sunny skies",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-1\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cNH_Parade%2...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cNH_Parade%2...",
       "link": "https://www.nomenugget.net/news/nome-celebrates-independence-day-under-sunny-skies",
       "published": "Thu, 09 Jul 2026 05:13:46 +0000",
       "region": "statewide",
@@ -213,19 +243,19 @@
       "action": "immediate review required"
     },
     {
-      "id": "24365 at https://www.nomenugget.net",
+      "id": "https://www.homernews.com/?p=82606",
       "type": "health_alert",
-      "source": "Nome Nugget",
+      "source": "Homer News",
       "tier": 3,
-      "title": "Grand jury indicts man on 47 counts of sexual abuse crimes",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cAST_ULRIC-JEFFERY-ULR...",
-      "link": "https://www.nomenugget.net/news/grand-jury-indicts-man-47-counts-sexual-abuse-crimes",
-      "published": "Wed, 01 Jul 2026 09:07:53 +0000",
-      "region": "rural / tribal communities",
+      "title": "3 sent to hospital after tornado touches down near Alberta-Saskatchewan border",
+      "description": "<p>Dillberry Lake Provincial Campground evacuated Wednesday evening, July 8 </p>",
+      "link": "https://www.homernews.com/2026/07/09/3-sent-to-hospital-after-tornado-touches-down-near-alberta-saskatchewan-border/",
+      "published": "Fri, 10 Jul 2026 00:44:00 +0000",
+      "region": "statewide",
       "severity": "medium",
-      "category": "policy",
-      "impact": "rural / tribal communities",
-      "action": "assess legislative impact"
+      "category": "hospital",
+      "impact": "statewide",
+      "action": "monitor"
     },
     {
       "id": "24376 at https://www.nomenugget.net",
@@ -233,7 +263,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome has a new cab service",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_soske_billie_ashle...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_soske_billie_ashle...",
       "link": "https://www.nomenugget.net/news/nome-has-new-cab-service",
       "published": "Thu, 09 Jul 2026 04:31:50 +0000",
       "region": "statewide",
@@ -248,7 +278,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nicholai Olson wins Anvil Mountain Run",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_anvil_...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_anvil_...",
       "link": "https://www.nomenugget.net/sports/nicholai-olson-wins-anvil-mountain-run",
       "published": "Thu, 09 Jul 2026 04:25:26 +0000",
       "region": "statewide",
@@ -301,21 +331,6 @@
       "category": "hospital",
       "impact": "statewide",
       "action": "monitor"
-    },
-    {
-      "id": "https://alaska-native-news.com/?p=85011",
-      "type": "health_alert",
-      "source": "Alaska Native News",
-      "tier": 3,
-      "title": "Involving Alaska\u2019s rural communities in air quality monitoring",
-      "description": "Micah Hahn, M.P.H., Ph.D., associate professor of environmental health in UAA\u2019s\u00a0Institute for Circumpolar Health Studies, is the principal investigator and a co-author on a scientific paper published in May in the journal Environmental Research: Health. The paper, titled \u201cCommunity-based low-cost air monitoring for wildfire smoke resilience: an implementation science evaluation in rural Alaska,\u201d is currently [&#8230;]",
-      "link": "https://alaska-native-news.com/involving-alaskas-rural-communities-in-air-quality-monitoring/85011/",
-      "published": "Wed, 08 Jul 2026 14:03:28 +0000",
-      "region": "rural / tribal communities",
-      "severity": "low",
-      "category": "policy",
-      "impact": "rural / tribal communities",
-      "action": "assess legislative impact"
     }
   ]
 }
