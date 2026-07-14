@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-13T13:34:40.165855",
+    "last_synced": "2026-07-14T12:38:16.976843",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,24 +14,9 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 20
+    "total_alerts": 19
   },
   "alerts": [
-    {
-      "id": "https://alaskabeacon.com/?p=27211",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Partnership launched to bring veterinary care to rural Alaska",
-      "description": "For years, rural Alaska communities have struggled with out-of-control dog populations that pose dangers to children, and diseases circulating through wildlife that can spill over into pets and people. And for years, the Alaska Federation of Natives has asked policy makers to help address the situation by extending veterinary services that residents say are desperately [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/07/09/partnership-launched-to-bring-veterinary-care-to-rural-alaska/",
-      "published": "Thu, 09 Jul 2026 18:50:49 +0000",
-      "region": "rural / tribal communities",
-      "severity": "medium",
-      "category": "outbreak",
-      "impact": "rural / tribal communities",
-      "action": "review transmission risk"
-    },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
       "type": "health_alert",
