@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-14T12:38:16.976843",
+    "last_synced": "2026-07-15T12:44:08.079022",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -17,6 +17,21 @@
     "total_alerts": 19
   },
   "alerts": [
+    {
+      "id": "https://alaskabeacon.com/?p=27312",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Haunted by Halong",
+      "description": "This story was produced by The Margin with support from the Anchorage Press and co-published by KYUK. Jess Zhang\u00a0reported this story while participating in USC Annenberg\u2019s Center for Health Journalism and Center for Climate Journalism and Communication 2025 Health and Climate Change Reporting Fellowship.\u00a0 Please note this article contains mention of suicide.\u00a0If you are in [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/07/14/haunted-by-halong/",
+      "published": "Tue, 14 Jul 2026 16:49:44 +0000",
+      "region": "regional hubs",
+      "severity": "low",
+      "category": "policy",
+      "impact": "regional hubs",
+      "action": "assess legislative impact"
+    },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
       "type": "health_alert",
@@ -286,21 +301,6 @@
       "category": "policy",
       "impact": "regional hubs",
       "action": "assess legislative impact"
-    },
-    {
-      "id": "https://www.homernews.com/?p=82559",
-      "type": "health_alert",
-      "source": "Homer News",
-      "tier": 3,
-      "title": "PopUp Clinic brings free medical services to Homer residents in need",
-      "description": "<p>Homer PopUp Clinic offers services on Mondays at the Homer United Methodist Church </p>",
-      "link": "https://www.homernews.com/2026/07/07/popup-clinic-brings-free-medical-services-to-homer-residents-in-need/",
-      "published": "Tue, 07 Jul 2026 12:30:00 +0000",
-      "region": "statewide",
-      "severity": "low",
-      "category": "hospital",
-      "impact": "statewide",
-      "action": "monitor"
     }
   ]
 }
