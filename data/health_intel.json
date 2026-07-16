@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-15T12:44:08.079022",
+    "last_synced": "2026-07-16T12:47:18.555658",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,9 +14,24 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 19
+    "total_alerts": 22
   },
   "alerts": [
+    {
+      "id": "https://alaskabeacon.com/?post_type=republished&p=27333",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Salad greens scrutinized as cyclosporiasis outbreak spreads",
+      "description": "As state and federal officials work to identify the source of the recent outbreak of the intestinal illness cyclosporiasis, Michigan health officials have identified lettuces or salad greens as one potential culprit. \u201cEarly information has shown lettuce as a common product that regularly comes up during the investigation,\u201d said Dr. Natasha Bagdasarian, chief medical executive [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/07/15/repub/salad-greens-scrutinized-as-cyclosporiasis-outbreak-spreads/",
+      "published": "Wed, 15 Jul 2026 18:55:10 +0000",
+      "region": "statewide",
+      "severity": "high",
+      "category": "outbreak",
+      "impact": "statewide",
+      "action": "immediate review required"
+    },
     {
       "id": "https://alaskabeacon.com/?p=27312",
       "type": "health_alert",
@@ -183,12 +198,27 @@
       "action": "assess legislative impact"
     },
     {
+      "id": "24391 at https://www.nomenugget.net",
+      "type": "health_alert",
+      "source": "Nome Nugget",
+      "tier": 3,
+      "title": "Common Council hears of Nome\u2019s growing pains",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_nccjuly13_2026.JPG...",
+      "link": "https://www.nomenugget.net/news/common-council-hears-nome%E2%80%99s-growing-pains",
+      "published": "Thu, 16 Jul 2026 03:00:31 +0000",
+      "region": "rural / tribal communities",
+      "severity": "high",
+      "category": "hospital",
+      "impact": "rural / tribal communities",
+      "action": "immediate review required"
+    },
+    {
       "id": "24383 at https://www.nomenugget.net",
       "type": "health_alert",
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Graphite One: Permitting process now requires Environmental Impact Statement rather than Environmental Assessment",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-1\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_kigsminesite_0.jpg...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_kigsminesite_0.jpg...",
       "link": "https://www.nomenugget.net/news/graphite-one-permitting-process-now-requires-environmental-impact-statement-rather",
       "published": "Fri, 10 Jul 2026 03:11:55 +0000",
       "region": "rural / tribal communities",
@@ -203,7 +233,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome celebrates Independence Day under sunny skies",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cNH_Parade%2...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-6\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cNH_Parade%2...",
       "link": "https://www.nomenugget.net/news/nome-celebrates-independence-day-under-sunny-skies",
       "published": "Thu, 09 Jul 2026 05:13:46 +0000",
       "region": "statewide",
@@ -211,6 +241,36 @@
       "category": "hospital",
       "impact": "statewide",
       "action": "immediate review required"
+    },
+    {
+      "id": "https://alaska-native-news.com/?p=85130",
+      "type": "health_alert",
+      "source": "Alaska Native News",
+      "tier": 3,
+      "title": "Providing career preparation and professional development rooted in Alutiiq culture and values",
+      "description": "&#160; Students can now earn an\u00a0Occupational Endorsement Certificate (OEC) in Alutiiq Language\u00a0or an\u00a0Associate of Arts in Alaska Native Studies.\u00a0These programs are ideal for individuals working in language programs, teachers, and employees in tribes, Native organizations and Native corporations. The Associate of Arts (AA) in Alaska Native Studies provides students with a critical and dynamic perspective [&#8230;]",
+      "link": "https://alaska-native-news.com/providing-career-preparation-and-professional-development-rooted-in-alutiiq-culture-and-values/85130/",
+      "published": "Wed, 15 Jul 2026 14:03:30 +0000",
+      "region": "statewide",
+      "severity": "high",
+      "category": "policy",
+      "impact": "statewide",
+      "action": "immediate review required"
+    },
+    {
+      "id": "24396 at https://www.nomenugget.net",
+      "type": "health_alert",
+      "source": "Nome Nugget",
+      "tier": 3,
+      "title": "American Pipit\u2013\u2013Tougher than they look",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-1\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20190518_persons_8594.jp...",
+      "link": "https://www.nomenugget.net/birder%E2%80%99s-notebook/american-pipit%E2%80%93%E2%80%93tougher-they-look",
+      "published": "Thu, 16 Jul 2026 04:15:40 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "outbreak",
+      "impact": "statewide",
+      "action": "review transmission risk"
     },
     {
       "id": "https://www.homernews.com/2026/07/10/south-peninsula-hospital-in-homer-celebrates-70-years/",
@@ -248,24 +308,9 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome has a new cab service",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_soske_billie_ashle...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_soske_billie_ashle...",
       "link": "https://www.nomenugget.net/news/nome-has-new-cab-service",
       "published": "Thu, 09 Jul 2026 04:31:50 +0000",
-      "region": "statewide",
-      "severity": "low",
-      "category": "policy",
-      "impact": "statewide",
-      "action": "assess legislative impact"
-    },
-    {
-      "id": "24374 at https://www.nomenugget.net",
-      "type": "health_alert",
-      "source": "Nome Nugget",
-      "tier": 3,
-      "title": "Nicholai Olson wins Anvil Mountain Run",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_anvil_...",
-      "link": "https://www.nomenugget.net/sports/nicholai-olson-wins-anvil-mountain-run",
-      "published": "Thu, 09 Jul 2026 04:25:26 +0000",
       "region": "statewide",
       "severity": "low",
       "category": "policy",
