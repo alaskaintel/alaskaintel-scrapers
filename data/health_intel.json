@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-16T12:47:18.555658",
+    "last_synced": "2026-07-17T12:27:18.663187",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,7 +14,7 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 22
+    "total_alerts": 21
   },
   "alerts": [
     {
@@ -31,21 +31,6 @@
       "category": "outbreak",
       "impact": "statewide",
       "action": "immediate review required"
-    },
-    {
-      "id": "https://alaskabeacon.com/?p=27312",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Haunted by Halong",
-      "description": "This story was produced by The Margin with support from the Anchorage Press and co-published by KYUK. Jess Zhang\u00a0reported this story while participating in USC Annenberg\u2019s Center for Health Journalism and Center for Climate Journalism and Communication 2025 Health and Climate Change Reporting Fellowship.\u00a0 Please note this article contains mention of suicide.\u00a0If you are in [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/07/14/haunted-by-halong/",
-      "published": "Tue, 14 Jul 2026 16:49:44 +0000",
-      "region": "regional hubs",
-      "severity": "low",
-      "category": "policy",
-      "impact": "regional hubs",
-      "action": "assess legislative impact"
     },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
@@ -71,6 +56,21 @@
       "description": "<p>Did you know that the human papillomarvirus vaccine can save lives? HPV is one of the most common sexually transmitted infections in the world, with millions of new cases occurring each year. While many people with HPV never develop symptoms and clear the virus on their own, some strains of HPV can lead to serious health issues, including cervical cancer, anal cancer, and cancers of the throat, penis, vulva, and vagina. The good news? These conditions are often preventable through routine scr...",
       "link": "https://www.southcentralfoundation.com/screening-for-hpv-protecting-health-through-early-detection/",
       "published": "Fri, 15 Aug 2025 18:29:24 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "outbreak",
+      "impact": "statewide",
+      "action": "review transmission risk"
+    },
+    {
+      "id": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766004&_=CE960A77B15856453BD626B23D26B1E1620217F269F73F580E1AFF3439A4641B",
+      "type": "health_alert",
+      "source": "CDC MMWR",
+      "tier": 2,
+      "title": "Increase in Disseminated Gonococcal Infections - Alaska, 2023-2024",
+      "description": "Meta Description: This report describes 35 cases of disseminated gonococcal infection reported in Alaska during 2023-2024.",
+      "link": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766004",
+      "published": "Thu, 16 Jul 2026 17:00:00 GMT",
       "region": "statewide",
       "severity": "medium",
       "category": "outbreak",
@@ -318,29 +318,14 @@
       "action": "assess legislative impact"
     },
     {
-      "id": "https://www.juneauempire.com/2026/07/08/urban-alaskas-high-costs-of-living-driven-by-health-care-and-groceries/",
+      "id": "https://www.juneauempire.com/?p=133216",
       "type": "health_alert",
       "source": "Juneau Empire",
       "tier": 3,
-      "title": "Urban Alaska\u2019s high costs of living driven by health care and groceries",
-      "description": "<p>Juneau is the costliest of the state&#8217;s three major cities, followed by Anchorage and Fairbanks, according to the annual analysis by the Alaska Department of Labor </p>",
-      "link": "https://www.juneauempire.com/2026/07/08/urban-alaskas-high-costs-of-living-driven-by-health-care-and-groceries/",
-      "published": "Wed, 08 Jul 2026 19:39:00 +0000",
-      "region": "regional hubs",
-      "severity": "low",
-      "category": "policy",
-      "impact": "regional hubs",
-      "action": "assess legislative impact"
-    },
-    {
-      "id": "https://www.homernews.com/2026/07/08/urban-alaskas-high-costs-of-living-driven-by-health-care-and-groceries/",
-      "type": "health_alert",
-      "source": "Homer News",
-      "tier": 3,
-      "title": "Urban Alaska\u2019s high costs of living driven by health care and groceries",
-      "description": "<p>Juneau is the costliest of the state&#8217;s three major cities, followed by Anchorage and Fairbanks, according to the annual analysis by the Alaska Department of Labor </p>",
-      "link": "https://www.homernews.com/2026/07/08/urban-alaskas-high-costs-of-living-driven-by-health-care-and-groceries/",
-      "published": "Wed, 08 Jul 2026 19:39:00 +0000",
+      "title": "MY TURN: Packing some Alaska art and philosophy for a Swiss writing retreat",
+      "description": "<p>The first week of July I called Juneau artist Bill Spear&#8217;s <a href=\"https://wmspear.com/catalog.php\" target=\"_blank\">order phone number</a>. Josh answered. He&#8217;s a real person&#8212;helpful, good sense of humor. I suspect he&#8217;s much younger than I (a statistically good bet) but he listened patiently as I waxed nostalgic about talking to a human. Then he took my order for 10 Bill Spear <a href=\"https://wmspear.com/item.php?cat=1&#038;item=476\" target=\"_blank\">&#8220;Write Hard ...",
+      "link": "https://www.juneauempire.com/2026/07/16/my-turn-packing-some-alaska-art-and-philosophy-for-a-swiss-writing-retreat/",
+      "published": "Thu, 16 Jul 2026 13:30:00 +0000",
       "region": "regional hubs",
       "severity": "low",
       "category": "policy",
