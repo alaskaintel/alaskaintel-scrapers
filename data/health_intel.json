@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-21T12:57:04.029224",
+    "last_synced": "2026-07-22T13:08:51.233985",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,24 +14,9 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 20
+    "total_alerts": 17
   },
   "alerts": [
-    {
-      "id": "https://alaskabeacon.com/?post_type=republished&p=27482",
-      "type": "health_alert",
-      "source": "Alaska Beacon",
-      "tier": 1,
-      "title": "Taco Bell removing lettuce nationwide linked to cyclosporiasis in 5 states",
-      "description": "WASHINGTON \u2014 The Centers for Disease Control and Prevention announced Friday that public health officials have linked the ongoing outbreak of cyclosporiasis in five states to shredded iceberg lettuce from Taco Bell restaurants. The fast food chain wrote in a statement that it plans to remove the \u201cpotentially impacted lettuce\u201d from its \u201csupply chain nationwide [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/07/17/repub/taco-bell-removing-lettuce-nationwide-linked-to-cyclosporiasis-in-5-states/",
-      "published": "Fri, 17 Jul 2026 19:00:49 +0000",
-      "region": "statewide",
-      "severity": "high",
-      "category": "outbreak",
-      "impact": "statewide",
-      "action": "immediate review required"
-    },
     {
       "id": "https://alaskabeacon.com/?p=27512",
       "type": "health_alert",
@@ -218,7 +203,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Common Council hears of Nome\u2019s growing pains",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-4\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_nccjuly13_2026.JPG...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_nccjuly13_2026.JPG...",
       "link": "https://www.nomenugget.net/news/common-council-hears-nome%E2%80%99s-growing-pains",
       "published": "Thu, 16 Jul 2026 03:00:31 +0000",
       "region": "rural / tribal communities",
@@ -233,7 +218,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Graphite One: Permitting process now requires Environmental Impact Statement rather than Environmental Assessment",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-6\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_kigsminesite_0.jpg...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_kigsminesite_0.jpg...",
       "link": "https://www.nomenugget.net/news/graphite-one-permitting-process-now-requires-environmental-impact-statement-rather",
       "published": "Fri, 10 Jul 2026 03:11:55 +0000",
       "region": "rural / tribal communities",
@@ -248,7 +233,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Nome celebrates Independence Day under sunny skies",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cNH_Parade%2...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cNH_Parade%2...",
       "link": "https://www.nomenugget.net/news/nome-celebrates-independence-day-under-sunny-skies",
       "published": "Thu, 09 Jul 2026 05:13:46 +0000",
       "region": "statewide",
@@ -263,7 +248,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "American Pipit\u2013\u2013Tougher than they look",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20190518_persons_8594.jp...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20190518_persons_8594.jp...",
       "link": "https://www.nomenugget.net/birder%E2%80%99s-notebook/american-pipit%E2%80%93%E2%80%93tougher-they-look",
       "published": "Thu, 16 Jul 2026 04:15:40 +0000",
       "region": "statewide",
@@ -271,36 +256,6 @@
       "category": "outbreak",
       "impact": "statewide",
       "action": "review transmission risk"
-    },
-    {
-      "id": "https://www.homernews.com/2026/07/10/south-peninsula-hospital-in-homer-celebrates-70-years/",
-      "type": "health_alert",
-      "source": "Homer News",
-      "tier": 3,
-      "title": "South Peninsula Hospital in Homer celebrates 70 years",
-      "description": "<p>The hospital held a community celebration to mark the milestone </p>",
-      "link": "https://www.homernews.com/2026/07/10/south-peninsula-hospital-in-homer-celebrates-70-years/",
-      "published": "Fri, 10 Jul 2026 21:30:00 +0000",
-      "region": "statewide",
-      "severity": "medium",
-      "category": "hospital",
-      "impact": "statewide",
-      "action": "monitor"
-    },
-    {
-      "id": "https://www.homernews.com/?p=82606",
-      "type": "health_alert",
-      "source": "Homer News",
-      "tier": 3,
-      "title": "3 sent to hospital after tornado touches down near Alberta-Saskatchewan border",
-      "description": "<p>Dillberry Lake Provincial Campground evacuated Wednesday evening, July 8 </p>",
-      "link": "https://www.homernews.com/2026/07/09/3-sent-to-hospital-after-tornado-touches-down-near-alberta-saskatchewan-border/",
-      "published": "Fri, 10 Jul 2026 00:44:00 +0000",
-      "region": "statewide",
-      "severity": "medium",
-      "category": "hospital",
-      "impact": "statewide",
-      "action": "monitor"
     },
     {
       "id": "https://www.juneauempire.com/?p=133216",
