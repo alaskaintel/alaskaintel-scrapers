@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-22T13:08:51.233985",
+    "last_synced": "2026-07-23T12:48:17.185709",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,23 +14,23 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 17
+    "total_alerts": 18
   },
   "alerts": [
     {
-      "id": "https://alaskabeacon.com/?p=27512",
+      "id": "https://alaskabeacon.com/?post_type=briefs&p=27622",
       "type": "health_alert",
       "source": "Alaska Beacon",
       "tier": 1,
-      "title": "Syphilis infections a rising threat for Alaska newborns, health officials report",
-      "description": "More Alaska babies were born infected with syphilis last year than in any recent year, state health officials reported. It is a trend that comes as the state continues to have high rates of the sexually transmitted disease.\u00a0 In 2025, 14 Alaska newborns had congenital syphilis, cases in which infections are transmitted to babies by [&#8230;]",
-      "link": "https://alaskabeacon.com/2026/07/20/syphilis-infections-a-rising-threat-for-alaska-newborns-health-officials-report/",
-      "published": "Mon, 20 Jul 2026 13:45:19 +0000",
-      "region": "statewide",
-      "severity": "medium",
-      "category": "outbreak",
-      "impact": "statewide",
-      "action": "review transmission risk"
+      "title": "Alaska Native Tribal Health Consortium to get $400 million in federal settlement",
+      "description": "The federal government has agreed to pay the Alaska Native Tribal Health Consortium $400 million to settle claims of inadequate cost coverage over several years. The settlement, announced on Tuesday by the U.S. Justice Department, stems from a lawsuit filed by the nonprofit tribal health group in 2021 against the Department of Health and Human [&#8230;]",
+      "link": "https://alaskabeacon.com/briefs/alaska-native-tribal-health-consortium-to-get-400-million-in-federal-settlement/",
+      "published": "Wed, 22 Jul 2026 18:00:46 +0000",
+      "region": "rural / tribal communities",
+      "severity": "low",
+      "category": "policy",
+      "impact": "rural / tribal communities",
+      "action": "assess legislative impact"
     },
     {
       "id": "https://www.southcentralfoundation.com/?p=79808",
@@ -203,7 +203,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Common Council hears of Nome\u2019s growing pains",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_nccjuly13_2026.JPG...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_nccjuly13_2026.JPG...",
       "link": "https://www.nomenugget.net/news/common-council-hears-nome%E2%80%99s-growing-pains",
       "published": "Thu, 16 Jul 2026 03:00:31 +0000",
       "region": "rural / tribal communities",
@@ -213,34 +213,19 @@
       "action": "immediate review required"
     },
     {
-      "id": "24383 at https://www.nomenugget.net",
+      "id": "24402 at https://www.nomenugget.net",
       "type": "health_alert",
       "source": "Nome Nugget",
       "tier": 3,
-      "title": "Graphite One: Permitting process now requires Environmental Impact Statement rather than Environmental Assessment",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_kigsminesite_0.jpg...",
-      "link": "https://www.nomenugget.net/news/graphite-one-permitting-process-now-requires-environmental-impact-statement-rather",
-      "published": "Fri, 10 Jul 2026 03:11:55 +0000",
-      "region": "rural / tribal communities",
-      "severity": "high",
-      "category": "policy",
-      "impact": "rural / tribal communities",
-      "action": "immediate review required"
-    },
-    {
-      "id": "24382 at https://www.nomenugget.net",
-      "type": "health_alert",
-      "source": "Nome Nugget",
-      "tier": 3,
-      "title": "Nome celebrates Independence Day under sunny skies",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cNH_Parade%2...",
-      "link": "https://www.nomenugget.net/news/nome-celebrates-independence-day-under-sunny-skies",
-      "published": "Thu, 09 Jul 2026 05:13:46 +0000",
+      "title": "Ships bound for Northwest Passage wait in Nome for ice to clear",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_sailbo...",
+      "link": "https://www.nomenugget.net/news/ships-bound-northwest-passage-wait-nome-ice-clear",
+      "published": "Thu, 23 Jul 2026 03:49:42 +0000",
       "region": "statewide",
-      "severity": "high",
+      "severity": "medium",
       "category": "hospital",
       "impact": "statewide",
-      "action": "immediate review required"
+      "action": "monitor"
     },
     {
       "id": "24396 at https://www.nomenugget.net",
@@ -248,7 +233,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "American Pipit\u2013\u2013Tougher than they look",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20190518_persons_8594.jp...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20190518_persons_8594.jp...",
       "link": "https://www.nomenugget.net/birder%E2%80%99s-notebook/american-pipit%E2%80%93%E2%80%93tougher-they-look",
       "published": "Thu, 16 Jul 2026 04:15:40 +0000",
       "region": "statewide",
@@ -270,6 +255,36 @@
       "severity": "low",
       "category": "policy",
       "impact": "regional hubs",
+      "action": "assess legislative impact"
+    },
+    {
+      "id": "https://alaska-native-news.com/?p=85240",
+      "type": "health_alert",
+      "source": "Alaska Native News",
+      "tier": 3,
+      "title": "Justice Department Settles Litigation to Provide for Healthcare Costs of the Alaska Native Tribal Health Consortium",
+      "description": "&#160; WASHINGTON &#8212; Tuesday, the Justice Department announced its authorization of the settlement of a lawsuit brought by the Alaska Native Tribal Health Consortium (ANTHC) for contract support costs owed under the Indian Self-Determination and Education Assistance Act (ISDEAA).\u00a0 ANTHC was formed in the 1990s to provide health services throughout the state of Alaska.\u00a0 Among [&#8230;]",
+      "link": "https://alaska-native-news.com/justice-department-settles-litigation-to-provide-for-healthcare-costs-of-the-alaska-native-tribal-health-consortium/85240/",
+      "published": "Wed, 22 Jul 2026 14:02:51 +0000",
+      "region": "rural / tribal communities",
+      "severity": "low",
+      "category": "policy",
+      "impact": "rural / tribal communities",
+      "action": "assess legislative impact"
+    },
+    {
+      "id": "https://alaska-native-news.com/?p=85229",
+      "type": "health_alert",
+      "source": "Alaska Native News",
+      "tier": 3,
+      "title": "\u2018Imagine All the Better Things That Could Have Been Done\u2019: Trump Has Blown $37.5 Billion on Iran War",
+      "description": "&#160; \u201cTHIS from the administration that said there was no money for food assistance, Medicaid, and healthcare tax credits.\u201d While economists have\u00a0warned\u00a0for months that the true cost of President Donald Trump\u2019s illegal war on Iran could be trillions of dollars, US Defense Secretary Pete Hegseth estimated on Tuesday that it\u2019s currently about $37.5 billion. That [&#8230;]",
+      "link": "https://alaska-native-news.com/imagine-all-the-better-things-that-could-have-been-done-trump-has-blown-37-5-billion-on-iran-war/85229/",
+      "published": "Wed, 22 Jul 2026 14:01:57 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "policy",
+      "impact": "statewide",
       "action": "assess legislative impact"
     }
   ]
