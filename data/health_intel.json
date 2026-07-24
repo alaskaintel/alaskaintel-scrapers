@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-23T12:48:17.185709",
+    "last_synced": "2026-07-24T12:47:53.592555",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,9 +14,39 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 18
+    "total_alerts": 20
   },
   "alerts": [
+    {
+      "id": "https://alaskabeacon.com/?p=27536",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "For Yukon River residents, salmon shortages have health consequences",
+      "description": "When 26-year-old Tirzah Bryant was a kid, she knew how to watch the cottonwood trees along the Yukon River for the sign that it was time to fish for salmon. \u201cWe know that the fish are coming when the cotton\u2019s flying from the cottonwood,\u201d she said.\u00a0 But run collapses and successive fishing closures along the [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/07/23/for-yukon-river-residents-salmon-shortages-have-health-consequences/",
+      "published": "Thu, 23 Jul 2026 13:45:13 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "policy",
+      "impact": "statewide",
+      "action": "assess legislative impact"
+    },
+    {
+      "id": "https://alaskabeacon.com/?post_type=republished&p=27682",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "As vote on Blanche for attorney general nears, ex-DOJ staffers warn against confirmation",
+      "description": "WASHINGTON \u2014 Former career Department of Justice officials and a survivor of abuse by the late sex offender Jeffrey Epstein sounded the alarm Wednesday on acting Attorney General Todd Blanche\u2019s fitness to lead the Department of Justice, one day ahead of a scheduled committee vote to advance his nomination to the full Senate. The narrow [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/07/23/repub/as-vote-on-blanche-for-attorney-general-nears-ex-doj-staffers-warn-against-confirmation/",
+      "published": "Thu, 23 Jul 2026 19:38:03 +0000",
+      "region": "statewide",
+      "severity": "low",
+      "category": "hospital",
+      "impact": "statewide",
+      "action": "monitor"
+    },
     {
       "id": "https://alaskabeacon.com/?post_type=briefs&p=27622",
       "type": "health_alert",
