@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-07-24T12:47:53.592555",
+    "last_synced": "2026-07-25T12:27:38.854236",
     "target": "Alaska Healthcare Intelligence Network",
     "sources": [
       "CDC Media Relations News",
@@ -14,9 +14,24 @@
       "Alaska Native News"
     ],
     "status": "Operational",
-    "total_alerts": 20
+    "total_alerts": 19
   },
   "alerts": [
+    {
+      "id": "https://alaskabeacon.com/?post_type=republished&p=27722",
+      "type": "health_alert",
+      "source": "Alaska Beacon",
+      "tier": 1,
+      "title": "Flood of poll watchers, observers, monitors to descend on midterm voters",
+      "description": "WASHINGTON \u2014 Political party poll watchers are showing up more and more, usually outside polling places. They have a different mission than the nonpartisan election observers long regarded as bulwarks of credibility, and there\u2019s concern that voters will be confused who\u2019s there to influence them and who\u2019s there to protect them. The growing presence of [&#8230;]",
+      "link": "https://alaskabeacon.com/2026/07/24/repub/flood-of-poll-watchers-observers-monitors-to-descend-on-midterm-voters/",
+      "published": "Fri, 24 Jul 2026 19:00:05 +0000",
+      "region": "statewide",
+      "severity": "medium",
+      "category": "outbreak",
+      "impact": "statewide",
+      "action": "review transmission risk"
+    },
     {
       "id": "https://alaskabeacon.com/?p=27536",
       "type": "health_alert",
@@ -233,7 +248,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Common Council hears of Nome\u2019s growing pains",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-7\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_nccjuly13_2026.JPG...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Diana Haecker</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-8\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3cdi_nccjuly13_2026.JPG...",
       "link": "https://www.nomenugget.net/news/common-council-hears-nome%E2%80%99s-growing-pains",
       "published": "Thu, 16 Jul 2026 03:00:31 +0000",
       "region": "rural / tribal communities",
@@ -248,7 +263,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "Ships bound for Northwest Passage wait in Nome for ice to clear",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-2\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_sailbo...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Ariana Crockett O\u2019Harra</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-3\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/3c_aco_sailbo...",
       "link": "https://www.nomenugget.net/news/ships-bound-northwest-passage-wait-nome-ice-clear",
       "published": "Thu, 23 Jul 2026 03:49:42 +0000",
       "region": "statewide",
@@ -263,7 +278,7 @@
       "source": "Nome Nugget",
       "tier": 3,
       "title": "American Pipit\u2013\u2013Tougher than they look",
-      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-5\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20190518_persons_8594.jp...",
+      "description": "<div class=\"field field-name-field-subhead field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">By Kate Persons</div></div></div><div class=\"field field-name-field-image field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\" rel=\"og:image rdfs:seealso\"><div class=\"galleria-content clearfix\" id=\"galleria-6\">\n  <a href=\"https://www.nomenugget.net/sites/default/files/styles/slideshow/public/field/image/20190518_persons_8594.jp...",
       "link": "https://www.nomenugget.net/birder%E2%80%99s-notebook/american-pipit%E2%80%93%E2%80%93tougher-they-look",
       "published": "Thu, 16 Jul 2026 04:15:40 +0000",
       "region": "statewide",
@@ -273,49 +288,19 @@
       "action": "review transmission risk"
     },
     {
-      "id": "https://www.juneauempire.com/?p=133216",
+      "id": "https://www.juneauempire.com/?p=133268",
       "type": "health_alert",
       "source": "Juneau Empire",
       "tier": 3,
-      "title": "MY TURN: Packing some Alaska art and philosophy for a Swiss writing retreat",
-      "description": "<p>The first week of July I called Juneau artist Bill Spear&#8217;s <a href=\"https://wmspear.com/catalog.php\" target=\"_blank\">order phone number</a>. Josh answered. He&#8217;s a real person&#8212;helpful, good sense of humor. I suspect he&#8217;s much younger than I (a statistically good bet) but he listened patiently as I waxed nostalgic about talking to a human. Then he took my order for 10 Bill Spear <a href=\"https://wmspear.com/item.php?cat=1&#038;item=476\" target=\"_blank\">&#8220;Write Hard ...",
-      "link": "https://www.juneauempire.com/2026/07/16/my-turn-packing-some-alaska-art-and-philosophy-for-a-swiss-writing-retreat/",
-      "published": "Thu, 16 Jul 2026 13:30:00 +0000",
-      "region": "regional hubs",
-      "severity": "low",
-      "category": "policy",
-      "impact": "regional hubs",
-      "action": "assess legislative impact"
-    },
-    {
-      "id": "https://alaska-native-news.com/?p=85240",
-      "type": "health_alert",
-      "source": "Alaska Native News",
-      "tier": 3,
-      "title": "Justice Department Settles Litigation to Provide for Healthcare Costs of the Alaska Native Tribal Health Consortium",
-      "description": "&#160; WASHINGTON &#8212; Tuesday, the Justice Department announced its authorization of the settlement of a lawsuit brought by the Alaska Native Tribal Health Consortium (ANTHC) for contract support costs owed under the Indian Self-Determination and Education Assistance Act (ISDEAA).\u00a0 ANTHC was formed in the 1990s to provide health services throughout the state of Alaska.\u00a0 Among [&#8230;]",
-      "link": "https://alaska-native-news.com/justice-department-settles-litigation-to-provide-for-healthcare-costs-of-the-alaska-native-tribal-health-consortium/85240/",
-      "published": "Wed, 22 Jul 2026 14:02:51 +0000",
-      "region": "rural / tribal communities",
-      "severity": "low",
-      "category": "policy",
-      "impact": "rural / tribal communities",
-      "action": "assess legislative impact"
-    },
-    {
-      "id": "https://alaska-native-news.com/?p=85229",
-      "type": "health_alert",
-      "source": "Alaska Native News",
-      "tier": 3,
-      "title": "\u2018Imagine All the Better Things That Could Have Been Done\u2019: Trump Has Blown $37.5 Billion on Iran War",
-      "description": "&#160; \u201cTHIS from the administration that said there was no money for food assistance, Medicaid, and healthcare tax credits.\u201d While economists have\u00a0warned\u00a0for months that the true cost of President Donald Trump\u2019s illegal war on Iran could be trillions of dollars, US Defense Secretary Pete Hegseth estimated on Tuesday that it\u2019s currently about $37.5 billion. That [&#8230;]",
-      "link": "https://alaska-native-news.com/imagine-all-the-better-things-that-could-have-been-done-trump-has-blown-37-5-billion-on-iran-war/85229/",
-      "published": "Wed, 22 Jul 2026 14:01:57 +0000",
+      "title": "LETTER: Alaska needs campaign finance limits",
+      "description": "<p>The campaign finance bill Gov. Dunleavy recently vetoed has strong support across the political spectrum. Alaska&#8217;s old law enacted by voters in 2006 set contributions limits at $500. It passed with 73% approval. Analysis of the voting data in the state archives shows that it passed by a wide margin in every single district of the state. We Alaskans are saying we want the law to be strict: it protects our balance of power as voters and constituents. It limits the disproportionate influen...",
+      "link": "https://www.juneauempire.com/2026/07/25/letter-alaska-needs-campaign-finance-limits/",
+      "published": "Sat, 25 Jul 2026 09:30:00 +0000",
       "region": "statewide",
-      "severity": "low",
-      "category": "policy",
+      "severity": "medium",
+      "category": "outbreak",
       "impact": "statewide",
-      "action": "assess legislative impact"
+      "action": "review transmission risk"
     }
   ]
 }
