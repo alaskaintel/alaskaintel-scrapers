@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_synced": "2026-08-08T11:54:13.654502",
+    "last_synced": "2026-08-09T11:46:39.950736",
     "target": "Alaska Public Offices Commission (APOC)",
     "method": "Direct Playwright scrape (self-hosted)",
     "source_portal": "https://aws.state.ak.us/ApocReports/Campaign/",
@@ -29922,6 +29922,23 @@
     },
     {
       "Result": "25",
+      "Date": "6/22/2026",
+      "Balance Remaining": "$1,875.00",
+      "Original Amount": "$3,000.00",
+      "Name": "Carolyn Hall",
+      "Address": "PO Box 240207",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99524",
+      "Country": "USA",
+      "Description/Purpose": "Coordinated Campaign",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "8/9/2026"
+    },
+    {
+      "Result": "26",
       "Date": "7/8/2026",
       "Balance Remaining": "$26.82",
       "Original Amount": "$26.82",
@@ -29938,7 +29955,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "26",
+      "Result": "27",
       "Date": "1/1/2026",
       "Balance Remaining": "$2,187.50",
       "Original Amount": "$3,750.00",
@@ -29955,7 +29972,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "27",
+      "Result": "28",
       "Date": "3/24/2026",
       "Balance Remaining": "$15,000.00",
       "Original Amount": "$15,000.00",
@@ -29972,7 +29989,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "28",
+      "Result": "29",
       "Date": "3/24/2026",
       "Balance Remaining": "$5,625.00",
       "Original Amount": "$15,000.00",
@@ -29989,7 +30006,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "29",
+      "Result": "30",
       "Date": "6/29/2026",
       "Balance Remaining": "$12,500.00",
       "Original Amount": "$12,500.00",
@@ -30006,7 +30023,7 @@
       "Submitted": "8/4/2026"
     },
     {
-      "Result": "30",
+      "Result": "31",
       "Date": "7/6/2026",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -30021,23 +30038,6 @@
       "Filer Type": "Group",
       "Report Year": "2026",
       "Submitted": "7/21/2026"
-    },
-    {
-      "Result": "31",
-      "Date": "5/29/2026",
-      "Balance Remaining": "$252.48",
-      "Original Amount": "$252.48",
-      "Name": "Putting Alaskans First Committee",
-      "Address": "3333 Denali St. Ste. 125",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99503",
-      "Country": "USA",
-      "Description/Purpose": "purchase of mailing list",
-      "--------": "",
-      "Filer Type": "Group",
-      "Report Year": "2026",
-      "Submitted": "7/20/2026"
     },
     {
       "Result": "32",
@@ -30058,6 +30058,23 @@
     },
     {
       "Result": "33",
+      "Date": "5/29/2026",
+      "Balance Remaining": "$252.48",
+      "Original Amount": "$252.48",
+      "Name": "Putting Alaskans First Committee",
+      "Address": "3333 Denali St. Ste. 125",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99503",
+      "Country": "USA",
+      "Description/Purpose": "purchase of mailing list",
+      "--------": "",
+      "Filer Type": "Group",
+      "Report Year": "2026",
+      "Submitted": "7/20/2026"
+    },
+    {
+      "Result": "34",
       "Date": "6/29/2026",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -30074,7 +30091,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "34",
+      "Result": "35",
       "Date": "3/5/2026",
       "Balance Remaining": "$2,431.20",
       "Original Amount": "$2,431.20",
@@ -30091,7 +30108,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "35",
+      "Result": "36",
       "Date": "3/5/2026",
       "Balance Remaining": "$2,431.20",
       "Original Amount": "$2,431.20",
@@ -30108,7 +30125,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "36",
+      "Result": "37",
       "Date": "1/31/2026",
       "Balance Remaining": "$3,465.00",
       "Original Amount": "$3,465.00",
@@ -30125,7 +30142,7 @@
       "Submitted": "3/3/2026"
     },
     {
-      "Result": "37",
+      "Result": "38",
       "Date": "7/7/2026",
       "Balance Remaining": "$100.00",
       "Original Amount": "$100.00",
@@ -30142,7 +30159,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "38",
+      "Result": "39",
       "Date": "1/31/2026",
       "Balance Remaining": "$109.99",
       "Original Amount": "$109.99",
@@ -30159,7 +30176,7 @@
       "Submitted": "6/28/2026"
     },
     {
-      "Result": "39",
+      "Result": "40",
       "Date": "2/1/2026",
       "Balance Remaining": "$27.50",
       "Original Amount": "$27.50",
@@ -30176,7 +30193,7 @@
       "Submitted": "6/28/2026"
     },
     {
-      "Result": "40",
+      "Result": "41",
       "Date": "2/8/2026",
       "Balance Remaining": "$137.34",
       "Original Amount": "$137.34",
@@ -30193,7 +30210,7 @@
       "Submitted": "6/28/2026"
     },
     {
-      "Result": "41",
+      "Result": "42",
       "Date": "2/8/2026",
       "Balance Remaining": "$25.17",
       "Original Amount": "$25.17",
@@ -30210,7 +30227,7 @@
       "Submitted": "6/28/2026"
     },
     {
-      "Result": "42",
+      "Result": "43",
       "Date": "2/11/2026",
       "Balance Remaining": "$93.00",
       "Original Amount": "$93.00",
@@ -30227,7 +30244,7 @@
       "Submitted": "6/28/2026"
     },
     {
-      "Result": "43",
+      "Result": "44",
       "Date": "1/23/2026",
       "Balance Remaining": "$50.00",
       "Original Amount": "$50.00",
@@ -30244,7 +30261,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "44",
+      "Result": "45",
       "Date": "7/14/2026",
       "Balance Remaining": "$175.00",
       "Original Amount": "$175.00",
@@ -30261,7 +30278,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "45",
+      "Result": "46",
       "Date": "7/14/2026",
       "Balance Remaining": "$2,850.00",
       "Original Amount": "$2,850.00",
@@ -30278,7 +30295,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "46",
+      "Result": "47",
       "Date": "7/7/2026",
       "Balance Remaining": "$247.50",
       "Original Amount": "$247.50",
@@ -30295,7 +30312,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "47",
+      "Result": "48",
       "Date": "7/7/2026",
       "Balance Remaining": "$360.00",
       "Original Amount": "$360.00",
@@ -30312,7 +30329,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "48",
+      "Result": "49",
       "Date": "6/30/2026",
       "Balance Remaining": "$40.00",
       "Original Amount": "$40.00",
@@ -30329,7 +30346,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "49",
+      "Result": "50",
       "Date": "7/6/2026",
       "Balance Remaining": "$880.00",
       "Original Amount": "$880.00",
@@ -30346,7 +30363,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "50",
+      "Result": "51",
       "Date": "7/6/2026",
       "Balance Remaining": "$2,400.00",
       "Original Amount": "$2,400.00",
@@ -30363,7 +30380,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "51",
+      "Result": "52",
       "Date": "3/24/2026",
       "Balance Remaining": "$10,318.03",
       "Original Amount": "$10,318.03",
@@ -30380,7 +30397,7 @@
       "Submitted": "4/5/2026"
     },
     {
-      "Result": "52",
+      "Result": "53",
       "Date": "6/26/2026",
       "Balance Remaining": "$10,000.00",
       "Original Amount": "$10,000.00",
@@ -30397,7 +30414,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "53",
+      "Result": "54",
       "Date": "7/7/2026",
       "Balance Remaining": "$1,175.00",
       "Original Amount": "$1,175.00",
@@ -30414,7 +30431,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "54",
+      "Result": "55",
       "Date": "7/14/2026",
       "Balance Remaining": "$2,250.00",
       "Original Amount": "$2,250.00",
@@ -30431,7 +30448,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "55",
+      "Result": "56",
       "Date": "7/16/2026",
       "Balance Remaining": "$220.00",
       "Original Amount": "$220.00",
@@ -30448,7 +30465,7 @@
       "Submitted": "8/4/2026"
     },
     {
-      "Result": "56",
+      "Result": "57",
       "Date": "3/6/2026",
       "Balance Remaining": "$33.12",
       "Original Amount": "$33.12",
@@ -30465,7 +30482,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "57",
+      "Result": "58",
       "Date": "4/7/2026",
       "Balance Remaining": "$359.07",
       "Original Amount": "$359.07",
@@ -30482,7 +30499,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "58",
+      "Result": "59",
       "Date": "4/7/2026",
       "Balance Remaining": "$419.41",
       "Original Amount": "$419.41",
@@ -30499,7 +30516,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "59",
+      "Result": "60",
       "Date": "6/30/2026",
       "Balance Remaining": "$1,254.99",
       "Original Amount": "$1,254.99",
@@ -30516,7 +30533,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "60",
+      "Result": "61",
       "Date": "7/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -30533,7 +30550,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "61",
+      "Result": "62",
       "Date": "3/26/2026",
       "Balance Remaining": "$717.54",
       "Original Amount": "$717.54",
@@ -30550,7 +30567,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "62",
+      "Result": "63",
       "Date": "6/12/2026",
       "Balance Remaining": "$52,500.00",
       "Original Amount": "$452,500.00",
@@ -30567,7 +30584,7 @@
       "Submitted": "7/27/2026"
     },
     {
-      "Result": "63",
+      "Result": "64",
       "Date": "7/1/2026",
       "Balance Remaining": "$15,000.00",
       "Original Amount": "$15,000.00",
@@ -30584,7 +30601,7 @@
       "Submitted": "7/27/2026"
     },
     {
-      "Result": "64",
+      "Result": "65",
       "Date": "1/8/2026",
       "Balance Remaining": "$2,482.80",
       "Original Amount": "$5,000.00",
@@ -30601,7 +30618,7 @@
       "Submitted": "7/18/2026"
     },
     {
-      "Result": "65",
+      "Result": "66",
       "Date": "4/1/2026",
       "Balance Remaining": "$20,000.00",
       "Original Amount": "$20,000.00",
@@ -30618,7 +30635,7 @@
       "Submitted": "7/18/2026"
     },
     {
-      "Result": "66",
+      "Result": "67",
       "Date": "7/13/2026",
       "Balance Remaining": "$360.00",
       "Original Amount": "$360.00",
@@ -30635,7 +30652,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "67",
+      "Result": "68",
       "Date": "7/10/2026",
       "Balance Remaining": "$3,808.00",
       "Original Amount": "$3,808.00",
@@ -30652,7 +30669,7 @@
       "Submitted": "7/19/2026"
     },
     {
-      "Result": "68",
+      "Result": "69",
       "Date": "7/17/2026",
       "Balance Remaining": "$9,700.00",
       "Original Amount": "$9,700.00",
@@ -30669,7 +30686,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "69",
+      "Result": "70",
       "Date": "7/7/2026",
       "Balance Remaining": "$53,327.00",
       "Original Amount": "$53,327.00",
@@ -30686,7 +30703,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "70",
+      "Result": "71",
       "Date": "7/7/2026",
       "Balance Remaining": "$32,551.00",
       "Original Amount": "$32,551.00",
@@ -30703,7 +30720,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "71",
+      "Result": "72",
       "Date": "6/26/2026",
       "Balance Remaining": "$2,085.45",
       "Original Amount": "$2,085.45",
@@ -30720,7 +30737,7 @@
       "Submitted": "7/31/2026"
     },
     {
-      "Result": "72",
+      "Result": "73",
       "Date": "1/25/2026",
       "Balance Remaining": "$199.03",
       "Original Amount": "$199.03",
@@ -30737,7 +30754,7 @@
       "Submitted": "3/7/2026"
     },
     {
-      "Result": "73",
+      "Result": "74",
       "Date": "1/27/2026",
       "Balance Remaining": "$965.88",
       "Original Amount": "$965.88",
@@ -30754,7 +30771,7 @@
       "Submitted": "3/7/2026"
     },
     {
-      "Result": "74",
+      "Result": "75",
       "Date": "3/3/2026",
       "Balance Remaining": "$7,418.36",
       "Original Amount": "$7,418.36",
@@ -30771,7 +30788,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "75",
+      "Result": "76",
       "Date": "3/18/2026",
       "Balance Remaining": "$8,892.58",
       "Original Amount": "$8,892.58",
@@ -30788,7 +30805,7 @@
       "Submitted": "3/30/2026"
     },
     {
-      "Result": "76",
+      "Result": "77",
       "Date": "3/4/2026",
       "Balance Remaining": "$1,750.00",
       "Original Amount": "$1,750.00",
@@ -30805,7 +30822,7 @@
       "Submitted": "3/27/2026"
     },
     {
-      "Result": "77",
+      "Result": "78",
       "Date": "2/26/2026",
       "Balance Remaining": "$1,750.00",
       "Original Amount": "$1,750.00",
@@ -30822,7 +30839,7 @@
       "Submitted": "3/27/2026"
     },
     {
-      "Result": "78",
+      "Result": "79",
       "Date": "3/25/2026",
       "Balance Remaining": "$6,991.82",
       "Original Amount": "$6,991.82",
@@ -30839,7 +30856,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "79",
+      "Result": "80",
       "Date": "3/27/2026",
       "Balance Remaining": "$4,997.47",
       "Original Amount": "$4,997.47",
@@ -30856,7 +30873,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "80",
+      "Result": "81",
       "Date": "3/25/2026",
       "Balance Remaining": "$382.21",
       "Original Amount": "$382.21",
@@ -30873,7 +30890,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "81",
+      "Result": "82",
       "Date": "1/7/2026",
       "Balance Remaining": "$349.30",
       "Original Amount": "$349.30",
@@ -30890,7 +30907,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "82",
+      "Result": "83",
       "Date": "1/19/2026",
       "Balance Remaining": "$1,386.06",
       "Original Amount": "$1,386.06",
@@ -30907,7 +30924,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "83",
+      "Result": "84",
       "Date": "1/27/2026",
       "Balance Remaining": "$439.76",
       "Original Amount": "$439.76",
@@ -30924,7 +30941,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "84",
+      "Result": "85",
       "Date": "3/6/2026",
       "Balance Remaining": "$1,492.67",
       "Original Amount": "$1,492.67",
@@ -30941,7 +30958,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "85",
+      "Result": "86",
       "Date": "6/1/2026",
       "Balance Remaining": "$0.00",
       "Original Amount": "$3,500.00",
@@ -30958,7 +30975,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "86",
+      "Result": "87",
       "Date": "7/10/2026",
       "Balance Remaining": "$2,200.64",
       "Original Amount": "$2,200.64",
@@ -30975,7 +30992,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "87",
+      "Result": "88",
       "Date": "7/17/2026",
       "Balance Remaining": "$815.67",
       "Original Amount": "$815.67",
@@ -30992,7 +31009,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "88",
+      "Result": "89",
       "Date": "7/17/2026",
       "Balance Remaining": "$2,059.98",
       "Original Amount": "$2,059.98",
@@ -31009,7 +31026,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "89",
+      "Result": "90",
       "Date": "7/17/2026",
       "Balance Remaining": "$26,608.31",
       "Original Amount": "$26,608.31",
@@ -31026,7 +31043,7 @@
       "Submitted": "7/23/2026"
     },
     {
-      "Result": "90",
+      "Result": "91",
       "Date": "7/1/2026",
       "Balance Remaining": "$7,500.00",
       "Original Amount": "$7,500.00",
@@ -31043,7 +31060,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "91",
+      "Result": "92",
       "Date": "7/15/2026",
       "Balance Remaining": "$836.00",
       "Original Amount": "$836.00",
@@ -31060,7 +31077,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "92",
+      "Result": "93",
       "Date": "7/8/2026",
       "Balance Remaining": "$93,050.00",
       "Original Amount": "$93,050.00",
@@ -31077,7 +31094,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "93",
+      "Result": "94",
       "Date": "4/1/2026",
       "Balance Remaining": "$2,670.00",
       "Original Amount": "$2,670.00",
@@ -31094,7 +31111,7 @@
       "Submitted": "7/16/2026"
     },
     {
-      "Result": "94",
+      "Result": "95",
       "Date": "7/16/2026",
       "Balance Remaining": "$2,236.62",
       "Original Amount": "$2,236.62",
@@ -31111,7 +31128,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "95",
+      "Result": "96",
       "Date": "7/1/2026",
       "Balance Remaining": "$832.61",
       "Original Amount": "$832.61",
@@ -31128,7 +31145,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "96",
+      "Result": "97",
       "Date": "7/16/2026",
       "Balance Remaining": "$2,847.59",
       "Original Amount": "$2,847.59",
@@ -31145,7 +31162,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "97",
+      "Result": "98",
       "Date": "7/1/2026",
       "Balance Remaining": "$50,000.00",
       "Original Amount": "$50,000.00",
@@ -31162,7 +31179,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "98",
+      "Result": "99",
       "Date": "6/8/2026",
       "Balance Remaining": "$787.98",
       "Original Amount": "$787.98",
@@ -31179,7 +31196,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "99",
+      "Result": "100",
       "Date": "6/10/2026",
       "Balance Remaining": "$10.76",
       "Original Amount": "$10.76",
@@ -31196,7 +31213,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "100",
+      "Result": "101",
       "Date": "6/11/2026",
       "Balance Remaining": "$236.00",
       "Original Amount": "$236.00",
@@ -31213,7 +31230,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "101",
+      "Result": "102",
       "Date": "6/11/2026",
       "Balance Remaining": "$76.28",
       "Original Amount": "$76.28",
@@ -31230,7 +31247,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "102",
+      "Result": "103",
       "Date": "6/14/2026",
       "Balance Remaining": "$84.92",
       "Original Amount": "$84.92",
@@ -31247,7 +31264,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "103",
+      "Result": "104",
       "Date": "6/15/2026",
       "Balance Remaining": "$39.95",
       "Original Amount": "$39.95",
@@ -31264,7 +31281,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "104",
+      "Result": "105",
       "Date": "6/15/2026",
       "Balance Remaining": "$257.38",
       "Original Amount": "$257.38",
@@ -31281,7 +31298,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "105",
+      "Result": "106",
       "Date": "6/22/2026",
       "Balance Remaining": "$9.53",
       "Original Amount": "$9.53",
@@ -31298,7 +31315,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "106",
+      "Result": "107",
       "Date": "6/22/2026",
       "Balance Remaining": "$990.00",
       "Original Amount": "$990.00",
@@ -31315,7 +31332,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "107",
+      "Result": "108",
       "Date": "1/1/2026",
       "Balance Remaining": "$800.00",
       "Original Amount": "$1,200.00",
@@ -31332,7 +31349,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "108",
+      "Result": "109",
       "Date": "1/1/2026",
       "Balance Remaining": "$600.00",
       "Original Amount": "$1,200.00",
@@ -31349,7 +31366,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "109",
+      "Result": "110",
       "Date": "3/28/2026",
       "Balance Remaining": "$1,725.00",
       "Original Amount": "$1,725.00",
@@ -31366,7 +31383,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "110",
+      "Result": "111",
       "Date": "3/3/2026",
       "Balance Remaining": "$57.21",
       "Original Amount": "$57.21",
@@ -31383,7 +31400,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "111",
+      "Result": "112",
       "Date": "3/25/2026",
       "Balance Remaining": "$508.17",
       "Original Amount": "$508.17",
@@ -31400,7 +31417,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "112",
+      "Result": "113",
       "Date": "3/1/2026",
       "Balance Remaining": "$288.80",
       "Original Amount": "$288.80",
@@ -31417,7 +31434,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "113",
+      "Result": "114",
       "Date": "7/2/2026",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -31434,7 +31451,7 @@
       "Submitted": "7/31/2026"
     },
     {
-      "Result": "114",
+      "Result": "115",
       "Date": "7/17/2026",
       "Balance Remaining": "$1,919.35",
       "Original Amount": "$1,919.35",
@@ -31451,7 +31468,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "115",
+      "Result": "116",
       "Date": "7/1/2026",
       "Balance Remaining": "$11,000.00",
       "Original Amount": "$11,000.00",
@@ -31468,7 +31485,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "116",
+      "Result": "117",
       "Date": "11/14/2025",
       "Balance Remaining": "$42,706.42",
       "Original Amount": "$61,551.42",
@@ -31485,7 +31502,7 @@
       "Submitted": "7/28/2026"
     },
     {
-      "Result": "117",
+      "Result": "118",
       "Date": "4/30/2026",
       "Balance Remaining": "$192.00",
       "Original Amount": "$192.00",
@@ -31502,7 +31519,7 @@
       "Submitted": "7/28/2026"
     },
     {
-      "Result": "118",
+      "Result": "119",
       "Date": "10/15/2025",
       "Balance Remaining": "$12,000.00",
       "Original Amount": "$12,000.00",
@@ -31519,7 +31536,7 @@
       "Submitted": "7/28/2026"
     },
     {
-      "Result": "119",
+      "Result": "120",
       "Date": "6/1/2026",
       "Balance Remaining": "$3,645.00",
       "Original Amount": "$3,645.00",
@@ -31536,7 +31553,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "120",
+      "Result": "121",
       "Date": "6/1/2026",
       "Balance Remaining": "$4,517.50",
       "Original Amount": "$4,517.85",
@@ -31553,7 +31570,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "121",
+      "Result": "122",
       "Date": "7/1/2026",
       "Balance Remaining": "$8,500.00",
       "Original Amount": "$8,500.00",
@@ -31570,7 +31587,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "122",
+      "Result": "123",
       "Date": "3/1/2026",
       "Balance Remaining": "$40.04",
       "Original Amount": "$40.04",
@@ -31587,7 +31604,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "123",
+      "Result": "124",
       "Date": "3/28/2026",
       "Balance Remaining": "$8,500.00",
       "Original Amount": "$8,500.00",
@@ -31604,7 +31621,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "124",
+      "Result": "125",
       "Date": "3/6/2026",
       "Balance Remaining": "$16.95",
       "Original Amount": "$16.95",
@@ -31621,7 +31638,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "125",
+      "Result": "126",
       "Date": "3/25/2026",
       "Balance Remaining": "$102.33",
       "Original Amount": "$102.33",
@@ -31638,7 +31655,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "126",
+      "Result": "127",
       "Date": "4/1/2026",
       "Balance Remaining": "$13,500.00",
       "Original Amount": "$13,500.00",
@@ -31655,7 +31672,7 @@
       "Submitted": "7/18/2026"
     },
     {
-      "Result": "127",
+      "Result": "128",
       "Date": "7/15/2026",
       "Balance Remaining": "$2,284.77",
       "Original Amount": "$2,284.77",
@@ -31672,7 +31689,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "128",
+      "Result": "129",
       "Date": "3/5/2026",
       "Balance Remaining": "$93.00",
       "Original Amount": "$93.00",
@@ -31689,7 +31706,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "129",
+      "Result": "130",
       "Date": "7/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -31706,7 +31723,7 @@
       "Submitted": "7/27/2026"
     },
     {
-      "Result": "130",
+      "Result": "131",
       "Date": "7/16/2026",
       "Balance Remaining": "$2,110.59",
       "Original Amount": "$2,110.59",
@@ -31723,7 +31740,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "131",
+      "Result": "132",
       "Date": "1/20/2026",
       "Balance Remaining": "$37.31",
       "Original Amount": "$37.31",
@@ -31740,7 +31757,7 @@
       "Submitted": "2/11/2026"
     },
     {
-      "Result": "132",
+      "Result": "133",
       "Date": "4/16/2026",
       "Balance Remaining": "$15.00",
       "Original Amount": "$15.00",
@@ -31757,7 +31774,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "133",
+      "Result": "134",
       "Date": "4/16/2026",
       "Balance Remaining": "$15.00",
       "Original Amount": "$15.00",
@@ -31774,7 +31791,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "134",
+      "Result": "135",
       "Date": "5/15/2026",
       "Balance Remaining": "$15.00",
       "Original Amount": "$15.00",
@@ -31791,7 +31808,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "135",
+      "Result": "136",
       "Date": "6/15/2026",
       "Balance Remaining": "$15.00",
       "Original Amount": "$15.00",
@@ -31808,7 +31825,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "136",
+      "Result": "137",
       "Date": "7/15/2026",
       "Balance Remaining": "$15.00",
       "Original Amount": "$15.00",
@@ -31825,7 +31842,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "137",
+      "Result": "138",
       "Date": "4/16/2026",
       "Balance Remaining": "$15.00",
       "Original Amount": "$15.00",
@@ -31842,7 +31859,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "138",
+      "Result": "139",
       "Date": "4/16/2026",
       "Balance Remaining": "$15.00",
       "Original Amount": "$15.00",
@@ -31859,7 +31876,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "139",
+      "Result": "140",
       "Date": "5/15/2026",
       "Balance Remaining": "$15.00",
       "Original Amount": "$15.00",
@@ -31876,7 +31893,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "140",
+      "Result": "141",
       "Date": "6/15/2026",
       "Balance Remaining": "$15.00",
       "Original Amount": "$15.00",
@@ -31893,7 +31910,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "141",
+      "Result": "142",
       "Date": "12/10/2025",
       "Balance Remaining": "$800.00",
       "Original Amount": "$800.00",
@@ -31910,7 +31927,7 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "142",
+      "Result": "143",
       "Date": "12/10/2025",
       "Balance Remaining": "$800.00",
       "Original Amount": "$800.00",
@@ -31927,7 +31944,7 @@
       "Submitted": "7/31/2026"
     },
     {
-      "Result": "143",
+      "Result": "144",
       "Date": "7/16/2026",
       "Balance Remaining": "$3,685.80",
       "Original Amount": "$3,685.80",
@@ -31944,7 +31961,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "144",
+      "Result": "145",
       "Date": "3/24/2026",
       "Balance Remaining": "$420.00",
       "Original Amount": "$420.00",
@@ -31961,7 +31978,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "145",
+      "Result": "146",
       "Date": "6/24/2026",
       "Balance Remaining": "$350.00",
       "Original Amount": "$350.00",
@@ -31978,7 +31995,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "146",
+      "Result": "147",
       "Date": "6/24/2026",
       "Balance Remaining": "$350.00",
       "Original Amount": "$350.00",
@@ -31995,7 +32012,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "147",
+      "Result": "148",
       "Date": "1/28/2026",
       "Balance Remaining": "$800.00",
       "Original Amount": "$800.00",
@@ -32012,7 +32029,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "148",
+      "Result": "149",
       "Date": "3/26/2026",
       "Balance Remaining": "$250.00",
       "Original Amount": "$250.00",
@@ -32029,7 +32046,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "149",
+      "Result": "150",
       "Date": "7/16/2026",
       "Balance Remaining": "$2,550.72",
       "Original Amount": "$2,550.72",
@@ -32046,7 +32063,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "150",
+      "Result": "151",
       "Date": "3/26/2026",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -32063,7 +32080,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "151",
+      "Result": "152",
       "Date": "7/7/2026",
       "Balance Remaining": "$2,228.90",
       "Original Amount": "$2,228.90",
@@ -32080,7 +32097,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "152",
+      "Result": "153",
       "Date": "6/29/2026",
       "Balance Remaining": "$1,750.00",
       "Original Amount": "$1,750.00",
@@ -32097,7 +32114,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "153",
+      "Result": "154",
       "Date": "4/1/2026",
       "Balance Remaining": "$9,750.00",
       "Original Amount": "$9,750.00",
@@ -32114,7 +32131,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "154",
+      "Result": "155",
       "Date": "2/23/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -32131,7 +32148,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "155",
+      "Result": "156",
       "Date": "7/1/2026",
       "Balance Remaining": "$9,750.00",
       "Original Amount": "$9,750.00",
@@ -32148,7 +32165,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "156",
+      "Result": "157",
       "Date": "7/16/2026",
       "Balance Remaining": "$3,685.80",
       "Original Amount": "$3,685.80",
@@ -32165,7 +32182,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "157",
+      "Result": "158",
       "Date": "1/10/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -32182,7 +32199,7 @@
       "Submitted": "7/28/2026"
     },
     {
-      "Result": "158",
+      "Result": "159",
       "Date": "5/19/2026",
       "Balance Remaining": "$1,350.00",
       "Original Amount": "$1,350.00",
@@ -32199,7 +32216,7 @@
       "Submitted": "7/28/2026"
     },
     {
-      "Result": "159",
+      "Result": "160",
       "Date": "7/1/2026",
       "Balance Remaining": "$1,800.00",
       "Original Amount": "$1,800.00",
@@ -32216,7 +32233,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "160",
+      "Result": "161",
       "Date": "7/13/2026",
       "Balance Remaining": "$336.00",
       "Original Amount": "$336.00",
@@ -32233,7 +32250,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "161",
+      "Result": "162",
       "Date": "7/15/2026",
       "Balance Remaining": "$3,150.00",
       "Original Amount": "$3,150.00",
@@ -32250,7 +32267,7 @@
       "Submitted": "7/31/2026"
     },
     {
-      "Result": "162",
+      "Result": "163",
       "Date": "10/15/2025",
       "Balance Remaining": "$4,975.00",
       "Original Amount": "$4,975.00",
@@ -32267,7 +32284,7 @@
       "Submitted": "2/16/2026"
     },
     {
-      "Result": "163",
+      "Result": "164",
       "Date": "3/26/2026",
       "Balance Remaining": "$250.00",
       "Original Amount": "$250.00",
@@ -32284,7 +32301,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "164",
+      "Result": "165",
       "Date": "7/17/2026",
       "Balance Remaining": "$675.00",
       "Original Amount": "$675.00",
@@ -32301,7 +32318,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "165",
+      "Result": "166",
       "Date": "2/1/2026",
       "Balance Remaining": "$130.36",
       "Original Amount": "$130.36",
@@ -32318,7 +32335,7 @@
       "Submitted": "6/28/2026"
     },
     {
-      "Result": "166",
+      "Result": "167",
       "Date": "2/26/2026",
       "Balance Remaining": "$567.00",
       "Original Amount": "$567.00",
@@ -32335,7 +32352,7 @@
       "Submitted": "6/28/2026"
     },
     {
-      "Result": "167",
+      "Result": "168",
       "Date": "5/29/2026",
       "Balance Remaining": "$8,000.00",
       "Original Amount": "$9,500.00",
@@ -32352,7 +32369,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "168",
+      "Result": "169",
       "Date": "5/29/2026",
       "Balance Remaining": "$0.00",
       "Original Amount": "$9,500.00",
@@ -32369,7 +32386,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "169",
+      "Result": "170",
       "Date": "1/23/2026",
       "Balance Remaining": "$17,800.00",
       "Original Amount": "$17,400.00",
@@ -32386,7 +32403,7 @@
       "Submitted": "3/3/2026"
     },
     {
-      "Result": "170",
+      "Result": "171",
       "Date": "12/2/2025",
       "Balance Remaining": "$380.00",
       "Original Amount": "$380.00",
@@ -32403,7 +32420,7 @@
       "Submitted": "7/7/2026"
     },
     {
-      "Result": "171",
+      "Result": "172",
       "Date": "2/27/2026",
       "Balance Remaining": "$160.00",
       "Original Amount": "$160.00",
@@ -32420,7 +32437,7 @@
       "Submitted": "7/7/2026"
     },
     {
-      "Result": "172",
+      "Result": "173",
       "Date": "7/8/2026",
       "Balance Remaining": "$3,130.00",
       "Original Amount": "$3,130.00",
@@ -32437,7 +32454,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "173",
+      "Result": "174",
       "Date": "7/13/2026",
       "Balance Remaining": "$63.00",
       "Original Amount": "$63.00",
@@ -32454,7 +32471,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "174",
+      "Result": "175",
       "Date": "4/16/2026",
       "Balance Remaining": "$0.00",
       "Original Amount": "$12,500.00",
@@ -32471,7 +32488,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "175",
+      "Result": "176",
       "Date": "7/9/2026",
       "Balance Remaining": "$152.50",
       "Original Amount": "$152.50",
@@ -32488,7 +32505,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "176",
+      "Result": "177",
       "Date": "7/17/2026",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -32505,7 +32522,7 @@
       "Submitted": "7/18/2026"
     },
     {
-      "Result": "177",
+      "Result": "178",
       "Date": "3/25/2026",
       "Balance Remaining": "$416.66",
       "Original Amount": "$416.66",
@@ -32522,7 +32539,7 @@
       "Submitted": "4/4/2026"
     },
     {
-      "Result": "178",
+      "Result": "179",
       "Date": "3/25/2026",
       "Balance Remaining": "$416.66",
       "Original Amount": "$416.66",
@@ -32539,7 +32556,7 @@
       "Submitted": "4/4/2026"
     },
     {
-      "Result": "179",
+      "Result": "180",
       "Date": "3/25/2026",
       "Balance Remaining": "$416.67",
       "Original Amount": "$416.67",
@@ -32556,7 +32573,7 @@
       "Submitted": "4/4/2026"
     },
     {
-      "Result": "180",
+      "Result": "181",
       "Date": "3/25/2026",
       "Balance Remaining": "$416.67",
       "Original Amount": "$416.67",
@@ -32573,7 +32590,7 @@
       "Submitted": "4/4/2026"
     },
     {
-      "Result": "181",
+      "Result": "182",
       "Date": "3/25/2026",
       "Balance Remaining": "$416.67",
       "Original Amount": "$416.67",
@@ -32590,7 +32607,7 @@
       "Submitted": "4/4/2026"
     },
     {
-      "Result": "182",
+      "Result": "183",
       "Date": "3/25/2026",
       "Balance Remaining": "$416.67",
       "Original Amount": "$416.67",
@@ -32607,7 +32624,7 @@
       "Submitted": "4/4/2026"
     },
     {
-      "Result": "183",
+      "Result": "184",
       "Date": "2/1/2026",
       "Balance Remaining": "$2,125.00",
       "Original Amount": "$2,125.00",
@@ -32624,7 +32641,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "184",
+      "Result": "185",
       "Date": "3/5/2026",
       "Balance Remaining": "$2,071.39",
       "Original Amount": "$2,071.39",
@@ -32641,7 +32658,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "185",
+      "Result": "186",
       "Date": "7/16/2026",
       "Balance Remaining": "$587.50",
       "Original Amount": "$587.50",
@@ -32658,7 +32675,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "186",
+      "Result": "187",
       "Date": "3/27/2026",
       "Balance Remaining": "$300.00",
       "Original Amount": "$300.00",
@@ -32675,7 +32692,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "187",
+      "Result": "188",
       "Date": "4/30/2026",
       "Balance Remaining": "$4,352.63",
       "Original Amount": "$4,352.63",
@@ -32692,7 +32709,7 @@
       "Submitted": "7/28/2026"
     },
     {
-      "Result": "188",
+      "Result": "189",
       "Date": "7/1/2026",
       "Balance Remaining": "$3,470.00",
       "Original Amount": "$3,470.00",
@@ -32709,7 +32726,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "189",
+      "Result": "190",
       "Date": "6/14/2026",
       "Balance Remaining": "$1,900.50",
       "Original Amount": "$1,900.50",
@@ -32726,7 +32743,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "190",
+      "Result": "191",
       "Date": "3/27/2026",
       "Balance Remaining": "$1,066.25",
       "Original Amount": "$1,066.25",
@@ -32743,7 +32760,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "191",
+      "Result": "192",
       "Date": "3/27/2026",
       "Balance Remaining": "$1,394.47",
       "Original Amount": "$1,394.47",
@@ -32760,7 +32777,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "192",
+      "Result": "193",
       "Date": "12/12/2025",
       "Balance Remaining": "$28,865.00",
       "Original Amount": "$28,865.00",
@@ -32777,7 +32794,7 @@
       "Submitted": "2/19/2026"
     },
     {
-      "Result": "193",
+      "Result": "194",
       "Date": "1/10/2026",
       "Balance Remaining": "$150.00",
       "Original Amount": "$150.00",
@@ -32794,7 +32811,7 @@
       "Submitted": "7/28/2026"
     },
     {
-      "Result": "194",
+      "Result": "195",
       "Date": "4/28/2026",
       "Balance Remaining": "$1,000.00",
       "Original Amount": "$1,000.00",
@@ -32811,7 +32828,7 @@
       "Submitted": "7/27/2026"
     },
     {
-      "Result": "195",
+      "Result": "196",
       "Date": "6/25/2026",
       "Balance Remaining": "$5,616.00",
       "Original Amount": "$5,616.00",
@@ -32828,7 +32845,7 @@
       "Submitted": "7/27/2026"
     },
     {
-      "Result": "196",
+      "Result": "197",
       "Date": "7/17/2026",
       "Balance Remaining": "$1,746.64",
       "Original Amount": "$1,746.64",
@@ -32845,7 +32862,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "197",
+      "Result": "198",
       "Date": "7/12/2026",
       "Balance Remaining": "$8,600.00",
       "Original Amount": "$8,600.00",
@@ -32862,7 +32879,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "198",
+      "Result": "199",
       "Date": "7/17/2026",
       "Balance Remaining": "$52.12",
       "Original Amount": "$52.12",
@@ -32879,7 +32896,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "199",
+      "Result": "200",
       "Date": "3/7/2026",
       "Balance Remaining": "$217.00",
       "Original Amount": "$217.00",
@@ -32896,7 +32913,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "200",
+      "Result": "201",
       "Date": "3/28/2026",
       "Balance Remaining": "$160.56",
       "Original Amount": "$160.56",
@@ -32913,7 +32930,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "201",
+      "Result": "202",
       "Date": "3/28/2026",
       "Balance Remaining": "$404.68",
       "Original Amount": "$404.68",
@@ -32930,7 +32947,7 @@
       "Submitted": "7/1/2026"
     },
     {
-      "Result": "202",
+      "Result": "203",
       "Date": "3/28/2026",
       "Balance Remaining": "$0.00",
       "Original Amount": "$160.56",
@@ -32947,7 +32964,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "203",
+      "Result": "204",
       "Date": "3/28/2026",
       "Balance Remaining": "$0.00",
       "Original Amount": "$404.68",
@@ -32964,7 +32981,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "204",
+      "Result": "205",
       "Date": "3/20/2026",
       "Balance Remaining": "$156.96",
       "Original Amount": "$156.96",
@@ -32981,7 +32998,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "205",
+      "Result": "206",
       "Date": "3/15/2026",
       "Balance Remaining": "$38.63",
       "Original Amount": "$38.63",
@@ -32998,7 +33015,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "206",
+      "Result": "207",
       "Date": "6/4/2026",
       "Balance Remaining": "$1,440.00",
       "Original Amount": "$1,440.00",
@@ -33015,7 +33032,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "207",
+      "Result": "208",
       "Date": "1/1/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -33032,7 +33049,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "208",
+      "Result": "209",
       "Date": "2/1/2026",
       "Balance Remaining": "$375.00",
       "Original Amount": "$375.00",
@@ -33049,25 +33066,8 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "209",
-      "Date": "1/1/2026",
-      "Balance Remaining": "$2,000.00",
-      "Original Amount": "$2,000.00",
-      "Name": "Cliff Groh",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications, creative (including website edits, graphic design, branding, in-house photography and in-house videography).",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
       "Result": "210",
-      "Date": "2/1/2026",
+      "Date": "1/1/2026",
       "Balance Remaining": "$2,000.00",
       "Original Amount": "$2,000.00",
       "Name": "Cliff Groh",
@@ -33084,6 +33084,23 @@
     },
     {
       "Result": "211",
+      "Date": "2/1/2026",
+      "Balance Remaining": "$2,000.00",
+      "Original Amount": "$2,000.00",
+      "Name": "Cliff Groh",
+      "Address": "721 Depot Drive, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications, creative (including website edits, graphic design, branding, in-house photography and in-house videography).",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "212",
       "Date": "1/1/2026",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -33100,7 +33117,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "212",
+      "Result": "213",
       "Date": "2/1/2026",
       "Balance Remaining": "$250.00",
       "Original Amount": "$250.00",
@@ -33117,7 +33134,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "213",
+      "Result": "214",
       "Date": "12/1/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -33134,7 +33151,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "214",
+      "Result": "215",
       "Date": "1/15/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -33151,7 +33168,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "215",
+      "Result": "216",
       "Date": "1/1/2026",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -33168,7 +33185,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "216",
+      "Result": "217",
       "Date": "2/1/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -33185,7 +33202,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "217",
+      "Result": "218",
       "Date": "12/15/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -33202,25 +33219,8 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "218",
-      "Date": "10/1/2025",
-      "Balance Remaining": "$500.00",
-      "Original Amount": "$500.00",
-      "Name": "Alyse S. Galvin",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Compliance",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "2/17/2026"
-    },
-    {
       "Result": "219",
-      "Date": "11/1/2025",
+      "Date": "10/1/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
       "Name": "Alyse S. Galvin",
@@ -33237,6 +33237,23 @@
     },
     {
       "Result": "220",
+      "Date": "11/1/2025",
+      "Balance Remaining": "$500.00",
+      "Original Amount": "$500.00",
+      "Name": "Alyse S. Galvin",
+      "Address": "721 Depot Drive, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Compliance",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "2/17/2026"
+    },
+    {
+      "Result": "221",
       "Date": "2/1/2026",
       "Balance Remaining": "$250.00",
       "Original Amount": "$250.00",
@@ -33253,7 +33270,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "221",
+      "Result": "222",
       "Date": "11/19/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -33270,25 +33287,8 @@
       "Submitted": "3/7/2026"
     },
     {
-      "Result": "222",
-      "Date": "1/1/2026",
-      "Balance Remaining": "$5,000.00",
-      "Original Amount": "$5,000.00",
-      "Name": "Zachary H. Johnson",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications, creative (including website edits, graphic design, branding, in-house photography and in-house videography).",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "3/7/2026"
-    },
-    {
       "Result": "223",
-      "Date": "2/1/2026",
+      "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
       "Name": "Zachary H. Johnson",
@@ -33305,6 +33305,23 @@
     },
     {
       "Result": "224",
+      "Date": "2/1/2026",
+      "Balance Remaining": "$5,000.00",
+      "Original Amount": "$5,000.00",
+      "Name": "Zachary H. Johnson",
+      "Address": "721 Depot Drive, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications, creative (including website edits, graphic design, branding, in-house photography and in-house videography).",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "3/7/2026"
+    },
+    {
+      "Result": "225",
       "Date": "3/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -33321,7 +33338,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "225",
+      "Result": "226",
       "Date": "3/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -33338,7 +33355,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "226",
+      "Result": "227",
       "Date": "10/30/2025",
       "Balance Remaining": "$46.36",
       "Original Amount": "$46.36",
@@ -33355,7 +33372,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "227",
+      "Result": "228",
       "Date": "4/1/2026",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -33372,7 +33389,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "228",
+      "Result": "229",
       "Date": "4/1/2026",
       "Balance Remaining": "$7,500.00",
       "Original Amount": "$7,500.00",
@@ -33389,7 +33406,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "229",
+      "Result": "230",
       "Date": "4/1/2026",
       "Balance Remaining": "$235.00",
       "Original Amount": "$235.00",
@@ -33406,7 +33423,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "230",
+      "Result": "231",
       "Date": "2/4/2026",
       "Balance Remaining": "$3,005.00",
       "Original Amount": "$3,005.00",
@@ -33423,7 +33440,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "231",
+      "Result": "232",
       "Date": "7/1/2026",
       "Balance Remaining": "$8,500.00",
       "Original Amount": "$8,500.00",
@@ -33440,7 +33457,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "232",
+      "Result": "233",
       "Date": "7/1/2026",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -33457,7 +33474,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "233",
+      "Result": "234",
       "Date": "11/1/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -33474,7 +33491,7 @@
       "Submitted": "7/2/2026"
     },
     {
-      "Result": "234",
+      "Result": "235",
       "Date": "11/1/2025",
       "Balance Remaining": "$2,700.00",
       "Original Amount": "$2,700.00",
@@ -33491,25 +33508,8 @@
       "Submitted": "7/2/2026"
     },
     {
-      "Result": "235",
-      "Date": "12/1/2025",
-      "Balance Remaining": "$500.00",
-      "Original Amount": "$500.00",
-      "Name": "Rebecca Himschoot",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Fundraising support(including in-house graphic design), and compliance",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/2/2026"
-    },
-    {
       "Result": "236",
-      "Date": "1/1/2026",
+      "Date": "12/1/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
       "Name": "Rebecca Himschoot",
@@ -33526,6 +33526,23 @@
     },
     {
       "Result": "237",
+      "Date": "1/1/2026",
+      "Balance Remaining": "$500.00",
+      "Original Amount": "$500.00",
+      "Name": "Rebecca Himschoot",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Fundraising support(including in-house graphic design), and compliance",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/2/2026"
+    },
+    {
+      "Result": "238",
       "Date": "2/1/2026",
       "Balance Remaining": "$250.00",
       "Original Amount": "$250.00",
@@ -33542,7 +33559,7 @@
       "Submitted": "7/2/2026"
     },
     {
-      "Result": "238",
+      "Result": "239",
       "Date": "11/20/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -33559,7 +33576,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "239",
+      "Result": "240",
       "Date": "12/1/2025",
       "Balance Remaining": "$665.96",
       "Original Amount": "$665.96",
@@ -33576,25 +33593,8 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "240",
-      "Date": "1/1/2026",
-      "Balance Remaining": "$5,000.00",
-      "Original Amount": "$5,000.00",
-      "Name": "Kyle Walker",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and in-house creative support including graphic design, photography, videography, and website maintenance. (Estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/10/2026"
-    },
-    {
       "Result": "241",
-      "Date": "2/1/2026",
+      "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
       "Name": "Kyle Walker",
@@ -33611,6 +33611,23 @@
     },
     {
       "Result": "242",
+      "Date": "2/1/2026",
+      "Balance Remaining": "$5,000.00",
+      "Original Amount": "$5,000.00",
+      "Name": "Kyle Walker",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and in-house creative support including graphic design, photography, videography, and website maintenance. (Estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/10/2026"
+    },
+    {
+      "Result": "243",
       "Date": "11/20/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -33627,7 +33644,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "243",
+      "Result": "244",
       "Date": "12/1/2025",
       "Balance Remaining": "$665.96",
       "Original Amount": "$665.96",
@@ -33644,25 +33661,8 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "244",
-      "Date": "1/1/2026",
-      "Balance Remaining": "$5,000.00",
-      "Original Amount": "$5,000.00",
-      "Name": "Kyle Walker",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and in-house creative support including graphic design, photography, videography, and website maintenance. (Estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/10/2026"
-    },
-    {
       "Result": "245",
-      "Date": "2/1/2026",
+      "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
       "Name": "Kyle Walker",
@@ -33679,7 +33679,7 @@
     },
     {
       "Result": "246",
-      "Date": "3/1/2026",
+      "Date": "2/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
       "Name": "Kyle Walker",
@@ -33696,6 +33696,23 @@
     },
     {
       "Result": "247",
+      "Date": "3/1/2026",
+      "Balance Remaining": "$5,000.00",
+      "Original Amount": "$5,000.00",
+      "Name": "Kyle Walker",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and in-house creative support including graphic design, photography, videography, and website maintenance. (Estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/10/2026"
+    },
+    {
+      "Result": "248",
       "Date": "11/20/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -33712,7 +33729,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "248",
+      "Result": "249",
       "Date": "12/1/2025",
       "Balance Remaining": "$690.60",
       "Original Amount": "$690.60",
@@ -33729,25 +33746,8 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "249",
-      "Date": "1/1/2026",
-      "Balance Remaining": "$5,000.00",
-      "Original Amount": "$5,000.00",
-      "Name": "Kyle Walker",
-      "Address": "721 Depot Dr, Ste 10",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and in-house creative support including graphic design, photography, videography, and website maintenance. (Estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/10/2026"
-    },
-    {
       "Result": "250",
-      "Date": "2/1/2026",
+      "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
       "Name": "Kyle Walker",
@@ -33764,7 +33764,7 @@
     },
     {
       "Result": "251",
-      "Date": "3/1/2026",
+      "Date": "2/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
       "Name": "Kyle Walker",
@@ -33781,16 +33781,16 @@
     },
     {
       "Result": "252",
-      "Date": "7/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
+      "Date": "3/1/2026",
+      "Balance Remaining": "$5,000.00",
+      "Original Amount": "$5,000.00",
+      "Name": "Kyle Walker",
+      "Address": "721 Depot Dr, Ste 10",
       "City": "Anchorage",
       "State": "Alaska",
       "Zip": "99501",
       "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and in-house creative support including graphic design, photography, videography, and website maintenance. (Estimated)",
       "--------": "",
       "Filer Type": "Candidate",
       "Report Year": "2026",
@@ -33798,7 +33798,7 @@
     },
     {
       "Result": "253",
-      "Date": "8/1/2025",
+      "Date": "7/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
       "Name": "Rachel Blakeslee",
@@ -33815,7 +33815,7 @@
     },
     {
       "Result": "254",
-      "Date": "9/1/2025",
+      "Date": "8/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
       "Name": "Rachel Blakeslee",
@@ -33832,125 +33832,6 @@
     },
     {
       "Result": "255",
-      "Date": "10/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/10/2026"
-    },
-    {
-      "Result": "256",
-      "Date": "11/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/10/2026"
-    },
-    {
-      "Result": "257",
-      "Date": "12/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/10/2026"
-    },
-    {
-      "Result": "258",
-      "Date": "1/1/2026",
-      "Balance Remaining": "$5,000.00",
-      "Original Amount": "$5,000.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and in-house creative support including graphic design, photography, videography, and website maintenance. (Estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/10/2026"
-    },
-    {
-      "Result": "259",
-      "Date": "2/1/2026",
-      "Balance Remaining": "$5,000.00",
-      "Original Amount": "$5,000.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and in-house creative support including graphic design, photography, videography, and website maintenance. (Estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/10/2026"
-    },
-    {
-      "Result": "260",
-      "Date": "7/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/10/2026"
-    },
-    {
-      "Result": "261",
-      "Date": "8/1/2025",
-      "Balance Remaining": "$1,500.00",
-      "Original Amount": "$1,500.00",
-      "Name": "Rachel Blakeslee",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99502",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/10/2026"
-    },
-    {
-      "Result": "262",
       "Date": "9/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -33967,7 +33848,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "263",
+      "Result": "256",
       "Date": "10/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -33984,7 +33865,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "264",
+      "Result": "257",
       "Date": "11/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -34001,7 +33882,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "265",
+      "Result": "258",
       "Date": "12/1/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -34018,7 +33899,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "266",
+      "Result": "259",
       "Date": "1/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -34035,7 +33916,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "267",
+      "Result": "260",
       "Date": "2/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -34052,8 +33933,127 @@
       "Submitted": "7/10/2026"
     },
     {
+      "Result": "261",
+      "Date": "7/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/10/2026"
+    },
+    {
+      "Result": "262",
+      "Date": "8/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99502",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/10/2026"
+    },
+    {
+      "Result": "263",
+      "Date": "9/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/10/2026"
+    },
+    {
+      "Result": "264",
+      "Date": "10/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/10/2026"
+    },
+    {
+      "Result": "265",
+      "Date": "11/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/10/2026"
+    },
+    {
+      "Result": "266",
+      "Date": "12/1/2025",
+      "Balance Remaining": "$1,500.00",
+      "Original Amount": "$1,500.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, communications and in-house graphic design. (estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/10/2026"
+    },
+    {
+      "Result": "267",
+      "Date": "1/1/2026",
+      "Balance Remaining": "$5,000.00",
+      "Original Amount": "$5,000.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and in-house creative support including graphic design, photography, videography, and website maintenance. (Estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/10/2026"
+    },
+    {
       "Result": "268",
-      "Date": "3/1/2026",
+      "Date": "2/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
       "Name": "Rachel Blakeslee",
@@ -34087,6 +34087,23 @@
     },
     {
       "Result": "270",
+      "Date": "3/1/2026",
+      "Balance Remaining": "$5,000.00",
+      "Original Amount": "$5,000.00",
+      "Name": "Rachel Blakeslee",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and in-house creative support including graphic design, photography, videography, and website maintenance. (Estimated)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/10/2026"
+    },
+    {
+      "Result": "271",
       "Date": "6/16/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -34103,7 +34120,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "271",
+      "Result": "272",
       "Date": "6/16/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -34120,7 +34137,7 @@
       "Submitted": "7/19/2026"
     },
     {
-      "Result": "272",
+      "Result": "273",
       "Date": "6/16/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -34137,7 +34154,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "273",
+      "Result": "274",
       "Date": "1/1/2026",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -34154,7 +34171,7 @@
       "Submitted": "7/18/2026"
     },
     {
-      "Result": "274",
+      "Result": "275",
       "Date": "2/1/2026",
       "Balance Remaining": "$250.00",
       "Original Amount": "$250.00",
@@ -34171,7 +34188,7 @@
       "Submitted": "7/18/2026"
     },
     {
-      "Result": "275",
+      "Result": "276",
       "Date": "6/16/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -34188,7 +34205,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "276",
+      "Result": "277",
       "Date": "6/16/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -34205,7 +34222,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "277",
+      "Result": "278",
       "Date": "6/15/2026",
       "Balance Remaining": "$1,000.00",
       "Original Amount": "$1,000.00",
@@ -34222,7 +34239,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "278",
+      "Result": "279",
       "Date": "7/15/2026",
       "Balance Remaining": "$1,000.00",
       "Original Amount": "$1,000.00",
@@ -34239,7 +34256,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "279",
+      "Result": "280",
       "Date": "7/1/2026",
       "Balance Remaining": "$1,250.00",
       "Original Amount": "$1,250.00",
@@ -34256,7 +34273,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "280",
+      "Result": "281",
       "Date": "5/1/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -34273,7 +34290,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "281",
+      "Result": "282",
       "Date": "6/1/2026",
       "Balance Remaining": "$750.00",
       "Original Amount": "$750.00",
@@ -34290,7 +34307,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "282",
+      "Result": "283",
       "Date": "7/1/2026",
       "Balance Remaining": "$4,000.00",
       "Original Amount": "$4,000.00",
@@ -34307,25 +34324,8 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "283",
-      "Date": "6/15/2026",
-      "Balance Remaining": "$3,000.00",
-      "Original Amount": "$3,000.00",
-      "Name": "Robyn Niayuq Frier",
-      "Address": "721 Depot Dr, Ste 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, vendor interfacing, communications and graphic design.",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2026",
-      "Submitted": "7/20/2026"
-    },
-    {
       "Result": "284",
-      "Date": "7/15/2026",
+      "Date": "6/15/2026",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
       "Name": "Robyn Niayuq Frier",
@@ -34342,16 +34342,16 @@
     },
     {
       "Result": "285",
-      "Date": "6/15/2026",
-      "Balance Remaining": "$4,000.00",
-      "Original Amount": "$4,000.00",
-      "Name": "Maxine Dibert",
+      "Date": "7/15/2026",
+      "Balance Remaining": "$3,000.00",
+      "Original Amount": "$3,000.00",
+      "Name": "Robyn Niayuq Frier",
       "Address": "721 Depot Dr, Ste 100",
       "City": "Anchorage",
       "State": "Alaska",
       "Zip": "99501",
       "Country": "USA",
-      "Description/Purpose": "Campaign support including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications, and in-house creative support including graphic design, photography, videography, and website maintenance.",
+      "Description/Purpose": "Campaign support including fundraising, email marketing, compliance, vendor interfacing, communications and graphic design.",
       "--------": "",
       "Filer Type": "Candidate",
       "Report Year": "2026",
@@ -34359,7 +34359,7 @@
     },
     {
       "Result": "286",
-      "Date": "7/15/2026",
+      "Date": "6/15/2026",
       "Balance Remaining": "$4,000.00",
       "Original Amount": "$4,000.00",
       "Name": "Maxine Dibert",
@@ -34376,6 +34376,23 @@
     },
     {
       "Result": "287",
+      "Date": "7/15/2026",
+      "Balance Remaining": "$4,000.00",
+      "Original Amount": "$4,000.00",
+      "Name": "Maxine Dibert",
+      "Address": "721 Depot Dr, Ste 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign support including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications, and in-house creative support including graphic design, photography, videography, and website maintenance.",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2026",
+      "Submitted": "7/20/2026"
+    },
+    {
+      "Result": "288",
       "Date": "6/15/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -34392,7 +34409,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "288",
+      "Result": "289",
       "Date": "7/15/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -34409,7 +34426,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "289",
+      "Result": "290",
       "Date": "7/1/2026",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -34426,7 +34443,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "290",
+      "Result": "291",
       "Date": "7/17/2026",
       "Balance Remaining": "$19,098.06",
       "Original Amount": "$19,098.06",
@@ -34443,7 +34460,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "291",
+      "Result": "292",
       "Date": "5/14/2026",
       "Balance Remaining": "$1,800.00",
       "Original Amount": "$1,800.00",
@@ -34460,7 +34477,7 @@
       "Submitted": "7/28/2026"
     },
     {
-      "Result": "292",
+      "Result": "293",
       "Date": "3/20/2026",
       "Balance Remaining": "$3,681.97",
       "Original Amount": "$3,681.97",
@@ -34477,7 +34494,7 @@
       "Submitted": "4/5/2026"
     },
     {
-      "Result": "293",
+      "Result": "294",
       "Date": "7/15/2026",
       "Balance Remaining": "$350.00",
       "Original Amount": "$350.00",
@@ -34494,7 +34511,7 @@
       "Submitted": "7/31/2026"
     },
     {
-      "Result": "294",
+      "Result": "295",
       "Date": "3/13/2026",
       "Balance Remaining": "$1,120.00",
       "Original Amount": "$1,120.00",
@@ -34511,7 +34528,7 @@
       "Submitted": "3/30/2026"
     },
     {
-      "Result": "295",
+      "Result": "296",
       "Date": "3/13/2026",
       "Balance Remaining": "$1,140.00",
       "Original Amount": "$1,140.00",
@@ -34526,23 +34543,6 @@
       "Filer Type": "Group",
       "Report Year": "2026",
       "Submitted": "3/30/2026"
-    },
-    {
-      "Result": "296",
-      "Date": "6/17/2026",
-      "Balance Remaining": "$2,104.00",
-      "Original Amount": "$2,104.00",
-      "Name": "Putting Alaskans First Committee",
-      "Address": "7500 Old Seward Hwy",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99518",
-      "Country": "USA",
-      "Description/Purpose": "mailing processing fees",
-      "--------": "",
-      "Filer Type": "Group",
-      "Report Year": "2026",
-      "Submitted": "7/20/2026"
     },
     {
       "Result": "297",
@@ -34563,6 +34563,23 @@
     },
     {
       "Result": "298",
+      "Date": "6/17/2026",
+      "Balance Remaining": "$2,104.00",
+      "Original Amount": "$2,104.00",
+      "Name": "Putting Alaskans First Committee",
+      "Address": "7500 Old Seward Hwy",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99518",
+      "Country": "USA",
+      "Description/Purpose": "mailing processing fees",
+      "--------": "",
+      "Filer Type": "Group",
+      "Report Year": "2026",
+      "Submitted": "7/20/2026"
+    },
+    {
+      "Result": "299",
       "Date": "7/13/2026",
       "Balance Remaining": "$1,950.00",
       "Original Amount": "$1,950.00",
@@ -34579,7 +34596,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "299",
+      "Result": "300",
       "Date": "6/6/2026",
       "Balance Remaining": "$71.34",
       "Original Amount": "$71.34",
@@ -34596,7 +34613,7 @@
       "Submitted": "7/19/2026"
     },
     {
-      "Result": "300",
+      "Result": "301",
       "Date": "6/3/2026",
       "Balance Remaining": "$194.86",
       "Original Amount": "$194.86",
@@ -34613,7 +34630,7 @@
       "Submitted": "7/19/2026"
     },
     {
-      "Result": "301",
+      "Result": "302",
       "Date": "5/27/2026",
       "Balance Remaining": "$2,507.50",
       "Original Amount": "$2,507.50",
@@ -34630,7 +34647,7 @@
       "Submitted": "7/19/2026"
     },
     {
-      "Result": "302",
+      "Result": "303",
       "Date": "5/26/2026",
       "Balance Remaining": "$157.98",
       "Original Amount": "$157.98",
@@ -34647,7 +34664,7 @@
       "Submitted": "7/19/2026"
     },
     {
-      "Result": "303",
+      "Result": "304",
       "Date": "7/1/2026",
       "Balance Remaining": "$2,000.00",
       "Original Amount": "$2,000.00",
@@ -34664,7 +34681,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "304",
+      "Result": "305",
       "Date": "3/6/2026",
       "Balance Remaining": "$385.22",
       "Original Amount": "$385.22",
@@ -34681,7 +34698,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "305",
+      "Result": "306",
       "Date": "2/19/2026",
       "Balance Remaining": "$7,000.00",
       "Original Amount": "$7,000.00",
@@ -34698,7 +34715,7 @@
       "Submitted": "3/9/2026"
     },
     {
-      "Result": "306",
+      "Result": "307",
       "Date": "2/4/2026",
       "Balance Remaining": "$7,080.00",
       "Original Amount": "$23,600.00",
@@ -34715,7 +34732,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "307",
+      "Result": "308",
       "Date": "2/4/2026",
       "Balance Remaining": "$16,520.00",
       "Original Amount": "$23,600.00",
@@ -34732,7 +34749,7 @@
       "Submitted": "3/30/2026"
     },
     {
-      "Result": "308",
+      "Result": "309",
       "Date": "2/23/2026",
       "Balance Remaining": "$13,000.00",
       "Original Amount": "$13,000.00",
@@ -34749,7 +34766,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "309",
+      "Result": "310",
       "Date": "2/23/2026",
       "Balance Remaining": "$1,370.00",
       "Original Amount": "$13,000.00",
@@ -34766,7 +34783,7 @@
       "Submitted": "3/31/2026"
     },
     {
-      "Result": "310",
+      "Result": "311",
       "Date": "2/19/2026",
       "Balance Remaining": "$0.00",
       "Original Amount": "$7,000.00",
@@ -34783,7 +34800,7 @@
       "Submitted": "7/1/2026"
     },
     {
-      "Result": "311",
+      "Result": "312",
       "Date": "2/4/2026",
       "Balance Remaining": "$0.00",
       "Original Amount": "$23,600.00",
@@ -34800,7 +34817,7 @@
       "Submitted": "7/21/2026"
     },
     {
-      "Result": "312",
+      "Result": "313",
       "Date": "7/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -34817,7 +34834,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "313",
+      "Result": "314",
       "Date": "7/1/2026",
       "Balance Remaining": "$5,250.00",
       "Original Amount": "$5,250.00",
@@ -34834,7 +34851,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "314",
+      "Result": "315",
       "Date": "7/1/2026",
       "Balance Remaining": "$2,760.00",
       "Original Amount": "$2,760.00",
@@ -34851,7 +34868,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "315",
+      "Result": "316",
       "Date": "7/13/2026",
       "Balance Remaining": "$63.00",
       "Original Amount": "$63.00",
@@ -34868,7 +34885,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "316",
+      "Result": "317",
       "Date": "3/12/2024",
       "Balance Remaining": "$31.35",
       "Original Amount": "$31.35",
@@ -34879,23 +34896,6 @@
       "Zip": "99501",
       "Country": "USA",
       "Description/Purpose": "Data purchase -- check rewritten and cashed July 2026.",
-      "--------": "",
-      "Filer Type": "Group",
-      "Report Year": "2026",
-      "Submitted": "7/8/2026"
-    },
-    {
-      "Result": "317",
-      "Date": "8/11/2024",
-      "Balance Remaining": "$876.02",
-      "Original Amount": "$876.02",
-      "Name": "The Alaska Center PAC",
-      "Address": "3350 Commercial Drive",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Staff time to support Suzanne LaFrance for Mayor - check rewritten and cashed July 2026",
       "--------": "",
       "Filer Type": "Group",
       "Report Year": "2026",
@@ -34903,16 +34903,16 @@
     },
     {
       "Result": "318",
-      "Date": "3/12/2024",
-      "Balance Remaining": "$31.35",
-      "Original Amount": "$31.35",
+      "Date": "8/11/2024",
+      "Balance Remaining": "$876.02",
+      "Original Amount": "$876.02",
       "Name": "The Alaska Center PAC",
       "Address": "3350 Commercial Drive",
       "City": "Anchorage",
       "State": "Alaska",
       "Zip": "99501",
       "Country": "USA",
-      "Description/Purpose": "Data purchase -- check rewritten and cashed July 2026.",
+      "Description/Purpose": "Staff time to support Suzanne LaFrance for Mayor - check rewritten and cashed July 2026",
       "--------": "",
       "Filer Type": "Group",
       "Report Year": "2026",
@@ -34920,6 +34920,23 @@
     },
     {
       "Result": "319",
+      "Date": "3/12/2024",
+      "Balance Remaining": "$31.35",
+      "Original Amount": "$31.35",
+      "Name": "The Alaska Center PAC",
+      "Address": "3350 Commercial Drive",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Data purchase -- check rewritten and cashed July 2026.",
+      "--------": "",
+      "Filer Type": "Group",
+      "Report Year": "2026",
+      "Submitted": "7/8/2026"
+    },
+    {
+      "Result": "320",
       "Date": "8/11/2024",
       "Balance Remaining": "$876.02",
       "Original Amount": "$876.02",
@@ -34936,7 +34953,7 @@
       "Submitted": "7/8/2026"
     },
     {
-      "Result": "320",
+      "Result": "321",
       "Date": "3/12/2024",
       "Balance Remaining": "$31.35",
       "Original Amount": "$31.35",
@@ -34953,7 +34970,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "321",
+      "Result": "322",
       "Date": "8/11/2024",
       "Balance Remaining": "$876.02",
       "Original Amount": "$876.02",
@@ -34970,7 +34987,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "322",
+      "Result": "323",
       "Date": "3/10/2026",
       "Balance Remaining": "$33.00",
       "Original Amount": "$33.00",
@@ -34987,7 +35004,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "323",
+      "Result": "324",
       "Date": "7/1/2026",
       "Balance Remaining": "$90,000.00",
       "Original Amount": "$90,000.00",
@@ -35004,7 +35021,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "324",
+      "Result": "325",
       "Date": "7/13/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -35021,7 +35038,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "325",
+      "Result": "326",
       "Date": "3/11/2026",
       "Balance Remaining": "$3,498.00",
       "Original Amount": "$3,498.00",
@@ -35038,7 +35055,7 @@
       "Submitted": "3/30/2026"
     },
     {
-      "Result": "326",
+      "Result": "327",
       "Date": "3/11/2026",
       "Balance Remaining": "$5,115.00",
       "Original Amount": "$5,115.00",
@@ -35055,7 +35072,7 @@
       "Submitted": "3/30/2026"
     },
     {
-      "Result": "327",
+      "Result": "328",
       "Date": "3/31/2026",
       "Balance Remaining": "$2,000.00",
       "Original Amount": "$2,000.00",
@@ -35072,7 +35089,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "328",
+      "Result": "329",
       "Date": "1/19/2026",
       "Balance Remaining": "$66.88",
       "Original Amount": "$66.88",
@@ -35089,7 +35106,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "329",
+      "Result": "330",
       "Date": "11/4/2025",
       "Balance Remaining": "$37.22",
       "Original Amount": "$37.22",
@@ -35106,7 +35123,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "330",
+      "Result": "331",
       "Date": "11/4/2025",
       "Balance Remaining": "$87.41",
       "Original Amount": "$87.41",
@@ -35123,7 +35140,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "331",
+      "Result": "332",
       "Date": "1/26/2026",
       "Balance Remaining": "$27.36",
       "Original Amount": "$27.36",
@@ -35140,7 +35157,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "332",
+      "Result": "333",
       "Date": "1/26/2026",
       "Balance Remaining": "$48.64",
       "Original Amount": "$48.64",
@@ -35157,7 +35174,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "333",
+      "Result": "334",
       "Date": "1/26/2026",
       "Balance Remaining": "$65.75",
       "Original Amount": "$65.75",
@@ -35174,7 +35191,7 @@
       "Submitted": "2/17/2026"
     },
     {
-      "Result": "334",
+      "Result": "335",
       "Date": "1/19/2026",
       "Balance Remaining": "$41.41",
       "Original Amount": "$41.41",
@@ -35191,7 +35208,7 @@
       "Submitted": "3/7/2026"
     },
     {
-      "Result": "335",
+      "Result": "336",
       "Date": "1/26/2026",
       "Balance Remaining": "$30.40",
       "Original Amount": "$30.40",
@@ -35208,7 +35225,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "336",
+      "Result": "337",
       "Date": "4/1/2026",
       "Balance Remaining": "$3,450.00",
       "Original Amount": "$3,450.00",
@@ -35225,7 +35242,7 @@
       "Submitted": "7/20/2026"
     },
     {
-      "Result": "337",
+      "Result": "338",
       "Date": "7/1/2026",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -35242,7 +35259,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "338",
+      "Result": "339",
       "Date": "6/1/2026",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -35259,7 +35276,7 @@
       "Submitted": "8/2/2026"
     },
     {
-      "Result": "339",
+      "Result": "340",
       "Date": "4/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -35276,7 +35293,7 @@
       "Submitted": "4/10/2026"
     },
     {
-      "Result": "340",
+      "Result": "341",
       "Date": "7/1/2026",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -35293,7 +35310,7 @@
       "Submitted": "7/10/2026"
     },
     {
-      "Result": "341",
+      "Result": "342",
       "Date": "9/26/2025",
       "Balance Remaining": "$4,950.06",
       "Original Amount": "$4,950.06",
@@ -35310,7 +35327,7 @@
       "Submitted": "9/30/2025"
     },
     {
-      "Result": "342",
+      "Result": "343",
       "Date": "3/3/2025",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -35327,7 +35344,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "343",
+      "Result": "344",
       "Date": "3/11/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -35344,7 +35361,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "344",
+      "Result": "345",
       "Date": "1/15/2025",
       "Balance Remaining": "$1,000.00",
       "Original Amount": "$1,250.00",
@@ -35359,23 +35376,6 @@
       "Filer Type": "Candidate",
       "Report Year": "2025",
       "Submitted": "2/25/2025"
-    },
-    {
-      "Result": "345",
-      "Date": "1/15/2025",
-      "Balance Remaining": "$750.00",
-      "Original Amount": "$1,250.00",
-      "Name": "Kameron Perez-Verdia",
-      "Address": "PO Box 240207",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99524",
-      "Country": "USA",
-      "Description/Purpose": "Voter database access",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2025",
-      "Submitted": "3/25/2025"
     },
     {
       "Result": "346",
@@ -35396,6 +35396,23 @@
     },
     {
       "Result": "347",
+      "Date": "1/15/2025",
+      "Balance Remaining": "$750.00",
+      "Original Amount": "$1,250.00",
+      "Name": "Kameron Perez-Verdia",
+      "Address": "PO Box 240207",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99524",
+      "Country": "USA",
+      "Description/Purpose": "Voter database access",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2025",
+      "Submitted": "3/25/2025"
+    },
+    {
+      "Result": "348",
       "Date": "1/21/2025",
       "Balance Remaining": "$1,000.00",
       "Original Amount": "$1,250.00",
@@ -35412,7 +35429,7 @@
       "Submitted": "3/3/2025"
     },
     {
-      "Result": "348",
+      "Result": "349",
       "Date": "6/11/2025",
       "Balance Remaining": "$240.00",
       "Original Amount": "$240.00",
@@ -35429,7 +35446,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "349",
+      "Result": "350",
       "Date": "1/1/2026",
       "Balance Remaining": "$3,750.00",
       "Original Amount": "$3,750.00",
@@ -35446,7 +35463,7 @@
       "Submitted": "2/12/2026"
     },
     {
-      "Result": "350",
+      "Result": "351",
       "Date": "3/24/2025",
       "Balance Remaining": "$235.00",
       "Original Amount": "$235.00",
@@ -35463,7 +35480,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "351",
+      "Result": "352",
       "Date": "6/18/2025",
       "Balance Remaining": "$9,469.96",
       "Original Amount": "$10,000.00",
@@ -35480,7 +35497,7 @@
       "Submitted": "7/9/2025"
     },
     {
-      "Result": "352",
+      "Result": "353",
       "Date": "6/18/2025",
       "Balance Remaining": "$8,812.65",
       "Original Amount": "$10,000.00",
@@ -35497,7 +35514,7 @@
       "Submitted": "10/9/2025"
     },
     {
-      "Result": "353",
+      "Result": "354",
       "Date": "6/18/2025",
       "Balance Remaining": "$0.00",
       "Original Amount": "$10,000.00",
@@ -35514,7 +35531,7 @@
       "Submitted": "1/19/2026"
     },
     {
-      "Result": "354",
+      "Result": "355",
       "Date": "1/31/2025",
       "Balance Remaining": "$1,428.00",
       "Original Amount": "$2,040.00",
@@ -35529,23 +35546,6 @@
       "Filer Type": "Candidate",
       "Report Year": "2025",
       "Submitted": "2/18/2025"
-    },
-    {
-      "Result": "355",
-      "Date": "2/8/2025",
-      "Balance Remaining": "$900.00",
-      "Original Amount": "$3,600.00",
-      "Name": "Daniel George",
-      "Address": "10620 Commodore Dr",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99507",
-      "Country": "USA",
-      "Description/Purpose": "Logo and website design; branding materials (yard sign, flyer, rack card, etc.)",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2025",
-      "Submitted": "7/13/2025"
     },
     {
       "Result": "356",
@@ -35566,6 +35566,23 @@
     },
     {
       "Result": "357",
+      "Date": "2/8/2025",
+      "Balance Remaining": "$900.00",
+      "Original Amount": "$3,600.00",
+      "Name": "Daniel George",
+      "Address": "10620 Commodore Dr",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99507",
+      "Country": "USA",
+      "Description/Purpose": "Logo and website design; branding materials (yard sign, flyer, rack card, etc.)",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2025",
+      "Submitted": "7/13/2025"
+    },
+    {
+      "Result": "358",
       "Date": "3/21/2025",
       "Balance Remaining": "$99.90",
       "Original Amount": "$99.90",
@@ -35582,7 +35599,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "358",
+      "Result": "359",
       "Date": "4/21/2025",
       "Balance Remaining": "$600.00",
       "Original Amount": "$600.00",
@@ -35599,7 +35616,7 @@
       "Submitted": "5/12/2025"
     },
     {
-      "Result": "359",
+      "Result": "360",
       "Date": "3/21/2025",
       "Balance Remaining": "$640.00",
       "Original Amount": "$640.00",
@@ -35616,7 +35633,7 @@
       "Submitted": "3/23/2026"
     },
     {
-      "Result": "360",
+      "Result": "361",
       "Date": "8/12/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -35633,7 +35650,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "361",
+      "Result": "362",
       "Date": "7/8/2025",
       "Balance Remaining": "$555.00",
       "Original Amount": "$555.00",
@@ -35650,7 +35667,7 @@
       "Submitted": "10/10/2025"
     },
     {
-      "Result": "362",
+      "Result": "363",
       "Date": "8/1/2025",
       "Balance Remaining": "$555.00",
       "Original Amount": "$555.00",
@@ -35667,7 +35684,7 @@
       "Submitted": "10/10/2025"
     },
     {
-      "Result": "363",
+      "Result": "364",
       "Date": "9/1/2025",
       "Balance Remaining": "$555.00",
       "Original Amount": "$555.00",
@@ -35684,7 +35701,7 @@
       "Submitted": "10/10/2025"
     },
     {
-      "Result": "364",
+      "Result": "365",
       "Date": "10/1/2025",
       "Balance Remaining": "$555.00",
       "Original Amount": "$555.00",
@@ -35701,7 +35718,7 @@
       "Submitted": "10/10/2025"
     },
     {
-      "Result": "365",
+      "Result": "366",
       "Date": "4/5/2025",
       "Balance Remaining": "$214.90",
       "Original Amount": "$214.90",
@@ -35718,7 +35735,7 @@
       "Submitted": "4/17/2025"
     },
     {
-      "Result": "366",
+      "Result": "367",
       "Date": "5/8/2025",
       "Balance Remaining": "$0.00",
       "Original Amount": "$1,610.00",
@@ -35735,7 +35752,7 @@
       "Submitted": "11/30/2025"
     },
     {
-      "Result": "367",
+      "Result": "368",
       "Date": "6/1/2025",
       "Balance Remaining": "$12,610.00",
       "Original Amount": "$20,000.00",
@@ -35752,7 +35769,7 @@
       "Submitted": "11/30/2025"
     },
     {
-      "Result": "368",
+      "Result": "369",
       "Date": "8/12/2025",
       "Balance Remaining": "$1,000.00",
       "Original Amount": "$1,000.00",
@@ -35769,7 +35786,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "369",
+      "Result": "370",
       "Date": "9/8/2025",
       "Balance Remaining": "$10,000.00",
       "Original Amount": "$10,000.00",
@@ -35786,7 +35803,7 @@
       "Submitted": "10/10/2025"
     },
     {
-      "Result": "370",
+      "Result": "371",
       "Date": "2/3/2025",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -35803,7 +35820,7 @@
       "Submitted": "3/3/2025"
     },
     {
-      "Result": "371",
+      "Result": "372",
       "Date": "4/1/2025",
       "Balance Remaining": "$3,250.00",
       "Original Amount": "$3,250.00",
@@ -35820,7 +35837,7 @@
       "Submitted": "4/17/2025"
     },
     {
-      "Result": "372",
+      "Result": "373",
       "Date": "7/1/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -35837,7 +35854,7 @@
       "Submitted": "7/10/2025"
     },
     {
-      "Result": "373",
+      "Result": "374",
       "Date": "2/3/2025",
       "Balance Remaining": "$1,500.00",
       "Original Amount": "$1,500.00",
@@ -35854,7 +35871,7 @@
       "Submitted": "7/13/2025"
     },
     {
-      "Result": "374",
+      "Result": "375",
       "Date": "10/22/2025",
       "Balance Remaining": "$1,000.00",
       "Original Amount": "$4,000.00",
@@ -35871,7 +35888,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "375",
+      "Result": "376",
       "Date": "3/19/2025",
       "Balance Remaining": "$1,750.00",
       "Original Amount": "$1,750.00",
@@ -35886,23 +35903,6 @@
       "Filer Type": "Group",
       "Report Year": "2025",
       "Submitted": "4/13/2025"
-    },
-    {
-      "Result": "376",
-      "Date": "6/7/2025",
-      "Balance Remaining": "$206.71",
-      "Original Amount": "$206.71",
-      "Name": "Ella Adkison",
-      "Address": "1309 Martin Rd.",
-      "City": "Juneau",
-      "State": "Alaska",
-      "Zip": "99801",
-      "Country": "USA",
-      "Description/Purpose": "Website Design",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2025",
-      "Submitted": "9/28/2025"
     },
     {
       "Result": "377",
@@ -35923,6 +35923,23 @@
     },
     {
       "Result": "378",
+      "Date": "6/7/2025",
+      "Balance Remaining": "$206.71",
+      "Original Amount": "$206.71",
+      "Name": "Ella Adkison",
+      "Address": "1309 Martin Rd.",
+      "City": "Juneau",
+      "State": "Alaska",
+      "Zip": "99801",
+      "Country": "USA",
+      "Description/Purpose": "Website Design",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2025",
+      "Submitted": "9/28/2025"
+    },
+    {
+      "Result": "379",
       "Date": "5/23/2025",
       "Balance Remaining": "$380.00",
       "Original Amount": "$380.00",
@@ -35939,7 +35956,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "379",
+      "Result": "380",
       "Date": "8/12/2025",
       "Balance Remaining": "$1,300.00",
       "Original Amount": "$1,300.00",
@@ -35956,7 +35973,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "380",
+      "Result": "381",
       "Date": "1/21/2025",
       "Balance Remaining": "$1,860.02",
       "Original Amount": "$1,860.02",
@@ -35973,7 +35990,7 @@
       "Submitted": "2/25/2025"
     },
     {
-      "Result": "381",
+      "Result": "382",
       "Date": "2/26/2025",
       "Balance Remaining": "$2,502.22",
       "Original Amount": "$2,502.22",
@@ -35990,7 +36007,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "382",
+      "Result": "383",
       "Date": "3/6/2025",
       "Balance Remaining": "$4,342.52",
       "Original Amount": "$4,342.52",
@@ -36007,7 +36024,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "383",
+      "Result": "384",
       "Date": "3/21/2025",
       "Balance Remaining": "$2,422.90",
       "Original Amount": "$2,422.90",
@@ -36022,23 +36039,6 @@
       "Filer Type": "Candidate",
       "Report Year": "2025",
       "Submitted": "3/25/2025"
-    },
-    {
-      "Result": "384",
-      "Date": "2/13/2025",
-      "Balance Remaining": "$1,158.83",
-      "Original Amount": "$1,158.83",
-      "Name": "Kelly Lessens",
-      "Address": "410 W 7th Ave Ste 10",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Fundraising letter, mail prep, and postage",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2025",
-      "Submitted": "7/15/2025"
     },
     {
       "Result": "385",
@@ -36059,6 +36059,23 @@
     },
     {
       "Result": "386",
+      "Date": "2/13/2025",
+      "Balance Remaining": "$1,158.83",
+      "Original Amount": "$1,158.83",
+      "Name": "Kelly Lessens",
+      "Address": "410 W 7th Ave Ste 10",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Fundraising letter, mail prep, and postage",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2025",
+      "Submitted": "7/15/2025"
+    },
+    {
+      "Result": "387",
       "Date": "3/10/2025",
       "Balance Remaining": "$15,397.10",
       "Original Amount": "$15,397.10",
@@ -36075,7 +36092,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "387",
+      "Result": "388",
       "Date": "3/21/2025",
       "Balance Remaining": "$11,638.33",
       "Original Amount": "$11,638.33",
@@ -36092,7 +36109,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "388",
+      "Result": "389",
       "Date": "10/23/2025",
       "Balance Remaining": "$1,785.44",
       "Original Amount": "$1,785.44",
@@ -36109,7 +36126,7 @@
       "Submitted": "10/28/2025"
     },
     {
-      "Result": "389",
+      "Result": "390",
       "Date": "3/20/2025",
       "Balance Remaining": "$4,000.00",
       "Original Amount": "$4,000.00",
@@ -36126,7 +36143,7 @@
       "Submitted": "4/29/2025"
     },
     {
-      "Result": "390",
+      "Result": "391",
       "Date": "8/12/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -36143,7 +36160,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "391",
+      "Result": "392",
       "Date": "8/12/2025",
       "Balance Remaining": "$35.20",
       "Original Amount": "$35.20",
@@ -36160,7 +36177,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "392",
+      "Result": "393",
       "Date": "2/23/2025",
       "Balance Remaining": "$200.00",
       "Original Amount": "$200.00",
@@ -36177,7 +36194,7 @@
       "Submitted": "3/3/2025"
     },
     {
-      "Result": "393",
+      "Result": "394",
       "Date": "2/23/2025",
       "Balance Remaining": "$0.00",
       "Original Amount": "$200.00",
@@ -36194,7 +36211,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "394",
+      "Result": "395",
       "Date": "1/1/2026",
       "Balance Remaining": "$1,200.00",
       "Original Amount": "$1,200.00",
@@ -36211,7 +36228,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "395",
+      "Result": "396",
       "Date": "3/20/2025",
       "Balance Remaining": "$494.67",
       "Original Amount": "$494.67",
@@ -36228,7 +36245,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "396",
+      "Result": "397",
       "Date": "2/19/2025",
       "Balance Remaining": "$94.53",
       "Original Amount": "$94.53",
@@ -36245,7 +36262,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "397",
+      "Result": "398",
       "Date": "3/15/2025",
       "Balance Remaining": "$937.07",
       "Original Amount": "$937.07",
@@ -36262,7 +36279,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "398",
+      "Result": "399",
       "Date": "9/30/2025",
       "Balance Remaining": "$136.99",
       "Original Amount": "$136.99",
@@ -36279,7 +36296,7 @@
       "Submitted": "9/30/2025"
     },
     {
-      "Result": "399",
+      "Result": "400",
       "Date": "3/13/2025",
       "Balance Remaining": "$950.00",
       "Original Amount": "$950.00",
@@ -36296,7 +36313,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "400",
+      "Result": "401",
       "Date": "3/22/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -36313,7 +36330,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "401",
+      "Result": "402",
       "Date": "4/7/2025",
       "Balance Remaining": "$123.60",
       "Original Amount": "$123.60",
@@ -36330,7 +36347,7 @@
       "Submitted": "4/17/2025"
     },
     {
-      "Result": "402",
+      "Result": "403",
       "Date": "1/6/2026",
       "Balance Remaining": "$25,000.00",
       "Original Amount": "$25,000.00",
@@ -36347,7 +36364,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "403",
+      "Result": "404",
       "Date": "2/20/2025",
       "Balance Remaining": "$194.74",
       "Original Amount": "$194.74",
@@ -36364,7 +36381,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "404",
+      "Result": "405",
       "Date": "3/22/2025",
       "Balance Remaining": "$141.63",
       "Original Amount": "$141.63",
@@ -36381,7 +36398,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "405",
+      "Result": "406",
       "Date": "3/23/2025",
       "Balance Remaining": "$170.48",
       "Original Amount": "$170.48",
@@ -36398,7 +36415,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "406",
+      "Result": "407",
       "Date": "8/12/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -36415,7 +36432,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "407",
+      "Result": "408",
       "Date": "8/12/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -36432,7 +36449,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "408",
+      "Result": "409",
       "Date": "9/26/2025",
       "Balance Remaining": "$10,000.00",
       "Original Amount": "$10,000.00",
@@ -36449,7 +36466,7 @@
       "Submitted": "9/30/2025"
     },
     {
-      "Result": "409",
+      "Result": "410",
       "Date": "8/1/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$4,500.00",
@@ -36466,7 +36483,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "410",
+      "Result": "411",
       "Date": "8/1/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$4,500.00",
@@ -36483,7 +36500,7 @@
       "Submitted": "9/30/2025"
     },
     {
-      "Result": "411",
+      "Result": "412",
       "Date": "8/12/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -36500,7 +36517,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "412",
+      "Result": "413",
       "Date": "8/12/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -36517,7 +36534,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "413",
+      "Result": "414",
       "Date": "5/10/2025",
       "Balance Remaining": "$300.00",
       "Original Amount": "$300.00",
@@ -36534,7 +36551,7 @@
       "Submitted": "7/10/2025"
     },
     {
-      "Result": "414",
+      "Result": "415",
       "Date": "1/1/2025",
       "Balance Remaining": "$1,000.00",
       "Original Amount": "$1,240.90",
@@ -36551,7 +36568,7 @@
       "Submitted": "2/2/2025"
     },
     {
-      "Result": "415",
+      "Result": "416",
       "Date": "10/20/2025",
       "Balance Remaining": "$10.00",
       "Original Amount": "$20.00",
@@ -36568,7 +36585,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "416",
+      "Result": "417",
       "Date": "3/21/2025",
       "Balance Remaining": "$225.87",
       "Original Amount": "$225.87",
@@ -36585,7 +36602,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "417",
+      "Result": "418",
       "Date": "4/10/2025",
       "Balance Remaining": "$14.60",
       "Original Amount": "$14.60",
@@ -36602,7 +36619,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "418",
+      "Result": "419",
       "Date": "6/11/2025",
       "Balance Remaining": "$181.52",
       "Original Amount": "$181.52",
@@ -36619,7 +36636,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "419",
+      "Result": "420",
       "Date": "7/1/2025",
       "Balance Remaining": "$6,000.00",
       "Original Amount": "$12,000.00",
@@ -36636,7 +36653,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "420",
+      "Result": "421",
       "Date": "7/1/2025",
       "Balance Remaining": "$6,000.00",
       "Original Amount": "$12,000.00",
@@ -36653,7 +36670,7 @@
       "Submitted": "9/30/2025"
     },
     {
-      "Result": "421",
+      "Result": "422",
       "Date": "1/15/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -36670,7 +36687,7 @@
       "Submitted": "2/18/2025"
     },
     {
-      "Result": "422",
+      "Result": "423",
       "Date": "1/15/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -36687,7 +36704,7 @@
       "Submitted": "3/3/2025"
     },
     {
-      "Result": "423",
+      "Result": "424",
       "Date": "1/15/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -36704,7 +36721,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "424",
+      "Result": "425",
       "Date": "3/24/2025",
       "Balance Remaining": "$5,021.00",
       "Original Amount": "$5,021.00",
@@ -36721,7 +36738,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "425",
+      "Result": "426",
       "Date": "2/28/2025",
       "Balance Remaining": "$945.72",
       "Original Amount": "$945.72",
@@ -36738,7 +36755,7 @@
       "Submitted": "3/3/2025"
     },
     {
-      "Result": "426",
+      "Result": "427",
       "Date": "2/5/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -36755,7 +36772,7 @@
       "Submitted": "7/13/2025"
     },
     {
-      "Result": "427",
+      "Result": "428",
       "Date": "2/3/2025",
       "Balance Remaining": "$500.00",
       "Original Amount": "$500.00",
@@ -36772,7 +36789,7 @@
       "Submitted": "3/3/2025"
     },
     {
-      "Result": "428",
+      "Result": "429",
       "Date": "4/1/2025",
       "Balance Remaining": "$1,000.00",
       "Original Amount": "$1,000.00",
@@ -36789,7 +36806,7 @@
       "Submitted": "4/17/2025"
     },
     {
-      "Result": "429",
+      "Result": "430",
       "Date": "2/14/2025",
       "Balance Remaining": "$875.00",
       "Original Amount": "$875.00",
@@ -36806,7 +36823,7 @@
       "Submitted": "7/13/2025"
     },
     {
-      "Result": "430",
+      "Result": "431",
       "Date": "7/1/2025",
       "Balance Remaining": "$3,000.00",
       "Original Amount": "$3,000.00",
@@ -36823,7 +36840,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "431",
+      "Result": "432",
       "Date": "11/20/2025",
       "Balance Remaining": "$43.89",
       "Original Amount": "$50.00",
@@ -36840,7 +36857,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "432",
+      "Result": "433",
       "Date": "2/1/2025",
       "Balance Remaining": "$33.56",
       "Original Amount": "$33.56",
@@ -36857,7 +36874,7 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "433",
+      "Result": "434",
       "Date": "2/1/2025",
       "Balance Remaining": "$48.65",
       "Original Amount": "$48.65",
@@ -36874,7 +36891,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "434",
+      "Result": "435",
       "Date": "1/1/2026",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -36891,25 +36908,8 @@
       "Submitted": "2/10/2026"
     },
     {
-      "Result": "435",
-      "Date": "1/1/2025",
-      "Balance Remaining": "$5,000.00",
-      "Original Amount": "$5,000.00",
-      "Name": "Kameron Perez-Verdia",
-      "Address": "721 Depot Dr, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and graphic design.",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2025",
-      "Submitted": "2/25/2025"
-    },
-    {
       "Result": "436",
-      "Date": "2/1/2025",
+      "Date": "1/1/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
       "Name": "Kameron Perez-Verdia",
@@ -36926,6 +36926,23 @@
     },
     {
       "Result": "437",
+      "Date": "2/1/2025",
+      "Balance Remaining": "$5,000.00",
+      "Original Amount": "$5,000.00",
+      "Name": "Kameron Perez-Verdia",
+      "Address": "721 Depot Dr, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and graphic design.",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2025",
+      "Submitted": "2/25/2025"
+    },
+    {
+      "Result": "438",
       "Date": "10/1/2025",
       "Balance Remaining": "$6,000.00",
       "Original Amount": "$6,000.00",
@@ -36942,7 +36959,7 @@
       "Submitted": "2/25/2025"
     },
     {
-      "Result": "438",
+      "Result": "439",
       "Date": "3/13/2025",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -36959,25 +36976,8 @@
       "Submitted": "3/25/2025"
     },
     {
-      "Result": "439",
-      "Date": "2/1/2025",
-      "Balance Remaining": "$5,000.00",
-      "Original Amount": "$5,000.00",
-      "Name": "Kameron Perez-Verdia",
-      "Address": "721 Depot Dr, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and graphic design.",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2025",
-      "Submitted": "3/25/2025"
-    },
-    {
       "Result": "440",
-      "Date": "3/1/2025",
+      "Date": "2/1/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
       "Name": "Kameron Perez-Verdia",
@@ -36994,7 +36994,7 @@
     },
     {
       "Result": "441",
-      "Date": "2/1/2025",
+      "Date": "3/1/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
       "Name": "Kameron Perez-Verdia",
@@ -37011,6 +37011,23 @@
     },
     {
       "Result": "442",
+      "Date": "2/1/2025",
+      "Balance Remaining": "$5,000.00",
+      "Original Amount": "$5,000.00",
+      "Name": "Kameron Perez-Verdia",
+      "Address": "721 Depot Dr, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Campaign management including research, campaign strategy, voter outreach, vendor interface, fundraising, email marketing, compliance, communications and graphic design.",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2025",
+      "Submitted": "3/25/2025"
+    },
+    {
+      "Result": "443",
       "Date": "2/11/2025",
       "Balance Remaining": "$269.12",
       "Original Amount": "$269.12",
@@ -37027,7 +37044,7 @@
       "Submitted": "4/13/2025"
     },
     {
-      "Result": "443",
+      "Result": "444",
       "Date": "2/11/2025",
       "Balance Remaining": "$1,250.00",
       "Original Amount": "$1,250.00",
@@ -37044,7 +37061,7 @@
       "Submitted": "4/13/2025"
     },
     {
-      "Result": "444",
+      "Result": "445",
       "Date": "2/11/2025",
       "Balance Remaining": "$269.12",
       "Original Amount": "$269.12",
@@ -37061,7 +37078,7 @@
       "Submitted": "4/13/2025"
     },
     {
-      "Result": "445",
+      "Result": "446",
       "Date": "3/1/2025",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -37078,7 +37095,7 @@
       "Submitted": "4/13/2025"
     },
     {
-      "Result": "446",
+      "Result": "447",
       "Date": "2/11/2025",
       "Balance Remaining": "$1,250.00",
       "Original Amount": "$1,250.00",
@@ -37095,7 +37112,7 @@
       "Submitted": "4/13/2025"
     },
     {
-      "Result": "447",
+      "Result": "448",
       "Date": "12/1/2024",
       "Balance Remaining": "$1,000.00",
       "Original Amount": "$1,000.00",
@@ -37112,7 +37129,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "448",
+      "Result": "449",
       "Date": "1/1/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -37129,7 +37146,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "449",
+      "Result": "450",
       "Date": "2/1/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -37146,7 +37163,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "450",
+      "Result": "451",
       "Date": "2/1/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -37163,7 +37180,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "451",
+      "Result": "452",
       "Date": "2/1/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -37180,7 +37197,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "452",
+      "Result": "453",
       "Date": "3/1/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -37197,7 +37214,7 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "453",
+      "Result": "454",
       "Date": "5/1/2025",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -37214,25 +37231,8 @@
       "Submitted": "7/15/2025"
     },
     {
-      "Result": "454",
-      "Date": "11/1/2025",
-      "Balance Remaining": "$2,500.00",
-      "Original Amount": "$2,500.00",
-      "Name": "Protect Alaska's Elections",
-      "Address": "721 Depot Drive, Suite 100",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Compliance (accounting, banking, APOC reporting)",
-      "--------": "",
-      "Filer Type": "Group",
-      "Report Year": "2025",
-      "Submitted": "1/10/2026"
-    },
-    {
       "Result": "455",
-      "Date": "12/1/2025",
+      "Date": "11/1/2025",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
       "Name": "Protect Alaska's Elections",
@@ -37249,6 +37249,23 @@
     },
     {
       "Result": "456",
+      "Date": "12/1/2025",
+      "Balance Remaining": "$2,500.00",
+      "Original Amount": "$2,500.00",
+      "Name": "Protect Alaska's Elections",
+      "Address": "721 Depot Drive, Suite 100",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Compliance (accounting, banking, APOC reporting)",
+      "--------": "",
+      "Filer Type": "Group",
+      "Report Year": "2025",
+      "Submitted": "1/10/2026"
+    },
+    {
+      "Result": "457",
       "Date": "11/1/2025",
       "Balance Remaining": "$7,500.00",
       "Original Amount": "$7,500.00",
@@ -37265,7 +37282,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "457",
+      "Result": "458",
       "Date": "12/1/2025",
       "Balance Remaining": "$7,500.00",
       "Original Amount": "$7,500.00",
@@ -37282,7 +37299,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "458",
+      "Result": "459",
       "Date": "1/1/2026",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -37299,7 +37316,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "459",
+      "Result": "460",
       "Date": "1/1/2026",
       "Balance Remaining": "$7,500.00",
       "Original Amount": "$7,500.00",
@@ -37316,7 +37333,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "460",
+      "Result": "461",
       "Date": "10/30/2025",
       "Balance Remaining": "$46.36",
       "Original Amount": "$46.36",
@@ -37333,7 +37350,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "461",
+      "Result": "462",
       "Date": "2/26/2025",
       "Balance Remaining": "$2,500.00",
       "Original Amount": "$2,500.00",
@@ -37350,7 +37367,7 @@
       "Submitted": "3/3/2025"
     },
     {
-      "Result": "462",
+      "Result": "463",
       "Date": "9/12/2025",
       "Balance Remaining": "$1,177.47",
       "Original Amount": "$2,100.00",
@@ -37367,7 +37384,7 @@
       "Submitted": "9/30/2025"
     },
     {
-      "Result": "463",
+      "Result": "464",
       "Date": "9/23/2025",
       "Balance Remaining": "$208.00",
       "Original Amount": "$208.00",
@@ -37384,7 +37401,7 @@
       "Submitted": "9/30/2025"
     },
     {
-      "Result": "464",
+      "Result": "465",
       "Date": "9/23/2025",
       "Balance Remaining": "$3,131.90",
       "Original Amount": "$4,984.00",
@@ -37401,7 +37418,7 @@
       "Submitted": "9/30/2025"
     },
     {
-      "Result": "465",
+      "Result": "466",
       "Date": "12/30/2025",
       "Balance Remaining": "$0.00",
       "Original Amount": "$424.00",
@@ -37418,7 +37435,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "466",
+      "Result": "467",
       "Date": "5/23/2025",
       "Balance Remaining": "$800.00",
       "Original Amount": "$800.00",
@@ -37435,7 +37452,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "467",
+      "Result": "468",
       "Date": "4/7/2025",
       "Balance Remaining": "$426.26",
       "Original Amount": "$426.26",
@@ -37452,7 +37469,7 @@
       "Submitted": "4/17/2025"
     },
     {
-      "Result": "468",
+      "Result": "469",
       "Date": "3/12/2024",
       "Balance Remaining": "$31.35",
       "Original Amount": "$31.35",
@@ -37463,23 +37480,6 @@
       "Zip": "99501",
       "Country": "USA",
       "Description/Purpose": "Data purchase -- check rewritten and cashed July 2026.",
-      "--------": "",
-      "Filer Type": "Group",
-      "Report Year": "2025",
-      "Submitted": "7/8/2026"
-    },
-    {
-      "Result": "469",
-      "Date": "8/11/2024",
-      "Balance Remaining": "$876.02",
-      "Original Amount": "$876.02",
-      "Name": "The Alaska Center PAC",
-      "Address": "3350 Commercial Drive",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Staff time to support Suzanne LaFrance for Mayor - check rewritten and cashed July 2026",
       "--------": "",
       "Filer Type": "Group",
       "Report Year": "2025",
@@ -37487,16 +37487,16 @@
     },
     {
       "Result": "470",
-      "Date": "3/12/2024",
-      "Balance Remaining": "$31.35",
-      "Original Amount": "$31.35",
+      "Date": "8/11/2024",
+      "Balance Remaining": "$876.02",
+      "Original Amount": "$876.02",
       "Name": "The Alaska Center PAC",
       "Address": "3350 Commercial Drive",
       "City": "Anchorage",
       "State": "Alaska",
       "Zip": "99501",
       "Country": "USA",
-      "Description/Purpose": "Data purchase -- check rewritten and cashed July 2026.",
+      "Description/Purpose": "Staff time to support Suzanne LaFrance for Mayor - check rewritten and cashed July 2026",
       "--------": "",
       "Filer Type": "Group",
       "Report Year": "2025",
@@ -37504,16 +37504,16 @@
     },
     {
       "Result": "471",
-      "Date": "8/11/2024",
-      "Balance Remaining": "$876.02",
-      "Original Amount": "$876.02",
+      "Date": "3/12/2024",
+      "Balance Remaining": "$31.35",
+      "Original Amount": "$31.35",
       "Name": "The Alaska Center PAC",
       "Address": "3350 Commercial Drive",
       "City": "Anchorage",
       "State": "Alaska",
       "Zip": "99501",
       "Country": "USA",
-      "Description/Purpose": "Staff time to support Suzanne LaFrance for Mayor - check rewritten and cashed July 2026",
+      "Description/Purpose": "Data purchase -- check rewritten and cashed July 2026.",
       "--------": "",
       "Filer Type": "Group",
       "Report Year": "2025",
@@ -37521,16 +37521,16 @@
     },
     {
       "Result": "472",
-      "Date": "3/12/2024",
-      "Balance Remaining": "$31.35",
-      "Original Amount": "$31.35",
+      "Date": "8/11/2024",
+      "Balance Remaining": "$876.02",
+      "Original Amount": "$876.02",
       "Name": "The Alaska Center PAC",
       "Address": "3350 Commercial Drive",
       "City": "Anchorage",
       "State": "Alaska",
       "Zip": "99501",
       "Country": "USA",
-      "Description/Purpose": "Data purchase -- check rewritten and cashed July 2026.",
+      "Description/Purpose": "Staff time to support Suzanne LaFrance for Mayor - check rewritten and cashed July 2026",
       "--------": "",
       "Filer Type": "Group",
       "Report Year": "2025",
@@ -37538,23 +37538,6 @@
     },
     {
       "Result": "473",
-      "Date": "8/11/2024",
-      "Balance Remaining": "$876.02",
-      "Original Amount": "$876.02",
-      "Name": "The Alaska Center PAC",
-      "Address": "3350 Commercial Drive",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99501",
-      "Country": "USA",
-      "Description/Purpose": "Staff time to support Suzanne LaFrance for Mayor - check rewritten and cashed July 2026",
-      "--------": "",
-      "Filer Type": "Group",
-      "Report Year": "2025",
-      "Submitted": "7/8/2026"
-    },
-    {
-      "Result": "474",
       "Date": "3/12/2024",
       "Balance Remaining": "$31.35",
       "Original Amount": "$31.35",
@@ -37571,7 +37554,7 @@
       "Submitted": "7/8/2026"
     },
     {
-      "Result": "475",
+      "Result": "474",
       "Date": "8/11/2024",
       "Balance Remaining": "$876.02",
       "Original Amount": "$876.02",
@@ -37588,7 +37571,41 @@
       "Submitted": "7/8/2026"
     },
     {
+      "Result": "475",
+      "Date": "3/12/2024",
+      "Balance Remaining": "$31.35",
+      "Original Amount": "$31.35",
+      "Name": "The Alaska Center PAC",
+      "Address": "3350 Commercial Drive",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Data purchase -- check rewritten and cashed July 2026.",
+      "--------": "",
+      "Filer Type": "Group",
+      "Report Year": "2025",
+      "Submitted": "7/8/2026"
+    },
+    {
       "Result": "476",
+      "Date": "8/11/2024",
+      "Balance Remaining": "$876.02",
+      "Original Amount": "$876.02",
+      "Name": "The Alaska Center PAC",
+      "Address": "3350 Commercial Drive",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99501",
+      "Country": "USA",
+      "Description/Purpose": "Staff time to support Suzanne LaFrance for Mayor - check rewritten and cashed July 2026",
+      "--------": "",
+      "Filer Type": "Group",
+      "Report Year": "2025",
+      "Submitted": "7/8/2026"
+    },
+    {
+      "Result": "477",
       "Date": "9/18/2025",
       "Balance Remaining": "$10,000.00",
       "Original Amount": "$10,000.00",
@@ -37605,7 +37622,7 @@
       "Submitted": "9/30/2025"
     },
     {
-      "Result": "477",
+      "Result": "478",
       "Date": "10/22/2025",
       "Balance Remaining": "$0.00",
       "Original Amount": "$6,000.00",
@@ -37622,7 +37639,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "478",
+      "Result": "479",
       "Date": "2/3/2025",
       "Balance Remaining": "$100.00",
       "Original Amount": "$100.00",
@@ -37639,7 +37656,7 @@
       "Submitted": "7/13/2025"
     },
     {
-      "Result": "479",
+      "Result": "480",
       "Date": "3/20/2025",
       "Balance Remaining": "$15,992.44",
       "Original Amount": "$16,000.00",
@@ -37656,7 +37673,7 @@
       "Submitted": "4/29/2025"
     },
     {
-      "Result": "480",
+      "Result": "481",
       "Date": "3/20/2025",
       "Balance Remaining": "$10,000.00",
       "Original Amount": "$10,000.00",
@@ -37673,7 +37690,7 @@
       "Submitted": "4/29/2025"
     },
     {
-      "Result": "481",
+      "Result": "482",
       "Date": "3/20/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$15,000.00",
@@ -37690,7 +37707,7 @@
       "Submitted": "4/29/2025"
     },
     {
-      "Result": "482",
+      "Result": "483",
       "Date": "3/20/2025",
       "Balance Remaining": "$72,317.50",
       "Original Amount": "$85,000.00",
@@ -37707,7 +37724,7 @@
       "Submitted": "4/29/2025"
     },
     {
-      "Result": "483",
+      "Result": "484",
       "Date": "3/20/2025",
       "Balance Remaining": "$4.80",
       "Original Amount": "$600.00",
@@ -37724,7 +37741,7 @@
       "Submitted": "4/29/2025"
     },
     {
-      "Result": "484",
+      "Result": "485",
       "Date": "3/20/2025",
       "Balance Remaining": "$5,000.00",
       "Original Amount": "$5,000.00",
@@ -37741,7 +37758,7 @@
       "Submitted": "4/29/2025"
     },
     {
-      "Result": "485",
+      "Result": "486",
       "Date": "10/22/2025",
       "Balance Remaining": "$0.00",
       "Original Amount": "$65,000.00",
@@ -37758,7 +37775,7 @@
       "Submitted": "1/10/2026"
     },
     {
-      "Result": "486",
+      "Result": "487",
       "Date": "4/16/2025",
       "Balance Remaining": "$318.00",
       "Original Amount": "$318.00",
@@ -37775,7 +37792,7 @@
       "Submitted": "9/8/2025"
     },
     {
-      "Result": "487",
+      "Result": "488",
       "Date": "7/17/2025",
       "Balance Remaining": "$310,000.00",
       "Original Amount": "$310,000.00",
@@ -37792,7 +37809,7 @@
       "Submitted": "10/10/2025"
     },
     {
-      "Result": "488",
+      "Result": "489",
       "Date": "3/20/2025",
       "Balance Remaining": "$12,456.10",
       "Original Amount": "$15,000.00",
@@ -37809,7 +37826,7 @@
       "Submitted": "4/29/2025"
     },
     {
-      "Result": "489",
+      "Result": "490",
       "Date": "5/10/2025",
       "Balance Remaining": "$0.00",
       "Original Amount": "$200.00",
@@ -37826,7 +37843,7 @@
       "Submitted": "7/10/2025"
     },
     {
-      "Result": "490",
+      "Result": "491",
       "Date": "8/31/2024",
       "Balance Remaining": "$3,600.00",
       "Original Amount": "$3,600.00",
@@ -37843,7 +37860,7 @@
       "Submitted": "9/23/2024"
     },
     {
-      "Result": "491",
+      "Result": "492",
       "Date": "8/31/2024",
       "Balance Remaining": "$3,600.00",
       "Original Amount": "$3,600.00",
@@ -37860,7 +37877,7 @@
       "Submitted": "10/27/2024"
     },
     {
-      "Result": "492",
+      "Result": "493",
       "Date": "8/31/2024",
       "Balance Remaining": "$3,600.00",
       "Original Amount": "$3,600.00",
@@ -37877,7 +37894,7 @@
       "Submitted": "10/6/2024"
     },
     {
-      "Result": "493",
+      "Result": "494",
       "Date": "7/16/2024",
       "Balance Remaining": "$425.02",
       "Original Amount": "$425.02",
@@ -37894,29 +37911,12 @@
       "Submitted": "7/22/2024"
     },
     {
-      "Result": "494",
+      "Result": "495",
       "Date": "7/2/2024",
       "Balance Remaining": "$517.50",
       "Original Amount": "$517.50",
       "Name": "Ken McCarty",
       "Address": "1720 Abbott Rd.",
-      "City": "Anchorage",
-      "State": "Alaska",
-      "Zip": "99507",
-      "Country": "USA",
-      "Description/Purpose": "Campaign Signs",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2024",
-      "Submitted": "7/22/2024"
-    },
-    {
-      "Result": "495",
-      "Date": "5/10/2024",
-      "Balance Remaining": "$338.75",
-      "Original Amount": "$338.75",
-      "Name": "Ken McCarty",
-      "Address": "1720 Abbott Rd",
       "City": "Anchorage",
       "State": "Alaska",
       "Zip": "99507",
@@ -37938,6 +37938,23 @@
       "State": "Alaska",
       "Zip": "99507",
       "Country": "USA",
+      "Description/Purpose": "Campaign Signs",
+      "--------": "",
+      "Filer Type": "Candidate",
+      "Report Year": "2024",
+      "Submitted": "7/22/2024"
+    },
+    {
+      "Result": "497",
+      "Date": "5/10/2024",
+      "Balance Remaining": "$338.75",
+      "Original Amount": "$338.75",
+      "Name": "Ken McCarty",
+      "Address": "1720 Abbott Rd",
+      "City": "Anchorage",
+      "State": "Alaska",
+      "Zip": "99507",
+      "Country": "USA",
       "Description/Purpose": "Campaign signs",
       "--------": "",
       "Filer Type": "Candidate",
@@ -37945,7 +37962,7 @@
       "Submitted": "8/12/2024"
     },
     {
-      "Result": "497",
+      "Result": "498",
       "Date": "7/2/2024",
       "Balance Remaining": "$517.50",
       "Original Amount": "$517.50",
@@ -37962,7 +37979,7 @@
       "Submitted": "8/12/2024"
     },
     {
-      "Result": "498",
+      "Result": "499",
       "Date": "10/15/2024",
       "Balance Remaining": "$700.00",
       "Original Amount": "$700.00",
@@ -37979,7 +37996,7 @@
       "Submitted": "2/18/2025"
     },
     {
-      "Result": "499",
+      "Result": "500",
       "Date": "8/5/2024",
       "Balance Remaining": "$125.00",
       "Original Amount": "$125.00",
@@ -37990,23 +38007,6 @@
       "Zip": "99701",
       "Country": "USA",
       "Description/Purpose": "Stakes",
-      "--------": "",
-      "Filer Type": "Candidate",
-      "Report Year": "2024",
-      "Submitted": "9/3/2024"
-    },
-    {
-      "Result": "500",
-      "Date": "8/5/2024",
-      "Balance Remaining": "$60.47",
-      "Original Amount": "$60.47",
-      "Name": "Olivia Rodriguez",
-      "Address": "612 30th Ave",
-      "City": "Fairbanks",
-      "State": "Alaska",
-      "Zip": "99701",
-      "Country": "USA",
-      "Description/Purpose": "Posters",
       "--------": "",
       "Filer Type": "Candidate",
       "Report Year": "2024",
